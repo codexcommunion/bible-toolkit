@@ -1,0 +1,1 @@
+This directory contains unstructured/loosely structured scripture assets from various sources (could be PDF, images, HTML, etc.)
