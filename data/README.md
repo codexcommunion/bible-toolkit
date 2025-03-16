@@ -1,0 +1,1 @@
+This directory is to contain structured data format of scripture from various sources
