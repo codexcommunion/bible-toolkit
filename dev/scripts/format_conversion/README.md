@@ -39,50 +39,69 @@ It is recommended to use a virtual environment to manage dependencies.
    pip install -r requirements.txt
    ```
 
-## Usage
+## Running the Script
 
-### Running the Script
+### Default Behavior
+
+By default, the script:
+
+- Reads `.htm`/`.html` files from the **Greek Koine Septuagint source** located in:
+  ```
+  ../../../assets/septuagint/brenton/greek_koine_html
+  ```
+- Converts them into structured **JSON and YAML** files.
+- Saves the output in:
+  ```
+  ../../../data/septuagint/brenton/greek_koine
+  ```
+- Uses **"grc"** (Ancient Greek, Koine) as the language code.
+
+### Basic Usage
+
+To run the script with default settings:
 
 ```sh
-python convert_septuagint_html.py
+python verses_from_html.py
 ```
 
-By default, the script will:
-- Read `.htm`/`.html` files from `./input/`
-- Convert them into structured JSON and YAML files
-- Save them in `./output/`
+### Customizing Input and Output
 
-### Customizing Input & Output Directories
+You can specify a custom input directory, output directory, and language code using command-line arguments.
 
-Modify these lines in the script to specify different locations:
-```python
-input_directory = "./your_input_directory"
-output_directory = "./your_output_directory"
+```sh
+python verses_from_html.py --input /path/to/input --output /path/to/output --language eng
 ```
 
-## Output Format
-Each output file is a list of verses in the following format:
-```json
-[
-  {
-    "book": "ΠΑΡΑΛΕΙΠΟΜΕΝΩΝ Α",  
-    "usfm_code": "1CH",
-    "chapter": 1,
-    "verse": 1,
-    "text": "ἈΔΑΜ, Σὴθ, Ἐνὼς, ...",
-    "iso-639-2_language_code": "grc"
-  },
-  ...
-]
+**Example for English Texts:**
+```sh
+python verses_from_html.py --input ../../../assets/septuagint/brenton/english_html --output ../../../data/septuagint/brenton/english --language eng
 ```
+
+### Error Handling
+
+- If the input filenames are not in the expected format, they will be skipped.
+- If the chapter number is invalid, the file will be ignored.
+- If no valid verses are found, the file will be skipped.
+- Any unexpected errors will be reported, and processing will continue for other files.
+
+### Notes
+
+- This script is **tested only on Greek and English HTML files** formatted similarly. Other languages may not be compatible.
+- The extracted output is formatted using **USFM** book codes and structured with:
+  - `book_title` (Extracted from HTML title)
+  - `book_usfm_code` (Derived from the filename)
+  - `chapter_number`
+  - `verse_number`
+  - `verse_text`
+  - `iso-639-2_language_code`
+
+
+
 
 ## Language Code & USFM Code References
 - **ISO 639-2 Language Codes (Ancient Greek: `grc`)**: [Library of Congress ISO-639-2 Code List](https://www.loc.gov/standards/iso639-2/php/code_list.php)
 - **USFM Book Codes Reference**: [USFM Documentation for Books](https://ubsicap.github.io/usfm/identification/books.html)
 
-## Error Handling
-- The script **raises an error** if a file has **invalid chapter or verse numbers**.
-- Files that don’t match the expected format are **skipped** with a warning.
 
 ## License
 This script is released under the **MIT License**.
