@@ -9,7 +9,7 @@ scripture_name: Catholic Public Domain Version
 stats:
   book_count: 73
   chapter_count: 1335
-  verse_count: 35837
+  verse_count: 35839
 structure:
   format:
   - json
