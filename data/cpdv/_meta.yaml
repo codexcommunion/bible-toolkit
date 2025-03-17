@@ -1,0 +1,18 @@
+abbreviation: CPDV
+creation_date: '2025-03-16'
+description: The Catholic Public Domain Version (CPDV) is a modern, public-domain
+  translation of the Bible.
+generator: CodexCommunion
+language: eng
+notes: This dataset is structured to allow efficient retrieval of individual verses.
+scripture_name: Catholic Public Domain Version
+stats:
+  book_count: 73
+  chapter_count: 1335
+  verse_count: 35837
+structure:
+  format:
+  - json
+  - yaml
+  index_file: _index.json
+  type: structured_verses

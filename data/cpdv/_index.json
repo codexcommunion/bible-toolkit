@@ -1,0 +1,6677 @@
+[
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "1",
+        "json_filename": "GEN1.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "2",
+        "json_filename": "GEN2.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "3",
+        "json_filename": "GEN3.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "4",
+        "json_filename": "GEN4.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "5",
+        "json_filename": "GEN5.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "6",
+        "json_filename": "GEN6.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "7",
+        "json_filename": "GEN7.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "8",
+        "json_filename": "GEN8.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "9",
+        "json_filename": "GEN9.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "10",
+        "json_filename": "GEN10.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "11",
+        "json_filename": "GEN11.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "12",
+        "json_filename": "GEN12.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "13",
+        "json_filename": "GEN13.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "14",
+        "json_filename": "GEN14.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "15",
+        "json_filename": "GEN15.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "16",
+        "json_filename": "GEN16.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "17",
+        "json_filename": "GEN17.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "18",
+        "json_filename": "GEN18.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "19",
+        "json_filename": "GEN19.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "20",
+        "json_filename": "GEN20.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "21",
+        "json_filename": "GEN21.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "22",
+        "json_filename": "GEN22.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "23",
+        "json_filename": "GEN23.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "24",
+        "json_filename": "GEN24.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "25",
+        "json_filename": "GEN25.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "26",
+        "json_filename": "GEN26.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "27",
+        "json_filename": "GEN27.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "28",
+        "json_filename": "GEN28.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "29",
+        "json_filename": "GEN29.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "30",
+        "json_filename": "GEN30.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "31",
+        "json_filename": "GEN31.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "32",
+        "json_filename": "GEN32.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "33",
+        "json_filename": "GEN33.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "34",
+        "json_filename": "GEN34.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "35",
+        "json_filename": "GEN35.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "36",
+        "json_filename": "GEN36.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "37",
+        "json_filename": "GEN37.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "38",
+        "json_filename": "GEN38.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "39",
+        "json_filename": "GEN39.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "40",
+        "json_filename": "GEN40.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "41",
+        "json_filename": "GEN41.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "42",
+        "json_filename": "GEN42.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "43",
+        "json_filename": "GEN43.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "44",
+        "json_filename": "GEN44.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "45",
+        "json_filename": "GEN45.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "46",
+        "json_filename": "GEN46.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "47",
+        "json_filename": "GEN47.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "48",
+        "json_filename": "GEN48.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "49",
+        "json_filename": "GEN49.json"
+    },
+    {
+        "book_usfm_code": "GEN",
+        "chapter_number": "50",
+        "json_filename": "GEN50.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "1",
+        "json_filename": "EXO1.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "2",
+        "json_filename": "EXO2.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "3",
+        "json_filename": "EXO3.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "4",
+        "json_filename": "EXO4.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "5",
+        "json_filename": "EXO5.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "6",
+        "json_filename": "EXO6.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "7",
+        "json_filename": "EXO7.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "8",
+        "json_filename": "EXO8.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "9",
+        "json_filename": "EXO9.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "10",
+        "json_filename": "EXO10.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "11",
+        "json_filename": "EXO11.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "12",
+        "json_filename": "EXO12.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "13",
+        "json_filename": "EXO13.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "14",
+        "json_filename": "EXO14.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "15",
+        "json_filename": "EXO15.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "16",
+        "json_filename": "EXO16.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "17",
+        "json_filename": "EXO17.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "18",
+        "json_filename": "EXO18.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "19",
+        "json_filename": "EXO19.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "20",
+        "json_filename": "EXO20.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "21",
+        "json_filename": "EXO21.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "22",
+        "json_filename": "EXO22.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "23",
+        "json_filename": "EXO23.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "24",
+        "json_filename": "EXO24.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "25",
+        "json_filename": "EXO25.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "26",
+        "json_filename": "EXO26.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "27",
+        "json_filename": "EXO27.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "28",
+        "json_filename": "EXO28.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "29",
+        "json_filename": "EXO29.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "30",
+        "json_filename": "EXO30.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "31",
+        "json_filename": "EXO31.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "32",
+        "json_filename": "EXO32.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "33",
+        "json_filename": "EXO33.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "34",
+        "json_filename": "EXO34.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "35",
+        "json_filename": "EXO35.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "36",
+        "json_filename": "EXO36.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "37",
+        "json_filename": "EXO37.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "38",
+        "json_filename": "EXO38.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "39",
+        "json_filename": "EXO39.json"
+    },
+    {
+        "book_usfm_code": "EXO",
+        "chapter_number": "40",
+        "json_filename": "EXO40.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "1",
+        "json_filename": "LEV1.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "2",
+        "json_filename": "LEV2.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "3",
+        "json_filename": "LEV3.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "4",
+        "json_filename": "LEV4.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "5",
+        "json_filename": "LEV5.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "6",
+        "json_filename": "LEV6.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "7",
+        "json_filename": "LEV7.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "8",
+        "json_filename": "LEV8.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "9",
+        "json_filename": "LEV9.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "10",
+        "json_filename": "LEV10.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "11",
+        "json_filename": "LEV11.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "12",
+        "json_filename": "LEV12.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "13",
+        "json_filename": "LEV13.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "14",
+        "json_filename": "LEV14.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "15",
+        "json_filename": "LEV15.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "16",
+        "json_filename": "LEV16.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "17",
+        "json_filename": "LEV17.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "18",
+        "json_filename": "LEV18.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "19",
+        "json_filename": "LEV19.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "20",
+        "json_filename": "LEV20.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "21",
+        "json_filename": "LEV21.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "22",
+        "json_filename": "LEV22.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "23",
+        "json_filename": "LEV23.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "24",
+        "json_filename": "LEV24.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "25",
+        "json_filename": "LEV25.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "26",
+        "json_filename": "LEV26.json"
+    },
+    {
+        "book_usfm_code": "LEV",
+        "chapter_number": "27",
+        "json_filename": "LEV27.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "1",
+        "json_filename": "NUM1.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "2",
+        "json_filename": "NUM2.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "3",
+        "json_filename": "NUM3.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "4",
+        "json_filename": "NUM4.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "5",
+        "json_filename": "NUM5.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "6",
+        "json_filename": "NUM6.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "7",
+        "json_filename": "NUM7.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "8",
+        "json_filename": "NUM8.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "9",
+        "json_filename": "NUM9.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "10",
+        "json_filename": "NUM10.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "11",
+        "json_filename": "NUM11.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "12",
+        "json_filename": "NUM12.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "13",
+        "json_filename": "NUM13.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "14",
+        "json_filename": "NUM14.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "15",
+        "json_filename": "NUM15.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "16",
+        "json_filename": "NUM16.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "17",
+        "json_filename": "NUM17.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "18",
+        "json_filename": "NUM18.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "19",
+        "json_filename": "NUM19.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "20",
+        "json_filename": "NUM20.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "21",
+        "json_filename": "NUM21.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "22",
+        "json_filename": "NUM22.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "23",
+        "json_filename": "NUM23.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "24",
+        "json_filename": "NUM24.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "25",
+        "json_filename": "NUM25.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "26",
+        "json_filename": "NUM26.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "27",
+        "json_filename": "NUM27.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "28",
+        "json_filename": "NUM28.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "29",
+        "json_filename": "NUM29.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "30",
+        "json_filename": "NUM30.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "31",
+        "json_filename": "NUM31.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "32",
+        "json_filename": "NUM32.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "33",
+        "json_filename": "NUM33.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "34",
+        "json_filename": "NUM34.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "35",
+        "json_filename": "NUM35.json"
+    },
+    {
+        "book_usfm_code": "NUM",
+        "chapter_number": "36",
+        "json_filename": "NUM36.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "1",
+        "json_filename": "DEU1.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "2",
+        "json_filename": "DEU2.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "3",
+        "json_filename": "DEU3.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "4",
+        "json_filename": "DEU4.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "5",
+        "json_filename": "DEU5.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "6",
+        "json_filename": "DEU6.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "7",
+        "json_filename": "DEU7.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "8",
+        "json_filename": "DEU8.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "9",
+        "json_filename": "DEU9.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "10",
+        "json_filename": "DEU10.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "11",
+        "json_filename": "DEU11.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "12",
+        "json_filename": "DEU12.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "13",
+        "json_filename": "DEU13.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "14",
+        "json_filename": "DEU14.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "15",
+        "json_filename": "DEU15.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "16",
+        "json_filename": "DEU16.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "17",
+        "json_filename": "DEU17.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "18",
+        "json_filename": "DEU18.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "19",
+        "json_filename": "DEU19.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "20",
+        "json_filename": "DEU20.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "21",
+        "json_filename": "DEU21.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "22",
+        "json_filename": "DEU22.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "23",
+        "json_filename": "DEU23.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "24",
+        "json_filename": "DEU24.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "25",
+        "json_filename": "DEU25.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "26",
+        "json_filename": "DEU26.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "27",
+        "json_filename": "DEU27.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "28",
+        "json_filename": "DEU28.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "29",
+        "json_filename": "DEU29.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "30",
+        "json_filename": "DEU30.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "31",
+        "json_filename": "DEU31.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "32",
+        "json_filename": "DEU32.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "33",
+        "json_filename": "DEU33.json"
+    },
+    {
+        "book_usfm_code": "DEU",
+        "chapter_number": "34",
+        "json_filename": "DEU34.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "1",
+        "json_filename": "JOS1.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "2",
+        "json_filename": "JOS2.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "3",
+        "json_filename": "JOS3.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "4",
+        "json_filename": "JOS4.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "5",
+        "json_filename": "JOS5.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "6",
+        "json_filename": "JOS6.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "7",
+        "json_filename": "JOS7.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "8",
+        "json_filename": "JOS8.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "9",
+        "json_filename": "JOS9.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "10",
+        "json_filename": "JOS10.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "11",
+        "json_filename": "JOS11.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "12",
+        "json_filename": "JOS12.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "13",
+        "json_filename": "JOS13.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "14",
+        "json_filename": "JOS14.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "15",
+        "json_filename": "JOS15.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "16",
+        "json_filename": "JOS16.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "17",
+        "json_filename": "JOS17.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "18",
+        "json_filename": "JOS18.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "19",
+        "json_filename": "JOS19.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "20",
+        "json_filename": "JOS20.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "21",
+        "json_filename": "JOS21.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "22",
+        "json_filename": "JOS22.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "23",
+        "json_filename": "JOS23.json"
+    },
+    {
+        "book_usfm_code": "JOS",
+        "chapter_number": "24",
+        "json_filename": "JOS24.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "1",
+        "json_filename": "JDG1.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "2",
+        "json_filename": "JDG2.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "3",
+        "json_filename": "JDG3.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "4",
+        "json_filename": "JDG4.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "5",
+        "json_filename": "JDG5.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "6",
+        "json_filename": "JDG6.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "7",
+        "json_filename": "JDG7.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "8",
+        "json_filename": "JDG8.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "9",
+        "json_filename": "JDG9.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "10",
+        "json_filename": "JDG10.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "11",
+        "json_filename": "JDG11.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "12",
+        "json_filename": "JDG12.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "13",
+        "json_filename": "JDG13.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "14",
+        "json_filename": "JDG14.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "15",
+        "json_filename": "JDG15.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "16",
+        "json_filename": "JDG16.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "17",
+        "json_filename": "JDG17.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "18",
+        "json_filename": "JDG18.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "19",
+        "json_filename": "JDG19.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "20",
+        "json_filename": "JDG20.json"
+    },
+    {
+        "book_usfm_code": "JDG",
+        "chapter_number": "21",
+        "json_filename": "JDG21.json"
+    },
+    {
+        "book_usfm_code": "RUT",
+        "chapter_number": "1",
+        "json_filename": "RUT1.json"
+    },
+    {
+        "book_usfm_code": "RUT",
+        "chapter_number": "2",
+        "json_filename": "RUT2.json"
+    },
+    {
+        "book_usfm_code": "RUT",
+        "chapter_number": "3",
+        "json_filename": "RUT3.json"
+    },
+    {
+        "book_usfm_code": "RUT",
+        "chapter_number": "4",
+        "json_filename": "RUT4.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "1",
+        "json_filename": "1SA1.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "2",
+        "json_filename": "1SA2.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "3",
+        "json_filename": "1SA3.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "4",
+        "json_filename": "1SA4.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "5",
+        "json_filename": "1SA5.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "6",
+        "json_filename": "1SA6.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "7",
+        "json_filename": "1SA7.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "8",
+        "json_filename": "1SA8.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "9",
+        "json_filename": "1SA9.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "10",
+        "json_filename": "1SA10.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "11",
+        "json_filename": "1SA11.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "12",
+        "json_filename": "1SA12.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "13",
+        "json_filename": "1SA13.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "14",
+        "json_filename": "1SA14.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "15",
+        "json_filename": "1SA15.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "16",
+        "json_filename": "1SA16.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "17",
+        "json_filename": "1SA17.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "18",
+        "json_filename": "1SA18.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "19",
+        "json_filename": "1SA19.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "20",
+        "json_filename": "1SA20.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "21",
+        "json_filename": "1SA21.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "22",
+        "json_filename": "1SA22.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "23",
+        "json_filename": "1SA23.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "24",
+        "json_filename": "1SA24.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "25",
+        "json_filename": "1SA25.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "26",
+        "json_filename": "1SA26.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "27",
+        "json_filename": "1SA27.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "28",
+        "json_filename": "1SA28.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "29",
+        "json_filename": "1SA29.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "30",
+        "json_filename": "1SA30.json"
+    },
+    {
+        "book_usfm_code": "1SA",
+        "chapter_number": "31",
+        "json_filename": "1SA31.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "1",
+        "json_filename": "2SA1.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "2",
+        "json_filename": "2SA2.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "3",
+        "json_filename": "2SA3.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "4",
+        "json_filename": "2SA4.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "5",
+        "json_filename": "2SA5.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "6",
+        "json_filename": "2SA6.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "7",
+        "json_filename": "2SA7.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "8",
+        "json_filename": "2SA8.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "9",
+        "json_filename": "2SA9.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "10",
+        "json_filename": "2SA10.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "11",
+        "json_filename": "2SA11.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "12",
+        "json_filename": "2SA12.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "13",
+        "json_filename": "2SA13.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "14",
+        "json_filename": "2SA14.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "15",
+        "json_filename": "2SA15.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "16",
+        "json_filename": "2SA16.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "17",
+        "json_filename": "2SA17.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "18",
+        "json_filename": "2SA18.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "19",
+        "json_filename": "2SA19.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "20",
+        "json_filename": "2SA20.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "21",
+        "json_filename": "2SA21.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "22",
+        "json_filename": "2SA22.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "23",
+        "json_filename": "2SA23.json"
+    },
+    {
+        "book_usfm_code": "2SA",
+        "chapter_number": "24",
+        "json_filename": "2SA24.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "1",
+        "json_filename": "1KI1.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "2",
+        "json_filename": "1KI2.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "3",
+        "json_filename": "1KI3.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "4",
+        "json_filename": "1KI4.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "5",
+        "json_filename": "1KI5.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "6",
+        "json_filename": "1KI6.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "7",
+        "json_filename": "1KI7.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "8",
+        "json_filename": "1KI8.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "9",
+        "json_filename": "1KI9.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "10",
+        "json_filename": "1KI10.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "11",
+        "json_filename": "1KI11.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "12",
+        "json_filename": "1KI12.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "13",
+        "json_filename": "1KI13.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "14",
+        "json_filename": "1KI14.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "15",
+        "json_filename": "1KI15.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "16",
+        "json_filename": "1KI16.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "17",
+        "json_filename": "1KI17.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "18",
+        "json_filename": "1KI18.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "19",
+        "json_filename": "1KI19.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "20",
+        "json_filename": "1KI20.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "21",
+        "json_filename": "1KI21.json"
+    },
+    {
+        "book_usfm_code": "1KI",
+        "chapter_number": "22",
+        "json_filename": "1KI22.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "1",
+        "json_filename": "2KI1.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "2",
+        "json_filename": "2KI2.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "3",
+        "json_filename": "2KI3.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "4",
+        "json_filename": "2KI4.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "5",
+        "json_filename": "2KI5.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "6",
+        "json_filename": "2KI6.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "7",
+        "json_filename": "2KI7.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "8",
+        "json_filename": "2KI8.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "9",
+        "json_filename": "2KI9.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "10",
+        "json_filename": "2KI10.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "11",
+        "json_filename": "2KI11.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "12",
+        "json_filename": "2KI12.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "13",
+        "json_filename": "2KI13.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "14",
+        "json_filename": "2KI14.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "15",
+        "json_filename": "2KI15.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "16",
+        "json_filename": "2KI16.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "17",
+        "json_filename": "2KI17.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "18",
+        "json_filename": "2KI18.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "19",
+        "json_filename": "2KI19.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "20",
+        "json_filename": "2KI20.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "21",
+        "json_filename": "2KI21.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "22",
+        "json_filename": "2KI22.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "23",
+        "json_filename": "2KI23.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "24",
+        "json_filename": "2KI24.json"
+    },
+    {
+        "book_usfm_code": "2KI",
+        "chapter_number": "25",
+        "json_filename": "2KI25.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "1",
+        "json_filename": "1CH1.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "2",
+        "json_filename": "1CH2.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "3",
+        "json_filename": "1CH3.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "4",
+        "json_filename": "1CH4.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "5",
+        "json_filename": "1CH5.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "6",
+        "json_filename": "1CH6.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "7",
+        "json_filename": "1CH7.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "8",
+        "json_filename": "1CH8.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "9",
+        "json_filename": "1CH9.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "10",
+        "json_filename": "1CH10.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "11",
+        "json_filename": "1CH11.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "12",
+        "json_filename": "1CH12.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "13",
+        "json_filename": "1CH13.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "14",
+        "json_filename": "1CH14.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "15",
+        "json_filename": "1CH15.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "16",
+        "json_filename": "1CH16.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "17",
+        "json_filename": "1CH17.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "18",
+        "json_filename": "1CH18.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "19",
+        "json_filename": "1CH19.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "20",
+        "json_filename": "1CH20.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "21",
+        "json_filename": "1CH21.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "22",
+        "json_filename": "1CH22.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "23",
+        "json_filename": "1CH23.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "24",
+        "json_filename": "1CH24.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "25",
+        "json_filename": "1CH25.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "26",
+        "json_filename": "1CH26.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "27",
+        "json_filename": "1CH27.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "28",
+        "json_filename": "1CH28.json"
+    },
+    {
+        "book_usfm_code": "1CH",
+        "chapter_number": "29",
+        "json_filename": "1CH29.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "1",
+        "json_filename": "2CH1.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "2",
+        "json_filename": "2CH2.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "3",
+        "json_filename": "2CH3.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "4",
+        "json_filename": "2CH4.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "5",
+        "json_filename": "2CH5.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "6",
+        "json_filename": "2CH6.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "7",
+        "json_filename": "2CH7.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "8",
+        "json_filename": "2CH8.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "9",
+        "json_filename": "2CH9.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "10",
+        "json_filename": "2CH10.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "11",
+        "json_filename": "2CH11.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "12",
+        "json_filename": "2CH12.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "13",
+        "json_filename": "2CH13.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "14",
+        "json_filename": "2CH14.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "15",
+        "json_filename": "2CH15.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "16",
+        "json_filename": "2CH16.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "17",
+        "json_filename": "2CH17.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "18",
+        "json_filename": "2CH18.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "19",
+        "json_filename": "2CH19.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "20",
+        "json_filename": "2CH20.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "21",
+        "json_filename": "2CH21.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "22",
+        "json_filename": "2CH22.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "23",
+        "json_filename": "2CH23.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "24",
+        "json_filename": "2CH24.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "25",
+        "json_filename": "2CH25.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "26",
+        "json_filename": "2CH26.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "27",
+        "json_filename": "2CH27.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "28",
+        "json_filename": "2CH28.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "29",
+        "json_filename": "2CH29.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "30",
+        "json_filename": "2CH30.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "31",
+        "json_filename": "2CH31.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "32",
+        "json_filename": "2CH32.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "33",
+        "json_filename": "2CH33.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "34",
+        "json_filename": "2CH34.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "35",
+        "json_filename": "2CH35.json"
+    },
+    {
+        "book_usfm_code": "2CH",
+        "chapter_number": "36",
+        "json_filename": "2CH36.json"
+    },
+    {
+        "book_usfm_code": "EZR",
+        "chapter_number": "1",
+        "json_filename": "EZR1.json"
+    },
+    {
+        "book_usfm_code": "EZR",
+        "chapter_number": "2",
+        "json_filename": "EZR2.json"
+    },
+    {
+        "book_usfm_code": "EZR",
+        "chapter_number": "3",
+        "json_filename": "EZR3.json"
+    },
+    {
+        "book_usfm_code": "EZR",
+        "chapter_number": "4",
+        "json_filename": "EZR4.json"
+    },
+    {
+        "book_usfm_code": "EZR",
+        "chapter_number": "5",
+        "json_filename": "EZR5.json"
+    },
+    {
+        "book_usfm_code": "EZR",
+        "chapter_number": "6",
+        "json_filename": "EZR6.json"
+    },
+    {
+        "book_usfm_code": "EZR",
+        "chapter_number": "7",
+        "json_filename": "EZR7.json"
+    },
+    {
+        "book_usfm_code": "EZR",
+        "chapter_number": "8",
+        "json_filename": "EZR8.json"
+    },
+    {
+        "book_usfm_code": "EZR",
+        "chapter_number": "9",
+        "json_filename": "EZR9.json"
+    },
+    {
+        "book_usfm_code": "EZR",
+        "chapter_number": "10",
+        "json_filename": "EZR10.json"
+    },
+    {
+        "book_usfm_code": "NEH",
+        "chapter_number": "1",
+        "json_filename": "NEH1.json"
+    },
+    {
+        "book_usfm_code": "NEH",
+        "chapter_number": "2",
+        "json_filename": "NEH2.json"
+    },
+    {
+        "book_usfm_code": "NEH",
+        "chapter_number": "3",
+        "json_filename": "NEH3.json"
+    },
+    {
+        "book_usfm_code": "NEH",
+        "chapter_number": "4",
+        "json_filename": "NEH4.json"
+    },
+    {
+        "book_usfm_code": "NEH",
+        "chapter_number": "5",
+        "json_filename": "NEH5.json"
+    },
+    {
+        "book_usfm_code": "NEH",
+        "chapter_number": "6",
+        "json_filename": "NEH6.json"
+    },
+    {
+        "book_usfm_code": "NEH",
+        "chapter_number": "7",
+        "json_filename": "NEH7.json"
+    },
+    {
+        "book_usfm_code": "NEH",
+        "chapter_number": "8",
+        "json_filename": "NEH8.json"
+    },
+    {
+        "book_usfm_code": "NEH",
+        "chapter_number": "9",
+        "json_filename": "NEH9.json"
+    },
+    {
+        "book_usfm_code": "NEH",
+        "chapter_number": "10",
+        "json_filename": "NEH10.json"
+    },
+    {
+        "book_usfm_code": "NEH",
+        "chapter_number": "11",
+        "json_filename": "NEH11.json"
+    },
+    {
+        "book_usfm_code": "NEH",
+        "chapter_number": "12",
+        "json_filename": "NEH12.json"
+    },
+    {
+        "book_usfm_code": "NEH",
+        "chapter_number": "13",
+        "json_filename": "NEH13.json"
+    },
+    {
+        "book_usfm_code": "TOB",
+        "chapter_number": "1",
+        "json_filename": "TOB1.json"
+    },
+    {
+        "book_usfm_code": "TOB",
+        "chapter_number": "2",
+        "json_filename": "TOB2.json"
+    },
+    {
+        "book_usfm_code": "TOB",
+        "chapter_number": "3",
+        "json_filename": "TOB3.json"
+    },
+    {
+        "book_usfm_code": "TOB",
+        "chapter_number": "4",
+        "json_filename": "TOB4.json"
+    },
+    {
+        "book_usfm_code": "TOB",
+        "chapter_number": "5",
+        "json_filename": "TOB5.json"
+    },
+    {
+        "book_usfm_code": "TOB",
+        "chapter_number": "6",
+        "json_filename": "TOB6.json"
+    },
+    {
+        "book_usfm_code": "TOB",
+        "chapter_number": "7",
+        "json_filename": "TOB7.json"
+    },
+    {
+        "book_usfm_code": "TOB",
+        "chapter_number": "8",
+        "json_filename": "TOB8.json"
+    },
+    {
+        "book_usfm_code": "TOB",
+        "chapter_number": "9",
+        "json_filename": "TOB9.json"
+    },
+    {
+        "book_usfm_code": "TOB",
+        "chapter_number": "10",
+        "json_filename": "TOB10.json"
+    },
+    {
+        "book_usfm_code": "TOB",
+        "chapter_number": "11",
+        "json_filename": "TOB11.json"
+    },
+    {
+        "book_usfm_code": "TOB",
+        "chapter_number": "12",
+        "json_filename": "TOB12.json"
+    },
+    {
+        "book_usfm_code": "TOB",
+        "chapter_number": "13",
+        "json_filename": "TOB13.json"
+    },
+    {
+        "book_usfm_code": "TOB",
+        "chapter_number": "14",
+        "json_filename": "TOB14.json"
+    },
+    {
+        "book_usfm_code": "JDT",
+        "chapter_number": "1",
+        "json_filename": "JDT1.json"
+    },
+    {
+        "book_usfm_code": "JDT",
+        "chapter_number": "2",
+        "json_filename": "JDT2.json"
+    },
+    {
+        "book_usfm_code": "JDT",
+        "chapter_number": "3",
+        "json_filename": "JDT3.json"
+    },
+    {
+        "book_usfm_code": "JDT",
+        "chapter_number": "4",
+        "json_filename": "JDT4.json"
+    },
+    {
+        "book_usfm_code": "JDT",
+        "chapter_number": "5",
+        "json_filename": "JDT5.json"
+    },
+    {
+        "book_usfm_code": "JDT",
+        "chapter_number": "6",
+        "json_filename": "JDT6.json"
+    },
+    {
+        "book_usfm_code": "JDT",
+        "chapter_number": "7",
+        "json_filename": "JDT7.json"
+    },
+    {
+        "book_usfm_code": "JDT",
+        "chapter_number": "8",
+        "json_filename": "JDT8.json"
+    },
+    {
+        "book_usfm_code": "JDT",
+        "chapter_number": "9",
+        "json_filename": "JDT9.json"
+    },
+    {
+        "book_usfm_code": "JDT",
+        "chapter_number": "10",
+        "json_filename": "JDT10.json"
+    },
+    {
+        "book_usfm_code": "JDT",
+        "chapter_number": "11",
+        "json_filename": "JDT11.json"
+    },
+    {
+        "book_usfm_code": "JDT",
+        "chapter_number": "12",
+        "json_filename": "JDT12.json"
+    },
+    {
+        "book_usfm_code": "JDT",
+        "chapter_number": "13",
+        "json_filename": "JDT13.json"
+    },
+    {
+        "book_usfm_code": "JDT",
+        "chapter_number": "14",
+        "json_filename": "JDT14.json"
+    },
+    {
+        "book_usfm_code": "JDT",
+        "chapter_number": "15",
+        "json_filename": "JDT15.json"
+    },
+    {
+        "book_usfm_code": "JDT",
+        "chapter_number": "16",
+        "json_filename": "JDT16.json"
+    },
+    {
+        "book_usfm_code": "ESG",
+        "chapter_number": "1",
+        "json_filename": "ESG1.json"
+    },
+    {
+        "book_usfm_code": "ESG",
+        "chapter_number": "2",
+        "json_filename": "ESG2.json"
+    },
+    {
+        "book_usfm_code": "ESG",
+        "chapter_number": "3",
+        "json_filename": "ESG3.json"
+    },
+    {
+        "book_usfm_code": "ESG",
+        "chapter_number": "4",
+        "json_filename": "ESG4.json"
+    },
+    {
+        "book_usfm_code": "ESG",
+        "chapter_number": "5",
+        "json_filename": "ESG5.json"
+    },
+    {
+        "book_usfm_code": "ESG",
+        "chapter_number": "6",
+        "json_filename": "ESG6.json"
+    },
+    {
+        "book_usfm_code": "ESG",
+        "chapter_number": "7",
+        "json_filename": "ESG7.json"
+    },
+    {
+        "book_usfm_code": "ESG",
+        "chapter_number": "8",
+        "json_filename": "ESG8.json"
+    },
+    {
+        "book_usfm_code": "ESG",
+        "chapter_number": "9",
+        "json_filename": "ESG9.json"
+    },
+    {
+        "book_usfm_code": "ESG",
+        "chapter_number": "10",
+        "json_filename": "ESG10.json"
+    },
+    {
+        "book_usfm_code": "ESG",
+        "chapter_number": "11",
+        "json_filename": "ESG11.json"
+    },
+    {
+        "book_usfm_code": "ESG",
+        "chapter_number": "12",
+        "json_filename": "ESG12.json"
+    },
+    {
+        "book_usfm_code": "ESG",
+        "chapter_number": "13",
+        "json_filename": "ESG13.json"
+    },
+    {
+        "book_usfm_code": "ESG",
+        "chapter_number": "14",
+        "json_filename": "ESG14.json"
+    },
+    {
+        "book_usfm_code": "ESG",
+        "chapter_number": "15",
+        "json_filename": "ESG15.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "1",
+        "json_filename": "JOB1.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "2",
+        "json_filename": "JOB2.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "3",
+        "json_filename": "JOB3.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "4",
+        "json_filename": "JOB4.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "5",
+        "json_filename": "JOB5.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "6",
+        "json_filename": "JOB6.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "7",
+        "json_filename": "JOB7.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "8",
+        "json_filename": "JOB8.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "9",
+        "json_filename": "JOB9.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "10",
+        "json_filename": "JOB10.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "11",
+        "json_filename": "JOB11.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "12",
+        "json_filename": "JOB12.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "13",
+        "json_filename": "JOB13.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "14",
+        "json_filename": "JOB14.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "15",
+        "json_filename": "JOB15.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "16",
+        "json_filename": "JOB16.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "17",
+        "json_filename": "JOB17.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "18",
+        "json_filename": "JOB18.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "19",
+        "json_filename": "JOB19.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "20",
+        "json_filename": "JOB20.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "21",
+        "json_filename": "JOB21.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "22",
+        "json_filename": "JOB22.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "23",
+        "json_filename": "JOB23.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "24",
+        "json_filename": "JOB24.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "25",
+        "json_filename": "JOB25.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "26",
+        "json_filename": "JOB26.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "27",
+        "json_filename": "JOB27.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "28",
+        "json_filename": "JOB28.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "29",
+        "json_filename": "JOB29.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "30",
+        "json_filename": "JOB30.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "31",
+        "json_filename": "JOB31.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "32",
+        "json_filename": "JOB32.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "33",
+        "json_filename": "JOB33.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "34",
+        "json_filename": "JOB34.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "35",
+        "json_filename": "JOB35.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "36",
+        "json_filename": "JOB36.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "37",
+        "json_filename": "JOB37.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "38",
+        "json_filename": "JOB38.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "39",
+        "json_filename": "JOB39.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "40",
+        "json_filename": "JOB40.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "41",
+        "json_filename": "JOB41.json"
+    },
+    {
+        "book_usfm_code": "JOB",
+        "chapter_number": "42",
+        "json_filename": "JOB42.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "1",
+        "json_filename": "PSA1.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "2",
+        "json_filename": "PSA2.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "3",
+        "json_filename": "PSA3.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "4",
+        "json_filename": "PSA4.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "5",
+        "json_filename": "PSA5.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "6",
+        "json_filename": "PSA6.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "7",
+        "json_filename": "PSA7.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "8",
+        "json_filename": "PSA8.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "9",
+        "json_filename": "PSA9.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "10",
+        "json_filename": "PSA10.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "11",
+        "json_filename": "PSA11.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "12",
+        "json_filename": "PSA12.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "13",
+        "json_filename": "PSA13.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "14",
+        "json_filename": "PSA14.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "15",
+        "json_filename": "PSA15.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "16",
+        "json_filename": "PSA16.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "17",
+        "json_filename": "PSA17.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "18",
+        "json_filename": "PSA18.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "19",
+        "json_filename": "PSA19.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "20",
+        "json_filename": "PSA20.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "21",
+        "json_filename": "PSA21.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "22",
+        "json_filename": "PSA22.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "23",
+        "json_filename": "PSA23.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "24",
+        "json_filename": "PSA24.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "25",
+        "json_filename": "PSA25.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "26",
+        "json_filename": "PSA26.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "27",
+        "json_filename": "PSA27.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "28",
+        "json_filename": "PSA28.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "29",
+        "json_filename": "PSA29.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "30",
+        "json_filename": "PSA30.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "31",
+        "json_filename": "PSA31.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "32",
+        "json_filename": "PSA32.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "33",
+        "json_filename": "PSA33.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "34",
+        "json_filename": "PSA34.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "35",
+        "json_filename": "PSA35.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "36",
+        "json_filename": "PSA36.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "37",
+        "json_filename": "PSA37.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "38",
+        "json_filename": "PSA38.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "39",
+        "json_filename": "PSA39.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "40",
+        "json_filename": "PSA40.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "41",
+        "json_filename": "PSA41.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "42",
+        "json_filename": "PSA42.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "43",
+        "json_filename": "PSA43.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "44",
+        "json_filename": "PSA44.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "45",
+        "json_filename": "PSA45.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "46",
+        "json_filename": "PSA46.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "47",
+        "json_filename": "PSA47.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "48",
+        "json_filename": "PSA48.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "49",
+        "json_filename": "PSA49.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "50",
+        "json_filename": "PSA50.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "51",
+        "json_filename": "PSA51.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "52",
+        "json_filename": "PSA52.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "53",
+        "json_filename": "PSA53.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "54",
+        "json_filename": "PSA54.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "55",
+        "json_filename": "PSA55.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "56",
+        "json_filename": "PSA56.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "57",
+        "json_filename": "PSA57.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "58",
+        "json_filename": "PSA58.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "59",
+        "json_filename": "PSA59.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "60",
+        "json_filename": "PSA60.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "61",
+        "json_filename": "PSA61.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "62",
+        "json_filename": "PSA62.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "63",
+        "json_filename": "PSA63.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "64",
+        "json_filename": "PSA64.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "65",
+        "json_filename": "PSA65.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "66",
+        "json_filename": "PSA66.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "67",
+        "json_filename": "PSA67.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "68",
+        "json_filename": "PSA68.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "69",
+        "json_filename": "PSA69.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "70",
+        "json_filename": "PSA70.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "71",
+        "json_filename": "PSA71.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "72",
+        "json_filename": "PSA72.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "73",
+        "json_filename": "PSA73.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "74",
+        "json_filename": "PSA74.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "75",
+        "json_filename": "PSA75.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "76",
+        "json_filename": "PSA76.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "77",
+        "json_filename": "PSA77.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "78",
+        "json_filename": "PSA78.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "79",
+        "json_filename": "PSA79.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "80",
+        "json_filename": "PSA80.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "81",
+        "json_filename": "PSA81.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "82",
+        "json_filename": "PSA82.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "83",
+        "json_filename": "PSA83.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "84",
+        "json_filename": "PSA84.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "85",
+        "json_filename": "PSA85.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "86",
+        "json_filename": "PSA86.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "87",
+        "json_filename": "PSA87.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "88",
+        "json_filename": "PSA88.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "89",
+        "json_filename": "PSA89.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "90",
+        "json_filename": "PSA90.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "91",
+        "json_filename": "PSA91.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "92",
+        "json_filename": "PSA92.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "93",
+        "json_filename": "PSA93.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "94",
+        "json_filename": "PSA94.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "95",
+        "json_filename": "PSA95.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "96",
+        "json_filename": "PSA96.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "97",
+        "json_filename": "PSA97.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "98",
+        "json_filename": "PSA98.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "99",
+        "json_filename": "PSA99.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "100",
+        "json_filename": "PSA100.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "101",
+        "json_filename": "PSA101.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "102",
+        "json_filename": "PSA102.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "103",
+        "json_filename": "PSA103.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "104",
+        "json_filename": "PSA104.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "105",
+        "json_filename": "PSA105.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "106",
+        "json_filename": "PSA106.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "107",
+        "json_filename": "PSA107.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "108",
+        "json_filename": "PSA108.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "109",
+        "json_filename": "PSA109.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "110",
+        "json_filename": "PSA110.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "111",
+        "json_filename": "PSA111.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "112",
+        "json_filename": "PSA112.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "113",
+        "json_filename": "PSA113.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "114",
+        "json_filename": "PSA114.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "115",
+        "json_filename": "PSA115.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "116",
+        "json_filename": "PSA116.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "117",
+        "json_filename": "PSA117.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "118",
+        "json_filename": "PSA118.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "119",
+        "json_filename": "PSA119.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "120",
+        "json_filename": "PSA120.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "121",
+        "json_filename": "PSA121.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "122",
+        "json_filename": "PSA122.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "123",
+        "json_filename": "PSA123.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "124",
+        "json_filename": "PSA124.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "125",
+        "json_filename": "PSA125.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "126",
+        "json_filename": "PSA126.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "127",
+        "json_filename": "PSA127.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "128",
+        "json_filename": "PSA128.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "129",
+        "json_filename": "PSA129.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "130",
+        "json_filename": "PSA130.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "131",
+        "json_filename": "PSA131.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "132",
+        "json_filename": "PSA132.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "133",
+        "json_filename": "PSA133.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "134",
+        "json_filename": "PSA134.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "135",
+        "json_filename": "PSA135.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "136",
+        "json_filename": "PSA136.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "137",
+        "json_filename": "PSA137.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "138",
+        "json_filename": "PSA138.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "139",
+        "json_filename": "PSA139.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "140",
+        "json_filename": "PSA140.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "141",
+        "json_filename": "PSA141.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "142",
+        "json_filename": "PSA142.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "143",
+        "json_filename": "PSA143.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "144",
+        "json_filename": "PSA144.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "145",
+        "json_filename": "PSA145.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "146",
+        "json_filename": "PSA146.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "147",
+        "json_filename": "PSA147.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "148",
+        "json_filename": "PSA148.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "149",
+        "json_filename": "PSA149.json"
+    },
+    {
+        "book_usfm_code": "PSA",
+        "chapter_number": "150",
+        "json_filename": "PSA150.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "1",
+        "json_filename": "PRO1.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "2",
+        "json_filename": "PRO2.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "3",
+        "json_filename": "PRO3.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "4",
+        "json_filename": "PRO4.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "5",
+        "json_filename": "PRO5.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "6",
+        "json_filename": "PRO6.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "7",
+        "json_filename": "PRO7.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "8",
+        "json_filename": "PRO8.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "9",
+        "json_filename": "PRO9.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "10",
+        "json_filename": "PRO10.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "11",
+        "json_filename": "PRO11.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "12",
+        "json_filename": "PRO12.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "13",
+        "json_filename": "PRO13.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "14",
+        "json_filename": "PRO14.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "15",
+        "json_filename": "PRO15.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "16",
+        "json_filename": "PRO16.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "17",
+        "json_filename": "PRO17.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "18",
+        "json_filename": "PRO18.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "19",
+        "json_filename": "PRO19.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "20",
+        "json_filename": "PRO20.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "21",
+        "json_filename": "PRO21.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "22",
+        "json_filename": "PRO22.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "23",
+        "json_filename": "PRO23.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "24",
+        "json_filename": "PRO24.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "25",
+        "json_filename": "PRO25.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "26",
+        "json_filename": "PRO26.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "27",
+        "json_filename": "PRO27.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "28",
+        "json_filename": "PRO28.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "29",
+        "json_filename": "PRO29.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "30",
+        "json_filename": "PRO30.json"
+    },
+    {
+        "book_usfm_code": "PRO",
+        "chapter_number": "31",
+        "json_filename": "PRO31.json"
+    },
+    {
+        "book_usfm_code": "ECC",
+        "chapter_number": "1",
+        "json_filename": "ECC1.json"
+    },
+    {
+        "book_usfm_code": "ECC",
+        "chapter_number": "2",
+        "json_filename": "ECC2.json"
+    },
+    {
+        "book_usfm_code": "ECC",
+        "chapter_number": "3",
+        "json_filename": "ECC3.json"
+    },
+    {
+        "book_usfm_code": "ECC",
+        "chapter_number": "4",
+        "json_filename": "ECC4.json"
+    },
+    {
+        "book_usfm_code": "ECC",
+        "chapter_number": "5",
+        "json_filename": "ECC5.json"
+    },
+    {
+        "book_usfm_code": "ECC",
+        "chapter_number": "6",
+        "json_filename": "ECC6.json"
+    },
+    {
+        "book_usfm_code": "ECC",
+        "chapter_number": "7",
+        "json_filename": "ECC7.json"
+    },
+    {
+        "book_usfm_code": "ECC",
+        "chapter_number": "8",
+        "json_filename": "ECC8.json"
+    },
+    {
+        "book_usfm_code": "ECC",
+        "chapter_number": "9",
+        "json_filename": "ECC9.json"
+    },
+    {
+        "book_usfm_code": "ECC",
+        "chapter_number": "10",
+        "json_filename": "ECC10.json"
+    },
+    {
+        "book_usfm_code": "ECC",
+        "chapter_number": "11",
+        "json_filename": "ECC11.json"
+    },
+    {
+        "book_usfm_code": "ECC",
+        "chapter_number": "12",
+        "json_filename": "ECC12.json"
+    },
+    {
+        "book_usfm_code": "SNG",
+        "chapter_number": "1",
+        "json_filename": "SNG1.json"
+    },
+    {
+        "book_usfm_code": "SNG",
+        "chapter_number": "2",
+        "json_filename": "SNG2.json"
+    },
+    {
+        "book_usfm_code": "SNG",
+        "chapter_number": "3",
+        "json_filename": "SNG3.json"
+    },
+    {
+        "book_usfm_code": "SNG",
+        "chapter_number": "4",
+        "json_filename": "SNG4.json"
+    },
+    {
+        "book_usfm_code": "SNG",
+        "chapter_number": "5",
+        "json_filename": "SNG5.json"
+    },
+    {
+        "book_usfm_code": "SNG",
+        "chapter_number": "6",
+        "json_filename": "SNG6.json"
+    },
+    {
+        "book_usfm_code": "SNG",
+        "chapter_number": "7",
+        "json_filename": "SNG7.json"
+    },
+    {
+        "book_usfm_code": "SNG",
+        "chapter_number": "8",
+        "json_filename": "SNG8.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "1",
+        "json_filename": "WIS1.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "2",
+        "json_filename": "WIS2.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "3",
+        "json_filename": "WIS3.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "4",
+        "json_filename": "WIS4.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "5",
+        "json_filename": "WIS5.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "6",
+        "json_filename": "WIS6.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "7",
+        "json_filename": "WIS7.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "8",
+        "json_filename": "WIS8.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "9",
+        "json_filename": "WIS9.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "10",
+        "json_filename": "WIS10.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "11",
+        "json_filename": "WIS11.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "12",
+        "json_filename": "WIS12.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "13",
+        "json_filename": "WIS13.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "14",
+        "json_filename": "WIS14.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "15",
+        "json_filename": "WIS15.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "16",
+        "json_filename": "WIS16.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "17",
+        "json_filename": "WIS17.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "18",
+        "json_filename": "WIS18.json"
+    },
+    {
+        "book_usfm_code": "WIS",
+        "chapter_number": "19",
+        "json_filename": "WIS19.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "P",
+        "json_filename": "SIRP.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "1",
+        "json_filename": "SIR1.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "2",
+        "json_filename": "SIR2.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "3",
+        "json_filename": "SIR3.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "4",
+        "json_filename": "SIR4.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "5",
+        "json_filename": "SIR5.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "6",
+        "json_filename": "SIR6.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "7",
+        "json_filename": "SIR7.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "8",
+        "json_filename": "SIR8.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "9",
+        "json_filename": "SIR9.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "10",
+        "json_filename": "SIR10.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "11",
+        "json_filename": "SIR11.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "12",
+        "json_filename": "SIR12.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "13",
+        "json_filename": "SIR13.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "14",
+        "json_filename": "SIR14.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "15",
+        "json_filename": "SIR15.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "16",
+        "json_filename": "SIR16.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "17",
+        "json_filename": "SIR17.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "18",
+        "json_filename": "SIR18.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "19",
+        "json_filename": "SIR19.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "20",
+        "json_filename": "SIR20.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "21",
+        "json_filename": "SIR21.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "22",
+        "json_filename": "SIR22.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "23",
+        "json_filename": "SIR23.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "24",
+        "json_filename": "SIR24.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "25",
+        "json_filename": "SIR25.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "26",
+        "json_filename": "SIR26.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "27",
+        "json_filename": "SIR27.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "28",
+        "json_filename": "SIR28.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "29",
+        "json_filename": "SIR29.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "30",
+        "json_filename": "SIR30.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "31",
+        "json_filename": "SIR31.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "32",
+        "json_filename": "SIR32.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "33",
+        "json_filename": "SIR33.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "34",
+        "json_filename": "SIR34.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "35",
+        "json_filename": "SIR35.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "36",
+        "json_filename": "SIR36.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "37",
+        "json_filename": "SIR37.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "38",
+        "json_filename": "SIR38.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "39",
+        "json_filename": "SIR39.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "40",
+        "json_filename": "SIR40.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "41",
+        "json_filename": "SIR41.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "42",
+        "json_filename": "SIR42.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "43",
+        "json_filename": "SIR43.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "44",
+        "json_filename": "SIR44.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "45",
+        "json_filename": "SIR45.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "46",
+        "json_filename": "SIR46.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "47",
+        "json_filename": "SIR47.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "48",
+        "json_filename": "SIR48.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "49",
+        "json_filename": "SIR49.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "50",
+        "json_filename": "SIR50.json"
+    },
+    {
+        "book_usfm_code": "SIR",
+        "chapter_number": "51",
+        "json_filename": "SIR51.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "1",
+        "json_filename": "ISA1.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "2",
+        "json_filename": "ISA2.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "3",
+        "json_filename": "ISA3.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "4",
+        "json_filename": "ISA4.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "5",
+        "json_filename": "ISA5.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "6",
+        "json_filename": "ISA6.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "7",
+        "json_filename": "ISA7.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "8",
+        "json_filename": "ISA8.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "9",
+        "json_filename": "ISA9.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "10",
+        "json_filename": "ISA10.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "11",
+        "json_filename": "ISA11.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "12",
+        "json_filename": "ISA12.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "13",
+        "json_filename": "ISA13.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "14",
+        "json_filename": "ISA14.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "15",
+        "json_filename": "ISA15.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "16",
+        "json_filename": "ISA16.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "17",
+        "json_filename": "ISA17.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "18",
+        "json_filename": "ISA18.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "19",
+        "json_filename": "ISA19.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "20",
+        "json_filename": "ISA20.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "21",
+        "json_filename": "ISA21.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "22",
+        "json_filename": "ISA22.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "23",
+        "json_filename": "ISA23.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "24",
+        "json_filename": "ISA24.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "25",
+        "json_filename": "ISA25.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "26",
+        "json_filename": "ISA26.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "27",
+        "json_filename": "ISA27.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "28",
+        "json_filename": "ISA28.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "29",
+        "json_filename": "ISA29.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "30",
+        "json_filename": "ISA30.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "31",
+        "json_filename": "ISA31.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "32",
+        "json_filename": "ISA32.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "33",
+        "json_filename": "ISA33.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "34",
+        "json_filename": "ISA34.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "35",
+        "json_filename": "ISA35.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "36",
+        "json_filename": "ISA36.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "37",
+        "json_filename": "ISA37.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "38",
+        "json_filename": "ISA38.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "39",
+        "json_filename": "ISA39.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "40",
+        "json_filename": "ISA40.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "41",
+        "json_filename": "ISA41.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "42",
+        "json_filename": "ISA42.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "43",
+        "json_filename": "ISA43.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "44",
+        "json_filename": "ISA44.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "45",
+        "json_filename": "ISA45.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "46",
+        "json_filename": "ISA46.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "47",
+        "json_filename": "ISA47.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "48",
+        "json_filename": "ISA48.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "49",
+        "json_filename": "ISA49.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "50",
+        "json_filename": "ISA50.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "51",
+        "json_filename": "ISA51.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "52",
+        "json_filename": "ISA52.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "53",
+        "json_filename": "ISA53.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "54",
+        "json_filename": "ISA54.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "55",
+        "json_filename": "ISA55.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "56",
+        "json_filename": "ISA56.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "57",
+        "json_filename": "ISA57.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "58",
+        "json_filename": "ISA58.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "59",
+        "json_filename": "ISA59.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "60",
+        "json_filename": "ISA60.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "61",
+        "json_filename": "ISA61.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "62",
+        "json_filename": "ISA62.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "63",
+        "json_filename": "ISA63.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "64",
+        "json_filename": "ISA64.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "65",
+        "json_filename": "ISA65.json"
+    },
+    {
+        "book_usfm_code": "ISA",
+        "chapter_number": "66",
+        "json_filename": "ISA66.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "1",
+        "json_filename": "JER1.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "2",
+        "json_filename": "JER2.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "3",
+        "json_filename": "JER3.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "4",
+        "json_filename": "JER4.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "5",
+        "json_filename": "JER5.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "6",
+        "json_filename": "JER6.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "7",
+        "json_filename": "JER7.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "8",
+        "json_filename": "JER8.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "9",
+        "json_filename": "JER9.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "10",
+        "json_filename": "JER10.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "11",
+        "json_filename": "JER11.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "12",
+        "json_filename": "JER12.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "13",
+        "json_filename": "JER13.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "14",
+        "json_filename": "JER14.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "15",
+        "json_filename": "JER15.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "16",
+        "json_filename": "JER16.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "17",
+        "json_filename": "JER17.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "18",
+        "json_filename": "JER18.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "19",
+        "json_filename": "JER19.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "20",
+        "json_filename": "JER20.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "21",
+        "json_filename": "JER21.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "22",
+        "json_filename": "JER22.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "23",
+        "json_filename": "JER23.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "24",
+        "json_filename": "JER24.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "25",
+        "json_filename": "JER25.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "26",
+        "json_filename": "JER26.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "27",
+        "json_filename": "JER27.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "28",
+        "json_filename": "JER28.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "29",
+        "json_filename": "JER29.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "30",
+        "json_filename": "JER30.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "31",
+        "json_filename": "JER31.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "32",
+        "json_filename": "JER32.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "33",
+        "json_filename": "JER33.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "34",
+        "json_filename": "JER34.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "35",
+        "json_filename": "JER35.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "36",
+        "json_filename": "JER36.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "37",
+        "json_filename": "JER37.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "38",
+        "json_filename": "JER38.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "39",
+        "json_filename": "JER39.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "40",
+        "json_filename": "JER40.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "41",
+        "json_filename": "JER41.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "42",
+        "json_filename": "JER42.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "43",
+        "json_filename": "JER43.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "44",
+        "json_filename": "JER44.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "45",
+        "json_filename": "JER45.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "46",
+        "json_filename": "JER46.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "47",
+        "json_filename": "JER47.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "48",
+        "json_filename": "JER48.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "49",
+        "json_filename": "JER49.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "50",
+        "json_filename": "JER50.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "51",
+        "json_filename": "JER51.json"
+    },
+    {
+        "book_usfm_code": "JER",
+        "chapter_number": "52",
+        "json_filename": "JER52.json"
+    },
+    {
+        "book_usfm_code": "LAM",
+        "chapter_number": "P",
+        "json_filename": "LAMP.json"
+    },
+    {
+        "book_usfm_code": "LAM",
+        "chapter_number": "1",
+        "json_filename": "LAM1.json"
+    },
+    {
+        "book_usfm_code": "LAM",
+        "chapter_number": "2",
+        "json_filename": "LAM2.json"
+    },
+    {
+        "book_usfm_code": "LAM",
+        "chapter_number": "3",
+        "json_filename": "LAM3.json"
+    },
+    {
+        "book_usfm_code": "LAM",
+        "chapter_number": "4",
+        "json_filename": "LAM4.json"
+    },
+    {
+        "book_usfm_code": "LAM",
+        "chapter_number": "5",
+        "json_filename": "LAM5.json"
+    },
+    {
+        "book_usfm_code": "BAR",
+        "chapter_number": "1",
+        "json_filename": "BAR1.json"
+    },
+    {
+        "book_usfm_code": "BAR",
+        "chapter_number": "2",
+        "json_filename": "BAR2.json"
+    },
+    {
+        "book_usfm_code": "BAR",
+        "chapter_number": "3",
+        "json_filename": "BAR3.json"
+    },
+    {
+        "book_usfm_code": "BAR",
+        "chapter_number": "4",
+        "json_filename": "BAR4.json"
+    },
+    {
+        "book_usfm_code": "BAR",
+        "chapter_number": "5",
+        "json_filename": "BAR5.json"
+    },
+    {
+        "book_usfm_code": "BAR",
+        "chapter_number": "6",
+        "json_filename": "BAR6.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "1",
+        "json_filename": "EZK1.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "2",
+        "json_filename": "EZK2.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "3",
+        "json_filename": "EZK3.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "4",
+        "json_filename": "EZK4.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "5",
+        "json_filename": "EZK5.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "6",
+        "json_filename": "EZK6.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "7",
+        "json_filename": "EZK7.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "8",
+        "json_filename": "EZK8.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "9",
+        "json_filename": "EZK9.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "10",
+        "json_filename": "EZK10.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "11",
+        "json_filename": "EZK11.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "12",
+        "json_filename": "EZK12.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "13",
+        "json_filename": "EZK13.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "14",
+        "json_filename": "EZK14.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "15",
+        "json_filename": "EZK15.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "16",
+        "json_filename": "EZK16.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "17",
+        "json_filename": "EZK17.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "18",
+        "json_filename": "EZK18.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "19",
+        "json_filename": "EZK19.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "20",
+        "json_filename": "EZK20.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "21",
+        "json_filename": "EZK21.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "22",
+        "json_filename": "EZK22.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "23",
+        "json_filename": "EZK23.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "24",
+        "json_filename": "EZK24.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "25",
+        "json_filename": "EZK25.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "26",
+        "json_filename": "EZK26.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "27",
+        "json_filename": "EZK27.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "28",
+        "json_filename": "EZK28.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "29",
+        "json_filename": "EZK29.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "30",
+        "json_filename": "EZK30.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "31",
+        "json_filename": "EZK31.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "32",
+        "json_filename": "EZK32.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "33",
+        "json_filename": "EZK33.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "34",
+        "json_filename": "EZK34.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "35",
+        "json_filename": "EZK35.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "36",
+        "json_filename": "EZK36.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "37",
+        "json_filename": "EZK37.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "38",
+        "json_filename": "EZK38.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "39",
+        "json_filename": "EZK39.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "40",
+        "json_filename": "EZK40.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "41",
+        "json_filename": "EZK41.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "42",
+        "json_filename": "EZK42.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "43",
+        "json_filename": "EZK43.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "44",
+        "json_filename": "EZK44.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "45",
+        "json_filename": "EZK45.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "46",
+        "json_filename": "EZK46.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "47",
+        "json_filename": "EZK47.json"
+    },
+    {
+        "book_usfm_code": "EZK",
+        "chapter_number": "48",
+        "json_filename": "EZK48.json"
+    },
+    {
+        "book_usfm_code": "DAG",
+        "chapter_number": "1",
+        "json_filename": "DAG1.json"
+    },
+    {
+        "book_usfm_code": "DAG",
+        "chapter_number": "2",
+        "json_filename": "DAG2.json"
+    },
+    {
+        "book_usfm_code": "DAG",
+        "chapter_number": "3",
+        "json_filename": "DAG3.json"
+    },
+    {
+        "book_usfm_code": "DAG",
+        "chapter_number": "4",
+        "json_filename": "DAG4.json"
+    },
+    {
+        "book_usfm_code": "DAG",
+        "chapter_number": "5",
+        "json_filename": "DAG5.json"
+    },
+    {
+        "book_usfm_code": "DAG",
+        "chapter_number": "6",
+        "json_filename": "DAG6.json"
+    },
+    {
+        "book_usfm_code": "DAG",
+        "chapter_number": "7",
+        "json_filename": "DAG7.json"
+    },
+    {
+        "book_usfm_code": "DAG",
+        "chapter_number": "8",
+        "json_filename": "DAG8.json"
+    },
+    {
+        "book_usfm_code": "DAG",
+        "chapter_number": "9",
+        "json_filename": "DAG9.json"
+    },
+    {
+        "book_usfm_code": "DAG",
+        "chapter_number": "10",
+        "json_filename": "DAG10.json"
+    },
+    {
+        "book_usfm_code": "DAG",
+        "chapter_number": "11",
+        "json_filename": "DAG11.json"
+    },
+    {
+        "book_usfm_code": "DAG",
+        "chapter_number": "12",
+        "json_filename": "DAG12.json"
+    },
+    {
+        "book_usfm_code": "DAG",
+        "chapter_number": "13",
+        "json_filename": "DAG13.json"
+    },
+    {
+        "book_usfm_code": "DAG",
+        "chapter_number": "14",
+        "json_filename": "DAG14.json"
+    },
+    {
+        "book_usfm_code": "HOS",
+        "chapter_number": "1",
+        "json_filename": "HOS1.json"
+    },
+    {
+        "book_usfm_code": "HOS",
+        "chapter_number": "2",
+        "json_filename": "HOS2.json"
+    },
+    {
+        "book_usfm_code": "HOS",
+        "chapter_number": "3",
+        "json_filename": "HOS3.json"
+    },
+    {
+        "book_usfm_code": "HOS",
+        "chapter_number": "4",
+        "json_filename": "HOS4.json"
+    },
+    {
+        "book_usfm_code": "HOS",
+        "chapter_number": "5",
+        "json_filename": "HOS5.json"
+    },
+    {
+        "book_usfm_code": "HOS",
+        "chapter_number": "6",
+        "json_filename": "HOS6.json"
+    },
+    {
+        "book_usfm_code": "HOS",
+        "chapter_number": "7",
+        "json_filename": "HOS7.json"
+    },
+    {
+        "book_usfm_code": "HOS",
+        "chapter_number": "8",
+        "json_filename": "HOS8.json"
+    },
+    {
+        "book_usfm_code": "HOS",
+        "chapter_number": "9",
+        "json_filename": "HOS9.json"
+    },
+    {
+        "book_usfm_code": "HOS",
+        "chapter_number": "10",
+        "json_filename": "HOS10.json"
+    },
+    {
+        "book_usfm_code": "HOS",
+        "chapter_number": "11",
+        "json_filename": "HOS11.json"
+    },
+    {
+        "book_usfm_code": "HOS",
+        "chapter_number": "12",
+        "json_filename": "HOS12.json"
+    },
+    {
+        "book_usfm_code": "HOS",
+        "chapter_number": "13",
+        "json_filename": "HOS13.json"
+    },
+    {
+        "book_usfm_code": "HOS",
+        "chapter_number": "14",
+        "json_filename": "HOS14.json"
+    },
+    {
+        "book_usfm_code": "JOL",
+        "chapter_number": "1",
+        "json_filename": "JOL1.json"
+    },
+    {
+        "book_usfm_code": "JOL",
+        "chapter_number": "2",
+        "json_filename": "JOL2.json"
+    },
+    {
+        "book_usfm_code": "JOL",
+        "chapter_number": "3",
+        "json_filename": "JOL3.json"
+    },
+    {
+        "book_usfm_code": "AMO",
+        "chapter_number": "1",
+        "json_filename": "AMO1.json"
+    },
+    {
+        "book_usfm_code": "AMO",
+        "chapter_number": "2",
+        "json_filename": "AMO2.json"
+    },
+    {
+        "book_usfm_code": "AMO",
+        "chapter_number": "3",
+        "json_filename": "AMO3.json"
+    },
+    {
+        "book_usfm_code": "AMO",
+        "chapter_number": "4",
+        "json_filename": "AMO4.json"
+    },
+    {
+        "book_usfm_code": "AMO",
+        "chapter_number": "5",
+        "json_filename": "AMO5.json"
+    },
+    {
+        "book_usfm_code": "AMO",
+        "chapter_number": "6",
+        "json_filename": "AMO6.json"
+    },
+    {
+        "book_usfm_code": "AMO",
+        "chapter_number": "7",
+        "json_filename": "AMO7.json"
+    },
+    {
+        "book_usfm_code": "AMO",
+        "chapter_number": "8",
+        "json_filename": "AMO8.json"
+    },
+    {
+        "book_usfm_code": "AMO",
+        "chapter_number": "9",
+        "json_filename": "AMO9.json"
+    },
+    {
+        "book_usfm_code": "OBA",
+        "chapter_number": "1",
+        "json_filename": "OBA1.json"
+    },
+    {
+        "book_usfm_code": "JON",
+        "chapter_number": "1",
+        "json_filename": "JON1.json"
+    },
+    {
+        "book_usfm_code": "JON",
+        "chapter_number": "2",
+        "json_filename": "JON2.json"
+    },
+    {
+        "book_usfm_code": "JON",
+        "chapter_number": "3",
+        "json_filename": "JON3.json"
+    },
+    {
+        "book_usfm_code": "JON",
+        "chapter_number": "4",
+        "json_filename": "JON4.json"
+    },
+    {
+        "book_usfm_code": "MIC",
+        "chapter_number": "1",
+        "json_filename": "MIC1.json"
+    },
+    {
+        "book_usfm_code": "MIC",
+        "chapter_number": "2",
+        "json_filename": "MIC2.json"
+    },
+    {
+        "book_usfm_code": "MIC",
+        "chapter_number": "3",
+        "json_filename": "MIC3.json"
+    },
+    {
+        "book_usfm_code": "MIC",
+        "chapter_number": "4",
+        "json_filename": "MIC4.json"
+    },
+    {
+        "book_usfm_code": "MIC",
+        "chapter_number": "5",
+        "json_filename": "MIC5.json"
+    },
+    {
+        "book_usfm_code": "MIC",
+        "chapter_number": "6",
+        "json_filename": "MIC6.json"
+    },
+    {
+        "book_usfm_code": "MIC",
+        "chapter_number": "7",
+        "json_filename": "MIC7.json"
+    },
+    {
+        "book_usfm_code": "NAM",
+        "chapter_number": "1",
+        "json_filename": "NAM1.json"
+    },
+    {
+        "book_usfm_code": "NAM",
+        "chapter_number": "2",
+        "json_filename": "NAM2.json"
+    },
+    {
+        "book_usfm_code": "NAM",
+        "chapter_number": "3",
+        "json_filename": "NAM3.json"
+    },
+    {
+        "book_usfm_code": "HAB",
+        "chapter_number": "1",
+        "json_filename": "HAB1.json"
+    },
+    {
+        "book_usfm_code": "HAB",
+        "chapter_number": "2",
+        "json_filename": "HAB2.json"
+    },
+    {
+        "book_usfm_code": "HAB",
+        "chapter_number": "3",
+        "json_filename": "HAB3.json"
+    },
+    {
+        "book_usfm_code": "ZEP",
+        "chapter_number": "1",
+        "json_filename": "ZEP1.json"
+    },
+    {
+        "book_usfm_code": "ZEP",
+        "chapter_number": "2",
+        "json_filename": "ZEP2.json"
+    },
+    {
+        "book_usfm_code": "ZEP",
+        "chapter_number": "3",
+        "json_filename": "ZEP3.json"
+    },
+    {
+        "book_usfm_code": "HAG",
+        "chapter_number": "1",
+        "json_filename": "HAG1.json"
+    },
+    {
+        "book_usfm_code": "HAG",
+        "chapter_number": "2",
+        "json_filename": "HAG2.json"
+    },
+    {
+        "book_usfm_code": "ZEC",
+        "chapter_number": "1",
+        "json_filename": "ZEC1.json"
+    },
+    {
+        "book_usfm_code": "ZEC",
+        "chapter_number": "2",
+        "json_filename": "ZEC2.json"
+    },
+    {
+        "book_usfm_code": "ZEC",
+        "chapter_number": "3",
+        "json_filename": "ZEC3.json"
+    },
+    {
+        "book_usfm_code": "ZEC",
+        "chapter_number": "4",
+        "json_filename": "ZEC4.json"
+    },
+    {
+        "book_usfm_code": "ZEC",
+        "chapter_number": "5",
+        "json_filename": "ZEC5.json"
+    },
+    {
+        "book_usfm_code": "ZEC",
+        "chapter_number": "6",
+        "json_filename": "ZEC6.json"
+    },
+    {
+        "book_usfm_code": "ZEC",
+        "chapter_number": "7",
+        "json_filename": "ZEC7.json"
+    },
+    {
+        "book_usfm_code": "ZEC",
+        "chapter_number": "8",
+        "json_filename": "ZEC8.json"
+    },
+    {
+        "book_usfm_code": "ZEC",
+        "chapter_number": "9",
+        "json_filename": "ZEC9.json"
+    },
+    {
+        "book_usfm_code": "ZEC",
+        "chapter_number": "10",
+        "json_filename": "ZEC10.json"
+    },
+    {
+        "book_usfm_code": "ZEC",
+        "chapter_number": "11",
+        "json_filename": "ZEC11.json"
+    },
+    {
+        "book_usfm_code": "ZEC",
+        "chapter_number": "12",
+        "json_filename": "ZEC12.json"
+    },
+    {
+        "book_usfm_code": "ZEC",
+        "chapter_number": "13",
+        "json_filename": "ZEC13.json"
+    },
+    {
+        "book_usfm_code": "ZEC",
+        "chapter_number": "14",
+        "json_filename": "ZEC14.json"
+    },
+    {
+        "book_usfm_code": "MAL",
+        "chapter_number": "1",
+        "json_filename": "MAL1.json"
+    },
+    {
+        "book_usfm_code": "MAL",
+        "chapter_number": "2",
+        "json_filename": "MAL2.json"
+    },
+    {
+        "book_usfm_code": "MAL",
+        "chapter_number": "3",
+        "json_filename": "MAL3.json"
+    },
+    {
+        "book_usfm_code": "MAL",
+        "chapter_number": "4",
+        "json_filename": "MAL4.json"
+    },
+    {
+        "book_usfm_code": "1MA",
+        "chapter_number": "1",
+        "json_filename": "1MA1.json"
+    },
+    {
+        "book_usfm_code": "1MA",
+        "chapter_number": "2",
+        "json_filename": "1MA2.json"
+    },
+    {
+        "book_usfm_code": "1MA",
+        "chapter_number": "3",
+        "json_filename": "1MA3.json"
+    },
+    {
+        "book_usfm_code": "1MA",
+        "chapter_number": "4",
+        "json_filename": "1MA4.json"
+    },
+    {
+        "book_usfm_code": "1MA",
+        "chapter_number": "5",
+        "json_filename": "1MA5.json"
+    },
+    {
+        "book_usfm_code": "1MA",
+        "chapter_number": "6",
+        "json_filename": "1MA6.json"
+    },
+    {
+        "book_usfm_code": "1MA",
+        "chapter_number": "7",
+        "json_filename": "1MA7.json"
+    },
+    {
+        "book_usfm_code": "1MA",
+        "chapter_number": "8",
+        "json_filename": "1MA8.json"
+    },
+    {
+        "book_usfm_code": "1MA",
+        "chapter_number": "9",
+        "json_filename": "1MA9.json"
+    },
+    {
+        "book_usfm_code": "1MA",
+        "chapter_number": "10",
+        "json_filename": "1MA10.json"
+    },
+    {
+        "book_usfm_code": "1MA",
+        "chapter_number": "11",
+        "json_filename": "1MA11.json"
+    },
+    {
+        "book_usfm_code": "1MA",
+        "chapter_number": "12",
+        "json_filename": "1MA12.json"
+    },
+    {
+        "book_usfm_code": "1MA",
+        "chapter_number": "13",
+        "json_filename": "1MA13.json"
+    },
+    {
+        "book_usfm_code": "1MA",
+        "chapter_number": "14",
+        "json_filename": "1MA14.json"
+    },
+    {
+        "book_usfm_code": "1MA",
+        "chapter_number": "15",
+        "json_filename": "1MA15.json"
+    },
+    {
+        "book_usfm_code": "1MA",
+        "chapter_number": "16",
+        "json_filename": "1MA16.json"
+    },
+    {
+        "book_usfm_code": "2MA",
+        "chapter_number": "1",
+        "json_filename": "2MA1.json"
+    },
+    {
+        "book_usfm_code": "2MA",
+        "chapter_number": "2",
+        "json_filename": "2MA2.json"
+    },
+    {
+        "book_usfm_code": "2MA",
+        "chapter_number": "3",
+        "json_filename": "2MA3.json"
+    },
+    {
+        "book_usfm_code": "2MA",
+        "chapter_number": "4",
+        "json_filename": "2MA4.json"
+    },
+    {
+        "book_usfm_code": "2MA",
+        "chapter_number": "5",
+        "json_filename": "2MA5.json"
+    },
+    {
+        "book_usfm_code": "2MA",
+        "chapter_number": "6",
+        "json_filename": "2MA6.json"
+    },
+    {
+        "book_usfm_code": "2MA",
+        "chapter_number": "7",
+        "json_filename": "2MA7.json"
+    },
+    {
+        "book_usfm_code": "2MA",
+        "chapter_number": "8",
+        "json_filename": "2MA8.json"
+    },
+    {
+        "book_usfm_code": "2MA",
+        "chapter_number": "9",
+        "json_filename": "2MA9.json"
+    },
+    {
+        "book_usfm_code": "2MA",
+        "chapter_number": "10",
+        "json_filename": "2MA10.json"
+    },
+    {
+        "book_usfm_code": "2MA",
+        "chapter_number": "11",
+        "json_filename": "2MA11.json"
+    },
+    {
+        "book_usfm_code": "2MA",
+        "chapter_number": "12",
+        "json_filename": "2MA12.json"
+    },
+    {
+        "book_usfm_code": "2MA",
+        "chapter_number": "13",
+        "json_filename": "2MA13.json"
+    },
+    {
+        "book_usfm_code": "2MA",
+        "chapter_number": "14",
+        "json_filename": "2MA14.json"
+    },
+    {
+        "book_usfm_code": "2MA",
+        "chapter_number": "15",
+        "json_filename": "2MA15.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "1",
+        "json_filename": "MAT1.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "2",
+        "json_filename": "MAT2.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "3",
+        "json_filename": "MAT3.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "4",
+        "json_filename": "MAT4.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "5",
+        "json_filename": "MAT5.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "6",
+        "json_filename": "MAT6.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "7",
+        "json_filename": "MAT7.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "8",
+        "json_filename": "MAT8.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "9",
+        "json_filename": "MAT9.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "10",
+        "json_filename": "MAT10.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "11",
+        "json_filename": "MAT11.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "12",
+        "json_filename": "MAT12.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "13",
+        "json_filename": "MAT13.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "14",
+        "json_filename": "MAT14.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "15",
+        "json_filename": "MAT15.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "16",
+        "json_filename": "MAT16.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "17",
+        "json_filename": "MAT17.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "18",
+        "json_filename": "MAT18.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "19",
+        "json_filename": "MAT19.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "20",
+        "json_filename": "MAT20.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "21",
+        "json_filename": "MAT21.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "22",
+        "json_filename": "MAT22.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "23",
+        "json_filename": "MAT23.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "24",
+        "json_filename": "MAT24.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "25",
+        "json_filename": "MAT25.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "26",
+        "json_filename": "MAT26.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "27",
+        "json_filename": "MAT27.json"
+    },
+    {
+        "book_usfm_code": "MAT",
+        "chapter_number": "28",
+        "json_filename": "MAT28.json"
+    },
+    {
+        "book_usfm_code": "MRK",
+        "chapter_number": "1",
+        "json_filename": "MRK1.json"
+    },
+    {
+        "book_usfm_code": "MRK",
+        "chapter_number": "2",
+        "json_filename": "MRK2.json"
+    },
+    {
+        "book_usfm_code": "MRK",
+        "chapter_number": "3",
+        "json_filename": "MRK3.json"
+    },
+    {
+        "book_usfm_code": "MRK",
+        "chapter_number": "4",
+        "json_filename": "MRK4.json"
+    },
+    {
+        "book_usfm_code": "MRK",
+        "chapter_number": "5",
+        "json_filename": "MRK5.json"
+    },
+    {
+        "book_usfm_code": "MRK",
+        "chapter_number": "6",
+        "json_filename": "MRK6.json"
+    },
+    {
+        "book_usfm_code": "MRK",
+        "chapter_number": "7",
+        "json_filename": "MRK7.json"
+    },
+    {
+        "book_usfm_code": "MRK",
+        "chapter_number": "8",
+        "json_filename": "MRK8.json"
+    },
+    {
+        "book_usfm_code": "MRK",
+        "chapter_number": "9",
+        "json_filename": "MRK9.json"
+    },
+    {
+        "book_usfm_code": "MRK",
+        "chapter_number": "10",
+        "json_filename": "MRK10.json"
+    },
+    {
+        "book_usfm_code": "MRK",
+        "chapter_number": "11",
+        "json_filename": "MRK11.json"
+    },
+    {
+        "book_usfm_code": "MRK",
+        "chapter_number": "12",
+        "json_filename": "MRK12.json"
+    },
+    {
+        "book_usfm_code": "MRK",
+        "chapter_number": "13",
+        "json_filename": "MRK13.json"
+    },
+    {
+        "book_usfm_code": "MRK",
+        "chapter_number": "14",
+        "json_filename": "MRK14.json"
+    },
+    {
+        "book_usfm_code": "MRK",
+        "chapter_number": "15",
+        "json_filename": "MRK15.json"
+    },
+    {
+        "book_usfm_code": "MRK",
+        "chapter_number": "16",
+        "json_filename": "MRK16.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "1",
+        "json_filename": "LUK1.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "2",
+        "json_filename": "LUK2.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "3",
+        "json_filename": "LUK3.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "4",
+        "json_filename": "LUK4.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "5",
+        "json_filename": "LUK5.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "6",
+        "json_filename": "LUK6.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "7",
+        "json_filename": "LUK7.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "8",
+        "json_filename": "LUK8.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "9",
+        "json_filename": "LUK9.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "10",
+        "json_filename": "LUK10.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "11",
+        "json_filename": "LUK11.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "12",
+        "json_filename": "LUK12.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "13",
+        "json_filename": "LUK13.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "14",
+        "json_filename": "LUK14.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "15",
+        "json_filename": "LUK15.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "16",
+        "json_filename": "LUK16.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "17",
+        "json_filename": "LUK17.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "18",
+        "json_filename": "LUK18.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "19",
+        "json_filename": "LUK19.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "20",
+        "json_filename": "LUK20.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "21",
+        "json_filename": "LUK21.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "22",
+        "json_filename": "LUK22.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "23",
+        "json_filename": "LUK23.json"
+    },
+    {
+        "book_usfm_code": "LUK",
+        "chapter_number": "24",
+        "json_filename": "LUK24.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "1",
+        "json_filename": "JHN1.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "2",
+        "json_filename": "JHN2.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "3",
+        "json_filename": "JHN3.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "4",
+        "json_filename": "JHN4.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "5",
+        "json_filename": "JHN5.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "6",
+        "json_filename": "JHN6.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "7",
+        "json_filename": "JHN7.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "8",
+        "json_filename": "JHN8.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "9",
+        "json_filename": "JHN9.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "10",
+        "json_filename": "JHN10.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "11",
+        "json_filename": "JHN11.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "12",
+        "json_filename": "JHN12.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "13",
+        "json_filename": "JHN13.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "14",
+        "json_filename": "JHN14.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "15",
+        "json_filename": "JHN15.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "16",
+        "json_filename": "JHN16.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "17",
+        "json_filename": "JHN17.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "18",
+        "json_filename": "JHN18.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "19",
+        "json_filename": "JHN19.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "20",
+        "json_filename": "JHN20.json"
+    },
+    {
+        "book_usfm_code": "JHN",
+        "chapter_number": "21",
+        "json_filename": "JHN21.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "1",
+        "json_filename": "ACT1.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "2",
+        "json_filename": "ACT2.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "3",
+        "json_filename": "ACT3.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "4",
+        "json_filename": "ACT4.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "5",
+        "json_filename": "ACT5.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "6",
+        "json_filename": "ACT6.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "7",
+        "json_filename": "ACT7.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "8",
+        "json_filename": "ACT8.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "9",
+        "json_filename": "ACT9.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "10",
+        "json_filename": "ACT10.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "11",
+        "json_filename": "ACT11.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "12",
+        "json_filename": "ACT12.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "13",
+        "json_filename": "ACT13.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "14",
+        "json_filename": "ACT14.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "15",
+        "json_filename": "ACT15.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "16",
+        "json_filename": "ACT16.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "17",
+        "json_filename": "ACT17.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "18",
+        "json_filename": "ACT18.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "19",
+        "json_filename": "ACT19.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "20",
+        "json_filename": "ACT20.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "21",
+        "json_filename": "ACT21.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "22",
+        "json_filename": "ACT22.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "23",
+        "json_filename": "ACT23.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "24",
+        "json_filename": "ACT24.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "25",
+        "json_filename": "ACT25.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "26",
+        "json_filename": "ACT26.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "27",
+        "json_filename": "ACT27.json"
+    },
+    {
+        "book_usfm_code": "ACT",
+        "chapter_number": "28",
+        "json_filename": "ACT28.json"
+    },
+    {
+        "book_usfm_code": "ROM",
+        "chapter_number": "1",
+        "json_filename": "ROM1.json"
+    },
+    {
+        "book_usfm_code": "ROM",
+        "chapter_number": "2",
+        "json_filename": "ROM2.json"
+    },
+    {
+        "book_usfm_code": "ROM",
+        "chapter_number": "3",
+        "json_filename": "ROM3.json"
+    },
+    {
+        "book_usfm_code": "ROM",
+        "chapter_number": "4",
+        "json_filename": "ROM4.json"
+    },
+    {
+        "book_usfm_code": "ROM",
+        "chapter_number": "5",
+        "json_filename": "ROM5.json"
+    },
+    {
+        "book_usfm_code": "ROM",
+        "chapter_number": "6",
+        "json_filename": "ROM6.json"
+    },
+    {
+        "book_usfm_code": "ROM",
+        "chapter_number": "7",
+        "json_filename": "ROM7.json"
+    },
+    {
+        "book_usfm_code": "ROM",
+        "chapter_number": "8",
+        "json_filename": "ROM8.json"
+    },
+    {
+        "book_usfm_code": "ROM",
+        "chapter_number": "9",
+        "json_filename": "ROM9.json"
+    },
+    {
+        "book_usfm_code": "ROM",
+        "chapter_number": "10",
+        "json_filename": "ROM10.json"
+    },
+    {
+        "book_usfm_code": "ROM",
+        "chapter_number": "11",
+        "json_filename": "ROM11.json"
+    },
+    {
+        "book_usfm_code": "ROM",
+        "chapter_number": "12",
+        "json_filename": "ROM12.json"
+    },
+    {
+        "book_usfm_code": "ROM",
+        "chapter_number": "13",
+        "json_filename": "ROM13.json"
+    },
+    {
+        "book_usfm_code": "ROM",
+        "chapter_number": "14",
+        "json_filename": "ROM14.json"
+    },
+    {
+        "book_usfm_code": "ROM",
+        "chapter_number": "15",
+        "json_filename": "ROM15.json"
+    },
+    {
+        "book_usfm_code": "ROM",
+        "chapter_number": "16",
+        "json_filename": "ROM16.json"
+    },
+    {
+        "book_usfm_code": "1CO",
+        "chapter_number": "1",
+        "json_filename": "1CO1.json"
+    },
+    {
+        "book_usfm_code": "1CO",
+        "chapter_number": "2",
+        "json_filename": "1CO2.json"
+    },
+    {
+        "book_usfm_code": "1CO",
+        "chapter_number": "3",
+        "json_filename": "1CO3.json"
+    },
+    {
+        "book_usfm_code": "1CO",
+        "chapter_number": "4",
+        "json_filename": "1CO4.json"
+    },
+    {
+        "book_usfm_code": "1CO",
+        "chapter_number": "5",
+        "json_filename": "1CO5.json"
+    },
+    {
+        "book_usfm_code": "1CO",
+        "chapter_number": "6",
+        "json_filename": "1CO6.json"
+    },
+    {
+        "book_usfm_code": "1CO",
+        "chapter_number": "7",
+        "json_filename": "1CO7.json"
+    },
+    {
+        "book_usfm_code": "1CO",
+        "chapter_number": "8",
+        "json_filename": "1CO8.json"
+    },
+    {
+        "book_usfm_code": "1CO",
+        "chapter_number": "9",
+        "json_filename": "1CO9.json"
+    },
+    {
+        "book_usfm_code": "1CO",
+        "chapter_number": "10",
+        "json_filename": "1CO10.json"
+    },
+    {
+        "book_usfm_code": "1CO",
+        "chapter_number": "11",
+        "json_filename": "1CO11.json"
+    },
+    {
+        "book_usfm_code": "1CO",
+        "chapter_number": "12",
+        "json_filename": "1CO12.json"
+    },
+    {
+        "book_usfm_code": "1CO",
+        "chapter_number": "13",
+        "json_filename": "1CO13.json"
+    },
+    {
+        "book_usfm_code": "1CO",
+        "chapter_number": "14",
+        "json_filename": "1CO14.json"
+    },
+    {
+        "book_usfm_code": "1CO",
+        "chapter_number": "15",
+        "json_filename": "1CO15.json"
+    },
+    {
+        "book_usfm_code": "1CO",
+        "chapter_number": "16",
+        "json_filename": "1CO16.json"
+    },
+    {
+        "book_usfm_code": "2CO",
+        "chapter_number": "1",
+        "json_filename": "2CO1.json"
+    },
+    {
+        "book_usfm_code": "2CO",
+        "chapter_number": "2",
+        "json_filename": "2CO2.json"
+    },
+    {
+        "book_usfm_code": "2CO",
+        "chapter_number": "3",
+        "json_filename": "2CO3.json"
+    },
+    {
+        "book_usfm_code": "2CO",
+        "chapter_number": "4",
+        "json_filename": "2CO4.json"
+    },
+    {
+        "book_usfm_code": "2CO",
+        "chapter_number": "5",
+        "json_filename": "2CO5.json"
+    },
+    {
+        "book_usfm_code": "2CO",
+        "chapter_number": "6",
+        "json_filename": "2CO6.json"
+    },
+    {
+        "book_usfm_code": "2CO",
+        "chapter_number": "7",
+        "json_filename": "2CO7.json"
+    },
+    {
+        "book_usfm_code": "2CO",
+        "chapter_number": "8",
+        "json_filename": "2CO8.json"
+    },
+    {
+        "book_usfm_code": "2CO",
+        "chapter_number": "9",
+        "json_filename": "2CO9.json"
+    },
+    {
+        "book_usfm_code": "2CO",
+        "chapter_number": "10",
+        "json_filename": "2CO10.json"
+    },
+    {
+        "book_usfm_code": "2CO",
+        "chapter_number": "11",
+        "json_filename": "2CO11.json"
+    },
+    {
+        "book_usfm_code": "2CO",
+        "chapter_number": "12",
+        "json_filename": "2CO12.json"
+    },
+    {
+        "book_usfm_code": "2CO",
+        "chapter_number": "13",
+        "json_filename": "2CO13.json"
+    },
+    {
+        "book_usfm_code": "GAL",
+        "chapter_number": "1",
+        "json_filename": "GAL1.json"
+    },
+    {
+        "book_usfm_code": "GAL",
+        "chapter_number": "2",
+        "json_filename": "GAL2.json"
+    },
+    {
+        "book_usfm_code": "GAL",
+        "chapter_number": "3",
+        "json_filename": "GAL3.json"
+    },
+    {
+        "book_usfm_code": "GAL",
+        "chapter_number": "4",
+        "json_filename": "GAL4.json"
+    },
+    {
+        "book_usfm_code": "GAL",
+        "chapter_number": "5",
+        "json_filename": "GAL5.json"
+    },
+    {
+        "book_usfm_code": "GAL",
+        "chapter_number": "6",
+        "json_filename": "GAL6.json"
+    },
+    {
+        "book_usfm_code": "EPH",
+        "chapter_number": "1",
+        "json_filename": "EPH1.json"
+    },
+    {
+        "book_usfm_code": "EPH",
+        "chapter_number": "2",
+        "json_filename": "EPH2.json"
+    },
+    {
+        "book_usfm_code": "EPH",
+        "chapter_number": "3",
+        "json_filename": "EPH3.json"
+    },
+    {
+        "book_usfm_code": "EPH",
+        "chapter_number": "4",
+        "json_filename": "EPH4.json"
+    },
+    {
+        "book_usfm_code": "EPH",
+        "chapter_number": "5",
+        "json_filename": "EPH5.json"
+    },
+    {
+        "book_usfm_code": "EPH",
+        "chapter_number": "6",
+        "json_filename": "EPH6.json"
+    },
+    {
+        "book_usfm_code": "PHP",
+        "chapter_number": "1",
+        "json_filename": "PHP1.json"
+    },
+    {
+        "book_usfm_code": "PHP",
+        "chapter_number": "2",
+        "json_filename": "PHP2.json"
+    },
+    {
+        "book_usfm_code": "PHP",
+        "chapter_number": "3",
+        "json_filename": "PHP3.json"
+    },
+    {
+        "book_usfm_code": "PHP",
+        "chapter_number": "4",
+        "json_filename": "PHP4.json"
+    },
+    {
+        "book_usfm_code": "COL",
+        "chapter_number": "1",
+        "json_filename": "COL1.json"
+    },
+    {
+        "book_usfm_code": "COL",
+        "chapter_number": "2",
+        "json_filename": "COL2.json"
+    },
+    {
+        "book_usfm_code": "COL",
+        "chapter_number": "3",
+        "json_filename": "COL3.json"
+    },
+    {
+        "book_usfm_code": "COL",
+        "chapter_number": "4",
+        "json_filename": "COL4.json"
+    },
+    {
+        "book_usfm_code": "1TH",
+        "chapter_number": "1",
+        "json_filename": "1TH1.json"
+    },
+    {
+        "book_usfm_code": "1TH",
+        "chapter_number": "2",
+        "json_filename": "1TH2.json"
+    },
+    {
+        "book_usfm_code": "1TH",
+        "chapter_number": "3",
+        "json_filename": "1TH3.json"
+    },
+    {
+        "book_usfm_code": "1TH",
+        "chapter_number": "4",
+        "json_filename": "1TH4.json"
+    },
+    {
+        "book_usfm_code": "1TH",
+        "chapter_number": "5",
+        "json_filename": "1TH5.json"
+    },
+    {
+        "book_usfm_code": "2TH",
+        "chapter_number": "1",
+        "json_filename": "2TH1.json"
+    },
+    {
+        "book_usfm_code": "2TH",
+        "chapter_number": "2",
+        "json_filename": "2TH2.json"
+    },
+    {
+        "book_usfm_code": "2TH",
+        "chapter_number": "3",
+        "json_filename": "2TH3.json"
+    },
+    {
+        "book_usfm_code": "1TI",
+        "chapter_number": "1",
+        "json_filename": "1TI1.json"
+    },
+    {
+        "book_usfm_code": "1TI",
+        "chapter_number": "2",
+        "json_filename": "1TI2.json"
+    },
+    {
+        "book_usfm_code": "1TI",
+        "chapter_number": "3",
+        "json_filename": "1TI3.json"
+    },
+    {
+        "book_usfm_code": "1TI",
+        "chapter_number": "4",
+        "json_filename": "1TI4.json"
+    },
+    {
+        "book_usfm_code": "1TI",
+        "chapter_number": "5",
+        "json_filename": "1TI5.json"
+    },
+    {
+        "book_usfm_code": "1TI",
+        "chapter_number": "6",
+        "json_filename": "1TI6.json"
+    },
+    {
+        "book_usfm_code": "2TI",
+        "chapter_number": "1",
+        "json_filename": "2TI1.json"
+    },
+    {
+        "book_usfm_code": "2TI",
+        "chapter_number": "2",
+        "json_filename": "2TI2.json"
+    },
+    {
+        "book_usfm_code": "2TI",
+        "chapter_number": "3",
+        "json_filename": "2TI3.json"
+    },
+    {
+        "book_usfm_code": "2TI",
+        "chapter_number": "4",
+        "json_filename": "2TI4.json"
+    },
+    {
+        "book_usfm_code": "TIT",
+        "chapter_number": "1",
+        "json_filename": "TIT1.json"
+    },
+    {
+        "book_usfm_code": "TIT",
+        "chapter_number": "2",
+        "json_filename": "TIT2.json"
+    },
+    {
+        "book_usfm_code": "TIT",
+        "chapter_number": "3",
+        "json_filename": "TIT3.json"
+    },
+    {
+        "book_usfm_code": "PHM",
+        "chapter_number": "1",
+        "json_filename": "PHM1.json"
+    },
+    {
+        "book_usfm_code": "HEB",
+        "chapter_number": "1",
+        "json_filename": "HEB1.json"
+    },
+    {
+        "book_usfm_code": "HEB",
+        "chapter_number": "2",
+        "json_filename": "HEB2.json"
+    },
+    {
+        "book_usfm_code": "HEB",
+        "chapter_number": "3",
+        "json_filename": "HEB3.json"
+    },
+    {
+        "book_usfm_code": "HEB",
+        "chapter_number": "4",
+        "json_filename": "HEB4.json"
+    },
+    {
+        "book_usfm_code": "HEB",
+        "chapter_number": "5",
+        "json_filename": "HEB5.json"
+    },
+    {
+        "book_usfm_code": "HEB",
+        "chapter_number": "6",
+        "json_filename": "HEB6.json"
+    },
+    {
+        "book_usfm_code": "HEB",
+        "chapter_number": "7",
+        "json_filename": "HEB7.json"
+    },
+    {
+        "book_usfm_code": "HEB",
+        "chapter_number": "8",
+        "json_filename": "HEB8.json"
+    },
+    {
+        "book_usfm_code": "HEB",
+        "chapter_number": "9",
+        "json_filename": "HEB9.json"
+    },
+    {
+        "book_usfm_code": "HEB",
+        "chapter_number": "10",
+        "json_filename": "HEB10.json"
+    },
+    {
+        "book_usfm_code": "HEB",
+        "chapter_number": "11",
+        "json_filename": "HEB11.json"
+    },
+    {
+        "book_usfm_code": "HEB",
+        "chapter_number": "12",
+        "json_filename": "HEB12.json"
+    },
+    {
+        "book_usfm_code": "HEB",
+        "chapter_number": "13",
+        "json_filename": "HEB13.json"
+    },
+    {
+        "book_usfm_code": "JAS",
+        "chapter_number": "1",
+        "json_filename": "JAS1.json"
+    },
+    {
+        "book_usfm_code": "JAS",
+        "chapter_number": "2",
+        "json_filename": "JAS2.json"
+    },
+    {
+        "book_usfm_code": "JAS",
+        "chapter_number": "3",
+        "json_filename": "JAS3.json"
+    },
+    {
+        "book_usfm_code": "JAS",
+        "chapter_number": "4",
+        "json_filename": "JAS4.json"
+    },
+    {
+        "book_usfm_code": "JAS",
+        "chapter_number": "5",
+        "json_filename": "JAS5.json"
+    },
+    {
+        "book_usfm_code": "1PE",
+        "chapter_number": "1",
+        "json_filename": "1PE1.json"
+    },
+    {
+        "book_usfm_code": "1PE",
+        "chapter_number": "2",
+        "json_filename": "1PE2.json"
+    },
+    {
+        "book_usfm_code": "1PE",
+        "chapter_number": "3",
+        "json_filename": "1PE3.json"
+    },
+    {
+        "book_usfm_code": "1PE",
+        "chapter_number": "4",
+        "json_filename": "1PE4.json"
+    },
+    {
+        "book_usfm_code": "1PE",
+        "chapter_number": "5",
+        "json_filename": "1PE5.json"
+    },
+    {
+        "book_usfm_code": "2PE",
+        "chapter_number": "1",
+        "json_filename": "2PE1.json"
+    },
+    {
+        "book_usfm_code": "2PE",
+        "chapter_number": "2",
+        "json_filename": "2PE2.json"
+    },
+    {
+        "book_usfm_code": "2PE",
+        "chapter_number": "3",
+        "json_filename": "2PE3.json"
+    },
+    {
+        "book_usfm_code": "1JN",
+        "chapter_number": "1",
+        "json_filename": "1JN1.json"
+    },
+    {
+        "book_usfm_code": "1JN",
+        "chapter_number": "2",
+        "json_filename": "1JN2.json"
+    },
+    {
+        "book_usfm_code": "1JN",
+        "chapter_number": "3",
+        "json_filename": "1JN3.json"
+    },
+    {
+        "book_usfm_code": "1JN",
+        "chapter_number": "4",
+        "json_filename": "1JN4.json"
+    },
+    {
+        "book_usfm_code": "1JN",
+        "chapter_number": "5",
+        "json_filename": "1JN5.json"
+    },
+    {
+        "book_usfm_code": "2JN",
+        "chapter_number": "1",
+        "json_filename": "2JN1.json"
+    },
+    {
+        "book_usfm_code": "3JN",
+        "chapter_number": "1",
+        "json_filename": "3JN1.json"
+    },
+    {
+        "book_usfm_code": "JUD",
+        "chapter_number": "1",
+        "json_filename": "JUD1.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "1",
+        "json_filename": "REV1.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "2",
+        "json_filename": "REV2.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "3",
+        "json_filename": "REV3.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "4",
+        "json_filename": "REV4.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "5",
+        "json_filename": "REV5.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "6",
+        "json_filename": "REV6.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "7",
+        "json_filename": "REV7.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "8",
+        "json_filename": "REV8.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "9",
+        "json_filename": "REV9.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "10",
+        "json_filename": "REV10.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "11",
+        "json_filename": "REV11.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "12",
+        "json_filename": "REV12.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "13",
+        "json_filename": "REV13.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "14",
+        "json_filename": "REV14.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "15",
+        "json_filename": "REV15.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "16",
+        "json_filename": "REV16.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "17",
+        "json_filename": "REV17.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "18",
+        "json_filename": "REV18.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "19",
+        "json_filename": "REV19.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "20",
+        "json_filename": "REV20.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "21",
+        "json_filename": "REV21.json"
+    },
+    {
+        "book_usfm_code": "REV",
+        "chapter_number": "22",
+        "json_filename": "REV22.json"
+    }
+]
