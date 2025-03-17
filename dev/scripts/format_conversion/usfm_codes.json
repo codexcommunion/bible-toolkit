@@ -1,0 +1,507 @@
+{
+    "GEN": {
+        "code": "GEN",
+        "name": "Genesis",
+        "notes": "'1 Moses' in some Bibles"
+    },
+    "EXO": {
+        "code": "EXO",
+        "name": "Exodus",
+        "notes": "'2 Moses' in some Bibles"
+    },
+    "LEV": {
+        "code": "LEV",
+        "name": "Leviticus",
+        "notes": "'3 Moses' in some Bibles"
+    },
+    "NUM": {
+        "code": "NUM",
+        "name": "Numbers",
+        "notes": "'4 Moses' in some Bibles"
+    },
+    "DEU": {
+        "code": "DEU",
+        "name": "Deuteronomy",
+        "notes": "'5 Moses' in some Bibles"
+    },
+    "JOS": {
+        "code": "JOS",
+        "name": "Joshua",
+        "notes": " "
+    },
+    "JDG": {
+        "code": "JDG",
+        "name": "Judges",
+        "notes": " "
+    },
+    "RUT": {
+        "code": "RUT",
+        "name": "Ruth",
+        "notes": " "
+    },
+    "1SA": {
+        "code": "1SA",
+        "name": "1 Samuel",
+        "notes": "1 Kings or Kingdoms in Orthodox Bibles; |br| do not confuse this abbreviation with |br| ISA for Isaiah"
+    },
+    "2SA": {
+        "code": "2SA",
+        "name": "2 Samuel",
+        "notes": "2 Kings or Kingdoms in Orthodox Bibles"
+    },
+    "1KI": {
+        "code": "1KI",
+        "name": "1 Kings",
+        "notes": "3 Kings or Kingdoms in Orthodox Bibles"
+    },
+    "2KI": {
+        "code": "2KI",
+        "name": "2 Kings",
+        "notes": "4 Kings or Kingdoms in Orthodox Bibles"
+    },
+    "1CH": {
+        "code": "1CH",
+        "name": "1 Chronicles",
+        "notes": "1 Paralipomenon in Orthodox Bibles"
+    },
+    "2CH": {
+        "code": "2CH",
+        "name": "2 Chronicles",
+        "notes": "2 Paralipomenon in Orthodox Bibles"
+    },
+    "EZR": {
+        "code": "EZR",
+        "name": "Ezra",
+        "notes": "This is for Hebrew Ezra"
+    },
+    "NEH": {
+        "code": "NEH",
+        "name": "Nehemiah",
+        "notes": "Sometimes appended to Ezra; called |br| 2 Esdras in the Vulgate"
+    },
+    "EST": {
+        "code": "EST",
+        "name": "Esther (Hebrew)",
+        "notes": "This is for Hebrew Esther; for the longer |br| Greek LXX Esther use ESG"
+    },
+    "JOB": {
+        "code": "JOB",
+        "name": "Job",
+        "notes": ""
+    },
+    "PSA": {
+        "code": "PSA",
+        "name": "Psalms",
+        "notes": "150 Psalms in Hebrew"
+    },
+    "PRO": {
+        "code": "PRO",
+        "name": "Proverbs",
+        "notes": "31 Proverbs"
+    },
+    "ECC": {
+        "code": "ECC",
+        "name": "Ecclesiastes",
+        "notes": "Qoholeth in Catholic Bibles; for |br| Ecclesiasticus use SIR"
+    },
+    "SNG": {
+        "code": "SNG",
+        "name": "Song of Songs",
+        "notes": "Song of Solomon"
+    },
+    "ISA": {
+        "code": "ISA",
+        "name": "Isaiah",
+        "notes": "Do not confuse this abbreviation with 1SA |br| for 1 Samuel"
+    },
+    "JER": {
+        "code": "JER",
+        "name": "Jeremiah",
+        "notes": "The Book of Jeremiah; for the Letter of |br| Jeremiah use LJE"
+    },
+    "LAM": {
+        "code": "LAM",
+        "name": "Lamentations",
+        "notes": "The Lamentations of Jeremiah"
+    },
+    "EZK": {
+        "code": "EZK",
+        "name": "Ezekiel",
+        "notes": ""
+    },
+    "DAN": {
+        "code": "DAN",
+        "name": "Daniel (Hebrew)",
+        "notes": "This is for Hebrew Daniel; for the longer |br| Greek LXX Daniel use DAG"
+    },
+    "HOS": {
+        "code": "HOS",
+        "name": "Hosea",
+        "notes": ""
+    },
+    "JOL": {
+        "code": "JOL",
+        "name": "Joel",
+        "notes": ""
+    },
+    "AMO": {
+        "code": "AMO",
+        "name": "Amos",
+        "notes": ""
+    },
+    "OBA": {
+        "code": "OBA",
+        "name": "Obadiah",
+        "notes": ""
+    },
+    "JON": {
+        "code": "JON",
+        "name": "Jonah",
+        "notes": "Do not confuse this abbreviation with JHN |br| for John"
+    },
+    "MIC": {
+        "code": "MIC",
+        "name": "Micah",
+        "notes": ""
+    },
+    "NAM": {
+        "code": "NAM",
+        "name": "Nahum",
+        "notes": ""
+    },
+    "HAB": {
+        "code": "HAB",
+        "name": "Habakkuk",
+        "notes": ""
+    },
+    "ZEP": {
+        "code": "ZEP",
+        "name": "Zephaniah",
+        "notes": ""
+    },
+    "HAG": {
+        "code": "HAG",
+        "name": "Haggai",
+        "notes": ""
+    },
+    "ZEC": {
+        "code": "ZEC",
+        "name": "Zechariah",
+        "notes": ""
+    },
+    "MAL": {
+        "code": "MAL",
+        "name": "Malachi",
+        "notes": ""
+    },
+    "MAT": {
+        "code": "MAT",
+        "name": "Matthew",
+        "notes": "The Gospel according to Matthew"
+    },
+    "MRK": {
+        "code": "MRK",
+        "name": "Mark",
+        "notes": "The Gospel according to Mark"
+    },
+    "LUK": {
+        "code": "LUK",
+        "name": "Luke",
+        "notes": "The Gospel according to Luke"
+    },
+    "JHN": {
+        "code": "JHN",
+        "name": "John",
+        "notes": "The Gospel according to John"
+    },
+    "ACT": {
+        "code": "ACT",
+        "name": "Acts",
+        "notes": "The Acts of the Apostles"
+    },
+    "ROM": {
+        "code": "ROM",
+        "name": "Romans",
+        "notes": "The Letter of Paul to the Romans"
+    },
+    "1CO": {
+        "code": "1CO",
+        "name": "1 Corinthians",
+        "notes": "The First Letter of Paul to the Corinthians"
+    },
+    "2CO": {
+        "code": "2CO",
+        "name": "2 Corinthians",
+        "notes": "The Second Letter of Paul to the Corinthians"
+    },
+    "GAL": {
+        "code": "GAL",
+        "name": "Galatians",
+        "notes": "The Letter of Paul to the Galatians"
+    },
+    "EPH": {
+        "code": "EPH",
+        "name": "Ephesians",
+        "notes": "The Letter of Paul to the Ephesians"
+    },
+    "PHP": {
+        "code": "PHP",
+        "name": "Philippians",
+        "notes": "The Letter of Paul to the Philippians"
+    },
+    "COL": {
+        "code": "COL",
+        "name": "Colossians",
+        "notes": "The Letter of Paul to the Colossians"
+    },
+    "1TH": {
+        "code": "1TH",
+        "name": "1 Thessalonians",
+        "notes": "The First Letter of Paul to the Thessalonians"
+    },
+    "2TH": {
+        "code": "2TH",
+        "name": "2 Thessalonians",
+        "notes": "The Second Letter of Paul to the |br| Thessalonians"
+    },
+    "1TI": {
+        "code": "1TI",
+        "name": "1 Timothy",
+        "notes": "The First Letter of Paul to Timothy"
+    },
+    "2TI": {
+        "code": "2TI",
+        "name": "2 Timothy",
+        "notes": "The Second Letter of Paul to Timothy"
+    },
+    "TIT": {
+        "code": "TIT",
+        "name": "Titus",
+        "notes": "The Letter of Paul to Titus"
+    },
+    "PHM": {
+        "code": "PHM",
+        "name": "Philemon",
+        "notes": "The Letter of Paul to Philemon"
+    },
+    "HEB": {
+        "code": "HEB",
+        "name": "Hebrews",
+        "notes": "The Letter to the Hebrews"
+    },
+    "JAS": {
+        "code": "JAS",
+        "name": "James",
+        "notes": "The Letter of James"
+    },
+    "1PE": {
+        "code": "1PE",
+        "name": "1 Peter",
+        "notes": "The First Letter of Peter"
+    },
+    "2PE": {
+        "code": "2PE",
+        "name": "2 Peter",
+        "notes": "The Second Letter of Peter"
+    },
+    "1JN": {
+        "code": "1JN",
+        "name": "1 John",
+        "notes": "The First Letter of John"
+    },
+    "2JN": {
+        "code": "2JN",
+        "name": "2 John",
+        "notes": "The Second Letter of John"
+    },
+    "3JN": {
+        "code": "3JN",
+        "name": "3 John",
+        "notes": "The Third Letter of John"
+    },
+    "JUD": {
+        "code": "JUD",
+        "name": "Jude",
+        "notes": "The Letter of Jude; do not confuse this |br|"
+    },
+    "REV": {
+        "code": "REV",
+        "name": "Revelation",
+        "notes": "The Revelation to John; called Apocalypse in |br|"
+    },
+    "TOB": {
+        "code": "TOB",
+        "name": "Tobit",
+        "notes": ""
+    },
+    "JDT": {
+        "code": "JDT",
+        "name": "Judith",
+        "notes": ""
+    },
+    "ESG": {
+        "code": "ESG",
+        "name": "Esther Greek",
+        "notes": ""
+    },
+    "WIS": {
+        "code": "WIS",
+        "name": "Wisdom of Solomon",
+        "notes": ""
+    },
+    "SIR": {
+        "code": "SIR",
+        "name": "Sirach",
+        "notes": "Ecclesiasticus or Jesus son of Sirach"
+    },
+    "BAR": {
+        "code": "BAR",
+        "name": "Baruch",
+        "notes": "5 chapters in Orthodox Bibles (LJE is |br|"
+    },
+    "LJE": {
+        "code": "LJE",
+        "name": "Letter of Jeremiah",
+        "notes": "Sometimes included in Baruch; called 'Rest |br|"
+    },
+    "S3Y": {
+        "code": "S3Y",
+        "name": "Song of the 3 Young Men",
+        "notes": "Includes the Prayer of Azariah; sometimes |br|"
+    },
+    "SUS": {
+        "code": "SUS",
+        "name": "Susanna",
+        "notes": "Sometimes included in Greek Daniel"
+    },
+    "BEL": {
+        "code": "BEL",
+        "name": "Bel and the Dragon",
+        "notes": "Sometimes included in Greek Daniel; called |br|"
+    },
+    "1MA": {
+        "code": "1MA",
+        "name": "1 Maccabees",
+        "notes": "Called '3 Maccabees' in some traditions"
+    },
+    "2MA": {
+        "code": "2MA",
+        "name": "2 Maccabees",
+        "notes": "Called '1 Maccabees' in some traditions"
+    },
+    "3MA": {
+        "code": "3MA",
+        "name": "3 Maccabees",
+        "notes": "Called '2 Maccabees' in some traditions"
+    },
+    "4MA": {
+        "code": "4MA",
+        "name": "4 Maccabees",
+        "notes": "In an appendix to the Greek Bible and in the |br| Georgian Bible"
+    },
+    "1ES": {
+        "code": "1ES",
+        "name": "1 Esdras (Greek)",
+        "notes": "The 9 chapter book of Greek Ezra in the LXX"
+    },
+    "2ES": {
+        "code": "2ES",
+        "name": "2 Esdras (Latin)",
+        "notes": "The 16 chapter book of Latin Esdras called |br| '3 Esdras' in Russian Bibles and called |br| '4 Esdras' in the Vulgate; for the 12 chapter |br| Apocalypse of Ezra use EZA"
+    },
+    "MAN": {
+        "code": "MAN",
+        "name": "Prayer of Manasseh",
+        "notes": "Sometimes appended to 2 Chronicles"
+    },
+    "PS2": {
+        "code": "PS2",
+        "name": "Psalm 151",
+        "notes": "An additional Psalm in the Septuagint"
+    },
+    "ODA": {
+        "code": "ODA",
+        "name": "Odae/Odes",
+        "notes": "A book in some editions of the Septuagint; |br| Odes has different contents in Greek"
+    },
+    "PSS": {
+        "code": "PSS",
+        "name": "Psalms of Solomon",
+        "notes": "A book in some editions of the Septuagint"
+    },
+    "EZA": {
+        "code": "EZA",
+        "name": "Ezra Apocalypse",
+        "notes": "12 chapter book of Ezra Apocalypse; called |br| '3 Ezra' in the Armenian Bible"
+    },
+    "5EZ": {
+        "code": "5EZ",
+        "name": "5 Ezra",
+        "notes": "2 chapter Latin preface to Ezra Apocalypse; |br| formerly called 5ES"
+    },
+    "6EZ": {
+        "code": "6EZ",
+        "name": "6 Ezra",
+        "notes": "2 chapter Latin conclusion to Ezra |br| Apocalypse; formerly called 6ES"
+    },
+    "DAG": {
+        "code": "DAG",
+        "name": "Daniel Greek",
+        "notes": "The 14 chapter version of Daniel from the |br| Septuagint including Greek additions"
+    },
+    "PS3": {
+        "code": "PS3",
+        "name": "Psalms 152-155",
+        "notes": "Additional Psalms 152-155 found in West |br| Syriac manuscripts"
+    },
+    "2BA": {
+        "code": "2BA",
+        "name": "2 Baruch (Apocalypse)",
+        "notes": "The Apocalypse of Baruch in Syriac Bibles"
+    },
+    "LBA": {
+        "code": "LBA",
+        "name": "Letter of Baruch",
+        "notes": "Sometimes appended to 2 Baruch; |br|  sometimes separate in Syriac Bibles"
+    },
+    "JUB": {
+        "code": "JUB",
+        "name": "Jubilees",
+        "notes": "Ancient Hebrew book used in the Ethiopian |br| Bible"
+    },
+    "ENO": {
+        "code": "ENO",
+        "name": "Enoch",
+        "notes": "Sometimes called '1 Enoch'; ancient Hebrew |br| book in the Ethiopian Bible"
+    },
+    "1MQ": {
+        "code": "1MQ",
+        "name": "1 Meqabyan/Mekabis",
+        "notes": "Book of Mekabis of Benjamin in the |br| Ethiopian Bible"
+    },
+    "2MQ": {
+        "code": "2MQ",
+        "name": "2 Meqabyan/Mekabis",
+        "notes": "Book of Mekabis of Moab in the Ethiopian |br| Bible"
+    },
+    "3MQ": {
+        "code": "3MQ",
+        "name": "3 Meqabyan/Mekabis",
+        "notes": "Book of Meqabyan in the Ethiopian Bible"
+    },
+    "REP": {
+        "code": "REP",
+        "name": "Reproof",
+        "notes": "Proverbs part 2: Used in the Ethiopian Bible"
+    },
+    "4BA": {
+        "code": "4BA",
+        "name": "4 Baruch",
+        "notes": "Paralipomenon of Jeremiah"
+    },
+    "LAO": {
+        "code": "LAO",
+        "name": "Letter to the Laodiceans",
+        "notes": "A Latin Vulgate book"
+    }
+}
