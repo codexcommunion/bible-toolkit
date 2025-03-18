@@ -3,6 +3,7 @@ import re
 import json
 import yaml
 import argparse
+import datetime
 from bs4 import BeautifulSoup
 
 def extract_usfm_code(filename):
@@ -13,7 +14,7 @@ def extract_usfm_code(filename):
     return None  # Skip invalid filenames
 
 def extract_verse_text(verse_tag):
-    """Extracts verse text, handling cases where text is split across multiple spans."""
+    """Extracts verse text, handling cases where text is split across multiple spans, including non-integer verse numbering."""
     text_parts = []
     current_element = verse_tag.next_sibling
     
@@ -30,7 +31,7 @@ def extract_verse_text(verse_tag):
     
     return " ".join(filter(None, text_parts))
 
-def parse_html_to_json_yaml(html_file, output_directory, language_code):
+def parse_html_to_json_yaml(html_file, output_directory, language_code, index_list, book_set, verse_count):
     with open(html_file, "r", encoding="utf-8") as file:
         soup = BeautifulSoup(file, "html.parser")
     
@@ -54,25 +55,23 @@ def parse_html_to_json_yaml(html_file, output_directory, language_code):
         return  # Skip invalid chapters
     chapter_number = int(chapter_number)
     
-    # Extract verses
+    # Extract verses, preserving non-integer verse numbering (e.g., 1a, 1b)
     verses = []
     for verse_tag in soup.find_all("span", class_="verse"):
-        verse_id = verse_tag.get("id", "Unknown").replace("V", "")
+        verse_text_content = verse_tag.get_text(strip=True).replace("\xa0", "")  # Normalize & remove non-breaking spaces
         
-        # Ensure the verse ID is a valid number
-        if not verse_id.isdigit():
-            print(f"Skipping verse in {html_file}: Invalid verse ID: {verse_id}")
-            continue  # Skip invalid verses
+        # Preserve verse numbering exactly as it appears in the HTML
+        verse_number = verse_text_content if verse_text_content else "Unknown"
         
         verse_text = extract_verse_text(verse_tag)
         
         verses.append({
-            "book_title": title,  # book name from HTML title (in language)
-            "book_usfm_code": usfm_code,  # Extracted USFM book code from filename
-            "chapter_number": chapter_number,  # Now stored as an integer
-            "verse_number": int(verse_id),
-            "verse_text": verse_text,
-            "iso-639-2_language_code": language_code  # Language code parameter
+            "book": title,
+            "usfm_code": usfm_code,
+            "chapter": chapter_number,
+            "verse": verse_number,  # Now correctly extracted from tag content and normalized
+            "text": verse_text,
+            "iso-639-2_language_code": language_code
         })
     
     # If no valid verses were found, skip file
@@ -82,8 +81,10 @@ def parse_html_to_json_yaml(html_file, output_directory, language_code):
     
     # Define output file paths using USFMCode_ChapterNumber format
     os.makedirs(output_directory, exist_ok=True)
-    json_file = os.path.join(output_directory, f"{usfm_code}{chapter_number:02}.json")
-    yaml_file = os.path.join(output_directory, f"{usfm_code}{chapter_number:02}.yaml")
+    json_filename = f"{usfm_code}{chapter_number:02}.json"
+    yaml_filename = f"{usfm_code}{chapter_number:02}.yaml"
+    json_file = os.path.join(output_directory, json_filename)
+    yaml_file = os.path.join(output_directory, yaml_filename)
     
     # Save JSON output
     with open(json_file, "w", encoding="utf-8") as jf:
@@ -93,37 +94,51 @@ def parse_html_to_json_yaml(html_file, output_directory, language_code):
     with open(yaml_file, "w", encoding="utf-8") as yf:
         yaml.dump(verses, yf, allow_unicode=True, default_flow_style=False)
     
+    # Add to index and book set
+    index_list.append({
+        "book_usfm_code": usfm_code,
+        "chapter_number": str(chapter_number),
+        "json_filename": json_filename
+    })
+    book_set.add(usfm_code)
+    verse_count.append(len(verses))
+    
     print(f"Conversion complete! JSON: {json_file}, YAML: {yaml_file}")
 
 # Main execution block
 if __name__ == "__main__":
     script_dir = os.path.dirname(os.path.abspath(__file__))
     
-    # Default directories (NOTE: this script was only tested on greek/english, if you add other languages following this same format, the source HTML may not be compatible)
+    # Default directories
     default_input_dir = os.path.join(script_dir, "..", "..", "..", "assets", "septaugint", "brenton", "greek_koine_html")
     default_output_dir = os.path.join(script_dir, "..", "..", "..", "data", "septuagint", "brenton", "greek_koine")
-    default_language_code = "grc"  # Default to Ancient Greek (Koine)
-
+    default_language_code = "grc"
+  
+    # Default directories
     # default_input_dir = os.path.join(script_dir, "..", "..", "..", "assets", "septaugint", "brenton", "english_html")
     # default_output_dir = os.path.join(script_dir, "..", "..", "..", "data", "septuagint", "brenton", "english")
-    # default_language_code = "eng"  # English
-    
+    # default_language_code = "eng"
     
     # Argument parser setup
     parser = argparse.ArgumentParser(description="Convert Septuagint HTML to JSON/YAML")
-    parser.add_argument("--input", type=str, default=default_input_dir, help="Path to the input directory (default: assets/septaugint/brenton/greek_koine_html)")
-    parser.add_argument("--output", type=str, default=default_output_dir, help="Path to the output directory (default: data/septuagint/brenton/greek_koine)")
-    parser.add_argument("--language", type=str, default=default_language_code, help="ISO 639-2 language code for the text (default: grc for Koine Greek)")
+    parser.add_argument("--input", type=str, default=default_input_dir)
+    parser.add_argument("--output", type=str, default=default_output_dir)
+    parser.add_argument("--language", type=str, default=default_language_code)
     
     args = parser.parse_args()
     input_directory = args.input
     output_directory = args.output
     language_code = args.language
     
-    # Process all HTML files in the directory
+    index_list = []
+    book_set = set()
+    verse_count = []
+    
     for filename in os.listdir(input_directory):
         if filename.endswith(".htm") or filename.endswith(".html"):
             try:
-                parse_html_to_json_yaml(os.path.join(input_directory, filename), output_directory, language_code)
+                parse_html_to_json_yaml(os.path.join(input_directory, filename), output_directory, language_code, index_list, book_set, verse_count)
             except Exception as e:
                 print(f"Skipping {filename}: {e}")
+    
+    print("Index and metadata files created successfully!")
