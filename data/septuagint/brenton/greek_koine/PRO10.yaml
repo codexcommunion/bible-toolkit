@@ -1,205 +1,202 @@
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Υἱὸς σοφὸς εὐφραίνει πατέρα, υἱὸς δὲ ἄφρων λύπη τῇ μητρί.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Υἱὸς σοφὸς εὐφραίνει πατέρα, υἱὸς δὲ ἄφρων λύπη τῇ μητρί.
+  usfm_code: PRO
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Οὐκ ὠφελήσουσι θησαυροὶ ἀνόμους, δικαιοσύνη δὲ ῥύσεται ἐκ θανάτου.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Οὐκ ὠφελήσουσι θησαυροὶ ἀνόμους, δικαιοσύνη δὲ ῥύσεται ἐκ θανάτου.
+  usfm_code: PRO
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Οὐ λιμοκτονήσει Κύριος ψυχὴν δικαίαν, ζωὴν δὲ ἀσεβῶν ἀνατρέψει.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Οὐ λιμοκτονήσει Κύριος ψυχὴν δικαίαν, ζωὴν δὲ ἀσεβῶν ἀνατρέψει.
+  usfm_code: PRO
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Πενία ἄνδρα ταπεινοῖ, χεῖρες δὲ ἀνδρείων πλουτίζουσιν·
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Πενία ἄνδρα ταπεινοῖ, χεῖρες δὲ ἀνδρείων πλουτίζουσιν·
+  usfm_code: PRO
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: υἱὸς πεπαιδευμένος σοφὸς ἔσται, τῷ δὲ ἄφρονι διακόνῳ χρήσεται.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: υἱὸς πεπαιδευμένος σοφὸς ἔσται, τῷ δὲ ἄφρονι διακόνῳ χρήσεται.
+  usfm_code: PRO
+  verse: 4a
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Διεσώθη ἀπὸ καύματος υἱὸς νοήμων, ἀνεμόφθορος δὲ γίνεται ἐν ἀμητῷ υἱὸς
-    παράνομος.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Διεσώθη ἀπὸ καύματος υἱὸς νοήμων, ἀνεμόφθορος δὲ γίνεται ἐν ἀμητῷ υἱὸς παράνομος.
+  usfm_code: PRO
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Εὐλογία Κυρίου ἐπὶ κεφαλὴν δικαίου, στόμα δὲ ἀσεβῶν καλύψει πένθος ἄωρον.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Εὐλογία Κυρίου ἐπὶ κεφαλὴν δικαίου, στόμα δὲ ἀσεβῶν καλύψει πένθος ἄωρον.
+  usfm_code: PRO
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Μνήμη δικαίων μετʼ ἐγκωμίων, ὄνομα δὲ ἀσεβοῦς σβέννυται.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Μνήμη δικαίων μετʼ ἐγκωμίων, ὄνομα δὲ ἀσεβοῦς σβέννυται.
+  usfm_code: PRO
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Σοφὸς καρδίᾳ δέξεται ἐντολὰς, ὁ δὲ ἄστεγος χείλες σκολιάζων ὑποσκελισθήσεται.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Σοφὸς καρδίᾳ δέξεται ἐντολὰς, ὁ δὲ ἄστεγος χείλες σκολιάζων ὑποσκελισθήσεται.
+  usfm_code: PRO
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Ὃς πορεύεται ἁπλῶς, πορεύεται πεποιθώς· ὁ δὲ διαστρέφων τὰς ὁδοὺς αὐτοῦ,
-    γνωσθήσεται.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Ὃς πορεύεται ἁπλῶς, πορεύεται πεποιθώς· ὁ δὲ διαστρέφων τὰς ὁδοὺς αὐτοῦ, γνωσθήσεται.
+  usfm_code: PRO
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Ὁ ἐννεύων ὀφθαλμοῖς μετὰ δόλου, συνάγει ἀνδράσι λύπας· ὁ δὲ ἐλέγχων
-    μετὰ παῤῥησίας, εἰρηνοποιεῖ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Ὁ ἐννεύων ὀφθαλμοῖς μετὰ δόλου, συνάγει ἀνδράσι λύπας· ὁ δὲ ἐλέγχων μετὰ παῤῥησίας,
+    εἰρηνοποιεῖ.
+  usfm_code: PRO
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Πηγὴ ζωῆς ἐν χειρὶ δικαίου, στόμα δὲ ἀσεβοῦς καλύψει ἀπώλεια.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Πηγὴ ζωῆς ἐν χειρὶ δικαίου, στόμα δὲ ἀσεβοῦς καλύψει ἀπώλεια.
+  usfm_code: PRO
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Μῖσος ἐγείρει νεῖκος, πάντας δὲ τοὺς μὴ φιλονεικοῦντας καλύπτει φιλία.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Μῖσος ἐγείρει νεῖκος, πάντας δὲ τοὺς μὴ φιλονεικοῦντας καλύπτει φιλία.
+  usfm_code: PRO
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Ὃ ἐκ χειλέων προφέρει σοφίαν, ῥάβδῳ τύπτει ἄνδρα ἀκάρδιον.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Ὃ ἐκ χειλέων προφέρει σοφίαν, ῥάβδῳ τύπτει ἄνδρα ἀκάρδιον.
+  usfm_code: PRO
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Σοφοὶ κρύψουσιν αἴσθησιν, στόμα δὲ προπετοῦς ἐγγίζει συντριβῇ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Σοφοὶ κρύψουσιν αἴσθησιν, στόμα δὲ προπετοῦς ἐγγίζει συντριβῇ.
+  usfm_code: PRO
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Κτῆσις πλουσίων πόλις ὀχυρὰ, συντριβὴ δὲ ἀσεβῶν πενία.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Κτῆσις πλουσίων πόλις ὀχυρὰ, συντριβὴ δὲ ἀσεβῶν πενία.
+  usfm_code: PRO
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Ἔργα δικαίων ζωὴν ποιεῖ, καρποὶ δὲ ἀσεβῶν ἁμαρτίας.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Ἔργα δικαίων ζωὴν ποιεῖ, καρποὶ δὲ ἀσεβῶν ἁμαρτίας.
+  usfm_code: PRO
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Ὁδοὺς δικαίας ζωῆς φυλάσσει παιδεία, παιδεία δὲ ἀνεξέλεγκτος πλανᾶται.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Ὁδοὺς δικαίας ζωῆς φυλάσσει παιδεία, παιδεία δὲ ἀνεξέλεγκτος πλανᾶται.
+  usfm_code: PRO
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Καλύπτουσιν ἔχθραν χείλη δίκαια, οἱ δὲ ἐκφέροντες λοιδορίας ἀφρονέστατοί
-    εἰσιν.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Καλύπτουσιν ἔχθραν χείλη δίκαια, οἱ δὲ ἐκφέροντες λοιδορίας ἀφρονέστατοί εἰσιν.
+  usfm_code: PRO
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Ἐκ πολυλογίας οὐκ ἐκφεύξῃ ἁμαρτίαν, φειδόμενος δὲ χειλέων νοήμων ἔσῃ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Ἐκ πολυλογίας οὐκ ἐκφεύξῃ ἁμαρτίαν, φειδόμενος δὲ χειλέων νοήμων ἔσῃ.
+  usfm_code: PRO
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Ἄργυρος πεπυρωμένος γλῶσσα δικαίου, καρδία δὲ ἀσεβοῦς ἐκλείψει.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Ἄργυρος πεπυρωμένος γλῶσσα δικαίου, καρδία δὲ ἀσεβοῦς ἐκλείψει.
+  usfm_code: PRO
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: Χείλη δικαίων ἐπίσταται ὑψηλὰ, οἱ δὲ ἄφρονες ἐν ἐνδείᾳ τελευτῶσιν.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Χείλη δικαίων ἐπίσταται ὑψηλὰ, οἱ δὲ ἄφρονες ἐν ἐνδείᾳ τελευτῶσιν.
+  usfm_code: PRO
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: Εὐλογία Κυρίου ἐπὶ κεφαλὴν δικαίου, αὕτη πλουτίζει, καὶ οὐ μὴ προστεθῇ
-    αὐτῇ λύπη ἐν καρδίᾳ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Εὐλογία Κυρίου ἐπὶ κεφαλὴν δικαίου, αὕτη πλουτίζει, καὶ οὐ μὴ προστεθῇ αὐτῇ
+    λύπη ἐν καρδίᾳ.
+  usfm_code: PRO
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: Ἐν γέλωτι ἄφρων πράσσει κακὰ, ἡ δὲ σοφία ἀνδρὶ τίκτει φρόνησιν.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Ἐν γέλωτι ἄφρων πράσσει κακὰ, ἡ δὲ σοφία ἀνδρὶ τίκτει φρόνησιν.
+  usfm_code: PRO
+  verse: '23'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 24
-  verse_text: Ἐν ἀπωλείᾳ ἀσεβὴς περιφέρεται, ἐπιθυμία δὲ δικαίου δεκτή.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Ἐν ἀπωλείᾳ ἀσεβὴς περιφέρεται, ἐπιθυμία δὲ δικαίου δεκτή.
+  usfm_code: PRO
+  verse: '24'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 25
-  verse_text: Παραπορευομένης καταιγίδος ἀφανίζεται ἀσεβὴς, δίκαιος δὲ ἐκκλίνας σώζεται
+  text: Παραπορευομένης καταιγίδος ἀφανίζεται ἀσεβὴς, δίκαιος δὲ ἐκκλίνας σώζεται
     εἰς τὸν αἰῶνα.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  usfm_code: PRO
+  verse: '25'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 26
-  verse_text: Ὥσπερ ὄμφαξ ὀδοῦσι βλαβερὸν, καὶ καπνὸς ὄμμασιν, οὕτως παρανομία τοῖς
-    χρωμένοις αὐτῇ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Ὥσπερ ὄμφαξ ὀδοῦσι βλαβερὸν, καὶ καπνὸς ὄμμασιν, οὕτως παρανομία τοῖς χρωμένοις
+    αὐτῇ.
+  usfm_code: PRO
+  verse: '26'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 27
-  verse_text: Φόβος Κυρίου προστίθησιν ἡμέρας, ἔτη δὲ ἀσεβῶν ὀλιγωθήσεται.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Φόβος Κυρίου προστίθησιν ἡμέρας, ἔτη δὲ ἀσεβῶν ὀλιγωθήσεται.
+  usfm_code: PRO
+  verse: '27'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 28
-  verse_text: Ἐγχρονίζει δικαίοις εὐφροσύνη, ἐλπὶς δὲ ἀσεβῶν ἀπολεῖται.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Ἐγχρονίζει δικαίοις εὐφροσύνη, ἐλπὶς δὲ ἀσεβῶν ἀπολεῖται.
+  usfm_code: PRO
+  verse: '28'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 29
-  verse_text: Ὀχύρωμα ὁσίου φόβος Κυρίου, συντριβὴ δὲ τοῖς ἐργαζομένοις κακά.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Ὀχύρωμα ὁσίου φόβος Κυρίου, συντριβὴ δὲ τοῖς ἐργαζομένοις κακά.
+  usfm_code: PRO
+  verse: '29'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 30
-  verse_text: Δίκαιος εἰς τὸν αἰῶνα οὐκ ἐνδώσει, ἀσεβεῖς δὲ οὐκ οἰκήσουσι γῆν.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Δίκαιος εἰς τὸν αἰῶνα οὐκ ἐνδώσει, ἀσεβεῖς δὲ οὐκ οἰκήσουσι γῆν.
+  usfm_code: PRO
+  verse: '30'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 31
-  verse_text: Στόμα δικαίου ἀποστάζει σοφίαν, γλῶσσα δὲ ἀδίκου ἐξολεῖται.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
-  book_usfm_code: PRO
-  chapter_number: 10
+  text: Στόμα δικαίου ἀποστάζει σοφίαν, γλῶσσα δὲ ἀδίκου ἐξολεῖται.
+  usfm_code: PRO
+  verse: '31'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 10
+  chapter: 10
   iso-639-2_language_code: grc
-  verse_number: 32
-  verse_text: Χείλη ἀνδρῶν δικαίων ἀποστάζει χάριτας, στόμα δὲ ἀσεβῶν ἀποστρέφεται.
+  text: Χείλη ἀνδρῶν δικαίων ἀποστάζει χάριτας, στόμα δὲ ἀσεβῶν ἀποστρέφεται.
+  usfm_code: PRO
+  verse: '32'

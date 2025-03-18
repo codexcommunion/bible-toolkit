@@ -1,34 +1,34 @@
 [
     {
-        "book_title": "Brenton Septuagint Translation Psalms 122",
-        "book_usfm_code": "PSA",
-        "chapter_number": 122,
-        "verse_number": 1,
-        "verse_text": "A Song of Degrees.",
+        "book": "Brenton Septuagint Translation Psalms 122",
+        "usfm_code": "PSA",
+        "chapter": 122,
+        "verse": "1",
+        "text": "A Song of Degrees.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 122",
-        "book_usfm_code": "PSA",
-        "chapter_number": 122,
-        "verse_number": 2,
-        "verse_text": "Behold, as the eyes of servants are directed to the hands of their masters, and as the eyes of a maid-servant to the hands of her mistress; so our eyes are directed to the Lord our God, until he have mercy upon us.",
+        "book": "Brenton Septuagint Translation Psalms 122",
+        "usfm_code": "PSA",
+        "chapter": 122,
+        "verse": "2",
+        "text": "Behold, as the eyes of servants are directed to the hands of their masters, and as the eyes of a maid-servant to the hands of her mistress; so our eyes are directed to the Lord our God, until he have mercy upon us.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 122",
-        "book_usfm_code": "PSA",
-        "chapter_number": 122,
-        "verse_number": 3,
-        "verse_text": "Have pity upon us, O Lord, have pity upon us: for we are exceedingly filled with contempt.",
+        "book": "Brenton Septuagint Translation Psalms 122",
+        "usfm_code": "PSA",
+        "chapter": 122,
+        "verse": "3",
+        "text": "Have pity upon us, O Lord, have pity upon us: for we are exceedingly filled with contempt.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 122",
-        "book_usfm_code": "PSA",
-        "chapter_number": 122,
-        "verse_number": 4,
-        "verse_text": "Yea , our soul has been exceedingly filled with it : let the reproach be to them that are at ease, and contempt to the proud.",
+        "book": "Brenton Septuagint Translation Psalms 122",
+        "usfm_code": "PSA",
+        "chapter": 122,
+        "verse": "4",
+        "text": "Yea , our soul has been exceedingly filled with it : let the reproach be to them that are at ease, and contempt to the proud.",
         "iso-639-2_language_code": "eng"
     }
 ]

@@ -1,91 +1,87 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
-  book_usfm_code: PSA
-  chapter_number: 84
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
+  chapter: 84
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Εἰς τὸ τέλος, τοῖς υἱοῖς Κορὲ ψαλμός.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
-  book_usfm_code: PSA
-  chapter_number: 84
+  text: Εἰς τὸ τέλος, τοῖς υἱοῖς Κορὲ ψαλμός.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
+  chapter: 84
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Εὐδόκησας Κύριε τὴν γῆν σου, ἀπέστρεψας τὴν αἰχμαλωσίαν Ἰακώβ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
-  book_usfm_code: PSA
-  chapter_number: 84
+  text: Εὐδόκησας Κύριε τὴν γῆν σου, ἀπέστρεψας τὴν αἰχμαλωσίαν Ἰακώβ.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
+  chapter: 84
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ἀφῆκας τὰς ἀνομίας τῷ λαῷ σου, ἐκάλυψας πάσας τὰς ἁμαρτίας αὐτῶν· διάψαλμα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
-  book_usfm_code: PSA
-  chapter_number: 84
+  text: Ἀφῆκας τὰς ἀνομίας τῷ λαῷ σου, ἐκάλυψας πάσας τὰς ἁμαρτίας αὐτῶν· διάψαλμα.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
+  chapter: 84
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Κατέπαυσας πᾶσαν τὴν ὀργήν σου, ἀπέστρεψας ἀπὸ ὀργῆς θυμοῦ σου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
-  book_usfm_code: PSA
-  chapter_number: 84
+  text: Κατέπαυσας πᾶσαν τὴν ὀργήν σου, ἀπέστρεψας ἀπὸ ὀργῆς θυμοῦ σου.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
+  chapter: 84
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Ἐπίστρεψον ἡμᾶς ὁ Θεὸς τῶν σωτηρίων ἡμῶν, καὶ ἀπόστρεψον τὸν θυμόν σου
-    ἀφʼ ἡμῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
-  book_usfm_code: PSA
-  chapter_number: 84
+  text: Ἐπίστρεψον ἡμᾶς ὁ Θεὸς τῶν σωτηρίων ἡμῶν, καὶ ἀπόστρεψον τὸν θυμόν σου ἀφʼ
+    ἡμῶν.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
+  chapter: 84
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Μὴ εἰς τὸν αἰῶνα ὀργισθῇς ἡμῖν; ἢ διατενεῖς τὴν ὀργήν σου ἀπὸ γενεᾶς
-    εἰς γενεάν;
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
-  book_usfm_code: PSA
-  chapter_number: 84
+  text: Μὴ εἰς τὸν αἰῶνα ὀργισθῇς ἡμῖν; ἢ διατενεῖς τὴν ὀργήν σου ἀπὸ γενεᾶς εἰς γενεάν;
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
+  chapter: 84
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ὁ Θεὸς, σὺ ἐπιστρέψας ζωώσεις ἡμᾶς, καὶ ὁ λαός σου εὐφρανθήσεται ἐπὶ
-    σοί.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
-  book_usfm_code: PSA
-  chapter_number: 84
+  text: Ὁ Θεὸς, σὺ ἐπιστρέψας ζωώσεις ἡμᾶς, καὶ ὁ λαός σου εὐφρανθήσεται ἐπὶ σοί.
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
+  chapter: 84
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Δεῖξον ἡμῖν Κύριε τὸ ἔλεός σου, καὶ τὸ σωτήριόν σου δῴης ἡμῖν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
-  book_usfm_code: PSA
-  chapter_number: 84
+  text: Δεῖξον ἡμῖν Κύριε τὸ ἔλεός σου, καὶ τὸ σωτήριόν σου δῴης ἡμῖν.
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
+  chapter: 84
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Ἀκούσομαι τί λαλήσει ἐν ἐμοὶ Κύριος ὁ Θεὸς, ὅτι λαλήσει εἰρήνην ἐπὶ
-    τὸν λαὸν αὐτοῦ, καὶ ἐπὶ τοὺς ὁσίους αὐτοῦ, καὶ ἐπὶ τοὺς ἐπιστρέφοντας πρὸς αὐτὸν
-    καρδίαν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
-  book_usfm_code: PSA
-  chapter_number: 84
+  text: Ἀκούσομαι τί λαλήσει ἐν ἐμοὶ Κύριος ὁ Θεὸς, ὅτι λαλήσει εἰρήνην ἐπὶ τὸν λαὸν
+    αὐτοῦ, καὶ ἐπὶ τοὺς ὁσίους αὐτοῦ, καὶ ἐπὶ τοὺς ἐπιστρέφοντας πρὸς αὐτὸν καρδίαν.
+  usfm_code: PSA
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
+  chapter: 84
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Πλὴν ἐγγὺς τῶν φοβουμένων αὐτὸν τὸ σωτήριον αὐτοῦ, τοῦ κατασκηνῶσαι
-    δόξαν ἐν τῇ γῇ ἡμῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
-  book_usfm_code: PSA
-  chapter_number: 84
+  text: Πλὴν ἐγγὺς τῶν φοβουμένων αὐτὸν τὸ σωτήριον αὐτοῦ, τοῦ κατασκηνῶσαι δόξαν
+    ἐν τῇ γῇ ἡμῶν.
+  usfm_code: PSA
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
+  chapter: 84
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Ἔλεος καὶ ἀλήθεια συνήντησαν, δικαιοσύνη καὶ εἰρήνη κατεφίλησαν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
-  book_usfm_code: PSA
-  chapter_number: 84
+  text: Ἔλεος καὶ ἀλήθεια συνήντησαν, δικαιοσύνη καὶ εἰρήνη κατεφίλησαν.
+  usfm_code: PSA
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
+  chapter: 84
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Ἀλήθεια ἐκ τῆς γῆς ἀνέτειλε, καὶ δικαιοσύνη ἐκ τοῦ οὐρανοῦ διέκυψε.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
-  book_usfm_code: PSA
-  chapter_number: 84
+  text: Ἀλήθεια ἐκ τῆς γῆς ἀνέτειλε, καὶ δικαιοσύνη ἐκ τοῦ οὐρανοῦ διέκυψε.
+  usfm_code: PSA
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
+  chapter: 84
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Καὶ γὰρ ὁ Κύριος δώσει χρηστότητα, καὶ ἡ γῆ ἡμῶν δώσει τὸν καρπὸν αὐτῆς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
-  book_usfm_code: PSA
-  chapter_number: 84
+  text: Καὶ γὰρ ὁ Κύριος δώσει χρηστότητα, καὶ ἡ γῆ ἡμῶν δώσει τὸν καρπὸν αὐτῆς.
+  usfm_code: PSA
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 84
+  chapter: 84
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Δικαιοσύνη ἐναντίον αὐτοῦ προπορεύσεται, καὶ θήσει εἰς ὁδὸν τὰ διαβήματα
-    αὐτοῦ.
+  text: Δικαιοσύνη ἐναντίον αὐτοῦ προπορεύσεται, καὶ θήσει εἰς ὁδὸν τὰ διαβήματα αὐτοῦ.
+  usfm_code: PSA
+  verse: '14'

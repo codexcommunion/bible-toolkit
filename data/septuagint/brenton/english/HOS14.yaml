@@ -1,75 +1,74 @@
-- book_title: Brenton Septuagint Translation Osee 14
-  book_usfm_code: HOS
-  chapter_number: 14
+- book: Brenton Septuagint Translation Osee 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: 'Samaria shall be utterly destroyed: for she has resisted her God; they
-    shall fall by the sword, and their sucklings shall be dashed against the ground,
-    and their women with child ripped up.'
-- book_title: Brenton Septuagint Translation Osee 14
-  book_usfm_code: HOS
-  chapter_number: 14
+  text: 'Samaria shall be utterly destroyed: for she has resisted her God; they shall
+    fall by the sword, and their sucklings shall be dashed against the ground, and
+    their women with child ripped up.'
+  usfm_code: HOS
+  verse: '1'
+- book: Brenton Septuagint Translation Osee 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: Return, O Israel, to the Lord thy God; for the people have fallen through
+  text: Return, O Israel, to the Lord thy God; for the people have fallen through
     thine iniquities.
-- book_title: Brenton Septuagint Translation Osee 14
-  book_usfm_code: HOS
-  chapter_number: 14
+  usfm_code: HOS
+  verse: '2'
+- book: Brenton Septuagint Translation Osee 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: 'Take with you words, and turn to the Lord your God: speak to him, that
-    ye may not receive the reward of unrighteousness, but that ye may receive good
-    things: and we will render in return the fruit of our lips.'
-- book_title: Brenton Septuagint Translation Osee 14
-  book_usfm_code: HOS
-  chapter_number: 14
+  text: 'Take with you words, and turn to the Lord your God: speak to him, that ye
+    may not receive the reward of unrighteousness, but that ye may receive good things:
+    and we will render in return the fruit of our lips.'
+  usfm_code: HOS
+  verse: '3'
+- book: Brenton Septuagint Translation Osee 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: Assur shall never save us; we will not mount on horseback; we will no
-    longer say to the works of our hands, Our gods. He who is in thee shall pity the
-    orphan.
-- book_title: Brenton Septuagint Translation Osee 14
-  book_usfm_code: HOS
-  chapter_number: 14
+  text: Assur shall never save us; we will not mount on horseback; we will no longer
+    say to the works of our hands, Our gods. He who is in thee shall pity the orphan.
+  usfm_code: HOS
+  verse: '4'
+- book: Brenton Septuagint Translation Osee 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: 'I will restore their dwellings, I will love them truly: for he has
-    turned away my wrath from him.'
-- book_title: Brenton Septuagint Translation Osee 14
-  book_usfm_code: HOS
-  chapter_number: 14
+  text: 'I will restore their dwellings, I will love them truly: for he has turned
+    away my wrath from him.'
+  usfm_code: HOS
+  verse: '5'
+- book: Brenton Septuagint Translation Osee 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: 'I will be as dew to Israel: he shall bloom as the lily, and cast forth
-    his roots as Libanus.'
-- book_title: Brenton Septuagint Translation Osee 14
-  book_usfm_code: HOS
-  chapter_number: 14
+  text: 'I will be as dew to Israel: he shall bloom as the lily, and cast forth his
+    roots as Libanus.'
+  usfm_code: HOS
+  verse: '6'
+- book: Brenton Septuagint Translation Osee 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: His branches shall spread, and he shall be as a fruitful olive, and
-    his smell shall be as the smell of Libanus.
-- book_title: Brenton Septuagint Translation Osee 14
-  book_usfm_code: HOS
-  chapter_number: 14
+  text: His branches shall spread, and he shall be as a fruitful olive, and his smell
+    shall be as the smell of Libanus.
+  usfm_code: HOS
+  verse: '7'
+- book: Brenton Septuagint Translation Osee 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: 'They shall return, and dwell under his shadow: they shall live and
-    be satisfied with corn, and he shall flower as a vine: his memorial shall be to
-    Ephraim as the wine of Libanus.'
-- book_title: Brenton Septuagint Translation Osee 14
-  book_usfm_code: HOS
-  chapter_number: 14
+  text: 'They shall return, and dwell under his shadow: they shall live and be satisfied
+    with corn, and he shall flower as a vine: his memorial shall be to Ephraim as
+    the wine of Libanus.'
+  usfm_code: HOS
+  verse: '8'
+- book: Brenton Septuagint Translation Osee 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: 'What has he to do any more with idols? I have afflicted him, and I
-    will strengthen him: I am as a leafy juniper tree. From me is thy fruit found.'
-- book_title: Brenton Septuagint Translation Osee 14
-  book_usfm_code: HOS
-  chapter_number: 14
+  text: 'What has he to do any more with idols? I have afflicted him, and I will strengthen
+    him: I am as a leafy juniper tree. From me is thy fruit found.'
+  usfm_code: HOS
+  verse: '9'
+- book: Brenton Septuagint Translation Osee 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: 'Who is wise, and will understand these things? or prudent, and will
-    know them? for the ways of the Lord are straight, and the righteous shall walk
-    in them: but the ungodly shall fall therein.'
+  text: 'Who is wise, and will understand these things? or prudent, and will know
+    them? for the ways of the Lord are straight, and the righteous shall walk in them:
+    but the ungodly shall fall therein.'
+  usfm_code: HOS
+  verse: '10'

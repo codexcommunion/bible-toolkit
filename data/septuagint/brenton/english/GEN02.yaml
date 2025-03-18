@@ -1,178 +1,177 @@
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: And the heavens and the earth were finished, and the whole world of
-    them.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: And the heavens and the earth were finished, and the whole world of them.
+  usfm_code: GEN
+  verse: '1'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: And God finished on the sixth day his works which he made, and he ceased
-    on the seventh day from all his works which he made.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: And God finished on the sixth day his works which he made, and he ceased on
+    the seventh day from all his works which he made.
+  usfm_code: GEN
+  verse: '2'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: And God blessed the seventh day and sanctified it, because in it he
-    ceased from all his works which God began to do.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: And God blessed the seventh day and sanctified it, because in it he ceased
+    from all his works which God began to do.
+  usfm_code: GEN
+  verse: '3'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: This is the book of the generation of heaven and earth, when they were
-    made, in the day in which the Lord God made the heaven and the earth,
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: This is the book of the generation of heaven and earth, when they were made,
+    in the day in which the Lord God made the heaven and the earth,
+  usfm_code: GEN
+  verse: '4'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: and every herb of the field before it was on the earth, and all the
-    grass of the field before it sprang up, for God had not rained on the earth, and
-    there was not a man to cultivate it.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: and every herb of the field before it was on the earth, and all the grass
+    of the field before it sprang up, for God had not rained on the earth, and there
+    was not a man to cultivate it.
+  usfm_code: GEN
+  verse: '5'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: But there rose a fountain out of the earth, and watered the whole face
-    of the earth.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: But there rose a fountain out of the earth, and watered the whole face of
+    the earth.
+  usfm_code: GEN
+  verse: '6'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: And God formed the man of dust of the earth, and breathed upon his face
-    the breath of life, and the man became a living soul.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: And God formed the man of dust of the earth, and breathed upon his face the
+    breath of life, and the man became a living soul.
+  usfm_code: GEN
+  verse: '7'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: And God planted a garden eastward in Edem, and placed there the man
-    whom he had formed.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: And God planted a garden eastward in Edem, and placed there the man whom he
+    had formed.
+  usfm_code: GEN
+  verse: '8'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: And God made to spring up also out of the earth every tree beautiful
-    to the eye and good for food, and the tree of life in the midst of the garden,
-    and the tree of learning the knowledge of good and evil.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: And God made to spring up also out of the earth every tree beautiful to the
+    eye and good for food, and the tree of life in the midst of the garden, and the
+    tree of learning the knowledge of good and evil.
+  usfm_code: GEN
+  verse: '9'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: And a river proceeds out of Edem to water the garden, thence it divides
-    itself into four heads.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: And a river proceeds out of Edem to water the garden, thence it divides itself
+    into four heads.
+  usfm_code: GEN
+  verse: '10'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: The name of the one, Phisom, this it is which encircles the whole land
-    of Evilat, where there is gold.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: The name of the one, Phisom, this it is which encircles the whole land of
+    Evilat, where there is gold.
+  usfm_code: GEN
+  verse: '11'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: And the gold of that land is good, there also is carbuncle and emerald.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: And the gold of that land is good, there also is carbuncle and emerald.
+  usfm_code: GEN
+  verse: '12'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: And the name of the second river is Geon, this it is which encircles
-    the whole land of Ethiopia.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: And the name of the second river is Geon, this it is which encircles the whole
+    land of Ethiopia.
+  usfm_code: GEN
+  verse: '13'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 14
-  verse_text: And the third river is Tigris, this is that which flows forth over against
+  text: And the third river is Tigris, this is that which flows forth over against
     the Assyrians. And the fourth river is Euphrates.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  usfm_code: GEN
+  verse: '14'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: And the Lord God took the man whom he had formed, and placed him in
-    the garden of Delight, to cultivate and keep it.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: And the Lord God took the man whom he had formed, and placed him in the garden
+    of Delight, to cultivate and keep it.
+  usfm_code: GEN
+  verse: '15'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 16
-  verse_text: And the Lord God gave a charge to Adam, saying, Of every tree which
-    is in the garden thou mayest freely eat,
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: And the Lord God gave a charge to Adam, saying, Of every tree which is in
+    the garden thou mayest freely eat,
+  usfm_code: GEN
+  verse: '16'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 17
-  verse_text: but of the tree of the knowledge of good and evil—of it ye shall not
-    eat, but in whatsoever day ye eat of it, ye shall surely die.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: but of the tree of the knowledge of good and evil—of it ye shall not eat,
+    but in whatsoever day ye eat of it, ye shall surely die.
+  usfm_code: GEN
+  verse: '17'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 18
-  verse_text: And the Lord God said, It is not good that the man should be alone,
-    let us make for him a help suitable to him.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: And the Lord God said, It is not good that the man should be alone, let us
+    make for him a help suitable to him.
+  usfm_code: GEN
+  verse: '18'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 19
-  verse_text: And God formed yet farther out of the earth all the wild beasts of the
-    field, and all the birds of the sky, and he brought them to Adam, to see what
-    he would call them, and whatever Adam called any living creature, that was the
-    name of it.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: And God formed yet farther out of the earth all the wild beasts of the field,
+    and all the birds of the sky, and he brought them to Adam, to see what he would
+    call them, and whatever Adam called any living creature, that was the name of
+    it.
+  usfm_code: GEN
+  verse: '19'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 20
-  verse_text: And Adam gave names to all the cattle and to all the birds of the sky,
-    and to all the wild beasts of the field, but for Adam there was not found a help
-    like to himself.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: And Adam gave names to all the cattle and to all the birds of the sky, and
+    to all the wild beasts of the field, but for Adam there was not found a help like
+    to himself.
+  usfm_code: GEN
+  verse: '20'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 21
-  verse_text: And God brought a trance upon Adam, and he slept, and he took one of
-    his ribs, and filled up the flesh instead thereof.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: And God brought a trance upon Adam, and he slept, and he took one of his ribs,
+    and filled up the flesh instead thereof.
+  usfm_code: GEN
+  verse: '21'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 22
-  verse_text: And God formed the rib which he took from Adam into a woman, and brought
-    her to Adam.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: And God formed the rib which he took from Adam into a woman, and brought her
+    to Adam.
+  usfm_code: GEN
+  verse: '22'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 23
-  verse_text: And Adam said, This now is bone of my bones, and flesh of my flesh;
-    she shall be called woman, because she was taken out of her husband.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: And Adam said, This now is bone of my bones, and flesh of my flesh; she shall
+    be called woman, because she was taken out of her husband.
+  usfm_code: GEN
+  verse: '23'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 24
-  verse_text: Therefore shall a man leave his father and his mother and shall cleave
-    to his wife, and they two shall be one flesh.
-- book_title: Brenton Septuagint Translation Genesis 2
-  book_usfm_code: GEN
-  chapter_number: 2
+  text: Therefore shall a man leave his father and his mother and shall cleave to
+    his wife, and they two shall be one flesh.
+  usfm_code: GEN
+  verse: '24'
+- book: Brenton Septuagint Translation Genesis 2
+  chapter: 2
   iso-639-2_language_code: eng
-  verse_number: 25
-  verse_text: And the two were naked, both Adam and his wife, and were not ashamed.
+  text: And the two were naked, both Adam and his wife, and were not ashamed.
+  usfm_code: GEN
+  verse: '25'

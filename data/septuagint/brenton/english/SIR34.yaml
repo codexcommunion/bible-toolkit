@@ -1,215 +1,211 @@
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: Watching for riches consumeth the flesh, and the care thereof driveth
-    away sleep.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
-  iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: Watching care will not let a man slumber, as a sore disease breaketh
+  text: Watching for riches consumeth the flesh, and the care thereof driveth away
     sleep.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  usfm_code: SIR
+  verse: '1'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: The rich hath great labour in gathering riches together; and when he
-    resteth, he is filled with his delicacies.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: Watching care will not let a man slumber, as a sore disease breaketh sleep.
+  usfm_code: SIR
+  verse: '2'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: The poor laboureth in his poor estate; and when he leaveth off, he is
-    still needy.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: The rich hath great labour in gathering riches together; and when he resteth,
+    he is filled with his delicacies.
+  usfm_code: SIR
+  verse: '3'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: He that loveth gold shall not be justified, and he that followeth corruption
+  text: The poor laboureth in his poor estate; and when he leaveth off, he is still
+    needy.
+  usfm_code: SIR
+  verse: '4'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
+  iso-639-2_language_code: eng
+  text: He that loveth gold shall not be justified, and he that followeth corruption
     shall have enough thereof.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  usfm_code: SIR
+  verse: '5'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: Gold hath been the ruin of many, and their destruction was present.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: Gold hath been the ruin of many, and their destruction was present.
+  usfm_code: SIR
+  verse: '6'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: It is a stumblingblock unto them that sacrifice unto it, and every fool
-    shall be taken therewith.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: It is a stumblingblock unto them that sacrifice unto it, and every fool shall
+    be taken therewith.
+  usfm_code: SIR
+  verse: '7'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: Blessed is the rich that is found without blemish, and hath not gone
-    after gold.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: Blessed is the rich that is found without blemish, and hath not gone after
+    gold.
+  usfm_code: SIR
+  verse: '8'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: 'Who is he? and we will call him blessed: for wonderful things hath
-    he done among his people.'
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: 'Who is he? and we will call him blessed: for wonderful things hath he done
+    among his people.'
+  usfm_code: SIR
+  verse: '9'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: Who hath been tried thereby, and found perfect? then let him glory.
-    Who might offend, and hath not offended? or done evil, and hath not done it?
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: Who hath been tried thereby, and found perfect? then let him glory. Who might
+    offend, and hath not offended? or done evil, and hath not done it?
+  usfm_code: SIR
+  verse: '10'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: His goods shall be established, and the congregation shall declare his
-    alms.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: His goods shall be established, and the congregation shall declare his alms.
+  usfm_code: SIR
+  verse: '11'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: If thou sit at a bountiful table, be not greedy upon it, and say not,
-    There is much meat on it.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: If thou sit at a bountiful table, be not greedy upon it, and say not, There
+    is much meat on it.
+  usfm_code: SIR
+  verse: '12'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: 'Remember that a wicked eye is an evil thing: and what is created more
-    wicked than an eye? therefore it weepeth upon every occasion.'
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: 'Remember that a wicked eye is an evil thing: and what is created more wicked
+    than an eye? therefore it weepeth upon every occasion.'
+  usfm_code: SIR
+  verse: '13'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 14
-  verse_text: Stretch not thine hand whithersoever it looketh, and thrust it not with
-    him into the dish.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: Stretch not thine hand whithersoever it looketh, and thrust it not with him
+    into the dish.
+  usfm_code: SIR
+  verse: '14'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: 'Judge of thy neighbour by thyself: and be discreet in every point.'
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: 'Judge of thy neighbour by thyself: and be discreet in every point.'
+  usfm_code: SIR
+  verse: '15'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 16
-  verse_text: Eat, as it becometh a man, those things which are set before thee; and
-    devour not, lest thou be hated.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: Eat, as it becometh a man, those things which are set before thee; and devour
+    not, lest thou be hated.
+  usfm_code: SIR
+  verse: '16'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 17
-  verse_text: Leave off first for manners' sake; and be not unsatiable, lest thou
-    offend.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: Leave off first for manners' sake; and be not unsatiable, lest thou offend.
+  usfm_code: SIR
+  verse: '17'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 18
-  verse_text: When thou sittest among many, reach not thine hand out first of all.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: When thou sittest among many, reach not thine hand out first of all.
+  usfm_code: SIR
+  verse: '18'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 19
-  verse_text: A very little is sufficient for a man well nurtured, and he fetcheth
-    not his wind short upon his bed.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: A very little is sufficient for a man well nurtured, and he fetcheth not his
+    wind short upon his bed.
+  usfm_code: SIR
+  verse: '19'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 20
-  verse_text: 'Sound sleep cometh of moderate eating: he riseth early, and his wits
-    are with him: but the pain of watching, and choler, and pangs of the belly, are
-    with an unsatiable man.'
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: 'Sound sleep cometh of moderate eating: he riseth early, and his wits are
+    with him: but the pain of watching, and choler, and pangs of the belly, are with
+    an unsatiable man.'
+  usfm_code: SIR
+  verse: '20'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 21
-  verse_text: And if thou hast been forced to eat, arise, go forth, vomit, and thou
-    shalt have rest.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: And if thou hast been forced to eat, arise, go forth, vomit, and thou shalt
+    have rest.
+  usfm_code: SIR
+  verse: '21'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 22
-  verse_text: 'My son, hear me, and despise me not, and at the last thou shalt find
-    as I told thee: in all thy works be quick, so shall there no sickness come unto
-    thee.'
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: 'My son, hear me, and despise me not, and at the last thou shalt find as I
+    told thee: in all thy works be quick, so shall there no sickness come unto thee.'
+  usfm_code: SIR
+  verse: '22'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 23
-  verse_text: Whoso is liberal of his meat, men shall speak well of him; and the report
+  text: Whoso is liberal of his meat, men shall speak well of him; and the report
     of his good housekeeping will be believed.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  usfm_code: SIR
+  verse: '23'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 24
-  verse_text: But against him that is a niggard of his meat the whole city shall murmur;
+  text: But against him that is a niggard of his meat the whole city shall murmur;
     and the testimonies of his niggardness shall not be doubted of.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  usfm_code: SIR
+  verse: '24'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 25
-  verse_text: Shew not thy valiantness in wine; for wine hath destroyed many.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: Shew not thy valiantness in wine; for wine hath destroyed many.
+  usfm_code: SIR
+  verse: '25'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 26
-  verse_text: 'The furnace proveth the edge by dipping: so doth wine the hearts of
-    the proud by drunkenness.'
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: 'The furnace proveth the edge by dipping: so doth wine the hearts of the proud
+    by drunkenness.'
+  usfm_code: SIR
+  verse: '26'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 27
-  verse_text: 'Wine is as good as life to a man, if it be drunk moderately: what life
-    is then to a man that is without wine? for it was made to make men glad.'
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: 'Wine is as good as life to a man, if it be drunk moderately: what life is
+    then to a man that is without wine? for it was made to make men glad.'
+  usfm_code: SIR
+  verse: '27'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 28
-  verse_text: 'Wine measurably drunk and in season bringeth gladness of the heart,
-    and cheerfulness of the mind:'
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  text: 'Wine measurably drunk and in season bringeth gladness of the heart, and cheerfulness
+    of the mind:'
+  usfm_code: SIR
+  verse: '28'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 29
-  verse_text: but wine drunken with excess maketh bitterness of the mind, with brawling
+  text: but wine drunken with excess maketh bitterness of the mind, with brawling
     and quarrelling.
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  usfm_code: SIR
+  verse: '29'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 30
-  verse_text: 'Drunkenness increaseth the rage of a fool till he offend: it diminisheth
+  text: 'Drunkenness increaseth the rage of a fool till he offend: it diminisheth
     strength, and maketh wounds.'
-- book_title: Brenton Septuagint Translation Sirach 34
-  book_usfm_code: SIR
-  chapter_number: 34
+  usfm_code: SIR
+  verse: '30'
+- book: Brenton Septuagint Translation Sirach 34
+  chapter: 34
   iso-639-2_language_code: eng
-  verse_number: 31
-  verse_text: 'Rebuke not thy neighbour at the wine, and despise him not in his mirth:
-    give him no despiteful words, and press not upon him with urging him [to drink].'
+  text: 'Rebuke not thy neighbour at the wine, and despise him not in his mirth: give
+    him no despiteful words, and press not upon him with urging him [to drink].'
+  usfm_code: SIR
+  verse: '31'

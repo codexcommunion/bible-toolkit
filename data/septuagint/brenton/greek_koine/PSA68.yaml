@@ -1,251 +1,241 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Εἰς τὸ τέλος, ὑπὲρ τῶν ἀλλοιωθησομένων, τῶ Δαυίδ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  text: Εἰς τὸ τέλος, ὑπὲρ τῶν ἀλλοιωθησομένων, τῶ Δαυίδ.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Σώσον με ὁ Θεὸς, ὅτι εἰσήλθοσαν ὕδατα ἕως ψυχῆς μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  text: Σώσον με ὁ Θεὸς, ὅτι εἰσήλθοσαν ὕδατα ἕως ψυχῆς μου.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ἐνεπάγην εἰς ἰλὺν βυθοῦ, καὶ οὐκ ἔστιν ὑπόστασις· ἦλθον εἰς τὰ βάθη
-    τῆς θαλάσσης, καὶ καταιγὶς κατεπόντισέ με.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  text: Ἐνεπάγην εἰς ἰλὺν βυθοῦ, καὶ οὐκ ἔστιν ὑπόστασις· ἦλθον εἰς τὰ βάθη τῆς θαλάσσης,
+    καὶ καταιγὶς κατεπόντισέ με.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Ἐκοπίασα κράζων, ἐβραγχίασεν ὁ λάρυγξ μου, ἐξέλιπον οἱ ὀφθαλμοί μου
-    ἀπὸ τοῦ ἐλπίζειν με ἐπὶ τὸν Θεόν μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  text: Ἐκοπίασα κράζων, ἐβραγχίασεν ὁ λάρυγξ μου, ἐξέλιπον οἱ ὀφθαλμοί μου ἀπὸ τοῦ
+    ἐλπίζειν με ἐπὶ τὸν Θεόν μου.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Ἐπληθύνθησαν ὑπὲρ τὰς τρίχας τῆς κεφαλῆς μου οἱ μισοῦντές με δωρεάν·
-    ἐκραταιώθησαν οἱ ἐχθροί μου οἱ ἐκδιώκοντές με ἀδίκως· ἃ οὐχ ἥρπασα, τότε ἀπετίννυον.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  text: Ἐπληθύνθησαν ὑπὲρ τὰς τρίχας τῆς κεφαλῆς μου οἱ μισοῦντές με δωρεάν· ἐκραταιώθησαν
+    οἱ ἐχθροί μου οἱ ἐκδιώκοντές με ἀδίκως· ἃ οὐχ ἥρπασα, τότε ἀπετίννυον.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ὁ Θεὸς σὺ ἔγνως τὴν ἀφροσύνην μου, καὶ αἱ πλημμελειαί μου ἀπὸ σοῦ οὐκ
-    ἐκρύβησαν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  text: Ὁ Θεὸς σὺ ἔγνως τὴν ἀφροσύνην μου, καὶ αἱ πλημμελειαί μου ἀπὸ σοῦ οὐκ ἐκρύβησαν.
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Μὴ αἰσχυνθείησαν ἐπʼ ἐμὲ οἱ ὑπομένοντές σε Κύριε τῶν δυνάμεων, μὴ ἐντραπείησαν
+  text: Μὴ αἰσχυνθείησαν ἐπʼ ἐμὲ οἱ ὑπομένοντές σε Κύριε τῶν δυνάμεων, μὴ ἐντραπείησαν
     ἐπʼ ἐμὲ οἱ ζητοῦντές σε ὁ Θεὸς τοῦ Ἰσραήλ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Ὅτι ἕνεκά σου ὑπήνεγκα ὀνειδισμὸν, ἐκάλυψεν ἐντροπὴ τὸ πρόσωπόν μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  text: Ὅτι ἕνεκά σου ὑπήνεγκα ὀνειδισμὸν, ἐκάλυψεν ἐντροπὴ τὸ πρόσωπόν μου.
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Ἀπηλλοτριωμένος ἐγενήθην τοῖς ἀδελφοῖς μου, καὶ ξένος τοῖς υἱοῖς τῆς
-    μητρός μου·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  text: Ἀπηλλοτριωμένος ἐγενήθην τοῖς ἀδελφοῖς μου, καὶ ξένος τοῖς υἱοῖς τῆς μητρός
+    μου·
+  usfm_code: PSA
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: ὅτι ὁ ζῆλος τοῦ οἴκου σου κατάφαγέ με, καὶ οἱ ὀνειδισμοὶ τῶν ὀνειδιζόντων
+  text: ὅτι ὁ ζῆλος τοῦ οἴκου σου κατάφαγέ με, καὶ οἱ ὀνειδισμοὶ τῶν ὀνειδιζόντων
     σε ἐπέπεσον ἐπʼ ἐμέ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  usfm_code: PSA
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Καὶ συνέκαμψα ἐν νηστείᾳ τὴν ψυχήν μου, καὶ ἐγενήθη εἰς ὀνειδισμοὺς
-    ἐμοί.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  text: Καὶ συνέκαμψα ἐν νηστείᾳ τὴν ψυχήν μου, καὶ ἐγενήθη εἰς ὀνειδισμοὺς ἐμοί.
+  usfm_code: PSA
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Καὶ ἐθέμην τὸ ἔνδυμά μου σάκκον, καὶ ἐγενόμην αὐτοῖς εἰς παραβολήν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  text: Καὶ ἐθέμην τὸ ἔνδυμά μου σάκκον, καὶ ἐγενόμην αὐτοῖς εἰς παραβολήν.
+  usfm_code: PSA
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Κατʼ ἐμοῦ ἠδολέσχουν οἱ καθήμενοι ἐν πύλῃ, καὶ εἰς ἐμὲ ἔψαλλον οἱ πίνοντες
+  text: Κατʼ ἐμοῦ ἠδολέσχουν οἱ καθήμενοι ἐν πύλῃ, καὶ εἰς ἐμὲ ἔψαλλον οἱ πίνοντες
     τὸν οἶνον.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  usfm_code: PSA
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Ἐγὼ δὲ τῇ προσευχῇ μου πρὸς σὲ Κύριε, καιρὸς εὐδοκίας ὁ Θεός· ἐν τῷ
-    πλήθει τοῦ ἐλέους σου ἐπάκουσόν μου, ἐν ἀληθείᾳ τῆς σωτηρίας σου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  text: Ἐγὼ δὲ τῇ προσευχῇ μου πρὸς σὲ Κύριε, καιρὸς εὐδοκίας ὁ Θεός· ἐν τῷ πλήθει
+    τοῦ ἐλέους σου ἐπάκουσόν μου, ἐν ἀληθείᾳ τῆς σωτηρίας σου.
+  usfm_code: PSA
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Σῶσόν με ἀπὸ πηλοῦ, ἵνα μὴ ἐνπαγῶ· ῥυσθείην ἐκ τῶν μισούντων με, καὶ
-    ἐκ τοῦ βάθους τῶν ὑδάτων.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  text: Σῶσόν με ἀπὸ πηλοῦ, ἵνα μὴ ἐνπαγῶ· ῥυσθείην ἐκ τῶν μισούντων με, καὶ ἐκ τοῦ
+    βάθους τῶν ὑδάτων.
+  usfm_code: PSA
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Μή με καταποντισάτω καταιγὶς ὕδατος, μηδὲ καταπιέτω με βυθὸς, μηδὲ συνσχέτω
+  text: Μή με καταποντισάτω καταιγὶς ὕδατος, μηδὲ καταπιέτω με βυθὸς, μηδὲ συνσχέτω
     ἐπʼ ἐμὲ φρέαρ τὸ στόμα αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  usfm_code: PSA
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Εἰσάκουσόν μου Κύριε, ὅτι χρηστὸν τὸ ἔλεός σου, κατὰ τὸ πλῆθος τῶν οἰκτιρμῶν
+  text: Εἰσάκουσόν μου Κύριε, ὅτι χρηστὸν τὸ ἔλεός σου, κατὰ τὸ πλῆθος τῶν οἰκτιρμῶν
     σου ἐπίβλεψον ἐπʼ ἐμε.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  usfm_code: PSA
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Καὶ μὴ ἀποστρέψῃς τὸ πρόσωπόν σου ἀπὸ τοῦ παιδός σου· ὅτι θλίβομαι,
-    ταχὺ ἐπάκουσόν μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
-  iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Πρόσχες τῇ ψυχῇ μου, καὶ λύτρωσαι αὐτὴν, ἕνεκα τῶν ἐχθρῶν μου ῥῦσαί
-    με.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
-  iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Σὺ γὰρ γινώσκεις τὸν ὀνειδισμόν μου, καὶ τὴν αἰσχύνην μου, καὶ τὴν ἐντροπήν
-    μου· ἐναντίον σου πάντες οἱ θλίβοντές με.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
-  iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: Ὀνειδισμὸν προσεδόκησεν ἡ ψυχή μου καὶ ταλαιπωρίαν· καὶ ὑπέμεινα συλλυπούμενον,
-    καὶ οὐχ ὑπῆρξε, καὶ παρακαλοῦντα, καὶ οὐχ εὗρον.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
-  iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: Καὶ ἔδωκαν εἰς τὸ βρῶμά μου χολὴν, καὶ εἰς τὴν δίψαν μου ἐπότισάν με
-    ὄξος.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
-  iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: Γενηθήτω ἡ τράπεζα αὐτῶν ἐνώπιον αὐτῶν εἰς παγίδα, καὶ εἰς ἀνταπόδοσιν,
-    καὶ εἰς σκάνδαλον.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
-  iso-639-2_language_code: grc
-  verse_number: 24
-  verse_text: Σκοτισθήτωσαν οἱ ὀφθαλμοὶ αὐτῶν τοῦ μὴ βλέπειν, καὶ τὸν νῶτον αὐτῶν
-    διαπαντὸς σύγκαμψον.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
-  iso-639-2_language_code: grc
-  verse_number: 25
-  verse_text: Ἔκχεον ἐπʼ αὐτοὺς τὴν ὀργήν σου, καὶ ὁ θυμὸς τῆς ὀργῆς σου καταλάβοι
-    αὐτούς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
-  iso-639-2_language_code: grc
-  verse_number: 26
-  verse_text: Γενηθήτω ἡ ἔπαυλις αὐτῶν ἠρημωμένη, καὶ ἐν τοῖς σκηνώμασιν αὐτῶν μὴ
-    ἔστω ὁ κατοικῶν·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
-  iso-639-2_language_code: grc
-  verse_number: 27
-  verse_text: ὅτι ὃν σὺ ἐπάταξας, αὐτοὶ κατεδίωξαν, καὶ ἐπὶ τὸ ἄλγος τῶν τραυμάτων
-    μου προσέθηκαν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
-  iso-639-2_language_code: grc
-  verse_number: 28
-  verse_text: Πρόσθες ἀνομίαν ἐπὶ τὴν ἀνομίαν αὐτῶν, καὶ μὴ εἰσελθέτωσαν ἐν δικαιοσύνῃ
-    σου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
-  iso-639-2_language_code: grc
-  verse_number: 29
-  verse_text: Ἐξαλειφθήτωσαν ἐκ βίβλου ζώντων, καὶ μετὰ δικαίων μὴ γραφήτωσαν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
-  iso-639-2_language_code: grc
-  verse_number: 30
-  verse_text: Πτωχὸς καὶ ἀλγῶν εἰμι ἐγὼ, καὶ ἡ σωτηρία τοῦ προσώπου σου ἀντελάβετό
+  text: Καὶ μὴ ἀποστρέψῃς τὸ πρόσωπόν σου ἀπὸ τοῦ παιδός σου· ὅτι θλίβομαι, ταχὺ ἐπάκουσόν
     μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  usfm_code: PSA
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 31
-  verse_text: Αἰνέσω τὸ ὄνομα τοῦ Θεοῦ μου μετʼ ᾠδῆς, μεγαλυνῶ αὐτὸν ἐν αἰνέσει·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  text: Πρόσχες τῇ ψυχῇ μου, καὶ λύτρωσαι αὐτὴν, ἕνεκα τῶν ἐχθρῶν μου ῥῦσαί με.
+  usfm_code: PSA
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 32
-  verse_text: καὶ ἀρέσει τῷ Θεῷ ὑπὲρ μόσχον νέον κέρατα ἐκφέροντα καὶ ὁπλάς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  text: Σὺ γὰρ γινώσκεις τὸν ὀνειδισμόν μου, καὶ τὴν αἰσχύνην μου, καὶ τὴν ἐντροπήν
+    μου· ἐναντίον σου πάντες οἱ θλίβοντές με.
+  usfm_code: PSA
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 33
-  verse_text: Ἰδέτωσαν πτωχοὶ καὶ εὐφρανθήτωσαν· ἐκζητήσατε τὸν Θεὸν, καὶ ζήσεσθε.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  text: Ὀνειδισμὸν προσεδόκησεν ἡ ψυχή μου καὶ ταλαιπωρίαν· καὶ ὑπέμεινα συλλυπούμενον,
+    καὶ οὐχ ὑπῆρξε, καὶ παρακαλοῦντα, καὶ οὐχ εὗρον.
+  usfm_code: PSA
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 34
-  verse_text: Ὅτι εἰσήκουσε τῶν πενήτων ὁ Κύριος, καὶ τοὺς πεπεδημένους αὐτοῦ οὐκ
-    ἐξουδένωσεν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  text: Καὶ ἔδωκαν εἰς τὸ βρῶμά μου χολὴν, καὶ εἰς τὴν δίψαν μου ἐπότισάν με ὄξος.
+  usfm_code: PSA
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 35
-  verse_text: Αἰνεσάτωσαν αὐτὸν οἱ οὐρανοὶ καὶ ἡ γῆ, θάλασσα καὶ πάντα τὰ ἕρποντα
-    ἐν αὐτοῖς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  text: Γενηθήτω ἡ τράπεζα αὐτῶν ἐνώπιον αὐτῶν εἰς παγίδα, καὶ εἰς ἀνταπόδοσιν, καὶ
+    εἰς σκάνδαλον.
+  usfm_code: PSA
+  verse: '23'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 36
-  verse_text: Ὅτι ὁ Θεὸς σώσει τὴν Σιὼν, καὶ οἰκοδομηθήσονται αἱ πόλεις τῆς Ἰουδαίας,
-    καὶ κατοικήσουσιν ἐκεῖ, καὶ κληρονομήσουσιν αὐτήν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
-  book_usfm_code: PSA
-  chapter_number: 68
+  text: Σκοτισθήτωσαν οἱ ὀφθαλμοὶ αὐτῶν τοῦ μὴ βλέπειν, καὶ τὸν νῶτον αὐτῶν διαπαντὸς
+    σύγκαμψον.
+  usfm_code: PSA
+  verse: '24'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
   iso-639-2_language_code: grc
-  verse_number: 37
-  verse_text: Καὶ τὸ σπέρμα τῶν δούλων αὐτοῦ καθέξουσιν αὐτὴν, καὶ οἱ ἀγαπῶντες τὸ
-    ὄνομα αὐτοῦ κατασκηνώσουσιν ἐν αὐτῇ.
+  text: Ἔκχεον ἐπʼ αὐτοὺς τὴν ὀργήν σου, καὶ ὁ θυμὸς τῆς ὀργῆς σου καταλάβοι αὐτούς.
+  usfm_code: PSA
+  verse: '25'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
+  iso-639-2_language_code: grc
+  text: Γενηθήτω ἡ ἔπαυλις αὐτῶν ἠρημωμένη, καὶ ἐν τοῖς σκηνώμασιν αὐτῶν μὴ ἔστω ὁ
+    κατοικῶν·
+  usfm_code: PSA
+  verse: '26'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
+  iso-639-2_language_code: grc
+  text: ὅτι ὃν σὺ ἐπάταξας, αὐτοὶ κατεδίωξαν, καὶ ἐπὶ τὸ ἄλγος τῶν τραυμάτων μου προσέθηκαν.
+  usfm_code: PSA
+  verse: '27'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
+  iso-639-2_language_code: grc
+  text: Πρόσθες ἀνομίαν ἐπὶ τὴν ἀνομίαν αὐτῶν, καὶ μὴ εἰσελθέτωσαν ἐν δικαιοσύνῃ σου.
+  usfm_code: PSA
+  verse: '28'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
+  iso-639-2_language_code: grc
+  text: Ἐξαλειφθήτωσαν ἐκ βίβλου ζώντων, καὶ μετὰ δικαίων μὴ γραφήτωσαν.
+  usfm_code: PSA
+  verse: '29'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
+  iso-639-2_language_code: grc
+  text: Πτωχὸς καὶ ἀλγῶν εἰμι ἐγὼ, καὶ ἡ σωτηρία τοῦ προσώπου σου ἀντελάβετό μου.
+  usfm_code: PSA
+  verse: '30'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
+  iso-639-2_language_code: grc
+  text: Αἰνέσω τὸ ὄνομα τοῦ Θεοῦ μου μετʼ ᾠδῆς, μεγαλυνῶ αὐτὸν ἐν αἰνέσει·
+  usfm_code: PSA
+  verse: '31'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
+  iso-639-2_language_code: grc
+  text: καὶ ἀρέσει τῷ Θεῷ ὑπὲρ μόσχον νέον κέρατα ἐκφέροντα καὶ ὁπλάς.
+  usfm_code: PSA
+  verse: '32'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
+  iso-639-2_language_code: grc
+  text: Ἰδέτωσαν πτωχοὶ καὶ εὐφρανθήτωσαν· ἐκζητήσατε τὸν Θεὸν, καὶ ζήσεσθε.
+  usfm_code: PSA
+  verse: '33'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
+  iso-639-2_language_code: grc
+  text: Ὅτι εἰσήκουσε τῶν πενήτων ὁ Κύριος, καὶ τοὺς πεπεδημένους αὐτοῦ οὐκ ἐξουδένωσεν.
+  usfm_code: PSA
+  verse: '34'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
+  iso-639-2_language_code: grc
+  text: Αἰνεσάτωσαν αὐτὸν οἱ οὐρανοὶ καὶ ἡ γῆ, θάλασσα καὶ πάντα τὰ ἕρποντα ἐν αὐτοῖς.
+  usfm_code: PSA
+  verse: '35'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
+  iso-639-2_language_code: grc
+  text: Ὅτι ὁ Θεὸς σώσει τὴν Σιὼν, καὶ οἰκοδομηθήσονται αἱ πόλεις τῆς Ἰουδαίας, καὶ
+    κατοικήσουσιν ἐκεῖ, καὶ κληρονομήσουσιν αὐτήν.
+  usfm_code: PSA
+  verse: '36'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 68
+  chapter: 68
+  iso-639-2_language_code: grc
+  text: Καὶ τὸ σπέρμα τῶν δούλων αὐτοῦ καθέξουσιν αὐτὴν, καὶ οἱ ἀγαπῶντες τὸ ὄνομα
+    αὐτοῦ κατασκηνώσουσιν ἐν αὐτῇ.
+  usfm_code: PSA
+  verse: '37'

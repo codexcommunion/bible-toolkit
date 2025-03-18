@@ -1,0 +1,17 @@
+abbreviation: BRSGNT
+creation_date: '2025-03-17'
+description: The Brenton Septuagint
+generator: CodexCommunion
+language: grc
+notes: This dataset is structured to allow efficient retrieval of individual verses.
+scripture_name: Brenton Septuagint
+stats:
+  book_count: 51
+  chapter_count: 1085
+  verse_count: 28114
+structure:
+  format:
+  - json
+  - yaml
+  index_file: _index.json
+  type: structured_verses

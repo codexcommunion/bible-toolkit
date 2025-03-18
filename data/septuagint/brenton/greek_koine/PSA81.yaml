@@ -1,50 +1,49 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 81
-  book_usfm_code: PSA
-  chapter_number: 81
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 81
+  chapter: 81
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ψαλμὸς τῷ Ἀσάφ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 81
-  book_usfm_code: PSA
-  chapter_number: 81
+  text: Ψαλμὸς τῷ Ἀσάφ.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 81
+  chapter: 81
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Ἕως πότε κρίνετε ἀδικίαν, καὶ πρόσωπα ἁμαρτωλῶν λαμβάνετε; διάψαλμα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 81
-  book_usfm_code: PSA
-  chapter_number: 81
+  text: Ἕως πότε κρίνετε ἀδικίαν, καὶ πρόσωπα ἁμαρτωλῶν λαμβάνετε; διάψαλμα.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 81
+  chapter: 81
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Κρίνατε ὀρφανὸν καὶ πτωχὸν, ταπεινὸν καὶ πένητα δικαιώσατε.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 81
-  book_usfm_code: PSA
-  chapter_number: 81
+  text: Κρίνατε ὀρφανὸν καὶ πτωχὸν, ταπεινὸν καὶ πένητα δικαιώσατε.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 81
+  chapter: 81
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Εξέλεσθε πένητα, καὶ πτωχὸν ἐκ χειρὸς ἁμαρτωλοῦ ῥύσασθε.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 81
-  book_usfm_code: PSA
-  chapter_number: 81
+  text: Εξέλεσθε πένητα, καὶ πτωχὸν ἐκ χειρὸς ἁμαρτωλοῦ ῥύσασθε.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 81
+  chapter: 81
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Οὐκ ἔγνωσαν οὐδὲ συνῆκαν, ἐν σκότει διαπορεύονται· σαλευθήσονται πάντα
-    τὰ θεμελια τῆς γῆς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 81
-  book_usfm_code: PSA
-  chapter_number: 81
+  text: Οὐκ ἔγνωσαν οὐδὲ συνῆκαν, ἐν σκότει διαπορεύονται· σαλευθήσονται πάντα τὰ
+    θεμελια τῆς γῆς.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 81
+  chapter: 81
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ἐγὼ εἶπα, θεοί ἐστε, καὶ υἱοὶ ὑψίστου πάντες.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 81
-  book_usfm_code: PSA
-  chapter_number: 81
+  text: Ἐγὼ εἶπα, θεοί ἐστε, καὶ υἱοὶ ὑψίστου πάντες.
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 81
+  chapter: 81
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ὑμεῖς δὲ ὡς ἄνθρωποι ἀποθνήσκετε, καὶ ὡς εἷς τῶν ἀρχόντων πίπτετε.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 81
-  book_usfm_code: PSA
-  chapter_number: 81
+  text: Ὑμεῖς δὲ ὡς ἄνθρωποι ἀποθνήσκετε, καὶ ὡς εἷς τῶν ἀρχόντων πίπτετε.
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 81
+  chapter: 81
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Ἀνάστα ὁ Θεὸς, κρῖνον τὴν γῆν, ὅτι σὺ κατακληρονομήσεις ἐν πᾶσι τοῖς
-    ἔθνεσιν.
+  text: Ἀνάστα ὁ Θεὸς, κρῖνον τὴν γῆν, ὅτι σὺ κατακληρονομήσεις ἐν πᾶσι τοῖς ἔθνεσιν.
+  usfm_code: PSA
+  verse: '8'

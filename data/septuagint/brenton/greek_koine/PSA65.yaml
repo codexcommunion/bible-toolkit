@@ -1,132 +1,128 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Εἰς τὸ τέλος, ᾠδὴ ψαλμοῦ ἀναστάσεως.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  text: Εἰς τὸ τέλος, ᾠδὴ ψαλμοῦ ἀναστάσεως.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: ψάλατε δὴ τῷ ὀνόματι αὐτοῦ, δότε δόξαν αἰνέσει αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  text: ψάλατε δὴ τῷ ὀνόματι αὐτοῦ, δότε δόξαν αἰνέσει αὐτοῦ.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Εἴπατε τῷ Θεῷ ὡς φοβερὰ τὰ ἔργα σου; ἐν τῷ πλήθει τῆς δυνάμεώς σου ψεύσονταί
+  text: Εἴπατε τῷ Θεῷ ὡς φοβερὰ τὰ ἔργα σου; ἐν τῷ πλήθει τῆς δυνάμεώς σου ψεύσονταί
     σε οἱ ἐχθροί σου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Πᾶσα ἡ γῆ προσκυνησάτωσάν σοι, καὶ ψαλάτωσάν σοι, ψαλάτωσαν τῷ ὀνόματί
-    σου· διάψαλμα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  text: Πᾶσα ἡ γῆ προσκυνησάτωσάν σοι, καὶ ψαλάτωσάν σοι, ψαλάτωσαν τῷ ὀνόματί σου·
+    διάψαλμα.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Δεῦτε καὶ ἴδετε τὰ ἔργα τοῦ Θεοῦ, φοβερὸς ἐν βουλαῖς ὑπὲρ τοὺς υἱοὺς
-    τῶν ἀνθρώπων.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  text: Δεῦτε καὶ ἴδετε τὰ ἔργα τοῦ Θεοῦ, φοβερὸς ἐν βουλαῖς ὑπὲρ τοὺς υἱοὺς τῶν ἀνθρώπων.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ὁ μεταστρέφων τὴν θάλασσαν εἰς ξηρὰν, ἐν ποταμῷ διελεύσονται ποδί· ἐκεῖ
-    εὐφρανθησόμεθα ἐπʼ αὐτῷ,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  text: Ὁ μεταστρέφων τὴν θάλασσαν εἰς ξηρὰν, ἐν ποταμῷ διελεύσονται ποδί· ἐκεῖ εὐφρανθησόμεθα
+    ἐπʼ αὐτῷ,
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: τῷ δεσπόζοντι ἐν τῇ δυναστείᾳ αὐτοῦ τοῦ αἰῶνος· οἱ ὀφθαλμοὶ αὐτοῦ ἐπὶ
-    τὰ ἔθνη ἐπιβλέπουσιν, οἱ παραπικραίνοντες μὴ ὑψούσθωσαν ἐν ἑαυτοῖς· διάψαλμα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  text: τῷ δεσπόζοντι ἐν τῇ δυναστείᾳ αὐτοῦ τοῦ αἰῶνος· οἱ ὀφθαλμοὶ αὐτοῦ ἐπὶ τὰ ἔθνη
+    ἐπιβλέπουσιν, οἱ παραπικραίνοντες μὴ ὑψούσθωσαν ἐν ἑαυτοῖς· διάψαλμα.
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Εὐλογεῖτε ἔθνη τὸν Θεὸν ἡμῶν, καὶ ἀκουτίσατε τὴν φωνὴν τῆς αἰνέσεως
-    αὐτοῦ,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  text: Εὐλογεῖτε ἔθνη τὸν Θεὸν ἡμῶν, καὶ ἀκουτίσατε τὴν φωνὴν τῆς αἰνέσεως αὐτοῦ,
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: τοῦ θεμένου τὴν ψυχήν μου εἰς ζωὴν, καὶ μὴ δόντος εἰς σάλον τοὺς πόδας
-    μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  text: τοῦ θεμένου τὴν ψυχήν μου εἰς ζωὴν, καὶ μὴ δόντος εἰς σάλον τοὺς πόδας μου.
+  usfm_code: PSA
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Ὅτι ἐδοκίμασας ἡμᾶς ὁ Θεὸς, ἐπύρωσας ἡμᾶς ὡς πυροῦται τὸ ἀργύριον.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  text: Ὅτι ἐδοκίμασας ἡμᾶς ὁ Θεὸς, ἐπύρωσας ἡμᾶς ὡς πυροῦται τὸ ἀργύριον.
+  usfm_code: PSA
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Εἰσήγαγες ἡμᾶς εἰς τὴν παγίδα, ἔθου θλίψεις ἐπὶ τὸν νῶτον ἡμῶν,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  text: Εἰσήγαγες ἡμᾶς εἰς τὴν παγίδα, ἔθου θλίψεις ἐπὶ τὸν νῶτον ἡμῶν,
+  usfm_code: PSA
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: ἐπεβίβασας ἀνθρώπους ἐπὶ τὰς κεφαλὰς ἡμῶν· διήλθομεν διὰ πυρὸς καὶ ὕδατος,
+  text: ἐπεβίβασας ἀνθρώπους ἐπὶ τὰς κεφαλὰς ἡμῶν· διήλθομεν διὰ πυρὸς καὶ ὕδατος,
     καὶ ἐξήγαγες ἡμᾶς εἰς ἀναψυχήν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  usfm_code: PSA
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Εἰσελεύσομαι εἰς τὸν οἶκόν σου ἐν ὁλοκαυτώμασιν, ἀποδώσω σοι τὰς εὐχάς
-    μου,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  text: Εἰσελεύσομαι εἰς τὸν οἶκόν σου ἐν ὁλοκαυτώμασιν, ἀποδώσω σοι τὰς εὐχάς μου,
+  usfm_code: PSA
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: ἃς διέστειλε τὰ χείλη μου, καὶ ἐλάλησε τὸ στόμα μου ἐν τῇ θλίψει μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  text: ἃς διέστειλε τὰ χείλη μου, καὶ ἐλάλησε τὸ στόμα μου ἐν τῇ θλίψει μου.
+  usfm_code: PSA
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Ὁλοκαυτώματα μεμυελωμένα ἀνοίσω σοι μετὰ θυμιάματος καὶ κριῶν, ποιήσω
-    σοι βόας μετὰ χιμάρων· διάψαλμα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  text: Ὁλοκαυτώματα μεμυελωμένα ἀνοίσω σοι μετὰ θυμιάματος καὶ κριῶν, ποιήσω σοι
+    βόας μετὰ χιμάρων· διάψαλμα.
+  usfm_code: PSA
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Δεῦτε ἀκούσατε, καὶ διηγήσομαι, πάντες οἱ φοβούμενοι τὸν Θεὸν, ὅσα ἐποίησε
+  text: Δεῦτε ἀκούσατε, καὶ διηγήσομαι, πάντες οἱ φοβούμενοι τὸν Θεὸν, ὅσα ἐποίησε
     τῇ ψυχῇ μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  usfm_code: PSA
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Πρὸς αὐτὸν τῷ στόματί μου ἐκέκραξα, καὶ ὕψωσα ὑπὸ τὴν γλῶσσάν μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  text: Πρὸς αὐτὸν τῷ στόματί μου ἐκέκραξα, καὶ ὕψωσα ὑπὸ τὴν γλῶσσάν μου.
+  usfm_code: PSA
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Ἀδικίαν εἰ ἐθεώρουν ἐν καρδίᾳ μου, μὴ εἰσακουσάτω Κύριος.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  text: Ἀδικίαν εἰ ἐθεώρουν ἐν καρδίᾳ μου, μὴ εἰσακουσάτω Κύριος.
+  usfm_code: PSA
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Διὰ τοῦτο εἰσήκουσέ μου ὁ Θεὸς, προσέσχε τῇ φωνῇ τῆς προσευχῆς μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
-  book_usfm_code: PSA
-  chapter_number: 65
+  text: Διὰ τοῦτο εἰσήκουσέ μου ὁ Θεὸς, προσέσχε τῇ φωνῇ τῆς προσευχῆς μου.
+  usfm_code: PSA
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 65
+  chapter: 65
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Εὐλογητὸς ὁ Θεὸς, ὃς οὐκ ἀπέστησε τὴν προσευχήν μου, καὶ τὸ ἔλεος αὐτοῦ
-    ἀπʼ ἐμοῦ.
+  text: Εὐλογητὸς ὁ Θεὸς, ὃς οὐκ ἀπέστησε τὴν προσευχήν μου, καὶ τὸ ἔλεος αὐτοῦ ἀπʼ
+    ἐμοῦ.
+  usfm_code: PSA
+  verse: '20'

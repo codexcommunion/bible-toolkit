@@ -1,245 +1,233 @@
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Καὶ ἀντὶ φίλου μὴ γίνου ἐχθρός· ὄνομα γὰρ πονηρὸν αἰσχύνην καὶ ὄνειδος
-    κληρονομήσει· οὕτως ὁ ἁμαρτωλὸς ὁ δίγλωσσος.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Καὶ ἀντὶ φίλου μὴ γίνου ἐχθρός· ὄνομα γὰρ πονηρὸν αἰσχύνην καὶ ὄνειδος κληρονομήσει·
+    οὕτως ὁ ἁμαρτωλὸς ὁ δίγλωσσος.
+  usfm_code: SIR
+  verse: 2a
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Μὴ ἐπάρῃς σεαυτὸν ἐν βουλῇ ψυχῆς σου, ἵνα μὴ διαρπαγῇ ὡς ταῦρος ἡ ψυχή
-    σου.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Μὴ ἐπάρῃς σεαυτὸν ἐν βουλῇ ψυχῆς σου, ἵνα μὴ διαρπαγῇ ὡς ταῦρος ἡ ψυχή σου.
+  usfm_code: SIR
+  verse: 2b
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Τὰ φύλλα σου καταφάγεσαι, καὶ τοὺς καρπούς σου ἀπολέσεις, καὶ ἀφήσεις
-    σεαυτὸν ὡς ξύλον ξηρόν.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Τὰ φύλλα σου καταφάγεσαι, καὶ τοὺς καρπούς σου ἀπολέσεις, καὶ ἀφήσεις σεαυτὸν
+    ὡς ξύλον ξηρόν.
+  usfm_code: SIR
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Ψυχὴ πονηρὰ ἀπολεῖ τὸν κτησάμενον αὐτήν, καὶ ἐπίχαρμα ἐχθρῶν ποιήσει
-    αὐτόν.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Ψυχὴ πονηρὰ ἀπολεῖ τὸν κτησάμενον αὐτήν, καὶ ἐπίχαρμα ἐχθρῶν ποιήσει αὐτόν.
+  usfm_code: SIR
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Λάρυγξ γλυκὺς πληθυνεῖ φίλους αὐτοῦ, καὶ γλῶσσα εὔλαλος πληθυνεῖ εὐπροσήγορα.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Λάρυγξ γλυκὺς πληθυνεῖ φίλους αὐτοῦ, καὶ γλῶσσα εὔλαλος πληθυνεῖ εὐπροσήγορα.
+  usfm_code: SIR
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Οἱ εἰρηνεύοντές σοι ἔστωσαν πολλοὶ, οἱ δὲ σύμβουλοί σου εἷς ἀπὸ χιλίων.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Οἱ εἰρηνεύοντές σοι ἔστωσαν πολλοὶ, οἱ δὲ σύμβουλοί σου εἷς ἀπὸ χιλίων.
+  usfm_code: SIR
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Εἰ κτᾶσαι φίλον, ἐν πειρασμῷ κτῆσαι αὐτόν, καὶ μὴ ταχὺ ἐμπιστεύσῃς αὐτῷ.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Εἰ κτᾶσαι φίλον, ἐν πειρασμῷ κτῆσαι αὐτόν, καὶ μὴ ταχὺ ἐμπιστεύσῃς αὐτῷ.
+  usfm_code: SIR
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Ἔστι γὰρ φίλος ἐν καιρῷ αὐτοῦ, καὶ οὐ μὴ παραμείνῃ ἐν ἡμέρᾳ θλίψεώς
-    σου.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Ἔστι γὰρ φίλος ἐν καιρῷ αὐτοῦ, καὶ οὐ μὴ παραμείνῃ ἐν ἡμέρᾳ θλίψεώς σου.
+  usfm_code: SIR
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Καὶ ἔστι φίλος μετατιθέμενος εἰς ἔχθραν, καὶ μάχην ὀνειδισμοῦ σου ἀποκαλύψει.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Καὶ ἔστι φίλος μετατιθέμενος εἰς ἔχθραν, καὶ μάχην ὀνειδισμοῦ σου ἀποκαλύψει.
+  usfm_code: SIR
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Καὶ ἔστι φίλος κοινωνὸς τραπεζῶν, καὶ οὐ μὴ παραμείνῃ ἐν ἡμέρᾳ θλίψεώς
-    σου.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Καὶ ἔστι φίλος κοινωνὸς τραπεζῶν, καὶ οὐ μὴ παραμείνῃ ἐν ἡμέρᾳ θλίψεώς σου.
+  usfm_code: SIR
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Καὶ ἐν τοῖς ἀγαθοῖς σου ἔσται ὡς σὺ, καὶ ἐπὶ τοὺς οἰκέτας σου παῤῥησιάσεται.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Καὶ ἐν τοῖς ἀγαθοῖς σου ἔσται ὡς σὺ, καὶ ἐπὶ τοὺς οἰκέτας σου παῤῥησιάσεται.
+  usfm_code: SIR
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Ἐὰν ταπεινωθῇς, ἔσται κατὰ σοῦ, καὶ ἀπὸ τοῦ προσώπου σου κρυβήσεται.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Ἐὰν ταπεινωθῇς, ἔσται κατὰ σοῦ, καὶ ἀπὸ τοῦ προσώπου σου κρυβήσεται.
+  usfm_code: SIR
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Ἀπὸ τῶν ἐχθρῶν σου διαχωρίσθητι, καὶ ἀπὸ τῶν φίλων σου πρόσεχε.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Ἀπὸ τῶν ἐχθρῶν σου διαχωρίσθητι, καὶ ἀπὸ τῶν φίλων σου πρόσεχε.
+  usfm_code: SIR
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Φίλος πιστὸς σκέπη κραταιὰ, ὁ δὲ εὑρὼν αὐτὸν εὗρε θησαυρόν.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Φίλος πιστὸς σκέπη κραταιὰ, ὁ δὲ εὑρὼν αὐτὸν εὗρε θησαυρόν.
+  usfm_code: SIR
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Φίλου πιστοῦ οὐκ ἔστιν ἀντάλλαγμα, καὶ οὐκ ἔστι σταθμὸς τῆς καλλονῆς
+  text: Φίλου πιστοῦ οὐκ ἔστιν ἀντάλλαγμα, καὶ οὐκ ἔστι σταθμὸς τῆς καλλονῆς αὐτοῦ.
+  usfm_code: SIR
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
+  iso-639-2_language_code: grc
+  text: Φίλος πιστὸς φάρμακον ζωῆς, καὶ οἱ φοβούμενοι Κύριον εὑρήσουσιν αὐτόν.
+  usfm_code: SIR
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
+  iso-639-2_language_code: grc
+  text: Ὁ φοβούμενος Κύριον εὐθύνει φιλίαν αὐτοῦ, ὅτι κατʼ αὐτὸν οὕτως καὶ ὁ πλησίον
     αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  usfm_code: SIR
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Φίλος πιστὸς φάρμακον ζωῆς, καὶ οἱ φοβούμενοι Κύριον εὑρήσουσιν αὐτόν.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Τέκνον, ἐκ νεότητός σου ἐπίλεξαι παιδείαν, καὶ ἕως πολιῶν εὑρήσεις σοφίαν.
+  usfm_code: SIR
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Ὁ φοβούμενος Κύριον εὐθύνει φιλίαν αὐτοῦ, ὅτι κατʼ αὐτὸν οὕτως καὶ ὁ
-    πλησίον αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Ὡς ὁ ἀροτριῶν καὶ ὁ σπείρων πρόσελθε αὐτῇ, καὶ ἀνάμενε τοὺς ἀγαθοὺς καρποὺς
+    αὐτῆς· ἐν γὰρ τῇ ἐργασίᾳ αὐτῆς ὀλίγον κοπιάσεις, καὶ ταχὺ φάγεσαι γεννημάτων αὐτῆς.
+  usfm_code: SIR
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Τέκνον, ἐκ νεότητός σου ἐπίλεξαι παιδείαν, καὶ ἕως πολιῶν εὑρήσεις σοφίαν.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Ὡς τραχεῖά ἐστι σφόδρα τοῖς ἀπαιδεύτοις, καὶ οὐκ ἐμμενεῖ ἐν αὐτῇ ἀκάρδιος.
+  usfm_code: SIR
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Ὡς ὁ ἀροτριῶν καὶ ὁ σπείρων πρόσελθε αὐτῇ, καὶ ἀνάμενε τοὺς ἀγαθοὺς
-    καρποὺς αὐτῆς· ἐν γὰρ τῇ ἐργασίᾳ αὐτῆς ὀλίγον κοπιάσεις, καὶ ταχὺ φάγεσαι γεννημάτων
+  text: Ὡς λίθος δοκιμασίας ἰσχυρὸς ἔσται ἐπʼ αὐτῷ, καὶ οὐ χρονιεῖ ἀποῤῥίψαι αὐτήν.
+  usfm_code: SIR
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
+  iso-639-2_language_code: grc
+  text: Σοφία γὰρ κατὰ τὸ ὄνομα αὐτῆς ἐστι, καὶ οὐ πολλοῖς ἐστι φανερά.
+  usfm_code: SIR
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
+  iso-639-2_language_code: grc
+  text: Ἄκουσον, τέκνον, καὶ δέξαι γνώμην μου, καὶ μὴ ἀπαναίνου τὴν συμβουλίαν μου.
+  usfm_code: SIR
+  verse: '23'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
+  iso-639-2_language_code: grc
+  text: Καὶ εἰσένεγκον τοὺς πόδας σου εἰς τὰς πέδας αὐτῆς, καὶ εἰς τὸν κλοίον αὐτῆς
+    τὸν τράχηλόν σου.
+  usfm_code: SIR
+  verse: '24'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
+  iso-639-2_language_code: grc
+  text: Ὑπόθες τὸν ὦμόν σοῦ, καὶ βάσταξον αὐτὴν, καὶ μὴ προσοχθίσῃς τοῖς δεσμοῖς αὐτῆς.
+  usfm_code: SIR
+  verse: '25'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
+  iso-639-2_language_code: grc
+  text: Ἐν πάσῃ ψυχῇ σου πρόσελθε αὐτῇ, καὶ ἐν ὅλῃ δυνάμει σου συντήρησον τὰς ὁδοὺς
     αὐτῆς.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  usfm_code: SIR
+  verse: '26'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Ὡς τραχεῖά ἐστι σφόδρα τοῖς ἀπαιδεύτοις, καὶ οὐκ ἐμμενεῖ ἐν αὐτῇ ἀκάρδιος.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
-  iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: Ὡς λίθος δοκιμασίας ἰσχυρὸς ἔσται ἐπʼ αὐτῷ, καὶ οὐ χρονιεῖ ἀποῤῥίψαι
+  text: Ἐξίχνεύσον καὶ ζήτησον, καὶ γνωσθήσεταί σοι, καὶ ἐγκρατὴς γενόμενος μὴ ἀφῇς
     αὐτήν.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  usfm_code: SIR
+  verse: '27'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: Σοφία γὰρ κατὰ τὸ ὄνομα αὐτῆς ἐστι, καὶ οὐ πολλοῖς ἐστι φανερά.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Ἐπʼ ἐσχάτων γὰρ εὑρήσεις τὴν ἀνάπαυσιν αὐτῆς, καὶ στραφήσεταί σοι εἰς εὐφροσύνην.
+  usfm_code: SIR
+  verse: '28'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: Ἄκουσον, τέκνον, καὶ δέξαι γνώμην μου, καὶ μὴ ἀπαναίνου τὴν συμβουλίαν
-    μου.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Καὶ ἔσονταί σοι αἱ πέδαι εἰς σκέπην ἰσχύος, καὶ οἱ κλοιοὶ αὐτῆς εἰς στολὴν
+    δόξης.
+  usfm_code: SIR
+  verse: '29'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 24
-  verse_text: Καὶ εἰσένεγκον τοὺς πόδας σου εἰς τὰς πέδας αὐτῆς, καὶ εἰς τὸν κλοίον
-    αὐτῆς τὸν τράχηλόν σου.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Κόσμος γὰρ χρύσεός ἐστιν ἐπʼ αὐτῆς, καὶ οἱ δεσμοὶ αὐτῆς κλῶσμα ὑακίνθινον.
+  usfm_code: SIR
+  verse: '30'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 25
-  verse_text: Ὑπόθες τὸν ὦμόν σοῦ, καὶ βάσταξον αὐτὴν, καὶ μὴ προσοχθίσῃς τοῖς δεσμοῖς
-    αὐτῆς.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Στολὴν δόξης ἐνδύσῃ αὐτὴν, καὶ στέφανον ἀγαλλιάματος περιθήσεις σεαυτῷ.
+  usfm_code: SIR
+  verse: '31'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 26
-  verse_text: Ἐν πάσῃ ψυχῇ σου πρόσελθε αὐτῇ, καὶ ἐν ὅλῃ δυνάμει σου συντήρησον τὰς
-    ὁδοὺς αὐτῆς.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Ἐὰν θέλῃς, τέκνον, παιδευθήσῃ, καὶ ἐὰν δῷς τὴν ψυχήν σου, πανοῦργος ἔσῃ.
+  usfm_code: SIR
+  verse: '32'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 27
-  verse_text: Ἐξίχνεύσον καὶ ζήτησον, καὶ γνωσθήσεταί σοι, καὶ ἐγκρατὴς γενόμενος
-    μὴ ἀφῇς αὐτήν.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Ἐὰν ἀγαπήσῃς ἀκούειν ἐκδέξῃ, καὶ ἐὰν κλίνῃς τὸ οὖς σου σοφὸς ἔσῃ.
+  usfm_code: SIR
+  verse: '33'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 28
-  verse_text: Ἐπʼ ἐσχάτων γὰρ εὑρήσεις τὴν ἀνάπαυσιν αὐτῆς, καὶ στραφήσεταί σοι εἰς
-    εὐφροσύνην.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Ἐν πλήθει πρεσβυτέρων στῆθι, καὶ, τίς σοφός; αὐτῷ προσκολλήθητι.
+  usfm_code: SIR
+  verse: '34'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 29
-  verse_text: Καὶ ἔσονταί σοι αἱ πέδαι εἰς σκέπην ἰσχύος, καὶ οἱ κλοιοὶ αὐτῆς εἰς
-    στολὴν δόξης.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
-  iso-639-2_language_code: grc
-  verse_number: 30
-  verse_text: Κόσμος γὰρ χρύσεός ἐστιν ἐπʼ αὐτῆς, καὶ οἱ δεσμοὶ αὐτῆς κλῶσμα ὑακίνθινον.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
-  iso-639-2_language_code: grc
-  verse_number: 31
-  verse_text: Στολὴν δόξης ἐνδύσῃ αὐτὴν, καὶ στέφανον ἀγαλλιάματος περιθήσεις σεαυτῷ.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
-  iso-639-2_language_code: grc
-  verse_number: 32
-  verse_text: Ἐὰν θέλῃς, τέκνον, παιδευθήσῃ, καὶ ἐὰν δῷς τὴν ψυχήν σου, πανοῦργος
-    ἔσῃ.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
-  iso-639-2_language_code: grc
-  verse_number: 33
-  verse_text: Ἐὰν ἀγαπήσῃς ἀκούειν ἐκδέξῃ, καὶ ἐὰν κλίνῃς τὸ οὖς σου σοφὸς ἔσῃ.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
-  iso-639-2_language_code: grc
-  verse_number: 34
-  verse_text: Ἐν πλήθει πρεσβυτέρων στῆθι, καὶ, τίς σοφός; αὐτῷ προσκολλήθητι.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
-  iso-639-2_language_code: grc
-  verse_number: 35
-  verse_text: Πᾶσαν διήγησιν θείαν θέλε ἀκούειν, καὶ παροιμίαι συνέσεως μὴ ἐκφευγέτωσάν
+  text: Πᾶσαν διήγησιν θείαν θέλε ἀκούειν, καὶ παροιμίαι συνέσεως μὴ ἐκφευγέτωσάν
     σε.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  usfm_code: SIR
+  verse: '35'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 36
-  verse_text: Ἐὰν ἴδῃς συνετὸν, ὄρθριζε πρὸς αὐτὸν, καὶ βαθμοὺς θυρῶν αὐτοῦ ἐκτριβέτω
-    ὁ πούς σου.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
-  book_usfm_code: SIR
-  chapter_number: 6
+  text: Ἐὰν ἴδῃς συνετὸν, ὄρθριζε πρὸς αὐτὸν, καὶ βαθμοὺς θυρῶν αὐτοῦ ἐκτριβέτω ὁ
+    πούς σου.
+  usfm_code: SIR
+  verse: '36'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 37
-  verse_text: Διανοοῦ ἐν τοῖς προστάγμασιν Κυρίου, καὶ ἐν ταῖς ἐντολαῖς αὐτοῦ μελέτα
-    διαπαντός· αὐτὸς στηριεῖ τὴν καρδίαν σου, καὶ ἡ ἐπιθυμία τῆς σοφίας σου δοθήσεταί
-    σοι.
+  text: Διανοοῦ ἐν τοῖς προστάγμασιν Κυρίου, καὶ ἐν ταῖς ἐντολαῖς αὐτοῦ μελέτα διαπαντός·
+    αὐτὸς στηριεῖ τὴν καρδίαν σου, καὶ ἡ ἐπιθυμία τῆς σοφίας σου δοθήσεταί σοι.
+  usfm_code: SIR
+  verse: '37'

@@ -1,58 +1,58 @@
 [
     {
-        "book_title": "Brenton Septuagint Translation Jeremias 29",
-        "book_usfm_code": "JER",
-        "chapter_number": 29,
-        "verse_number": 1,
-        "verse_text": "Thus saith the Lord against the Philistines;",
+        "book": "Brenton Septuagint Translation Jeremias 29",
+        "usfm_code": "JER",
+        "chapter": 29,
+        "verse": "1",
+        "text": "Thus saith the Lord against the Philistines;",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Jeremias 29",
-        "book_usfm_code": "JER",
-        "chapter_number": 29,
-        "verse_number": 2,
-        "verse_text": "Behold, waters come up from the north, and shall become a sweeping torrent, and it shall sweep away the land, and its fulness; the city, and them that dwell in it: and men shall cry and all that dwell in the land shall howl,",
+        "book": "Brenton Septuagint Translation Jeremias 29",
+        "usfm_code": "JER",
+        "chapter": 29,
+        "verse": "2",
+        "text": "Behold, waters come up from the north, and shall become a sweeping torrent, and it shall sweep away the land, and its fulness; the city, and them that dwell in it: and men shall cry and all that dwell in the land shall howl,",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Jeremias 29",
-        "book_usfm_code": "JER",
-        "chapter_number": 29,
-        "verse_number": 3,
-        "verse_text": "at the sound of his rushing, at the sound of his hoofs, and at the rattling of his chariots, at the noise of his wheels: the fathers turned not to their children because of the weakness of their hands,",
+        "book": "Brenton Septuagint Translation Jeremias 29",
+        "usfm_code": "JER",
+        "chapter": 29,
+        "verse": "3",
+        "text": "at the sound of his rushing, at the sound of his hoofs, and at the rattling of his chariots, at the noise of his wheels: the fathers turned not to their children because of the weakness of their hands,",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Jeremias 29",
-        "book_usfm_code": "JER",
-        "chapter_number": 29,
-        "verse_number": 4,
-        "verse_text": "in the day that is coming to destroy all the Philistines: and I will utterly destroy Tyre and Sidon, and all the rest of their allies: for the Lord will destroy the remaining inhabitants of the islands.",
+        "book": "Brenton Septuagint Translation Jeremias 29",
+        "usfm_code": "JER",
+        "chapter": 29,
+        "verse": "4",
+        "text": "in the day that is coming to destroy all the Philistines: and I will utterly destroy Tyre and Sidon, and all the rest of their allies: for the Lord will destroy the remaining inhabitants of the islands.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Jeremias 29",
-        "book_usfm_code": "JER",
-        "chapter_number": 29,
-        "verse_number": 5,
-        "verse_text": "Baldness is come upon Gaza; Ascalon is cast away, and the remnant of the Enakim.",
+        "book": "Brenton Septuagint Translation Jeremias 29",
+        "usfm_code": "JER",
+        "chapter": 29,
+        "verse": "5",
+        "text": "Baldness is come upon Gaza; Ascalon is cast away, and the remnant of the Enakim.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Jeremias 29",
-        "book_usfm_code": "JER",
-        "chapter_number": 29,
-        "verse_number": 6,
-        "verse_text": "How long wilt thou smite, O sword of the Lord? how long will it be ere thou art quiet? return into thy sheath, rest, and be removed.",
+        "book": "Brenton Septuagint Translation Jeremias 29",
+        "usfm_code": "JER",
+        "chapter": 29,
+        "verse": "6",
+        "text": "How long wilt thou smite, O sword of the Lord? how long will it be ere thou art quiet? return into thy sheath, rest, and be removed.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Jeremias 29",
-        "book_usfm_code": "JER",
-        "chapter_number": 29,
-        "verse_number": 7,
-        "verse_text": "How shall it be quiet, whereas the Lord has given it a commission against Ascalon, and against the regions on the sea-coast, to awake against the remaining countries !",
+        "book": "Brenton Septuagint Translation Jeremias 29",
+        "usfm_code": "JER",
+        "chapter": 29,
+        "verse": "7",
+        "text": "How shall it be quiet, whereas the Lord has given it a commission against Ascalon, and against the regions on the sea-coast, to awake against the remaining countries !",
         "iso-639-2_language_code": "eng"
     }
 ]

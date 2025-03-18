@@ -1,43 +1,42 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 119
-  book_usfm_code: PSA
-  chapter_number: 119
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 119
+  chapter: 119
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ὠδὴ τῶν ἀναβαθμῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 119
-  book_usfm_code: PSA
-  chapter_number: 119
+  text: Ὠδὴ τῶν ἀναβαθμῶν.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 119
+  chapter: 119
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Κύριε, ῥῦσαι τὴν ψυχήν μου ἀπὸ χειλέων ἀδίκων καὶ ἀπὸ γλώσσης δολίας.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 119
-  book_usfm_code: PSA
-  chapter_number: 119
+  text: Κύριε, ῥῦσαι τὴν ψυχήν μου ἀπὸ χειλέων ἀδίκων καὶ ἀπὸ γλώσσης δολίας.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 119
+  chapter: 119
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Τί δοθείη σοι, καὶ τί προστεθείη σοι πρὸς γλῶσσαν δολίαν;
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 119
-  book_usfm_code: PSA
-  chapter_number: 119
+  text: Τί δοθείη σοι, καὶ τί προστεθείη σοι πρὸς γλῶσσαν δολίαν;
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 119
+  chapter: 119
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Τὰ βέλη τοῦ δυνατοῦ ἠκονημένα σὺν τοῖς ἄνθραξι τοῖς ἐρημικοῖς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 119
-  book_usfm_code: PSA
-  chapter_number: 119
+  text: Τὰ βέλη τοῦ δυνατοῦ ἠκονημένα σὺν τοῖς ἄνθραξι τοῖς ἐρημικοῖς.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 119
+  chapter: 119
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Οἴμοι ὅτι ἡ παροικία μου ἐμακρύνθη, κατεσκήνωσα μετὰ τῶν σκηνωμάτων
-    Κηδάρ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 119
-  book_usfm_code: PSA
-  chapter_number: 119
+  text: Οἴμοι ὅτι ἡ παροικία μου ἐμακρύνθη, κατεσκήνωσα μετὰ τῶν σκηνωμάτων Κηδάρ.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 119
+  chapter: 119
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Πολλὰ παρῴκησεν ἡ ψυχή μου· μετὰ τῶν μισούντων τὴν εἰρήνην.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 119
-  book_usfm_code: PSA
-  chapter_number: 119
+  text: Πολλὰ παρῴκησεν ἡ ψυχή μου· μετὰ τῶν μισούντων τὴν εἰρήνην.
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 119
+  chapter: 119
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ἤμην εἰρηνικός· ὅταν ἐλάλουν αὐτοῖς, ἐπολέμουν με δωρεάν.
+  text: Ἤμην εἰρηνικός· ὅταν ἐλάλουν αὐτοῖς, ἐπολέμουν με δωρεάν.
+  usfm_code: PSA
+  verse: '7'

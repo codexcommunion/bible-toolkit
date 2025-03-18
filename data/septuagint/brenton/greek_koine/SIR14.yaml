@@ -1,175 +1,168 @@
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Μακάριος ἀνὴρ ὃς οὐκ ὠλίσθησεν ἐν στόματι αὐτοῦ, καὶ οὐ κατενύγη ἐν
-    λύπῃ ἁμαρτίας.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: Μακάριος ἀνὴρ ὃς οὐκ ὠλίσθησεν ἐν στόματι αὐτοῦ, καὶ οὐ κατενύγη ἐν λύπῃ ἁμαρτίας.
+  usfm_code: SIR
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Μακάριος οὗ οὐ κατέγνω ἡ ψυχὴ αὐτοῦ, καὶ ὃς οὐκ ἔπεσεν ἀπὸ τῆς ἐλπίδος
+  text: Μακάριος οὗ οὐ κατέγνω ἡ ψυχὴ αὐτοῦ, καὶ ὃς οὐκ ἔπεσεν ἀπὸ τῆς ἐλπίδος αὐτοῦ.
+  usfm_code: SIR
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
+  iso-639-2_language_code: grc
+  text: Ἀνδρὶ μικρολόγῳ οὐ καλὸς ὁ πλοῦτος, καὶ ἀνθρώπῳ βασκάνῳ ἱνατί χρήματα;
+  usfm_code: SIR
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
+  iso-639-2_language_code: grc
+  text: Ὁ συνάγων ἀπὸ τῆς ψυχῆς αὐτοῦ, συνάγει ἄλλοις, καὶ ἐν τοῖς ἀγαθοῖς αὐτοῦ τρυφήσουσιν
+    ἕτεροι.
+  usfm_code: SIR
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
+  iso-639-2_language_code: grc
+  text: Ὁ πονηρὸς ἑαυτῷ, τίνι ἀγαθὸς ἔσται; καὶ οὐ μὴ εὐφρανθήσεται ἐν τοῖς χρήμασιν
     αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  usfm_code: SIR
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ἀνδρὶ μικρολόγῳ οὐ καλὸς ὁ πλοῦτος, καὶ ἀνθρώπῳ βασκάνῳ ἱνατί χρήματα;
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: Τοῦ βασκαίνοντος ἑαυτὸν οὐκ ἔστι πονηρότερος, καὶ τοῦτο ἀνταπόδομα τῆς κακίας
+    αὐτοῦ·
+  usfm_code: SIR
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Ὁ συνάγων ἀπὸ τῆς ψυχῆς αὐτοῦ, συνάγει ἄλλοις, καὶ ἐν τοῖς ἀγαθοῖς αὐτοῦ
-    τρυφήσουσιν ἕτεροι.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: κᾂν εὐποιῇ, ἐν λήθῃ ποιεῖ, καὶ ἐπʼ ἐσχάτων ἐκφαίνει τὴν κακίαν αὐτοῦ.
+  usfm_code: SIR
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Ὁ πονηρὸς ἑαυτῷ, τίνι ἀγαθὸς ἔσται; καὶ οὐ μὴ εὐφρανθήσεται ἐν τοῖς
-    χρήμασιν αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: Πονηρὸς ὁ βασκαίνων ὀφθαλμῷ, ἀποστρέφων πρόσωπον καὶ ὁ ὑπερορῶν ψυχάς.
+  usfm_code: SIR
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Τοῦ βασκαίνοντος ἑαυτὸν οὐκ ἔστι πονηρότερος, καὶ τοῦτο ἀνταπόδομα τῆς
-    κακίας αὐτοῦ·
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: Πλεονέκτου ὀφθαλμὸς οὐκ ἐμπίπλαται μερίδι, καὶ ἀδικία πονηρὰ ἀναξηρανει ψυχήν.
+  usfm_code: SIR
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: κᾂν εὐποιῇ, ἐν λήθῃ ποιεῖ, καὶ ἐπʼ ἐσχάτων ἐκφαίνει τὴν κακίαν αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: Ὀφθαλμὸς πονηρὸς φθονερὸς ἐπʼ ἄρτῳ, καὶ ἐλλιπὴς ἐπὶ τῆς τραπέζης αὐτοῦ.
+  usfm_code: SIR
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Πονηρὸς ὁ βασκαίνων ὀφθαλμῷ, ἀποστρέφων πρόσωπον καὶ ὁ ὑπερορῶν ψυχάς.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: Τέκνον, καθὼς ἐὰν ἔχεις εὐποίει σεαυτόν, καὶ προσφορὰς Κυρίῳ ἀξίως πρόσαγε.
+  usfm_code: SIR
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Πλεονέκτου ὀφθαλμὸς οὐκ ἐμπίπλαται μερίδι, καὶ ἀδικία πονηρὰ ἀναξηρανει
-    ψυχήν.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: Μνήσθητι ὅτι θάνατος οὐ χρονιεῖ, καὶ διαθήκη ᾅδου οὐχ ὑπεδείχθη σοι.
+  usfm_code: SIR
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Ὀφθαλμὸς πονηρὸς φθονερὸς ἐπʼ ἄρτῳ, καὶ ἐλλιπὴς ἐπὶ τῆς τραπέζης αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: Πρίν σε τελευτῆσαι εὐποίει φίλῳ, καὶ κατὰ τὴν ἰσχύν σου ἔκτεινον καὶ δὸς αὐτῷ.
+  usfm_code: SIR
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Τέκνον, καθὼς ἐὰν ἔχεις εὐποίει σεαυτόν, καὶ προσφορὰς Κυρίῳ ἀξίως πρόσαγε.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: Μὴ ἀφυστερήσῃς ἀπὸ ἀγαθῆς ἡμέρας, καὶ μερὶς ἐπιθυμίας ἀγαθῆς μή σε παρελθάτω.
+  usfm_code: SIR
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Μνήσθητι ὅτι θάνατος οὐ χρονιεῖ, καὶ διαθήκη ᾅδου οὐχ ὑπεδείχθη σοι.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
-  iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Πρίν σε τελευτῆσαι εὐποίει φίλῳ, καὶ κατὰ τὴν ἰσχύν σου ἔκτεινον καὶ
-    δὸς αὐτῷ.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
-  iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Μὴ ἀφυστερήσῃς ἀπὸ ἀγαθῆς ἡμέρας, καὶ μερὶς ἐπιθυμίας ἀγαθῆς μή σε παρελθάτω.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
-  iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Οὐχὶ ἑτέρῳ καταλείψεις τοὺς πόνους σου, καὶ τοὺς κόπους σου εἰς διαίρεσιν
+  text: Οὐχὶ ἑτέρῳ καταλείψεις τοὺς πόνους σου, καὶ τοὺς κόπους σου εἰς διαίρεσιν
     κλήρου;
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  usfm_code: SIR
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Δὸς καὶ λάβε, καὶ ἀπάτησον τὴν ψυχήν σου, ὅτι οὐκ ἔστιν ἐν ᾅδου ζητῆσαι
-    τρυφήν.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: Δὸς καὶ λάβε, καὶ ἀπάτησον τὴν ψυχήν σου, ὅτι οὐκ ἔστιν ἐν ᾅδου ζητῆσαι τρυφήν.
+  usfm_code: SIR
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Πᾶσα σὰρξ ὡς ἱμάτιον παλαιοῦται, ἡ γὰρ διαθήκη ἀπʼ αἰῶνος θανάτῳ ἀποθανῇ.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: Πᾶσα σὰρξ ὡς ἱμάτιον παλαιοῦται, ἡ γὰρ διαθήκη ἀπʼ αἰῶνος θανάτῳ ἀποθανῇ.
+  usfm_code: SIR
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Ὡς φύλλον θάλλον ἐπὶ δένδρου δασέος, τὰ μὲν καταβάλλει, ἀλλα δὲ φύει·
-    οὕτως γενεὰ σαρκὸς καὶ αἵματος, ἡ μὲν τελευτᾷ, ἑτέρα δὲ γεννᾶται.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: Ὡς φύλλον θάλλον ἐπὶ δένδρου δασέος, τὰ μὲν καταβάλλει, ἀλλα δὲ φύει· οὕτως
+    γενεὰ σαρκὸς καὶ αἵματος, ἡ μὲν τελευτᾷ, ἑτέρα δὲ γεννᾶται.
+  usfm_code: SIR
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Πᾶν ἔργον σηπόμενον ἐκλείπει, καὶ ὁ ἐργαζόμενος αὐτὸ μετʼ αὐτοῦ ἀπελεύσεται.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: Πᾶν ἔργον σηπόμενον ἐκλείπει, καὶ ὁ ἐργαζόμενος αὐτὸ μετʼ αὐτοῦ ἀπελεύσεται.
+  usfm_code: SIR
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Μακάριος ἀνὴρ ὃς ἐν σοφίᾳ τελευτήσει, καὶ ὃς ἐν συνέσει αὐτοῦ διαλεχθήσεται·
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: Μακάριος ἀνὴρ ὃς ἐν σοφίᾳ τελευτήσει, καὶ ὃς ἐν συνέσει αὐτοῦ διαλεχθήσεται·
+  usfm_code: SIR
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: ὡ διανοούμενος τὰς ὁδοὺς αὐτῆς ἐν καρδίᾳ αὐτοῦ, καὶ ἐν τοῖς ἀποκρύφοις
-    αὐτῆς νοηθήσεται.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: ὡ διανοούμενος τὰς ὁδοὺς αὐτῆς ἐν καρδίᾳ αὐτοῦ, καὶ ἐν τοῖς ἀποκρύφοις αὐτῆς
+    νοηθήσεται.
+  usfm_code: SIR
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: Ἔξελθε ὀπίσω αὐτῆς ὡς ἰχνευτὴς, καὶ ἐν ταῖς εἰσόδοις αὐτῆς ἐνέδρευε.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: Ἔξελθε ὀπίσω αὐτῆς ὡς ἰχνευτὴς, καὶ ἐν ταῖς εἰσόδοις αὐτῆς ἐνέδρευε.
+  usfm_code: SIR
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: Ὁ παρακύπτων διὰ τῶν θυρίδων αὐτῆς, καὶ ἐπὶ τῶν θυρωμάτων αὐτῆς ἀκροάσεται·
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: Ὁ παρακύπτων διὰ τῶν θυρίδων αὐτῆς, καὶ ἐπὶ τῶν θυρωμάτων αὐτῆς ἀκροάσεται·
+  usfm_code: SIR
+  verse: '23'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 24
-  verse_text: ὁ καταλύων σύνεγγυς τοῦ οἴκου αὐτῆς, καὶ πήξει πάσσαλον ἐν τοῖς τοίχοις
-    αὐτῆς.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: ὁ καταλύων σύνεγγυς τοῦ οἴκου αὐτῆς, καὶ πήξει πάσσαλον ἐν τοῖς τοίχοις αὐτῆς.
+  usfm_code: SIR
+  verse: '24'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 25
-  verse_text: Στήσει τὴν σκηνὴν αὐτοῦ κατὰ χεῖρας αὐτῆς, καὶ καταλύσει ἐν καταλύματι
-    ἀγαθῶν.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: Στήσει τὴν σκηνὴν αὐτοῦ κατὰ χεῖρας αὐτῆς, καὶ καταλύσει ἐν καταλύματι ἀγαθῶν.
+  usfm_code: SIR
+  verse: '25'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 26
-  verse_text: Θήσει τὰ τέκνα αὐτοῦ ἐν τῇ σκέπῃ αὐτῆς, καὶ ὑπὸ τοὺς κλάδους αὐτῆς αὐλισθήσεται.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
-  book_usfm_code: SIR
-  chapter_number: 14
+  text: Θήσει τὰ τέκνα αὐτοῦ ἐν τῇ σκέπῃ αὐτῆς, καὶ ὑπὸ τοὺς κλάδους αὐτῆς αὐλισθήσεται.
+  usfm_code: SIR
+  verse: '26'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 27
-  verse_text: Σκεπασθήσεται ὑπʼ αὐτῆς ἀπὸ καύματος, καὶ ἐν τῇ δόξῃ αὐτῆς καταλύσει.
+  text: Σκεπασθήσεται ὑπʼ αὐτῆς ἀπὸ καύματος, καὶ ἐν τῇ δόξῃ αὐτῆς καταλύσει.
+  usfm_code: SIR
+  verse: '27'

@@ -1,50 +1,50 @@
 [
     {
-        "book_title": "Brenton Septuagint Translation Psalms 150",
-        "book_usfm_code": "PSA",
-        "chapter_number": 150,
-        "verse_number": 1,
-        "verse_text": "Alleluia.",
+        "book": "Brenton Septuagint Translation Psalms 150",
+        "usfm_code": "PSA",
+        "chapter": 150,
+        "verse": "1",
+        "text": "Alleluia.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 150",
-        "book_usfm_code": "PSA",
-        "chapter_number": 150,
-        "verse_number": 2,
-        "verse_text": "Praise him on account of his mighty acts: praise him according to his abundant greatness.",
+        "book": "Brenton Septuagint Translation Psalms 150",
+        "usfm_code": "PSA",
+        "chapter": 150,
+        "verse": "2",
+        "text": "Praise him on account of his mighty acts: praise him according to his abundant greatness.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 150",
-        "book_usfm_code": "PSA",
-        "chapter_number": 150,
-        "verse_number": 3,
-        "verse_text": "Praise him with the sound of a trumpet: praise him with psaltery and harp.",
+        "book": "Brenton Septuagint Translation Psalms 150",
+        "usfm_code": "PSA",
+        "chapter": 150,
+        "verse": "3",
+        "text": "Praise him with the sound of a trumpet: praise him with psaltery and harp.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 150",
-        "book_usfm_code": "PSA",
-        "chapter_number": 150,
-        "verse_number": 4,
-        "verse_text": "Praise him with timbrel and dance: praise him with stringed instruments and the organ.",
+        "book": "Brenton Septuagint Translation Psalms 150",
+        "usfm_code": "PSA",
+        "chapter": 150,
+        "verse": "4",
+        "text": "Praise him with timbrel and dance: praise him with stringed instruments and the organ.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 150",
-        "book_usfm_code": "PSA",
-        "chapter_number": 150,
-        "verse_number": 5,
-        "verse_text": "Praise him with melodious cymbals: praise him with loud cymbals.",
+        "book": "Brenton Septuagint Translation Psalms 150",
+        "usfm_code": "PSA",
+        "chapter": 150,
+        "verse": "5",
+        "text": "Praise him with melodious cymbals: praise him with loud cymbals.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 150",
-        "book_usfm_code": "PSA",
-        "chapter_number": 150,
-        "verse_number": 6,
-        "verse_text": "Let every thing that has breath praise the Lord.",
+        "book": "Brenton Septuagint Translation Psalms 150",
+        "usfm_code": "PSA",
+        "chapter": 150,
+        "verse": "6",
+        "text": "Let every thing that has breath praise the Lord.",
         "iso-639-2_language_code": "eng"
     }
 ]

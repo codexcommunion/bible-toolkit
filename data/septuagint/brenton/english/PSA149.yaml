@@ -1,59 +1,57 @@
-- book_title: Brenton Septuagint Translation Psalms 149
-  book_usfm_code: PSA
-  chapter_number: 149
+- book: Brenton Septuagint Translation Psalms 149
+  chapter: 149
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: Alleluia.
-- book_title: Brenton Septuagint Translation Psalms 149
-  book_usfm_code: PSA
-  chapter_number: 149
+  text: Alleluia.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 149
+  chapter: 149
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: Let Israel rejoice in him that made him; and let the children of Sion
-    exult in their king.
-- book_title: Brenton Septuagint Translation Psalms 149
-  book_usfm_code: PSA
-  chapter_number: 149
+  text: Let Israel rejoice in him that made him; and let the children of Sion exult
+    in their king.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 149
+  chapter: 149
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: 'Let them praise his name in the dance: let them sing praises to him
-    with timbrel and psaltery.'
-- book_title: Brenton Septuagint Translation Psalms 149
-  book_usfm_code: PSA
-  chapter_number: 149
+  text: 'Let them praise his name in the dance: let them sing praises to him with
+    timbrel and psaltery.'
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 149
+  chapter: 149
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: For the Lord takes pleasure in his people; and will exalt the meek with
-    salvation.
-- book_title: Brenton Septuagint Translation Psalms 149
-  book_usfm_code: PSA
-  chapter_number: 149
+  text: For the Lord takes pleasure in his people; and will exalt the meek with salvation.
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 149
+  chapter: 149
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: The saints shall rejoice in glory; and shall exult on their beds.
-- book_title: Brenton Septuagint Translation Psalms 149
-  book_usfm_code: PSA
-  chapter_number: 149
+  text: The saints shall rejoice in glory; and shall exult on their beds.
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 149
+  chapter: 149
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: The high praises of God shall be in their throat, and two-edged swords
-    in their hands;
-- book_title: Brenton Septuagint Translation Psalms 149
-  book_usfm_code: PSA
-  chapter_number: 149
+  text: The high praises of God shall be in their throat, and two-edged swords in
+    their hands;
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 149
+  chapter: 149
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: to execute vengeance on the nations, and punishments among the peoples;
-- book_title: Brenton Septuagint Translation Psalms 149
-  book_usfm_code: PSA
-  chapter_number: 149
+  text: to execute vengeance on the nations, and punishments among the peoples;
+  usfm_code: PSA
+  verse: '7'
+- book: Brenton Septuagint Translation Psalms 149
+  chapter: 149
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: to bind their kings with fetters, and their nobles with manacles of
-    iron;
-- book_title: Brenton Septuagint Translation Psalms 149
-  book_usfm_code: PSA
-  chapter_number: 149
+  text: to bind their kings with fetters, and their nobles with manacles of iron;
+  usfm_code: PSA
+  verse: '8'
+- book: Brenton Septuagint Translation Psalms 149
+  chapter: 149
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: 'to execute on them the judgment written: this honour have all his saints.'
+  text: 'to execute on them the judgment written: this honour have all his saints.'
+  usfm_code: PSA
+  verse: '9'

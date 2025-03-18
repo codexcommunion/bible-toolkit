@@ -1,189 +1,182 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Προσευχὴ τῷ πτωχῷ, ὅταν ἀκηδιάσῃ, καὶ ἐναντίον Κυρίου ἐκχέῃ τὴν δέησιν
-    αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Προσευχὴ τῷ πτωχῷ, ὅταν ἀκηδιάσῃ, καὶ ἐναντίον Κυρίου ἐκχέῃ τὴν δέησιν αὐτοῦ.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Κύριε εἰσάκουσον τῆς προσευχῆς μου, καὶ ἡ κραυγή μου πρὸς σὲ ἐλθέτω.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Κύριε εἰσάκουσον τῆς προσευχῆς μου, καὶ ἡ κραυγή μου πρὸς σὲ ἐλθέτω.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Μὴ ἀποστρέψῃς τὸ πρόσωπόν σου ἀπʼ ἐμοῦ· ἐν ᾗ ἂν ἡμέρᾳ θλίβομαι, κλῖνον
-    πρὸς μὲ τὸ οὖς σου· ἐν ᾗ ἂν ἡμέρᾳ ἐπικαλέσωμαί σε, ταχὺ εἰσάκουσόν μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Μὴ ἀποστρέψῃς τὸ πρόσωπόν σου ἀπʼ ἐμοῦ· ἐν ᾗ ἂν ἡμέρᾳ θλίβομαι, κλῖνον πρὸς
+    μὲ τὸ οὖς σου· ἐν ᾗ ἂν ἡμέρᾳ ἐπικαλέσωμαί σε, ταχὺ εἰσάκουσόν μου.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Ὅτι ἐξέλιπον ὡσεὶ καπνὸς αἱ ἡμέραι μου, καὶ τὰ ὀστᾶ μου ὡσεὶ φρύγιον
-    συνεφρύγησαν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Ὅτι ἐξέλιπον ὡσεὶ καπνὸς αἱ ἡμέραι μου, καὶ τὰ ὀστᾶ μου ὡσεὶ φρύγιον συνεφρύγησαν.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Ἐπλήγην ὡσεὶ χόρτος, καὶ ἐξηράνθη ἡ καρδία μου, ὅτι ἐπελαθόμην τοῦ φαγεῖν
+  text: Ἐπλήγην ὡσεὶ χόρτος, καὶ ἐξηράνθη ἡ καρδία μου, ὅτι ἐπελαθόμην τοῦ φαγεῖν
     τὸν ἄρτον μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ἀπὸ φωνῆς τοῦ στεναγμοῦ μου, ἐκολλήθη τὸ ὀστοῦν μου τῇ σαρκί μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Ἀπὸ φωνῆς τοῦ στεναγμοῦ μου, ἐκολλήθη τὸ ὀστοῦν μου τῇ σαρκί μου.
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ὡμοιώθην πελεκᾶνι ἐρημικῷ, ἐγενήθην ὡσεὶ νυκτικόραξ ἐν οἰκοπέδῳ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Ὡμοιώθην πελεκᾶνι ἐρημικῷ, ἐγενήθην ὡσεὶ νυκτικόραξ ἐν οἰκοπέδῳ.
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Ἠγρύπνησα, καὶ ἐγενήθην ὡσεὶ στρουθίον μονάζον ἐπὶ δώματι.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Ἠγρύπνησα, καὶ ἐγενήθην ὡσεὶ στρουθίον μονάζον ἐπὶ δώματι.
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Ὅλην τὴν ἡμέραν ὠνείδιζόν με οἱ ἐχθροί μου, καὶ οἱ ἐπαινοῦντές με κατʼ
-    ἐμοῦ ὤμνυον.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Ὅλην τὴν ἡμέραν ὠνείδιζόν με οἱ ἐχθροί μου, καὶ οἱ ἐπαινοῦντές με κατʼ ἐμοῦ
+    ὤμνυον.
+  usfm_code: PSA
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Ὅτι σποδὸν ὡσεὶ ἄρτον ἔφαγον, καὶ τὸ πόμα μου μετὰ κλαυθμοῦ ἐκίρνων,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Ὅτι σποδὸν ὡσεὶ ἄρτον ἔφαγον, καὶ τὸ πόμα μου μετὰ κλαυθμοῦ ἐκίρνων,
+  usfm_code: PSA
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: ἀπὸ προσώπου τῆς ὀργῆς σου καὶ τοῦ θυμοῦ σου, ὅτι ἐπάρας κατέῤῥαξάς
-    με.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: ἀπὸ προσώπου τῆς ὀργῆς σου καὶ τοῦ θυμοῦ σου, ὅτι ἐπάρας κατέῤῥαξάς με.
+  usfm_code: PSA
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Αἱ ἡμέραι μου ὡσεὶ σκιὰ ἐκλίθησαν, κᾀγὼ ὡσεὶ χόρτος ἐξηράνθην.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Αἱ ἡμέραι μου ὡσεὶ σκιὰ ἐκλίθησαν, κᾀγὼ ὡσεὶ χόρτος ἐξηράνθην.
+  usfm_code: PSA
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Σὺ δέ Κύριε εἰς τὸν αἰῶνα μένεις, καὶ τὸ μνημόσυνόν σου εἰς γενεὰν καὶ
-    γενεάν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Σὺ δέ Κύριε εἰς τὸν αἰῶνα μένεις, καὶ τὸ μνημόσυνόν σου εἰς γενεὰν καὶ γενεάν.
+  usfm_code: PSA
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Σὺ ἀναστὰς οἰκτειρήσεις τὴν Σιὼν, ὅτι καιρὸς τοῦ οἰκτειρῆσαι αὐτὴν,
-    ὅτι ἥκει καιρός.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Σὺ ἀναστὰς οἰκτειρήσεις τὴν Σιὼν, ὅτι καιρὸς τοῦ οἰκτειρῆσαι αὐτὴν, ὅτι ἥκει
+    καιρός.
+  usfm_code: PSA
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Ὅτι εὐδόκησαν οἱ δοῦλοί σου τοὺς λίθους αὐτῆς, καὶ τὸν χοῦν αὐτῆς οἰκτειρήσουσι.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Ὅτι εὐδόκησαν οἱ δοῦλοί σου τοὺς λίθους αὐτῆς, καὶ τὸν χοῦν αὐτῆς οἰκτειρήσουσι.
+  usfm_code: PSA
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Καὶ φοβηθήσονται τὰ ἔθνη τὸ ὄνομά σου Κύριε, καὶ πάντες οἱ βασιλεῖς
-    τὴν δόξαν σου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Καὶ φοβηθήσονται τὰ ἔθνη τὸ ὄνομά σου Κύριε, καὶ πάντες οἱ βασιλεῖς τὴν δόξαν
+    σου.
+  usfm_code: PSA
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Ὅτι οἰκοδομήσει Κύριος τὴν Σιὼν, καὶ ὀφθήσεται ἐν τῇ δόξῃ αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Ὅτι οἰκοδομήσει Κύριος τὴν Σιὼν, καὶ ὀφθήσεται ἐν τῇ δόξῃ αὐτοῦ.
+  usfm_code: PSA
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Ἐπέβλεψεν ἐπὶ τὴν προσευχὴν τῶν ταπεινῶν, καὶ οὐκ ἐξουδένωσε τὴν δέησιν
-    αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Ἐπέβλεψεν ἐπὶ τὴν προσευχὴν τῶν ταπεινῶν, καὶ οὐκ ἐξουδένωσε τὴν δέησιν αὐτῶν.
+  usfm_code: PSA
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Γραφήτω αὕτη εἰς γενεὰν ἑτέραν, καὶ λαὸς ὁ κτιζόμενος αἰνέσει τὸν Κύριον.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Γραφήτω αὕτη εἰς γενεὰν ἑτέραν, καὶ λαὸς ὁ κτιζόμενος αἰνέσει τὸν Κύριον.
+  usfm_code: PSA
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Ὅτι ἐξέκυψεν ἐξ ὕψους ἁγίου αὐτοῦ, Κύριος ἐξ οὐρανοῦ ἐπὶ τὴν γῆν ἐπέβλεψε,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Ὅτι ἐξέκυψεν ἐξ ὕψους ἁγίου αὐτοῦ, Κύριος ἐξ οὐρανοῦ ἐπὶ τὴν γῆν ἐπέβλεψε,
+  usfm_code: PSA
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: τοῦ ἀκοῦσαι τοῦ στεναγμοῦ τῶν πεπεδημένων, τοῦ λῦσαι τοὺς υἱοὺς τῶν
-    τεθανατωμένων,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: τοῦ ἀκοῦσαι τοῦ στεναγμοῦ τῶν πεπεδημένων, τοῦ λῦσαι τοὺς υἱοὺς τῶν τεθανατωμένων,
+  usfm_code: PSA
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: τοῦ ἀναγγεῖλαι ἐν Σιὼν τὸ ὄνομα Κυρίου, καὶ τὴν αἴνεσιν αὐτοῦ ἐν Ἱερουσαλήμ·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: τοῦ ἀναγγεῖλαι ἐν Σιὼν τὸ ὄνομα Κυρίου, καὶ τὴν αἴνεσιν αὐτοῦ ἐν Ἱερουσαλήμ·
+  usfm_code: PSA
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: ἐν τῷ συναχθῆναι λαοὺς ἐπιτοαυτὸ, καὶ βασιλεῖς τοῦ δουλεύειν τῷ Κυρίῳ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: ἐν τῷ συναχθῆναι λαοὺς ἐπιτοαυτὸ, καὶ βασιλεῖς τοῦ δουλεύειν τῷ Κυρίῳ.
+  usfm_code: PSA
+  verse: '23'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 24
-  verse_text: Ἀπεκρίθη αὐτῷ ἐν ὁδῷ ἰσχύος αὐτοῦ, τὴν ὀλιγότητα τῶν ἡμερῶν μου ἀνάγγειλόν
+  text: Ἀπεκρίθη αὐτῷ ἐν ὁδῷ ἰσχύος αὐτοῦ, τὴν ὀλιγότητα τῶν ἡμερῶν μου ἀνάγγειλόν
     μοι·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  usfm_code: PSA
+  verse: '24'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 25
-  verse_text: μὴ ἀναγάγῃς με ἐν ἡμίσει ἡμερῶν μου, ἐν γενεᾷ γενεῶν τὰ ἔτη σου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: μὴ ἀναγάγῃς με ἐν ἡμίσει ἡμερῶν μου, ἐν γενεᾷ γενεῶν τὰ ἔτη σου.
+  usfm_code: PSA
+  verse: '25'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 26
-  verse_text: Κατʼ ἀρχὰς τὴν γῆν σὺ Κύριε ἐθεμελίωσας, καὶ ἔργα τῶν χειρῶν σου εἰσὶν
-    οἱ οὐρανοί.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Κατʼ ἀρχὰς τὴν γῆν σὺ Κύριε ἐθεμελίωσας, καὶ ἔργα τῶν χειρῶν σου εἰσὶν οἱ
+    οὐρανοί.
+  usfm_code: PSA
+  verse: '26'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 27
-  verse_text: Αὐτοὶ ἀπολοῦνται, σὺ δὲ διαμένεις· καὶ πάντες ὡς ἱμάτιον παλαιωθήσονται,
-    καὶ ὡσεὶ περιβόλαιον ἑλίξεις αὐτοὺς, καὶ ἀλλαγήσονται.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Αὐτοὶ ἀπολοῦνται, σὺ δὲ διαμένεις· καὶ πάντες ὡς ἱμάτιον παλαιωθήσονται, καὶ
+    ὡσεὶ περιβόλαιον ἑλίξεις αὐτοὺς, καὶ ἀλλαγήσονται.
+  usfm_code: PSA
+  verse: '27'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 28
-  verse_text: Σὺ δὲ ὁ αὐτὸς εἶ, καὶ τὰ ἔτη σου οὐκ ἐκλείψουσιν·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
-  book_usfm_code: PSA
-  chapter_number: 101
+  text: Σὺ δὲ ὁ αὐτὸς εἶ, καὶ τὰ ἔτη σου οὐκ ἐκλείψουσιν·
+  usfm_code: PSA
+  verse: '28'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 101
+  chapter: 101
   iso-639-2_language_code: grc
-  verse_number: 29
-  verse_text: Οἱ υἱοῖ τῶν δούλων σου κατασκηνώσουσι, καὶ τὸ σπέρμα αὐτῶν εἰς τὸν αἰῶνα
-    κατευθυνθήσεται.
+  text: Οἱ υἱοῖ τῶν δούλων σου κατασκηνώσουσι, καὶ τὸ σπέρμα αὐτῶν εἰς τὸν αἰῶνα κατευθυνθήσεται.
+  usfm_code: PSA
+  verse: '29'

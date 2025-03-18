@@ -1,39 +1,38 @@
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 25
-  book_usfm_code: JOB
-  chapter_number: 25
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 25
+  chapter: 25
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ὑπολαβὼν δὲ Βαλδὰδ ὁ Σαυχίτης, λέγει,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 25
-  book_usfm_code: JOB
-  chapter_number: 25
+  text: Ὑπολαβὼν δὲ Βαλδὰδ ὁ Σαυχίτης, λέγει,
+  usfm_code: JOB
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 25
+  chapter: 25
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Τί γὰρ προοίμιον ἢ φόβος παρʼ αὐτοῦ ὁ ποιῶν τὴν σύμπασαν ἐν ὑψιστῳ;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 25
-  book_usfm_code: JOB
-  chapter_number: 25
+  text: Τί γὰρ προοίμιον ἢ φόβος παρʼ αὐτοῦ ὁ ποιῶν τὴν σύμπασαν ἐν ὑψιστῳ;
+  usfm_code: JOB
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 25
+  chapter: 25
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Μὴ γάρ τις ὑπολάβοι ὅτι ἐστὶ παρέλκυσις πειραταῖς· ἐπὶ τίνας δὲ οὐκ
-    ἐπελεύσεται ἔνεδρα παρʼ αὐτοῦ;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 25
-  book_usfm_code: JOB
-  chapter_number: 25
+  text: Μὴ γάρ τις ὑπολάβοι ὅτι ἐστὶ παρέλκυσις πειραταῖς· ἐπὶ τίνας δὲ οὐκ ἐπελεύσεται
+    ἔνεδρα παρʼ αὐτοῦ;
+  usfm_code: JOB
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 25
+  chapter: 25
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Πῶς γὰρ ἔσται δίκαιος βροτὸς ἔναντι Κυρίου; ἢ τίς ἂν ἀποκαθαρίσαι αὐτὸν
-    γεννητὸς γυναικός;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 25
-  book_usfm_code: JOB
-  chapter_number: 25
+  text: Πῶς γὰρ ἔσται δίκαιος βροτὸς ἔναντι Κυρίου; ἢ τίς ἂν ἀποκαθαρίσαι αὐτὸν γεννητὸς
+    γυναικός;
+  usfm_code: JOB
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 25
+  chapter: 25
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Εἰ σελήνῃ συντάσσει, καὶ οὐκ ἐπιφαύσκει, ἄστρα δὲ οὐ καθαρὰ ἐναντίον
-    αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 25
-  book_usfm_code: JOB
-  chapter_number: 25
+  text: Εἰ σελήνῃ συντάσσει, καὶ οὐκ ἐπιφαύσκει, ἄστρα δὲ οὐ καθαρὰ ἐναντίον αὐτοῦ.
+  usfm_code: JOB
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 25
+  chapter: 25
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ἔα δὲ, ἄνθρωπος σαπρία, καὶ υἱὸς ἀνθρώπου σκώληξ.
+  text: Ἔα δὲ, ἄνθρωπος σαπρία, καὶ υἱὸς ἀνθρώπου σκώληξ.
+  usfm_code: JOB
+  verse: '6'

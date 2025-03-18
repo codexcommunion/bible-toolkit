@@ -1,190 +1,189 @@
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ὑπολαβὼν δὲ Ἰὼβ, λέγει,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Ὑπολαβὼν δὲ Ἰὼβ, λέγει,
+  usfm_code: JOB
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Ἕως τίνος ἔγκοπον ποιήσετε ψυχήν μου, καὶ καθαιρεῖτέ με λόγοις; γνῶτε
-    μόνον ὅτι ὁ Κύριος ἐποίησέ με οὕτως.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Ἕως τίνος ἔγκοπον ποιήσετε ψυχήν μου, καὶ καθαιρεῖτέ με λόγοις; γνῶτε μόνον
+    ὅτι ὁ Κύριος ἐποίησέ με οὕτως.
+  usfm_code: JOB
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Καταλαλεῖτέ μου, οὐκ αἰσχυνόμενοί με ἐπίκεισθέ μοι.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Καταλαλεῖτέ μου, οὐκ αἰσχυνόμενοί με ἐπίκεισθέ μοι.
+  usfm_code: JOB
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Ναὶ δὴ ἐπʼ ἀληθείας ἐγὼ ἐπλανήθην, παρʼ ἐμοὶ δὲ αὐλίζεται πλάνος·
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Ναὶ δὴ ἐπʼ ἀληθείας ἐγὼ ἐπλανήθην, παρʼ ἐμοὶ δὲ αὐλίζεται πλάνος·
+  usfm_code: JOB
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: λαλῆσαι ῥῆματα ἃ οὐκ ἔδει, τὰ δὲ ῥήματά μου πλανᾶται καὶ οὐκ ἐπὶ καιροῦ.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: λαλῆσαι ῥῆματα ἃ οὐκ ἔδει, τὰ δὲ ῥήματά μου πλανᾶται καὶ οὐκ ἐπὶ καιροῦ.
+  usfm_code: JOB
+  verse: 4a
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Ἔα δὲ, ὅτι ἐπʼ ἐμοὶ μεγαλύνεσθε, ἐνάλλεσθε δέ μοι ὀνείδει.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Ἔα δὲ, ὅτι ἐπʼ ἐμοὶ μεγαλύνεσθε, ἐνάλλεσθε δέ μοι ὀνείδει.
+  usfm_code: JOB
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Γνῶτε οὖν ὅτι Κύριός ἐστιν ὁ ταράξας, ὀχύρωμα δὲ αὐτοῦ ἐπʼ ἐμὲ ὕψωσεν.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Γνῶτε οὖν ὅτι Κύριός ἐστιν ὁ ταράξας, ὀχύρωμα δὲ αὐτοῦ ἐπʼ ἐμὲ ὕψωσεν.
+  usfm_code: JOB
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ἰδοὺ γελῶ ὀνείδει, οὐ λαλήσω· κεκράξομαι, καὶ οὐδαμοῦ κρίμα.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Ἰδοὺ γελῶ ὀνείδει, οὐ λαλήσω· κεκράξομαι, καὶ οὐδαμοῦ κρίμα.
+  usfm_code: JOB
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Κύκλῳ περιῳκοδόμημαι, καὶ οὐ μὴ διαβῶ· ἐπὶ πρόσωπόν μου σκότος ἔθετο.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Κύκλῳ περιῳκοδόμημαι, καὶ οὐ μὴ διαβῶ· ἐπὶ πρόσωπόν μου σκότος ἔθετο.
+  usfm_code: JOB
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Τὴν δὲ δόξαν ἀπʼ ἐμοῦ ἐξέδυσεν, ἀφεῖλε δὲ στέφανον ἀπὸ κεφαλῆς μου.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Τὴν δὲ δόξαν ἀπʼ ἐμοῦ ἐξέδυσεν, ἀφεῖλε δὲ στέφανον ἀπὸ κεφαλῆς μου.
+  usfm_code: JOB
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Διέσπασέ με κύκλῳ καὶ ᾠχόμην, ἐξέκοψε δὲ ὥσπερ δένδρον τὴν ἐλπίδα μου.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Διέσπασέ με κύκλῳ καὶ ᾠχόμην, ἐξέκοψε δὲ ὥσπερ δένδρον τὴν ἐλπίδα μου.
+  usfm_code: JOB
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Δεινῶς δέ μοι ὀργῇ ἐχρήσατο, ἡγήσατο δέ με ὥσπερ ἐχθρόν.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Δεινῶς δέ μοι ὀργῇ ἐχρήσατο, ἡγήσατο δέ με ὥσπερ ἐχθρόν.
+  usfm_code: JOB
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Ὁμοθυμαδὸν δὲ ἦλθον τὰ πειρατήρια αὐτοῦ ἐπʼ ἐμοὶ, ταῖς ὁδοῖς μου ἐκύκλωσαν
+  text: Ὁμοθυμαδὸν δὲ ἦλθον τὰ πειρατήρια αὐτοῦ ἐπʼ ἐμοὶ, ταῖς ὁδοῖς μου ἐκύκλωσαν
     ἐγκάθετοι.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  usfm_code: JOB
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Ἀπʼ ἐμοῦ ἀδελφοί μου ἀπέστησαν, ἔγνωσαν ἀλλοτρίους ἢ ἐμέ· φίλοι δέ μου
-    ἀνελεήμονες γεγόνασιν·
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Ἀπʼ ἐμοῦ ἀδελφοί μου ἀπέστησαν, ἔγνωσαν ἀλλοτρίους ἢ ἐμέ· φίλοι δέ μου ἀνελεήμονες
+    γεγόνασιν·
+  usfm_code: JOB
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Οὐ προσεποιήσαντό με οἱ ἐγγύτατοί μου, καὶ οἱ εἰδότες μου τὸ ὄνομα ἐπελάθοντό
+  text: Οὐ προσεποιήσαντό με οἱ ἐγγύτατοί μου, καὶ οἱ εἰδότες μου τὸ ὄνομα ἐπελάθοντό
     μου.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  usfm_code: JOB
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Γείτονες οἰκίας, θεράπαιναί τε μοῦ, ἀλλογενὴς ἤμην ἐναντίον αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Γείτονες οἰκίας, θεράπαιναί τε μοῦ, ἀλλογενὴς ἤμην ἐναντίον αὐτῶν.
+  usfm_code: JOB
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Θεράποντά μου ἐκάλεσα, καὶ οὐχ ὑπήκουσε· στόμα δέ μου ἐδέετο.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Θεράποντά μου ἐκάλεσα, καὶ οὐχ ὑπήκουσε· στόμα δέ μου ἐδέετο.
+  usfm_code: JOB
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Καὶ ἱκέτευον τὴν γυναῖκά μου, προσεκαλούμην δὲ καλακευων υἱοὺς παλλακίδων
+  text: Καὶ ἱκέτευον τὴν γυναῖκά μου, προσεκαλούμην δὲ καλακευων υἱοὺς παλλακίδων
     μου·
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  usfm_code: JOB
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Οἱ δὲ εἰς τὸν αἰῶνά με ἀπεποιήσαντο, ὅταν ἀναστῶ, κατʼ ἐμοῦ λαλοῦσιν.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Οἱ δὲ εἰς τὸν αἰῶνά με ἀπεποιήσαντο, ὅταν ἀναστῶ, κατʼ ἐμοῦ λαλοῦσιν.
+  usfm_code: JOB
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Ἐβδελύξαντό με οἱ ἰδόντες με· οὓς δὴ ἠγαπήκειν, ἐπανέστησάν μοι.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Ἐβδελύξαντό με οἱ ἰδόντες με· οὓς δὴ ἠγαπήκειν, ἐπανέστησάν μοι.
+  usfm_code: JOB
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Ἐν δέρματί μου ἐσάπησαν αἱ σάρκες μου, τὰ δὲ ὀστᾶ μου ἐν ὀδοῦσιν ἔχεται.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Ἐν δέρματί μου ἐσάπησαν αἱ σάρκες μου, τὰ δὲ ὀστᾶ μου ἐν ὀδοῦσιν ἔχεται.
+  usfm_code: JOB
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: Ἐλεήσατέ με, ἐλεήσατέ με, ὦ φίλοι, χεὶρ γὰρ Κυρίου ἡ ἁψαμένη μου ἐστί.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Ἐλεήσατέ με, ἐλεήσατέ με, ὦ φίλοι, χεὶρ γὰρ Κυρίου ἡ ἁψαμένη μου ἐστί.
+  usfm_code: JOB
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: Διατί με διώκετε ὥσπερ καὶ ὁ Κύριος; ἀπὸ δὲ σαρκῶν μου οὐκ ἐμπίπλασθε;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Διατί με διώκετε ὥσπερ καὶ ὁ Κύριος; ἀπὸ δὲ σαρκῶν μου οὐκ ἐμπίπλασθε;
+  usfm_code: JOB
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: Τίς γὰρ ἂν δοίη γραφῆναι τὰ ῥήματά μου, τεθῆναι δὲ αὐτὰ ἐν βιβλίῳ εἰς
-    τὸν αἰῶνα,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Τίς γὰρ ἂν δοίη γραφῆναι τὰ ῥήματά μου, τεθῆναι δὲ αὐτὰ ἐν βιβλίῳ εἰς τὸν
+    αἰῶνα,
+  usfm_code: JOB
+  verse: '23'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 24
-  verse_text: ἐν γραφείῳ σιδηρῷ καὶ μολίβῳ, ἢ ἐν πέτραις ἐγγλυφῆναι;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: ἐν γραφείῳ σιδηρῷ καὶ μολίβῳ, ἢ ἐν πέτραις ἐγγλυφῆναι;
+  usfm_code: JOB
+  verse: '24'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 25
-  verse_text: Οἶδα γὰρ ὅτι ἀένναός ἐστιν ὁ ἐκλύειν με μέλλων,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Οἶδα γὰρ ὅτι ἀένναός ἐστιν ὁ ἐκλύειν με μέλλων,
+  usfm_code: JOB
+  verse: '25'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 26
-  verse_text: ἐπὶ γῆς ἀναστῆσαι τὸ δέρμα μου τὸ ἀναντλοῦν ταῦτα· παρὰ γὰρ Κυρίου ταῦτά
-    μοι συνετελέσθη,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: ἐπὶ γῆς ἀναστῆσαι τὸ δέρμα μου τὸ ἀναντλοῦν ταῦτα· παρὰ γὰρ Κυρίου ταῦτά μοι
+    συνετελέσθη,
+  usfm_code: JOB
+  verse: '26'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 27
-  verse_text: ἃ ἐγὼ ἐμαυτῷ συνεπίσταμαι, ἃ ὁ ὀφθαλμός μου ἑώρακε, καὶ οὐκ ἄλλος, πάντα
-    δέ μοι συντετέλεσται ἐν κόλπῳ.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: ἃ ἐγὼ ἐμαυτῷ συνεπίσταμαι, ἃ ὁ ὀφθαλμός μου ἑώρακε, καὶ οὐκ ἄλλος, πάντα δέ
+    μοι συντετέλεσται ἐν κόλπῳ.
+  usfm_code: JOB
+  verse: '27'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 28
-  verse_text: Εἰ δὲ καὶ ἐρεῖτε, τί ἐροῦμεν ἔναντι αὐτοῦ, καὶ ῥίζαν λόγου εὑρήσομεν
-    ἐν αὐτῷ;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 19
-  book_usfm_code: JOB
-  chapter_number: 19
+  text: Εἰ δὲ καὶ ἐρεῖτε, τί ἐροῦμεν ἔναντι αὐτοῦ, καὶ ῥίζαν λόγου εὑρήσομεν ἐν αὐτῷ;
+  usfm_code: JOB
+  verse: '28'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 19
+  chapter: 19
   iso-639-2_language_code: grc
-  verse_number: 29
-  verse_text: Εὐλαβήθητε δὴ καὶ ὑμεῖς ἀπὸ ἐπικαλύμματος, θυμὸς γὰρ ἐπʼ ἀνόμους ἐπελεύσεται·
+  text: Εὐλαβήθητε δὴ καὶ ὑμεῖς ἀπὸ ἐπικαλύμματος, θυμὸς γὰρ ἐπʼ ἀνόμους ἐπελεύσεται·
     καὶ τότε γνώσονται, ποῦ ἐστιν αὐτῶν ἡ ὕλη
+  usfm_code: JOB
+  verse: '29'

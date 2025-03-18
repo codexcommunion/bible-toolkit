@@ -1,141 +1,136 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Εἰς τὸ τέλος, ψαλμὸς τῷ Δαυὶδ,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Εἰς τὸ τέλος, ψαλμὸς τῷ Δαυὶδ,
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: ἐν τῷ ἐλθεῖν πρὸς αὐτὸν Νάθαν τὸν προφήτην, ἡνίκα εἰσῆλθε πρὸς Βηρσαβεέ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: ἐν τῷ ἐλθεῖν πρὸς αὐτὸν Νάθαν τὸν προφήτην, ἡνίκα εἰσῆλθε πρὸς Βηρσαβεέ.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ἐλέησον με ὁ Θεὸς κατὰ τὸ μέγα ἔλεός σου, καὶ κατὰ τὸ πλῆθος τῶν οἰκτιρμῶν
+  text: Ἐλέησον με ὁ Θεὸς κατὰ τὸ μέγα ἔλεός σου, καὶ κατὰ τὸ πλῆθος τῶν οἰκτιρμῶν
     σου ἐξάλειψον τὸ ἀνόμημά μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Ἐπιπλεῖον πλῦνόν με ἀπὸ τῆς ἀνομίας μου, καὶ ἀπὸ τῆς ἁμαρτίας μου καθάρισόν
+  text: Ἐπιπλεῖον πλῦνόν με ἀπὸ τῆς ἀνομίας μου, καὶ ἀπὸ τῆς ἁμαρτίας μου καθάρισόν
     με.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Ὅτι τὴν ἀνομίαν μου ἐγὼ γινώσκω, καὶ ἡ ἁμαρτία μου ἐνώπιόν μου ἐστὶ
-    διαπαντός·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Ὅτι τὴν ἀνομίαν μου ἐγὼ γινώσκω, καὶ ἡ ἁμαρτία μου ἐνώπιόν μου ἐστὶ διαπαντός·
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Σοὶ μόνῳ ἥμαρτον, καὶ τὸ πονηρὸν ἐνώπιόν σου ἐποίησα· ὅπως ἂν δικαιωθῇς
-    ἐν τοῖς λόγοις σου, καὶ νικήσῃς ἐν τῷ κρίνεσθαί σε.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Σοὶ μόνῳ ἥμαρτον, καὶ τὸ πονηρὸν ἐνώπιόν σου ἐποίησα· ὅπως ἂν δικαιωθῇς ἐν
+    τοῖς λόγοις σου, καὶ νικήσῃς ἐν τῷ κρίνεσθαί σε.
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ἰδοὺ γὰρ ἐν ἀνομίαις συνελήφθην, καὶ ἐν ἁμαρτίαις ἐκίσσησέ με ἡ μήτηρ
-    μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Ἰδοὺ γὰρ ἐν ἀνομίαις συνελήφθην, καὶ ἐν ἁμαρτίαις ἐκίσσησέ με ἡ μήτηρ μου.
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Ἰδοὺ γὰρ ἀλήθειαν ἠγάπησας, τὰ ἄδηλα καὶ τὰ κρύφια τῆς σοφίας σου ἐδήλωσάς
+  text: Ἰδοὺ γὰρ ἀλήθειαν ἠγάπησας, τὰ ἄδηλα καὶ τὰ κρύφια τῆς σοφίας σου ἐδήλωσάς
     μοι.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Ῥαντιεῖς με ὑσσώπῳ καὶ καθαρισθήσομαι, πλυνεῖς με καὶ ὑπὲρ χιόνα λευκανθήσομαι.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Ῥαντιεῖς με ὑσσώπῳ καὶ καθαρισθήσομαι, πλυνεῖς με καὶ ὑπὲρ χιόνα λευκανθήσομαι.
+  usfm_code: PSA
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Ἀκουτιεῖς με ἀγαλλίασιν καὶ εὐφροσύνην, ἀγαλλιάσονται ὀστᾶ τεταπεινωμένα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Ἀκουτιεῖς με ἀγαλλίασιν καὶ εὐφροσύνην, ἀγαλλιάσονται ὀστᾶ τεταπεινωμένα.
+  usfm_code: PSA
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Ἀπόστρεψον τὸ πρόσωπόν σου ἀπὸ τῶν ἁμαρτιῶν μου, καὶ πάσας τὰς ἀνομίας
-    μου ἐξάλειψον.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Ἀπόστρεψον τὸ πρόσωπόν σου ἀπὸ τῶν ἁμαρτιῶν μου, καὶ πάσας τὰς ἀνομίας μου
+    ἐξάλειψον.
+  usfm_code: PSA
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Καρδίαν καθαρὰν κτίσον ἐν ἐμοὶ ὁ Θεὸς, καὶ πνεῦμα εὐθὲς ἐγκαίνισον ἐν
-    τοῖς ἐγκάτοις μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Καρδίαν καθαρὰν κτίσον ἐν ἐμοὶ ὁ Θεὸς, καὶ πνεῦμα εὐθὲς ἐγκαίνισον ἐν τοῖς
+    ἐγκάτοις μου.
+  usfm_code: PSA
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Μὴ ἀποῤῥίψῃς με ἀπὸ τοῦ προσώπου σου, καὶ τὸ πνεῦμα τὸ ἅγιόν σου μὴ
-    ἀντανέλῃς ἀπʼ ἐμοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Μὴ ἀποῤῥίψῃς με ἀπὸ τοῦ προσώπου σου, καὶ τὸ πνεῦμα τὸ ἅγιόν σου μὴ ἀντανέλῃς
+    ἀπʼ ἐμοῦ.
+  usfm_code: PSA
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Ἀπόδος μοι τὴν ἀγαλλίασιν τοῦ σωτηρίου σου, πνεύματι ἡγεμονικῷ στήριξόν
-    με.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Ἀπόδος μοι τὴν ἀγαλλίασιν τοῦ σωτηρίου σου, πνεύματι ἡγεμονικῷ στήριξόν με.
+  usfm_code: PSA
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Διδάξω ἀνόμους τὰς ὁδούς σου, καὶ ἀσεβεῖς ἐπὶ σὲ ἐπιστρέψουσι.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Διδάξω ἀνόμους τὰς ὁδούς σου, καὶ ἀσεβεῖς ἐπὶ σὲ ἐπιστρέψουσι.
+  usfm_code: PSA
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Ῥῦσαί με ἐξ αἱμάτων ὁ Θεὸς, ὁ Θεὸς τῆς σωτηρίας μου, ἀγαλλιάσεται ἡ
-    γλῶσσά μου τὴν δικαιοσύνην σου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Ῥῦσαί με ἐξ αἱμάτων ὁ Θεὸς, ὁ Θεὸς τῆς σωτηρίας μου, ἀγαλλιάσεται ἡ γλῶσσά
+    μου τὴν δικαιοσύνην σου.
+  usfm_code: PSA
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Κύριε, τὰ χείλη μου ἀνοίξεις, καὶ τὸ στόμα μου ἀναγγελεῖ τὴν αἴνεσίν
-    σου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Κύριε, τὰ χείλη μου ἀνοίξεις, καὶ τὸ στόμα μου ἀναγγελεῖ τὴν αἴνεσίν σου.
+  usfm_code: PSA
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Ὅτι εἰ ἠθέλησας θυσίαν, ἔδωκα ἄν· ὁλοκαυτώματα οὐκ εὐδοκήσεις.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Ὅτι εἰ ἠθέλησας θυσίαν, ἔδωκα ἄν· ὁλοκαυτώματα οὐκ εὐδοκήσεις.
+  usfm_code: PSA
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Θυσία τῷ Θεῷ πνεῦμα συντετριμμένον, καρδίαν συντετριμμένην καὶ τεταπεινωμένην
+  text: Θυσία τῷ Θεῷ πνεῦμα συντετριμμένον, καρδίαν συντετριμμένην καὶ τεταπεινωμένην
     ὁ Θεὸς οὐκ ἐξουδενώσει.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  usfm_code: PSA
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Ἀγάθυνον, Κύριε, ἐν τῇ εὐδοκίᾳ σου τὴν Σιὼν, καὶ οἰκοδομηθήτω τὰ τείχη
-    Ἱερουσαλήμ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Ἀγάθυνον, Κύριε, ἐν τῇ εὐδοκίᾳ σου τὴν Σιὼν, καὶ οἰκοδομηθήτω τὰ τείχη Ἱερουσαλήμ.
+  usfm_code: PSA
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 50
+  chapter: 50
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: Τότε εὐδοκήσεις θυσίαν δικαιοσύνης, ἀναφορὰν, καὶ ὁλοκαυτώματα· τότε
-    ἀνοίσουσιν ἐπὶ τὸ θυσιαστήριόν σου μόσχους.
+  text: Τότε εὐδοκήσεις θυσίαν δικαιοσύνης, ἀναφορὰν, καὶ ὁλοκαυτώματα· τότε ἀνοίσουσιν
+    ἐπὶ τὸ θυσιαστήριόν σου μόσχους.
+  usfm_code: PSA
+  verse: '21'

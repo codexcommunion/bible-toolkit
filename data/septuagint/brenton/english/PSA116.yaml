@@ -1,13 +1,13 @@
-- book_title: Brenton Septuagint Translation Psalms 116
-  book_usfm_code: PSA
-  chapter_number: 116
+- book: Brenton Septuagint Translation Psalms 116
+  chapter: 116
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: Alleluia.
-- book_title: Brenton Septuagint Translation Psalms 116
-  book_usfm_code: PSA
-  chapter_number: 116
+  text: Alleluia.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 116
+  chapter: 116
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: 'For his mercy has been abundant toward us: and the truth of the Lord
-    endures for ever.'
+  text: 'For his mercy has been abundant toward us: and the truth of the Lord endures
+    for ever.'
+  usfm_code: PSA
+  verse: '2'

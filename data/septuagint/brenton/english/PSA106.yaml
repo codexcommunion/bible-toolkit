@@ -1,289 +1,285 @@
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: Alleluia.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: Alleluia.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: Let them say so who have been redeemed by the Lord, whom he has redeemed
-    from the hand of the enemy;
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: Let them say so who have been redeemed by the Lord, whom he has redeemed from
+    the hand of the enemy;
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: and gathered them out of the countries, from the east, and west, and
-    north, and south.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: and gathered them out of the countries, from the east, and west, and north,
+    and south.
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: They wandered in the wilderness in a dry land; they found no way to
-    a city of habitation.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
-  iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: Hungry and thirsty, their soul fainted in them.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
-  iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: Then they cried to the Lord in their affliction, and he delivered them
-    out of their distresses.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
-  iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: And he guided them into a straight path, that they might go to a city
+  text: They wandered in the wilderness in a dry land; they found no way to a city
     of habitation.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: Let them acknowledge to the Lord his mercies, and his wonderful works
-    to the children of men.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: Hungry and thirsty, their soul fainted in them.
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: For he satisfies the empty soul, and fills the hungry soul with good
-    things,
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
-  iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: even them that sit in darkness and the shadow of death, fettered in
-    poverty and iron;
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
-  iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: because they rebelled against the words of God, and provoked the counsel
-    of the Most High.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
-  iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: So their heart was brought low with troubles; they were weak, and there
-    was no helper.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
-  iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: Then they cried to the Lord in their affliction, and he saved them out
+  text: Then they cried to the Lord in their affliction, and he delivered them out
     of their distresses.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 14
-  verse_text: And he brought them out of darkness and the shadow of death, and broke
-    their bonds asunder.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: And he guided them into a straight path, that they might go to a city of habitation.
+  usfm_code: PSA
+  verse: '7'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: Let them acknowledge to the Lord his mercies, and his wonders to the
+  text: Let them acknowledge to the Lord his mercies, and his wonderful works to the
     children of men.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  usfm_code: PSA
+  verse: '8'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 16
-  verse_text: For he broke to pieces the brazen gates, and crushed the iron bars.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: For he satisfies the empty soul, and fills the hungry soul with good things,
+  usfm_code: PSA
+  verse: '9'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 17
-  verse_text: He helped them out of the way of their iniquity; for they were brought
-    low because of their iniquities.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: even them that sit in darkness and the shadow of death, fettered in poverty
+    and iron;
+  usfm_code: PSA
+  verse: '10'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 18
-  verse_text: Their soul abhorred all meat; and they drew near to the gates of death.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: because they rebelled against the words of God, and provoked the counsel of
+    the Most High.
+  usfm_code: PSA
+  verse: '11'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 19
-  verse_text: Then they cried to the Lord in their affliction, and he saved them out
-    of their distresses.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: So their heart was brought low with troubles; they were weak, and there was
+    no helper.
+  usfm_code: PSA
+  verse: '12'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 20
-  verse_text: He sent his word, and healed them, and delivered them out of their destructions.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: Then they cried to the Lord in their affliction, and he saved them out of
+    their distresses.
+  usfm_code: PSA
+  verse: '13'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 21
-  verse_text: Let them acknowledge to the Lord his mercies, and his wonderful works
-    to the children of men.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: And he brought them out of darkness and the shadow of death, and broke their
+    bonds asunder.
+  usfm_code: PSA
+  verse: '14'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 22
-  verse_text: And let them offer to him the sacrifice of praise, and proclaim his
-    works with exultation.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: Let them acknowledge to the Lord his mercies, and his wonders to the children
+    of men.
+  usfm_code: PSA
+  verse: '15'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 23
-  verse_text: They that go down to the sea in ships, doing business in many waters;
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: For he broke to pieces the brazen gates, and crushed the iron bars.
+  usfm_code: PSA
+  verse: '16'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 24
-  verse_text: these men have seen the works of the Lord, and his wonders in the deep.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: He helped them out of the way of their iniquity; for they were brought low
+    because of their iniquities.
+  usfm_code: PSA
+  verse: '17'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 25
-  verse_text: He speaks, and the stormy wind arises, and its waves are lifted up.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: Their soul abhorred all meat; and they drew near to the gates of death.
+  usfm_code: PSA
+  verse: '18'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 26
-  verse_text: They go up to the heavens, and go down to the depths; their soul melts
-    because of troubles.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: Then they cried to the Lord in their affliction, and he saved them out of
+    their distresses.
+  usfm_code: PSA
+  verse: '19'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 27
-  verse_text: They are troubled, they stagger as a drunkard, and all their wisdom
-    is swallowed up.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: He sent his word, and healed them, and delivered them out of their destructions.
+  usfm_code: PSA
+  verse: '20'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 28
-  verse_text: Then they cry to the Lord in their affliction, and he brings them out
-    of their distresses.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: Let them acknowledge to the Lord his mercies, and his wonderful works to the
+    children of men.
+  usfm_code: PSA
+  verse: '21'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 29
-  verse_text: And he commands the storm, and it is calmed into a gentle breeze, and
-    its waves are still.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: And let them offer to him the sacrifice of praise, and proclaim his works
+    with exultation.
+  usfm_code: PSA
+  verse: '22'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 30
-  verse_text: And they are glad, because they are quiet; and he guides them to their
-    desired haven.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: They that go down to the sea in ships, doing business in many waters;
+  usfm_code: PSA
+  verse: '23'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 31
-  verse_text: Let them acknowledge to the Lord his mercies, and his wonderful works
-    to the children of men.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: these men have seen the works of the Lord, and his wonders in the deep.
+  usfm_code: PSA
+  verse: '24'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 32
-  verse_text: Let them exalt him in the congregation of the people, and praise him
-    in the seat of the elders.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: He speaks, and the stormy wind arises, and its waves are lifted up.
+  usfm_code: PSA
+  verse: '25'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 33
-  verse_text: He turns rivers into a desert, and streams of water into a dry land;
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: They go up to the heavens, and go down to the depths; their soul melts because
+    of troubles.
+  usfm_code: PSA
+  verse: '26'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 34
-  verse_text: a fruitful land into saltness, for the wickedness of them that dwell
-    in it.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: They are troubled, they stagger as a drunkard, and all their wisdom is swallowed
+    up.
+  usfm_code: PSA
+  verse: '27'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 35
-  verse_text: He turns a wilderness into pools of water, and a dry land into streams
-    of water.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: Then they cry to the Lord in their affliction, and he brings them out of their
+    distresses.
+  usfm_code: PSA
+  verse: '28'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 36
-  verse_text: And there he causes the hungry to dwell, and they establish for themselves
+  text: And he commands the storm, and it is calmed into a gentle breeze, and its
+    waves are still.
+  usfm_code: PSA
+  verse: '29'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
+  iso-639-2_language_code: eng
+  text: And they are glad, because they are quiet; and he guides them to their desired
+    haven.
+  usfm_code: PSA
+  verse: '30'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
+  iso-639-2_language_code: eng
+  text: Let them acknowledge to the Lord his mercies, and his wonderful works to the
+    children of men.
+  usfm_code: PSA
+  verse: '31'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
+  iso-639-2_language_code: eng
+  text: Let them exalt him in the congregation of the people, and praise him in the
+    seat of the elders.
+  usfm_code: PSA
+  verse: '32'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
+  iso-639-2_language_code: eng
+  text: He turns rivers into a desert, and streams of water into a dry land;
+  usfm_code: PSA
+  verse: '33'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
+  iso-639-2_language_code: eng
+  text: a fruitful land into saltness, for the wickedness of them that dwell in it.
+  usfm_code: PSA
+  verse: '34'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
+  iso-639-2_language_code: eng
+  text: He turns a wilderness into pools of water, and a dry land into streams of
+    water.
+  usfm_code: PSA
+  verse: '35'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
+  iso-639-2_language_code: eng
+  text: And there he causes the hungry to dwell, and they establish for themselves
     cities of habitation.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  usfm_code: PSA
+  verse: '36'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 37
-  verse_text: And they sow fields, and plant vineyards, and they yield fruit of increase.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: And they sow fields, and plant vineyards, and they yield fruit of increase.
+  usfm_code: PSA
+  verse: '37'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 38
-  verse_text: And he blesses them, and they multiply exceedingly, and he diminishes
-    not the number of their cattle.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: And he blesses them, and they multiply exceedingly, and he diminishes not
+    the number of their cattle.
+  usfm_code: PSA
+  verse: '38'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 39
-  verse_text: Again they become few, and are brought low, by the pressure of evils
-    and pain.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: Again they become few, and are brought low, by the pressure of evils and pain.
+  usfm_code: PSA
+  verse: '39'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 40
-  verse_text: Contempt is poured upon their princes, and he causes them to wander
-    in a desert and trackless land.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: Contempt is poured upon their princes, and he causes them to wander in a desert
+    and trackless land.
+  usfm_code: PSA
+  verse: '40'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 41
-  verse_text: But he helps the poor out of poverty, and makes him families as a flock.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: But he helps the poor out of poverty, and makes him families as a flock.
+  usfm_code: PSA
+  verse: '41'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 42
-  verse_text: The upright shall see and rejoice; and all iniquity shall stop her mouth.
-- book_title: Brenton Septuagint Translation Psalms 106
-  book_usfm_code: PSA
-  chapter_number: 106
+  text: The upright shall see and rejoice; and all iniquity shall stop her mouth.
+  usfm_code: PSA
+  verse: '42'
+- book: Brenton Septuagint Translation Psalms 106
+  chapter: 106
   iso-639-2_language_code: eng
-  verse_number: 43
-  verse_text: Who is wise, and will observe these things, and understand the mercies
-    of the Lord?
+  text: Who is wise, and will observe these things, and understand the mercies of
+    the Lord?
+  usfm_code: PSA
+  verse: '43'

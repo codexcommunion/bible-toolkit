@@ -1,46 +1,45 @@
-- book_title: Brenton Septuagint Translation Psalms 86
-  book_usfm_code: PSA
-  chapter_number: 86
+- book: Brenton Septuagint Translation Psalms 86
+  chapter: 86
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: A Psalm of a Song for the sons of Core.
-- book_title: Brenton Septuagint Translation Psalms 86
-  book_usfm_code: PSA
-  chapter_number: 86
+  text: A Psalm of a Song for the sons of Core.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 86
+  chapter: 86
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: The Lord loves the gates of Sion, more than all the tabernacles of Jacob.
-- book_title: Brenton Septuagint Translation Psalms 86
-  book_usfm_code: PSA
-  chapter_number: 86
+  text: The Lord loves the gates of Sion, more than all the tabernacles of Jacob.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 86
+  chapter: 86
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: Glorious things have been spoken of thee, O city of God. Pause.
-- book_title: Brenton Septuagint Translation Psalms 86
-  book_usfm_code: PSA
-  chapter_number: 86
+  text: Glorious things have been spoken of thee, O city of God. Pause.
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 86
+  chapter: 86
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: 'I will make mention of Raab and Babylon to them that know me: behold
-    also the Philistines, and Tyre, and the people of the Ethiopians: these were born
-    there.'
-- book_title: Brenton Septuagint Translation Psalms 86
-  book_usfm_code: PSA
-  chapter_number: 86
+  text: 'I will make mention of Raab and Babylon to them that know me: behold also
+    the Philistines, and Tyre, and the people of the Ethiopians: these were born there.'
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 86
+  chapter: 86
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: A man shall say, Sion is my mother; and such a man was born in her;
-    and the Highest himself has founded her.
-- book_title: Brenton Septuagint Translation Psalms 86
-  book_usfm_code: PSA
-  chapter_number: 86
+  text: A man shall say, Sion is my mother; and such a man was born in her; and the
+    Highest himself has founded her.
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 86
+  chapter: 86
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: The Lord shall recount it in the writing of the people, and of these
-    princes that were born in her. Pause.
-- book_title: Brenton Septuagint Translation Psalms 86
-  book_usfm_code: PSA
-  chapter_number: 86
+  text: The Lord shall recount it in the writing of the people, and of these princes
+    that were born in her. Pause.
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 86
+  chapter: 86
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: The dwelling of all within thee is as the dwelling of those that rejoice.
+  text: The dwelling of all within thee is as the dwelling of those that rejoice.
+  usfm_code: PSA
+  verse: '7'

@@ -1,61 +1,61 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 11
-  book_usfm_code: PSA
-  chapter_number: 11
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 11
+  chapter: 11
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Εἰς τὸ τέλος, ὑπὲρ τῆς ὀγδόης, ψαλμὸς τῷ Δαυίδ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 11
-  book_usfm_code: PSA
-  chapter_number: 11
+  text: Εἰς τὸ τέλος, ὑπὲρ τῆς ὀγδόης, ψαλμὸς τῷ Δαυίδ.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 11
+  chapter: 11
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Σῶσον με Κύριε, ὅτι ἐκλέλοιπεν ὅσιος, ὅτι ὠλιγώθησαν αἱ ἀλήθειαι ἀπὸ
-    τῶν υἱῶν τῶν ἀνθρώπων.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 11
-  book_usfm_code: PSA
-  chapter_number: 11
-  iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Μάταια ἐλάλησεν ἕκαστος πρὸς τὸν πλησίον αὐτοῦ, χείλη δόλια, ἐν καρδίᾳ
-    καὶ ἐν καρδίᾳ ἐλάλησαν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 11
-  book_usfm_code: PSA
-  chapter_number: 11
-  iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Ἐξολοθρεύσαι Κύριος πάντα τὰ χείλη τὰ δόλια, καὶ γλῶσσαν μεγαλοῤῥήμονα·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 11
-  book_usfm_code: PSA
-  chapter_number: 11
-  iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Τοὺς εἰπόντας, τὴν γλῶσσαν ἡμῶν μεγαλυνοῦμεν, τὰ χείλη ἡμῶν παρʼ ἡμῶν
-    ἐστι· τίς ἡμῶν Κύριός ἐστιν;
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 11
-  book_usfm_code: PSA
-  chapter_number: 11
-  iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ἀπὸ τῆς ταλαιπωρίας τῶν πτωχῶν, καὶ ἀπὸ τοῦ στεναγμοῦ τῶν πενήτων, νῦν
-    ἀναστήσομαι, λέγει Κύριος· θήσομαι ἐν σωτηρίῳ, παῤῥησιάσομαι ἐν αὐτῷ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 11
-  book_usfm_code: PSA
-  chapter_number: 11
-  iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Τὰ λόγια Κυρίου, λόγια ἁγνά· ἀργύριον πεπυρωμένον, δοκίμιον τῇ γῇ, κεκαθαρισμένον
-    ἑπταπλασίως.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 11
-  book_usfm_code: PSA
-  chapter_number: 11
-  iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Σὺ Κύριε φυλάξεις ἡμᾶς· καὶ διατηρήσεις ἡμᾶς ἀπὸ τῆς γενεᾶς ταύτης,
-    καὶ εἰς τὸν αἰῶνα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 11
-  book_usfm_code: PSA
-  chapter_number: 11
-  iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Κύκλῳ οἱ ἀσεβεῖς περιπατοῦσι, κατὰ τὸ ὕψος σου ἐπολυώρησας τοὺς υἱοὺς
+  text: Σῶσον με Κύριε, ὅτι ἐκλέλοιπεν ὅσιος, ὅτι ὠλιγώθησαν αἱ ἀλήθειαι ἀπὸ τῶν υἱῶν
     τῶν ἀνθρώπων.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 11
+  chapter: 11
+  iso-639-2_language_code: grc
+  text: Μάταια ἐλάλησεν ἕκαστος πρὸς τὸν πλησίον αὐτοῦ, χείλη δόλια, ἐν καρδίᾳ καὶ
+    ἐν καρδίᾳ ἐλάλησαν.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 11
+  chapter: 11
+  iso-639-2_language_code: grc
+  text: Ἐξολοθρεύσαι Κύριος πάντα τὰ χείλη τὰ δόλια, καὶ γλῶσσαν μεγαλοῤῥήμονα·
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 11
+  chapter: 11
+  iso-639-2_language_code: grc
+  text: Τοὺς εἰπόντας, τὴν γλῶσσαν ἡμῶν μεγαλυνοῦμεν, τὰ χείλη ἡμῶν παρʼ ἡμῶν ἐστι·
+    τίς ἡμῶν Κύριός ἐστιν;
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 11
+  chapter: 11
+  iso-639-2_language_code: grc
+  text: Ἀπὸ τῆς ταλαιπωρίας τῶν πτωχῶν, καὶ ἀπὸ τοῦ στεναγμοῦ τῶν πενήτων, νῦν ἀναστήσομαι,
+    λέγει Κύριος· θήσομαι ἐν σωτηρίῳ, παῤῥησιάσομαι ἐν αὐτῷ.
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 11
+  chapter: 11
+  iso-639-2_language_code: grc
+  text: Τὰ λόγια Κυρίου, λόγια ἁγνά· ἀργύριον πεπυρωμένον, δοκίμιον τῇ γῇ, κεκαθαρισμένον
+    ἑπταπλασίως.
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 11
+  chapter: 11
+  iso-639-2_language_code: grc
+  text: Σὺ Κύριε φυλάξεις ἡμᾶς· καὶ διατηρήσεις ἡμᾶς ἀπὸ τῆς γενεᾶς ταύτης, καὶ εἰς
+    τὸν αἰῶνα.
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 11
+  chapter: 11
+  iso-639-2_language_code: grc
+  text: Κύκλῳ οἱ ἀσεβεῖς περιπατοῦσι, κατὰ τὸ ὕψος σου ἐπολυώρησας τοὺς υἱοὺς τῶν
+    ἀνθρώπων.
+  usfm_code: PSA
+  verse: '9'

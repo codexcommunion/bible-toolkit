@@ -1,121 +1,120 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ὠδὴ ψαλμοῦ τῷ Ἀσάφ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+  text: Ὠδὴ ψαλμοῦ τῷ Ἀσάφ.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Ὁ Θεὸς, τίς ὁμοιωθήσεταί σοι; μὴ σιγήσῃς, μηδὲ καταπραΰνῃς ὁ Θεός.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+  text: Ὁ Θεὸς, τίς ὁμοιωθήσεταί σοι; μὴ σιγήσῃς, μηδὲ καταπραΰνῃς ὁ Θεός.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ὅτι ἰδοὺ οἱ ἐχθροί σου ἤχησαν· καὶ οἱ μισοῦντές σε ᾖραν κεφαλήν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+  text: Ὅτι ἰδοὺ οἱ ἐχθροί σου ἤχησαν· καὶ οἱ μισοῦντές σε ᾖραν κεφαλήν.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Ἐπὶ τὸν λαόν σου κατεπανουργεύσαντο γνώμην, καὶ ἐβουλεύσαντο κατὰ τῶν
-    ἁγίων σου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+  text: Ἐπὶ τὸν λαόν σου κατεπανουργεύσαντο γνώμην, καὶ ἐβουλεύσαντο κατὰ τῶν ἁγίων
+    σου.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Εἶπαν, δεῦτε καὶ ἐξολοθρεύσωμεν αὐτοὺς ἐξ ἔθνους, καὶ οὐ μὴ μνησθῇ τὸ
-    ὄνομα Ἰσραὴλ ἔτι.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+  text: Εἶπαν, δεῦτε καὶ ἐξολοθρεύσωμεν αὐτοὺς ἐξ ἔθνους, καὶ οὐ μὴ μνησθῇ τὸ ὄνομα
+    Ἰσραὴλ ἔτι.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ὅτι ἐβουλεύσαντο ἐν ὁμονοίᾳ ἐπιτοαυτὸ, κατὰ σοῦ διαθήκην διέθεντο·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+  text: Ὅτι ἐβουλεύσαντο ἐν ὁμονοίᾳ ἐπιτοαυτὸ, κατὰ σοῦ διαθήκην διέθεντο·
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Τὰ σκηνώματα τῶν Ἰδουμαίων καὶ οἱ Ἰσμαηλῖται, Μωὰβ καὶ οἱ Ἀγαρηνοὶ,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+  text: Τὰ σκηνώματα τῶν Ἰδουμαίων καὶ οἱ Ἰσμαηλῖται, Μωὰβ καὶ οἱ Ἀγαρηνοὶ,
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Γεβὰλ καὶ Ἀμμὼν καὶ Ἀμαλὴκ, καὶ ἀλλόφυλοι μετὰ τῶν κατοικούντων Τύρον.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+  text: Γεβὰλ καὶ Ἀμμὼν καὶ Ἀμαλὴκ, καὶ ἀλλόφυλοι μετὰ τῶν κατοικούντων Τύρον.
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Καὶ γὰρ καὶ Ἀσσοὺρ συμπαρεγένετο μετʼ αὐτῶν, ἐγενήθησαν εἰς ἀντίληψιν
-    τοῖς υἱοῖς Λώτ· διάψαλμα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+  text: Καὶ γὰρ καὶ Ἀσσοὺρ συμπαρεγένετο μετʼ αὐτῶν, ἐγενήθησαν εἰς ἀντίληψιν τοῖς
+    υἱοῖς Λώτ· διάψαλμα.
+  usfm_code: PSA
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Ποίησον αὐτοῖς ὡς τῇ Μαδιὰμ καὶ τῷ Σεισάρᾳ, ὡς τῷ Ἰαβεὶν ἐν τῷ χειμάῤῥῳ
-    Κεισῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+  text: Ποίησον αὐτοῖς ὡς τῇ Μαδιὰμ καὶ τῷ Σεισάρᾳ, ὡς τῷ Ἰαβεὶν ἐν τῷ χειμάῤῥῳ Κεισῶν.
+  usfm_code: PSA
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Ἐξωλοθρεύθησαν ἐν Ἀενδὼρ, ἐγενήθησαν ὡσεὶ κόπρος τῇ γῇ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+  text: Ἐξωλοθρεύθησαν ἐν Ἀενδὼρ, ἐγενήθησαν ὡσεὶ κόπρος τῇ γῇ.
+  usfm_code: PSA
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Θοῦ τοὺς ἄρχοντας αὐτῶν ὡς τὸν Ὠρὴβ καὶ Ζὴβ καὶ Ζεβεὲ καὶ Σαλμανὰ, πάντας
+  text: Θοῦ τοὺς ἄρχοντας αὐτῶν ὡς τὸν Ὠρὴβ καὶ Ζὴβ καὶ Ζεβεὲ καὶ Σαλμανὰ, πάντας
     τοὺς ἄρχοντας αὐτῶν·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+  usfm_code: PSA
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Οἵτινες εἶπαν, κληρονομήσωμεν ἑαυτοῖς τὸ θυσιαστήριον τοῦ Θεοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+  text: Οἵτινες εἶπαν, κληρονομήσωμεν ἑαυτοῖς τὸ θυσιαστήριον τοῦ Θεοῦ.
+  usfm_code: PSA
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Ὁ Θεός μου θοῦ αὐτοὺς ὡς τροχὸν, ὡς καλάμην κατὰ πρόσωπον ἀνέμου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+  text: Ὁ Θεός μου θοῦ αὐτοὺς ὡς τροχὸν, ὡς καλάμην κατὰ πρόσωπον ἀνέμου.
+  usfm_code: PSA
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Ὡσεὶ πῦρ ὃ διαφλέξει δρυμὸν, ὡσεὶ φλὸξ κατακαύσαι ὄρη·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+  text: Ὡσεὶ πῦρ ὃ διαφλέξει δρυμὸν, ὡσεὶ φλὸξ κατακαύσαι ὄρη·
+  usfm_code: PSA
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Οὕτως καταδιώξεις αὐτοὺς ἐν τῇ καταιγίδι σου, καὶ ἐν τῇ ὀργῇ σου ταράξεις
+  text: Οὕτως καταδιώξεις αὐτοὺς ἐν τῇ καταιγίδι σου, καὶ ἐν τῇ ὀργῇ σου ταράξεις
     αὐτούς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+  usfm_code: PSA
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Πλήρωσον τὰ πρόσωπα αὐτῶν ἀτιμίας, καὶ ζητήσουσι τὸ ὄνομά σου Κύριε.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+  text: Πλήρωσον τὰ πρόσωπα αὐτῶν ἀτιμίας, καὶ ζητήσουσι τὸ ὄνομά σου Κύριε.
+  usfm_code: PSA
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Αἰσχυνθήτωσαν καὶ ταραχθήτωσαν εἰς τὸν αἰῶνα τοῦ αἰῶνος, καὶ ἐντραπήτωσαν
+  text: Αἰσχυνθήτωσαν καὶ ταραχθήτωσαν εἰς τὸν αἰῶνα τοῦ αἰῶνος, καὶ ἐντραπήτωσαν
     καὶ ἀπολέσθωσαν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
-  book_usfm_code: PSA
-  chapter_number: 82
+  usfm_code: PSA
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 82
+  chapter: 82
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Καὶ γνώτωσαν ὅτι ὄνομά σοι Κύριος· σὺ μόνος ὕψιστος ἐπὶ πᾶσαν τὴν γῆν.
+  text: Καὶ γνώτωσαν ὅτι ὄνομά σοι Κύριος· σὺ μόνος ὕψιστος ἐπὶ πᾶσαν τὴν γῆν.
+  usfm_code: PSA
+  verse: '19'

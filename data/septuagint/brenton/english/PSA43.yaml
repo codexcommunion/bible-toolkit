@@ -1,186 +1,183 @@
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: For the end, a Psalm for instruction, for the sons of Core.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: For the end, a Psalm for instruction, for the sons of Core.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: O God, we have heard with our ears, our fathers have told us, the work
-    which thou wroughtest in their days, in the days of old.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: O God, we have heard with our ears, our fathers have told us, the work which
+    thou wroughtest in their days, in the days of old.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: 'Thine hand utterly destroyed the heathen, and thou didst plant them:
-    thou didst afflict the nations, and cast them out.'
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: 'Thine hand utterly destroyed the heathen, and thou didst plant them: thou
+    didst afflict the nations, and cast them out.'
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: For they inherited not the land by their own sword, and their own arm
-    did not deliver them; but thy right hand, and thine arm, and the light of thy
-    countenance, because thou wert well pleased in them.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: For they inherited not the land by their own sword, and their own arm did
+    not deliver them; but thy right hand, and thine arm, and the light of thy countenance,
+    because thou wert well pleased in them.
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: Thou art indeed my King and my God, who commandest deliverances for
-    Jacob.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Thou art indeed my King and my God, who commandest deliverances for Jacob.
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: In thee will we push down our enemies, and in thy name will we bring
-    to nought them that rise up against us.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: In thee will we push down our enemies, and in thy name will we bring to nought
+    them that rise up against us.
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: For I will not trust in my bow, and my sword shall not save me.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: For I will not trust in my bow, and my sword shall not save me.
+  usfm_code: PSA
+  verse: '7'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: For thou hast saved us from them that afflicted us, and hast put to
-    shame them that hated us.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: For thou hast saved us from them that afflicted us, and hast put to shame
+    them that hated us.
+  usfm_code: PSA
+  verse: '8'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: In God will we make our boast all the day, and to thy name will we give
-    thanks for ever. Pause.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: In God will we make our boast all the day, and to thy name will we give thanks
+    for ever. Pause.
+  usfm_code: PSA
+  verse: '9'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: But now thou hast cast off, and put us to shame; and thou wilt not go
-    forth with our hosts.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: But now thou hast cast off, and put us to shame; and thou wilt not go forth
+    with our hosts.
+  usfm_code: PSA
+  verse: '10'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: Thou hast turned us back before our enemies; and they that hated us
-    spoiled for themselves.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Thou hast turned us back before our enemies; and they that hated us spoiled
+    for themselves.
+  usfm_code: PSA
+  verse: '11'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: Thou madest us as sheep for meat; and thou scatteredst us among the
-    nations.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Thou madest us as sheep for meat; and thou scatteredst us among the nations.
+  usfm_code: PSA
+  verse: '12'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: Thou hast sold thy people without price, and there was no profit by
-    their exchange.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Thou hast sold thy people without price, and there was no profit by their
+    exchange.
+  usfm_code: PSA
+  verse: '13'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 14
-  verse_text: Thou hast made us a reproach to our neighbours, a scorn and derision
-    to them that are round about us.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Thou hast made us a reproach to our neighbours, a scorn and derision to them
+    that are round about us.
+  usfm_code: PSA
+  verse: '14'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: Thou hast made us a proverb among the Gentiles, a shaking of the head
-    among the nations.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Thou hast made us a proverb among the Gentiles, a shaking of the head among
+    the nations.
+  usfm_code: PSA
+  verse: '15'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 16
-  verse_text: All the day my shame is before me, and the confusion of my face has
-    covered me,
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: All the day my shame is before me, and the confusion of my face has covered
+    me,
+  usfm_code: PSA
+  verse: '16'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 17
-  verse_text: because of the voice of the slanderer and reviler; because of the enemy
-    and avenger.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: because of the voice of the slanderer and reviler; because of the enemy and
+    avenger.
+  usfm_code: PSA
+  verse: '17'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 18
-  verse_text: 'All these things are come upon us: but we have not forgotten thee,
-    neither have we dealt unrighteously in thy covenant.'
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: 'All these things are come upon us: but we have not forgotten thee, neither
+    have we dealt unrighteously in thy covenant.'
+  usfm_code: PSA
+  verse: '18'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 19
-  verse_text: And our heart has not gone back; but thou hast turned aside our paths
-    from thy way.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: And our heart has not gone back; but thou hast turned aside our paths from
+    thy way.
+  usfm_code: PSA
+  verse: '19'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 20
-  verse_text: For thou hast laid us low in a place of affliction, and the shadow of
-    death has covered us.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: For thou hast laid us low in a place of affliction, and the shadow of death
+    has covered us.
+  usfm_code: PSA
+  verse: '20'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 21
-  verse_text: If we have forgotten the name of our God, and if we have spread out
-    our hands to a strange god; shall not God search these things out?
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: If we have forgotten the name of our God, and if we have spread out our hands
+    to a strange god; shall not God search these things out?
+  usfm_code: PSA
+  verse: '21'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 22
-  verse_text: for he knows the secrets of the heart.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: for he knows the secrets of the heart.
+  usfm_code: PSA
+  verse: '22'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 23
-  verse_text: For, for thy sake we are killed all the day long; we are counted as
-    sheep for slaughter.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: For, for thy sake we are killed all the day long; we are counted as sheep
+    for slaughter.
+  usfm_code: PSA
+  verse: '23'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 24
-  verse_text: Awake, wherefore sleepest thou, O Lord? arise, and do not cast us off
-    for ever.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Awake, wherefore sleepest thou, O Lord? arise, and do not cast us off for
+    ever.
+  usfm_code: PSA
+  verse: '24'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 25
-  verse_text: Wherefore turnest thou thy face away, and forgettest our poverty and
-    our affliction?
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Wherefore turnest thou thy face away, and forgettest our poverty and our affliction?
+  usfm_code: PSA
+  verse: '25'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 26
-  verse_text: For our soul has been brought down to the dust; our belly has cleaved
-    to the earth.
-- book_title: Brenton Septuagint Translation Psalms 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: For our soul has been brought down to the dust; our belly has cleaved to the
+    earth.
+  usfm_code: PSA
+  verse: '26'
+- book: Brenton Septuagint Translation Psalms 43
+  chapter: 43
   iso-639-2_language_code: eng
-  verse_number: 27
-  verse_text: Arise, O Lord, help us, and redeem us for thy name's sake.
+  text: Arise, O Lord, help us, and redeem us for thy name's sake.
+  usfm_code: PSA
+  verse: '27'

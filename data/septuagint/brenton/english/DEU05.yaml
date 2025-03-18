@@ -1,241 +1,239 @@
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: And Moses called all Israel, and said to them, Hear, Israel, the ordinances
+  text: And Moses called all Israel, and said to them, Hear, Israel, the ordinances
     and judgments, all that I speak in your ears this day, and ye shall learn them,
     and observe to do them.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  usfm_code: DEU
+  verse: '1'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: The Lord your God made a covenant with you in Choreb.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: The Lord your God made a covenant with you in Choreb.
+  usfm_code: DEU
+  verse: '2'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: 'The Lord did not make this covenant with your fathers, but with you:
-    ye are all here alive this day.'
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: 'The Lord did not make this covenant with your fathers, but with you: ye are
+    all here alive this day.'
+  usfm_code: DEU
+  verse: '3'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: The Lord spoke to you face to face in the mountain out of the midst
-    of the fire.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: The Lord spoke to you face to face in the mountain out of the midst of the
+    fire.
+  usfm_code: DEU
+  verse: '4'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: And I stood between the Lord and you at that time to report to you the
-    words of the Lord, (because ye were afraid before the fire, and ye went not up
-    to the mountain,) saying,
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: And I stood between the Lord and you at that time to report to you the words
+    of the Lord, (because ye were afraid before the fire, and ye went not up to the
+    mountain,) saying,
+  usfm_code: DEU
+  verse: '5'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: I am the Lord thy God, who brought thee out of the land of Egypt, out
-    of the house of bondage.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: I am the Lord thy God, who brought thee out of the land of Egypt, out of the
+    house of bondage.
+  usfm_code: DEU
+  verse: '6'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: Thou shalt have no other gods before my face.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: Thou shalt have no other gods before my face.
+  usfm_code: DEU
+  verse: '7'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: Thou shalt not make to thyself an image, nor likeness of any thing,
-    whatever things are in the heaven above, and whatever are in the earth beneath,
-    and whatever are in the waters under the earth.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: Thou shalt not make to thyself an image, nor likeness of any thing, whatever
+    things are in the heaven above, and whatever are in the earth beneath, and whatever
+    are in the waters under the earth.
+  usfm_code: DEU
+  verse: '8'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: Thou shalt not bow down to them, nor shalt thou serve them; for I am
-    the Lord thy God, a jealous God, visiting the sins of the fathers upon the children
-    to the third and fourth generation to them that hate me,
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: Thou shalt not bow down to them, nor shalt thou serve them; for I am the Lord
+    thy God, a jealous God, visiting the sins of the fathers upon the children to
+    the third and fourth generation to them that hate me,
+  usfm_code: DEU
+  verse: '9'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: and doing mercifully to thousands of them that love me, and that keep
-    my commandments.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: and doing mercifully to thousands of them that love me, and that keep my commandments.
+  usfm_code: DEU
+  verse: '10'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: Thou shalt not take the name of the Lord thy God in vain, for the Lord
-    thy God will certainly not acquit him that takes his name in vain.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: Thou shalt not take the name of the Lord thy God in vain, for the Lord thy
+    God will certainly not acquit him that takes his name in vain.
+  usfm_code: DEU
+  verse: '11'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: Keep the sabbath day to sanctify it, as the Lord thy God commanded thee.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: Keep the sabbath day to sanctify it, as the Lord thy God commanded thee.
+  usfm_code: DEU
+  verse: '12'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: Six days thou shalt work, and thou shalt do all thy works;
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: Six days thou shalt work, and thou shalt do all thy works;
+  usfm_code: DEU
+  verse: '13'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 14
-  verse_text: 'but on the seventh day is the sabbath of the Lord thy God: thou shalt
-    do in it no work, thou, and thy son, and thy daughter, thy man-servant, and thy
-    maid-servant, thine ox, and thine ass, and all thy cattle, and the stranger that
-    sojourns in the midst of thee; that thy man-servant may rest, and thy maid, and
-    thine ox, as well as thou.'
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: 'but on the seventh day is the sabbath of the Lord thy God: thou shalt do
+    in it no work, thou, and thy son, and thy daughter, thy man-servant, and thy maid-servant,
+    thine ox, and thine ass, and all thy cattle, and the stranger that sojourns in
+    the midst of thee; that thy man-servant may rest, and thy maid, and thine ox,
+    as well as thou.'
+  usfm_code: DEU
+  verse: '14'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: 'And thou shalt remember that thou wast a slave in the land of Egypt,
-    and the Lord thy God brought thee out thence with a mighty hand, and a high arm:
-    therefore the Lord appointed thee to keep the sabbath day and to sanctify it.'
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: 'And thou shalt remember that thou wast a slave in the land of Egypt, and
+    the Lord thy God brought thee out thence with a mighty hand, and a high arm: therefore
+    the Lord appointed thee to keep the sabbath day and to sanctify it.'
+  usfm_code: DEU
+  verse: '15'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 16
-  verse_text: Honour thy father and thy mother, as the Lord thy God commanded thee;
-    that it may be well with thee, and that thou mayest live long upon the land, which
+  text: Honour thy father and thy mother, as the Lord thy God commanded thee; that
+    it may be well with thee, and that thou mayest live long upon the land, which
     the Lord thy God gives thee.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  usfm_code: DEU
+  verse: '16'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 17
-  verse_text: Thou shalt not commit murder.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: Thou shalt not commit murder.
+  usfm_code: DEU
+  verse: '17'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 18
-  verse_text: Thou shalt not commit adultery.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: Thou shalt not commit adultery.
+  usfm_code: DEU
+  verse: '18'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 19
-  verse_text: Thou shalt not steal.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: Thou shalt not steal.
+  usfm_code: DEU
+  verse: '19'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 20
-  verse_text: Thou shalt not bear false witness against thy neighbour.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: Thou shalt not bear false witness against thy neighbour.
+  usfm_code: DEU
+  verse: '20'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 21
-  verse_text: Thou shalt not covet thy neighbour's wife; thou shalt not covet thy
-    neighbour's house, nor his field, nor his man-servant, nor his maid, nor his ox,
-    nor his ass, nor any beast of his, nor any thing that is thy neighbour's.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: Thou shalt not covet thy neighbour's wife; thou shalt not covet thy neighbour's
+    house, nor his field, nor his man-servant, nor his maid, nor his ox, nor his ass,
+    nor any beast of his, nor any thing that is thy neighbour's.
+  usfm_code: DEU
+  verse: '21'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 22
-  verse_text: These words the Lord spoke to all the assembly of you in the mountain
-    out of the midst of the fire— there was darkness, blackness, storm, a loud voice—and
+  text: These words the Lord spoke to all the assembly of you in the mountain out
+    of the midst of the fire— there was darkness, blackness, storm, a loud voice—and
     he added no more, and he wrote them on two tables of stone, and he gave them to
     me.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  usfm_code: DEU
+  verse: '22'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 23
-  verse_text: 'And it came to pass when ye heard the voice out of the midst of the
-    fire, for the mountain burned with fire, that ye came to me, even all the heads
-    of your tribes, and your elders:'
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: 'And it came to pass when ye heard the voice out of the midst of the fire,
+    for the mountain burned with fire, that ye came to me, even all the heads of your
+    tribes, and your elders:'
+  usfm_code: DEU
+  verse: '23'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 24
-  verse_text: 'and ye said, Behold, the Lord our God has shewn us his glory, and we
-    have heard his voice out of the midst of the fire: this day we have seen that
-    God shall speak to man, and he shall live.'
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: 'and ye said, Behold, the Lord our God has shewn us his glory, and we have
+    heard his voice out of the midst of the fire: this day we have seen that God shall
+    speak to man, and he shall live.'
+  usfm_code: DEU
+  verse: '24'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 25
-  verse_text: And now let us not die, for this great fire will consume us, if we shall
-    hear the voice of the Lord our God any more, and we shall die.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: And now let us not die, for this great fire will consume us, if we shall hear
+    the voice of the Lord our God any more, and we shall die.
+  usfm_code: DEU
+  verse: '25'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 26
-  verse_text: For what flesh is there which has heard the voice of the living God,
-    speaking out of the midst of the fire, as we have heard , and shall live?
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: For what flesh is there which has heard the voice of the living God, speaking
+    out of the midst of the fire, as we have heard , and shall live?
+  usfm_code: DEU
+  verse: '26'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 27
-  verse_text: Do thou draw near, and hear all that the Lord our God shall say, and
-    thou shalt speak to us all things whatsoever the Lord our God shall speak to thee,
+  text: Do thou draw near, and hear all that the Lord our God shall say, and thou
+    shalt speak to us all things whatsoever the Lord our God shall speak to thee,
     and we will hear, and do.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  usfm_code: DEU
+  verse: '27'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 28
-  verse_text: And the Lord heard the voice of your words as ye spoke to me; and the
-    Lord said to me, I have heard the voice of the words of this people, even all
-    things that they have said to thee. They have well said all that they have spoken.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: And the Lord heard the voice of your words as ye spoke to me; and the Lord
+    said to me, I have heard the voice of the words of this people, even all things
+    that they have said to thee. They have well said all that they have spoken.
+  usfm_code: DEU
+  verse: '28'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 29
-  verse_text: O that there were such a heart in them, that they should fear me and
-    keep my commands always, that it might be well with them and with their sons for
-    ever.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: O that there were such a heart in them, that they should fear me and keep
+    my commands always, that it might be well with them and with their sons for ever.
+  usfm_code: DEU
+  verse: '29'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 30
-  verse_text: Go, say to them, Return ye to your houses;
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: Go, say to them, Return ye to your houses;
+  usfm_code: DEU
+  verse: '30'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 31
-  verse_text: but stand thou here with me, and I will tell thee all the commands,
-    and the ordinances, and the judgments, which thou shalt teach them, and let them
-    do so in the land which I give them for an inheritance.
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: but stand thou here with me, and I will tell thee all the commands, and the
+    ordinances, and the judgments, which thou shalt teach them, and let them do so
+    in the land which I give them for an inheritance.
+  usfm_code: DEU
+  verse: '31'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 32
-  verse_text: And ye shall take heed to do as the Lord thy God commanded thee; ye
-    shall not turn aside to the right hand or to the left,
-- book_title: Brenton Septuagint Translation Deuteronomy 5
-  book_usfm_code: DEU
-  chapter_number: 5
+  text: And ye shall take heed to do as the Lord thy God commanded thee; ye shall
+    not turn aside to the right hand or to the left,
+  usfm_code: DEU
+  verse: '32'
+- book: Brenton Septuagint Translation Deuteronomy 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 33
-  verse_text: according to all the way which the Lord thy God commanded thee to walk
-    in it, that he may give thee rest; and that it may be well with thee, and ye may
+  text: according to all the way which the Lord thy God commanded thee to walk in
+    it, that he may give thee rest; and that it may be well with thee, and ye may
     prolong your days on the land which ye shall inherit.
+  usfm_code: DEU
+  verse: '33'

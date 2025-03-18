@@ -1,74 +1,72 @@
-- book_title: Brenton Septuagint Translation Psalms 28
-  book_usfm_code: PSA
-  chapter_number: 28
+- book: Brenton Septuagint Translation Psalms 28
+  chapter: 28
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: A Psalm of David on the occasion of the solemn assembly of the Tabernacle.
-- book_title: Brenton Septuagint Translation Psalms 28
-  book_usfm_code: PSA
-  chapter_number: 28
+  text: A Psalm of David on the occasion of the solemn assembly of the Tabernacle.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 28
+  chapter: 28
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: Bring to the Lord glory, due to his name; worship the Lord in his holy
-    court.
-- book_title: Brenton Septuagint Translation Psalms 28
-  book_usfm_code: PSA
-  chapter_number: 28
+  text: Bring to the Lord glory, due to his name; worship the Lord in his holy court.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 28
+  chapter: 28
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: 'The voice of the Lord is upon the waters: the God of glory has thundered:
+  text: 'The voice of the Lord is upon the waters: the God of glory has thundered:
     the Lord is upon many waters.'
-- book_title: Brenton Septuagint Translation Psalms 28
-  book_usfm_code: PSA
-  chapter_number: 28
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 28
+  chapter: 28
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: The voice of the Lord is mighty; the voice of the Lord is full of majesty.
-- book_title: Brenton Septuagint Translation Psalms 28
-  book_usfm_code: PSA
-  chapter_number: 28
+  text: The voice of the Lord is mighty; the voice of the Lord is full of majesty.
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 28
+  chapter: 28
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: There is the voice of the Lord who breaks the cedars; the Lord will
-    break the cedars of Libanus.
-- book_title: Brenton Septuagint Translation Psalms 28
-  book_usfm_code: PSA
-  chapter_number: 28
+  text: There is the voice of the Lord who breaks the cedars; the Lord will break
+    the cedars of Libanus.
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 28
+  chapter: 28
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: And he will beat them small, even Libanus itself, like a calf; and the
-    beloved one is as a young unicorn.
-- book_title: Brenton Septuagint Translation Psalms 28
-  book_usfm_code: PSA
-  chapter_number: 28
+  text: And he will beat them small, even Libanus itself, like a calf; and the beloved
+    one is as a young unicorn.
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 28
+  chapter: 28
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: There is a voice of the Lord who divides a flame of fire.
-- book_title: Brenton Septuagint Translation Psalms 28
-  book_usfm_code: PSA
-  chapter_number: 28
+  text: There is a voice of the Lord who divides a flame of fire.
+  usfm_code: PSA
+  verse: '7'
+- book: Brenton Septuagint Translation Psalms 28
+  chapter: 28
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: A voice of the Lord who shakes the wilderness; the Lord will shake the
-    wilderness of Cades.
-- book_title: Brenton Septuagint Translation Psalms 28
-  book_usfm_code: PSA
-  chapter_number: 28
+  text: A voice of the Lord who shakes the wilderness; the Lord will shake the wilderness
+    of Cades.
+  usfm_code: PSA
+  verse: '8'
+- book: Brenton Septuagint Translation Psalms 28
+  chapter: 28
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: 'The voice of the Lord strengthens the hinds, and will uncover the thickets:
+  text: 'The voice of the Lord strengthens the hinds, and will uncover the thickets:
     and in his temple every one speaks of his glory.'
-- book_title: Brenton Septuagint Translation Psalms 28
-  book_usfm_code: PSA
-  chapter_number: 28
+  usfm_code: PSA
+  verse: '9'
+- book: Brenton Septuagint Translation Psalms 28
+  chapter: 28
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: 'The Lord will dwell on the waterflood: and the Lord will sit a king
-    for ever.'
-- book_title: Brenton Septuagint Translation Psalms 28
-  book_usfm_code: PSA
-  chapter_number: 28
+  text: 'The Lord will dwell on the waterflood: and the Lord will sit a king for ever.'
+  usfm_code: PSA
+  verse: '10'
+- book: Brenton Septuagint Translation Psalms 28
+  chapter: 28
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: The Lord will give strength to his people; the Lord will bless his people
+  text: The Lord will give strength to his people; the Lord will bless his people
     with peace.
+  usfm_code: PSA
+  verse: '11'

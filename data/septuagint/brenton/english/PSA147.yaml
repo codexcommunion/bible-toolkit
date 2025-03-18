@@ -1,57 +1,56 @@
-- book_title: Brenton Septuagint Translation Psalms 147
-  book_usfm_code: PSA
-  chapter_number: 147
+- book: Brenton Septuagint Translation Psalms 147
+  chapter: 147
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: Alleluia, a Psalm of Aggæus and Zacharias.
-- book_title: Brenton Septuagint Translation Psalms 147
-  book_usfm_code: PSA
-  chapter_number: 147
+  text: Alleluia, a Psalm of Aggæus and Zacharias.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 147
+  chapter: 147
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: For he has strengthened the bars of thy gates; he has blessed thy children
+  text: For he has strengthened the bars of thy gates; he has blessed thy children
     within thee.
-- book_title: Brenton Septuagint Translation Psalms 147
-  book_usfm_code: PSA
-  chapter_number: 147
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 147
+  chapter: 147
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: He makes thy borders peaceful, and fills thee with the flour of wheat.
-- book_title: Brenton Septuagint Translation Psalms 147
-  book_usfm_code: PSA
-  chapter_number: 147
+  text: He makes thy borders peaceful, and fills thee with the flour of wheat.
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 147
+  chapter: 147
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: 'He sends his oracle to the earth: his word will run swiftly.'
-- book_title: Brenton Septuagint Translation Psalms 147
-  book_usfm_code: PSA
-  chapter_number: 147
+  text: 'He sends his oracle to the earth: his word will run swiftly.'
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 147
+  chapter: 147
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: 'He gives snow like wool: he scatters the mist like ashes.'
-- book_title: Brenton Septuagint Translation Psalms 147
-  book_usfm_code: PSA
-  chapter_number: 147
+  text: 'He gives snow like wool: he scatters the mist like ashes.'
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 147
+  chapter: 147
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: 'Casting forth his ice like morsels: who shall stand before his cold?'
-- book_title: Brenton Septuagint Translation Psalms 147
-  book_usfm_code: PSA
-  chapter_number: 147
+  text: 'Casting forth his ice like morsels: who shall stand before his cold?'
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 147
+  chapter: 147
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: 'He shall send out his word, and melt them: he shall blow with his wind,
-    and the waters shall flow.'
-- book_title: Brenton Septuagint Translation Psalms 147
-  book_usfm_code: PSA
-  chapter_number: 147
+  text: 'He shall send out his word, and melt them: he shall blow with his wind, and
+    the waters shall flow.'
+  usfm_code: PSA
+  verse: '7'
+- book: Brenton Septuagint Translation Psalms 147
+  chapter: 147
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: He sends his word to Jacob, his ordinances and judgments to Israel.
-- book_title: Brenton Septuagint Translation Psalms 147
-  book_usfm_code: PSA
-  chapter_number: 147
+  text: He sends his word to Jacob, his ordinances and judgments to Israel.
+  usfm_code: PSA
+  verse: '8'
+- book: Brenton Septuagint Translation Psalms 147
+  chapter: 147
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: He has not done so to any other nation; and he has not shewn them his
-    judgments.
+  text: He has not done so to any other nation; and he has not shewn them his judgments.
+  usfm_code: PSA
+  verse: '9'

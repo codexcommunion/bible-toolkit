@@ -1,34 +1,33 @@
-- book_title: Brenton Septuagint Translation Psalms 124
-  book_usfm_code: PSA
-  chapter_number: 124
+- book: Brenton Septuagint Translation Psalms 124
+  chapter: 124
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: A Song of Degrees.
-- book_title: Brenton Septuagint Translation Psalms 124
-  book_usfm_code: PSA
-  chapter_number: 124
+  text: A Song of Degrees.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 124
+  chapter: 124
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: The mountains are round about her, and so the Lord is round about his
-    people, from henceforth and even for ever.
-- book_title: Brenton Septuagint Translation Psalms 124
-  book_usfm_code: PSA
-  chapter_number: 124
+  text: The mountains are round about her, and so the Lord is round about his people,
+    from henceforth and even for ever.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 124
+  chapter: 124
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: For the Lord will not allow the rod of sinners to be upon the lot of
-    the righteous; lest the righteous should stretch forth their hands to iniquity.
-- book_title: Brenton Septuagint Translation Psalms 124
-  book_usfm_code: PSA
-  chapter_number: 124
+  text: For the Lord will not allow the rod of sinners to be upon the lot of the righteous;
+    lest the righteous should stretch forth their hands to iniquity.
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 124
+  chapter: 124
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: Do good, O Lord, to them that are good, and to them that are upright
-    in heart.
-- book_title: Brenton Septuagint Translation Psalms 124
-  book_usfm_code: PSA
-  chapter_number: 124
+  text: Do good, O Lord, to them that are good, and to them that are upright in heart.
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 124
+  chapter: 124
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: 'But them that turn aside to crooked ways the Lord will lead away with
-    the workers of iniquity: but peace shall be upon Israel.'
+  text: 'But them that turn aside to crooked ways the Lord will lead away with the
+    workers of iniquity: but peace shall be upon Israel.'
+  usfm_code: PSA
+  verse: '5'

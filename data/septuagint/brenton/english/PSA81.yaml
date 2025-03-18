@@ -1,50 +1,49 @@
-- book_title: Brenton Septuagint Translation Psalms 81
-  book_usfm_code: PSA
-  chapter_number: 81
+- book: Brenton Septuagint Translation Psalms 81
+  chapter: 81
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: A Psalm for Asaph.
-- book_title: Brenton Septuagint Translation Psalms 81
-  book_usfm_code: PSA
-  chapter_number: 81
+  text: A Psalm for Asaph.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 81
+  chapter: 81
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: How long will ye judge unrighteously, and accept the persons of sinners?
-    Pause.
-- book_title: Brenton Septuagint Translation Psalms 81
-  book_usfm_code: PSA
-  chapter_number: 81
+  text: How long will ye judge unrighteously, and accept the persons of sinners? Pause.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 81
+  chapter: 81
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: 'Judge the orphan and poor: do justice to the low and needy.'
-- book_title: Brenton Septuagint Translation Psalms 81
-  book_usfm_code: PSA
-  chapter_number: 81
+  text: 'Judge the orphan and poor: do justice to the low and needy.'
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 81
+  chapter: 81
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: Rescue the needy, and deliver the poor out of the hand of the sinner.
-- book_title: Brenton Septuagint Translation Psalms 81
-  book_usfm_code: PSA
-  chapter_number: 81
+  text: Rescue the needy, and deliver the poor out of the hand of the sinner.
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 81
+  chapter: 81
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: 'They know not, nor understand; they walk on in darkness: all the foundations
+  text: 'They know not, nor understand; they walk on in darkness: all the foundations
     of the earth shall be shaken.'
-- book_title: Brenton Septuagint Translation Psalms 81
-  book_usfm_code: PSA
-  chapter_number: 81
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 81
+  chapter: 81
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: I have said, Ye are gods; and all of you children of the Most High.
-- book_title: Brenton Septuagint Translation Psalms 81
-  book_usfm_code: PSA
-  chapter_number: 81
+  text: I have said, Ye are gods; and all of you children of the Most High.
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 81
+  chapter: 81
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: But ye die as men, and fall as one of the princes.
-- book_title: Brenton Septuagint Translation Psalms 81
-  book_usfm_code: PSA
-  chapter_number: 81
+  text: But ye die as men, and fall as one of the princes.
+  usfm_code: PSA
+  verse: '7'
+- book: Brenton Septuagint Translation Psalms 81
+  chapter: 81
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: 'Arise, O God, judge the earth: for thou shalt inherit all nations.'
+  text: 'Arise, O God, judge the earth: for thou shalt inherit all nations.'
+  usfm_code: PSA
+  verse: '8'

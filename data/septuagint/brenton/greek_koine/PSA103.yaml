@@ -1,227 +1,223 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Τῷ Δαυίδ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Τῷ Δαυίδ.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: ἀναβαλλόμενος φῶς ὡς ἱμάτιον, ἐκτείνων τὸν οὐρανὸν ὡσεὶ δέῤῥιν·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: ἀναβαλλόμενος φῶς ὡς ἱμάτιον, ἐκτείνων τὸν οὐρανὸν ὡσεὶ δέῤῥιν·
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ὁ στεγάζων ἐν ὕδασι τὰ ὑπερῷα αὐτοῦ, ὁ τιθεὶς νέφη τὴν ἐπίβασιν αὐτοῦ·
-    ὁ περιπατῶν ἐπὶ πτερύγων ἀνέμων·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ὁ στεγάζων ἐν ὕδασι τὰ ὑπερῷα αὐτοῦ, ὁ τιθεὶς νέφη τὴν ἐπίβασιν αὐτοῦ· ὁ περιπατῶν
+    ἐπὶ πτερύγων ἀνέμων·
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Ὁ ποιῶν τοὺς ἀγγέλους αὐτοῦ πνεύματα, καὶ τοὺς λειτουργοὺς αὐτοῦ πῦρ
-    φλέγον·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ὁ ποιῶν τοὺς ἀγγέλους αὐτοῦ πνεύματα, καὶ τοὺς λειτουργοὺς αὐτοῦ πῦρ φλέγον·
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Ὁ θεμελιῶν τὴν γῆν ἐπὶ τὴν ἀσφάλειαν αὐτῆς, οὐ κλιθήσεται εἰς τὸν αἰῶνα
-    τοῦ αἰῶνος.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ὁ θεμελιῶν τὴν γῆν ἐπὶ τὴν ἀσφάλειαν αὐτῆς, οὐ κλιθήσεται εἰς τὸν αἰῶνα τοῦ
+    αἰῶνος.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ἄβυσσος ὡς ἱμάτιον τὸ περιβόλαιον αὐτοῦ, ἐπὶ τῶν ὀρέων στήσονται ὕδατα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ἄβυσσος ὡς ἱμάτιον τὸ περιβόλαιον αὐτοῦ, ἐπὶ τῶν ὀρέων στήσονται ὕδατα.
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ἀπὸ ἐπιτιμήσεώς σου φεύξονται, ἀπὸ φωνῆς βροντῆς σου δειλιάσουσιν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ἀπὸ ἐπιτιμήσεώς σου φεύξονται, ἀπὸ φωνῆς βροντῆς σου δειλιάσουσιν.
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Ἀναβαίνουσιν ὄρη, καὶ καταβαίνουσι πεδία εἰς τόπον ὃν ἐθεμελίωσας αὐτοῖς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ἀναβαίνουσιν ὄρη, καὶ καταβαίνουσι πεδία εἰς τόπον ὃν ἐθεμελίωσας αὐτοῖς.
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Ὅριον ἔθου ὃ οὐ παρελεύσονται, οὐδὲ ἐπιστρέψουσι καλύψαι τὴν γῆν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ὅριον ἔθου ὃ οὐ παρελεύσονται, οὐδὲ ἐπιστρέψουσι καλύψαι τὴν γῆν.
+  usfm_code: PSA
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Ὁ ἐξαποστέλλων πηγὰς ἐν φάραγξιν, ἀναμέσον τῶν ὀρέων διελεύσονται ὕδατα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ὁ ἐξαποστέλλων πηγὰς ἐν φάραγξιν, ἀναμέσον τῶν ὀρέων διελεύσονται ὕδατα.
+  usfm_code: PSA
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Ποτιοῦσι πάντα τὰ θηρία τοῦ ἀγροῦ, προσδέξονται ὄναγροι εἰς δίψαν αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ποτιοῦσι πάντα τὰ θηρία τοῦ ἀγροῦ, προσδέξονται ὄναγροι εἰς δίψαν αὐτῶν.
+  usfm_code: PSA
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Ἐπʼ αὐτὰ τὰ πετεινὰ τοῦ οὐρανοῦ κατασκηνώσει, ἐκ μέσου τῶν πετρῶν δώσουσι
+  text: Ἐπʼ αὐτὰ τὰ πετεινὰ τοῦ οὐρανοῦ κατασκηνώσει, ἐκ μέσου τῶν πετρῶν δώσουσι
     φωνήν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  usfm_code: PSA
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Ποτίζων ὄρη ἐκ τῶν ὑπερῴων αὐτοῦ, ἀπὸ καρποῦ τῶν ἔργων σου χορτασθήσεται
-    ἡ γῆ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ποτίζων ὄρη ἐκ τῶν ὑπερῴων αὐτοῦ, ἀπὸ καρποῦ τῶν ἔργων σου χορτασθήσεται ἡ
+    γῆ.
+  usfm_code: PSA
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Ὁ ἐξανατέλλων χόρτον τοῖς κτήνεσι, καὶ χλόην τῇ δουλείᾳ τῶν ἀνθρώπων·
-    τοῦ ἐξαγαγεῖν ἄρτον ἐκ τῆς γῆς,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ὁ ἐξανατέλλων χόρτον τοῖς κτήνεσι, καὶ χλόην τῇ δουλείᾳ τῶν ἀνθρώπων· τοῦ
+    ἐξαγαγεῖν ἄρτον ἐκ τῆς γῆς,
+  usfm_code: PSA
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: καὶ οἶνος εὐφραίνει καρδίαν ἀνθρώπου· τοῦ ἱλαρύναι πρόσωπον ἐν ἐλαίῳ,
-    καὶ ἄρτος καρδίαν ἀνθρώπου στηρίζει.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: καὶ οἶνος εὐφραίνει καρδίαν ἀνθρώπου· τοῦ ἱλαρύναι πρόσωπον ἐν ἐλαίῳ, καὶ
+    ἄρτος καρδίαν ἀνθρώπου στηρίζει.
+  usfm_code: PSA
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Χορτασθήσεται τὰ ξύλα τοῦ πεδίου, αἱ κέδροι τοῦ Λιβάνου ἃς ἐφύτευσεν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Χορτασθήσεται τὰ ξύλα τοῦ πεδίου, αἱ κέδροι τοῦ Λιβάνου ἃς ἐφύτευσεν.
+  usfm_code: PSA
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Ἐκεῖ στρουθία ἐννοσσεύσουσι, τοῦ ἐρωδιοῦ ἡ οἰκία ἡγεῖται αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ἐκεῖ στρουθία ἐννοσσεύσουσι, τοῦ ἐρωδιοῦ ἡ οἰκία ἡγεῖται αὐτῶν.
+  usfm_code: PSA
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Ὄρη τὰ ὑψηλὰ ταῖς ἐλάφοις, πέτρα καταφυγὴ τοῖς χοιρογρυλλίοις.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ὄρη τὰ ὑψηλὰ ταῖς ἐλάφοις, πέτρα καταφυγὴ τοῖς χοιρογρυλλίοις.
+  usfm_code: PSA
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Ἐποίησε σελήνην εἰς καιροὺς, ὁ ἥλιος ἔγνω τὴν δύσιν αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ἐποίησε σελήνην εἰς καιροὺς, ὁ ἥλιος ἔγνω τὴν δύσιν αὐτοῦ.
+  usfm_code: PSA
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Ἔθου σκότος καὶ ἐγένετο νὺξ, ἐν αὐτῇ διελεύσονται πάντα τὰ θηρία τοῦ
-    δρυμοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ἔθου σκότος καὶ ἐγένετο νὺξ, ἐν αὐτῇ διελεύσονται πάντα τὰ θηρία τοῦ δρυμοῦ.
+  usfm_code: PSA
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: Σκυμνοι ὠρυόμενοι ἁρπάσαι, καὶ ζητῆσαι παρὰ τοῦ Θεοῦ βρῶσιν αὐτοῖς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Σκυμνοι ὠρυόμενοι ἁρπάσαι, καὶ ζητῆσαι παρὰ τοῦ Θεοῦ βρῶσιν αὐτοῖς.
+  usfm_code: PSA
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: Ἀνέτειλεν ὁ ἥλιος καὶ συναχθήσονται, καὶ ἐν ταῖς μάνδραις αὐτῶν κοιτασθήσονται.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ἀνέτειλεν ὁ ἥλιος καὶ συναχθήσονται, καὶ ἐν ταῖς μάνδραις αὐτῶν κοιτασθήσονται.
+  usfm_code: PSA
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: Ἐξελεύσεται ἄνθρωπος ἐπὶ τὸ ἔργον αὐτοῦ, καὶ ἐπὶ τὴν ἐργασίαν αὐτοῦ
-    ἕως ἑσπέρας.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ἐξελεύσεται ἄνθρωπος ἐπὶ τὸ ἔργον αὐτοῦ, καὶ ἐπὶ τὴν ἐργασίαν αὐτοῦ ἕως ἑσπέρας.
+  usfm_code: PSA
+  verse: '23'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 24
-  verse_text: Ὡς ἐμεγαλύνθη τὰ ἔργα σου Κύριε, πάντα ἐν σοφίᾳ ἐποίησας· ἐπληρώθη ἡ
-    γῆ τῆς κτίσεώς σου·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ὡς ἐμεγαλύνθη τὰ ἔργα σου Κύριε, πάντα ἐν σοφίᾳ ἐποίησας· ἐπληρώθη ἡ γῆ τῆς
+    κτίσεώς σου·
+  usfm_code: PSA
+  verse: '24'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 25
-  verse_text: Αὕτη ἡ θάλασσα ἡ μεγάλη καὶ εὐρύχωρος· ἐκεῖ ἑρπετὰ ὧν οὐκ ἔστιν ἀριθμὸς,
-    ζῶα μικρὰ μετὰ μεγάλων.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Αὕτη ἡ θάλασσα ἡ μεγάλη καὶ εὐρύχωρος· ἐκεῖ ἑρπετὰ ὧν οὐκ ἔστιν ἀριθμὸς, ζῶα
+    μικρὰ μετὰ μεγάλων.
+  usfm_code: PSA
+  verse: '25'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 26
-  verse_text: Ἐκεῖ πλοῖα διαπορεύονται, δράκων οὗτος ὃν ἔπλασας ἐμπαίζειν αὐτῷ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ἐκεῖ πλοῖα διαπορεύονται, δράκων οὗτος ὃν ἔπλασας ἐμπαίζειν αὐτῷ.
+  usfm_code: PSA
+  verse: '26'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 27
-  verse_text: Πάντα πρὸς σὲ προσδοκῶσι, δοῦναι τὴν τροφὴν αὐτοῖς εὔκαιρον.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Πάντα πρὸς σὲ προσδοκῶσι, δοῦναι τὴν τροφὴν αὐτοῖς εὔκαιρον.
+  usfm_code: PSA
+  verse: '27'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 28
-  verse_text: Δόντος σου αὐτοῖς, συλλέξουσιν· ἀνοίξαντος δέ σου τὴν χεῖρα, τὰ σύμπαντα
-    πλησθήσονται χρηστότητος.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Δόντος σου αὐτοῖς, συλλέξουσιν· ἀνοίξαντος δέ σου τὴν χεῖρα, τὰ σύμπαντα πλησθήσονται
+    χρηστότητος.
+  usfm_code: PSA
+  verse: '28'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 29
-  verse_text: Ἀποστρέψαντος δέ σου τὸ πρόσωπον, ταραχθήσονται· ἀντανελεῖς τὸ πνεῦμα
-    αὐτῶν, καὶ ἐκλείψουσι, καὶ εἰς τὸν χοῦν αὐτῶν ἐπιστρέψουσιν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ἀποστρέψαντος δέ σου τὸ πρόσωπον, ταραχθήσονται· ἀντανελεῖς τὸ πνεῦμα αὐτῶν,
+    καὶ ἐκλείψουσι, καὶ εἰς τὸν χοῦν αὐτῶν ἐπιστρέψουσιν.
+  usfm_code: PSA
+  verse: '29'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 30
-  verse_text: Ἐξαποστελεῖς τὸ πνεῦμά σου καὶ κτισθήσονται, καὶ ἀνακαινιεῖς τὸ πρόσωπον
-    τῆς γῆς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ἐξαποστελεῖς τὸ πνεῦμά σου καὶ κτισθήσονται, καὶ ἀνακαινιεῖς τὸ πρόσωπον τῆς
+    γῆς.
+  usfm_code: PSA
+  verse: '30'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 31
-  verse_text: Ἤτω ἡ δόξα Κυρίου εἰς τὸν αἰῶνα, εὐφρανθήσεται Κύριος ἐπὶ τοῖς ἔργοις
-    αὐτοῦ·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ἤτω ἡ δόξα Κυρίου εἰς τὸν αἰῶνα, εὐφρανθήσεται Κύριος ἐπὶ τοῖς ἔργοις αὐτοῦ·
+  usfm_code: PSA
+  verse: '31'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 32
-  verse_text: Ὁ ἐπιβλέπων ἐπὶ τὴν γῆν καὶ ποιῶν αὐτὴν τρέμειν, ὁ ἁπτόμενος τῶν ὀρέων
-    καὶ καπνίζονται.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ὁ ἐπιβλέπων ἐπὶ τὴν γῆν καὶ ποιῶν αὐτὴν τρέμειν, ὁ ἁπτόμενος τῶν ὀρέων καὶ
+    καπνίζονται.
+  usfm_code: PSA
+  verse: '32'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 33
-  verse_text: Ἄσω τῷ Κυρίῳ ἐν τῇ ζωῇ μου, ψαλῶ τῷ Θεῷ μου ἕως ὑπάρχω.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ἄσω τῷ Κυρίῳ ἐν τῇ ζωῇ μου, ψαλῶ τῷ Θεῷ μου ἕως ὑπάρχω.
+  usfm_code: PSA
+  verse: '33'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 34
-  verse_text: Ἡδυνθείη αὐτῷ ἡ διαλογή μου, ἐγὼ δὲ εὐφρανθήσομαι ἐπὶ τῷ Κυρίῳ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
-  book_usfm_code: PSA
-  chapter_number: 103
+  text: Ἡδυνθείη αὐτῷ ἡ διαλογή μου, ἐγὼ δὲ εὐφρανθήσομαι ἐπὶ τῷ Κυρίῳ.
+  usfm_code: PSA
+  verse: '34'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 103
+  chapter: 103
   iso-639-2_language_code: grc
-  verse_number: 35
-  verse_text: Ἐκλείποισαν ἁμαρτωλοὶ ἀπὸ τῆς γῆς, καὶ ἄνομοι, ὥστε μὴ ὑπάρχειν αὐτούς·
-    εὐλόγει, ἡ ψυχή μου τὸν Κύριον.
+  text: Ἐκλείποισαν ἁμαρτωλοὶ ἀπὸ τῆς γῆς, καὶ ἄνομοι, ὥστε μὴ ὑπάρχειν αὐτούς· εὐλόγει,
+    ἡ ψυχή μου τὸν Κύριον.
+  usfm_code: PSA
+  verse: '35'

@@ -1,150 +1,145 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ψαλμὸς τῷ Ἀσάφ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Ψαλμὸς τῷ Ἀσάφ.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Ἐκ Σιὼν ἡ εὐπρέπεια τῆς ὡραιότητος αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Ἐκ Σιὼν ἡ εὐπρέπεια τῆς ὡραιότητος αὐτοῦ.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ὁ Θεὸς ἐμφανῶς ἥξει, ὁ Θεὸς ἡμῶν, καὶ οὐ παρασιωπήσεται· πῦρ ἐναντίον
-    αὐτοῦ καυθήσεται, καὶ κύκλῳ αὐτοῦ καταιγὶς σφοδρά.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Ὁ Θεὸς ἐμφανῶς ἥξει, ὁ Θεὸς ἡμῶν, καὶ οὐ παρασιωπήσεται· πῦρ ἐναντίον αὐτοῦ
+    καυθήσεται, καὶ κύκλῳ αὐτοῦ καταιγὶς σφοδρά.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Προσκαλέσεται τὸν οὐρανὸν ἄνω, καὶ τὴν γῆν διακρῖναι τὸν λαὸν αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Προσκαλέσεται τὸν οὐρανὸν ἄνω, καὶ τὴν γῆν διακρῖναι τὸν λαὸν αὐτοῦ.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Συναγάγετε αὐτῷ τοὺς ὁσίους αὐτοῦ, τοὺς διατιθεμένους τὴν διαθήκην αὐτοῦ
-    ἐπὶ θυσίαις.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Συναγάγετε αὐτῷ τοὺς ὁσίους αὐτοῦ, τοὺς διατιθεμένους τὴν διαθήκην αὐτοῦ ἐπὶ
+    θυσίαις.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Καὶ ἀναγγελοῦσιν οἱ οὐρανοὶ τὴν δικαιοσύνην αὐτοῦ, ὅτι Θεὸς κριτής ἐστι·
-    διάψαλμα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Καὶ ἀναγγελοῦσιν οἱ οὐρανοὶ τὴν δικαιοσύνην αὐτοῦ, ὅτι Θεὸς κριτής ἐστι· διάψαλμα.
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ἄκουσον λαός μου καὶ λαλήσω σοι, Ἰσραὴλ, καὶ διαμαρτύρομαί σοι· ὁ Θεὸς
-    ὁ Θεός σου εἰμὶ ἐγώ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Ἄκουσον λαός μου καὶ λαλήσω σοι, Ἰσραὴλ, καὶ διαμαρτύρομαί σοι· ὁ Θεὸς ὁ Θεός
+    σου εἰμὶ ἐγώ.
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Οὐκ ἐπὶ ταῖς θυσίαις σου ἐλέγξω σε, τὰ δὲ ὁλοκαυτώματά σου ἐνώπιόν μου
-    ἐστὶ διαπαντός.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Οὐκ ἐπὶ ταῖς θυσίαις σου ἐλέγξω σε, τὰ δὲ ὁλοκαυτώματά σου ἐνώπιόν μου ἐστὶ
+    διαπαντός.
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Οὐ δέξομαι ἐκ τοῦ οἴκου σου μόσχους, οὐδὲ ἐκ τῶν ποιμνίων σου χιυάρους·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Οὐ δέξομαι ἐκ τοῦ οἴκου σου μόσχους, οὐδὲ ἐκ τῶν ποιμνίων σου χιυάρους·
+  usfm_code: PSA
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Ὅτι ἐμά ἐστι πάντα τὰ θηρία τοῦ δρυμοῦ, κτήνη ἐν τοῖς ὄρεσι, καὶ βόες.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Ὅτι ἐμά ἐστι πάντα τὰ θηρία τοῦ δρυμοῦ, κτήνη ἐν τοῖς ὄρεσι, καὶ βόες.
+  usfm_code: PSA
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Ἔγνωκα πάντα τὰ πετεινὰ τοῦ οὐρανοῦ, καὶ ὡραιότης ἀγροῦ μετʼ ἐμοῦ ἐστιν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Ἔγνωκα πάντα τὰ πετεινὰ τοῦ οὐρανοῦ, καὶ ὡραιότης ἀγροῦ μετʼ ἐμοῦ ἐστιν.
+  usfm_code: PSA
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Ἐὰν πεινάσω, οὐ μή σοι εἴπω, ἐμὴ γάρ ἐστιν ἡ οἰκουμένη καὶ τὸ πλήρωμα
-    αὐτῆς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Ἐὰν πεινάσω, οὐ μή σοι εἴπω, ἐμὴ γάρ ἐστιν ἡ οἰκουμένη καὶ τὸ πλήρωμα αὐτῆς.
+  usfm_code: PSA
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Μὴ φάγομαι κρέα ταύρων, ἢ αἷμα τράγων πίομαι;
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Μὴ φάγομαι κρέα ταύρων, ἢ αἷμα τράγων πίομαι;
+  usfm_code: PSA
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Θῦσον τῷ Θεῷ θυσίαν αἰνέσεως, καὶ ἀπόδος τῷ ὑψίστῳ τὰς εὐχάς σου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Θῦσον τῷ Θεῷ θυσίαν αἰνέσεως, καὶ ἀπόδος τῷ ὑψίστῳ τὰς εὐχάς σου.
+  usfm_code: PSA
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Καὶ ἐπικάλεσαί με ἐν ἡμέρᾳ θλίψεως, καὶ ἐξελοῦμαί σε, καὶ δοξάσεις με.
-    διάψαλμα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Καὶ ἐπικάλεσαί με ἐν ἡμέρᾳ θλίψεως, καὶ ἐξελοῦμαί σε, καὶ δοξάσεις με. διάψαλμα.
+  usfm_code: PSA
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Τῷ δὲ ἁμαρτωλῷ εἶπεν ὁ Θεὸς, ἱνατί σὺ διηγῇ τὰ δικαιώματά μου, καὶ ἀναλαμβάνεις
+  text: Τῷ δὲ ἁμαρτωλῷ εἶπεν ὁ Θεὸς, ἱνατί σὺ διηγῇ τὰ δικαιώματά μου, καὶ ἀναλαμβάνεις
     τὴν διαθήκην μου διὰ στόματός σου;
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  usfm_code: PSA
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Σὺ δὲ ἐμίσησας παιδείαν, καὶ ἐξέβαλες τοὺς λόγους μου εἰς τὰ ὀπίσω.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Σὺ δὲ ἐμίσησας παιδείαν, καὶ ἐξέβαλες τοὺς λόγους μου εἰς τὰ ὀπίσω.
+  usfm_code: PSA
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Εἰ ἐθεώρεις κλέπτην, συνέτρεχες αὐτῷ, καὶ μετὰ μοιχῶν τὴν μερίδα σου
-    ἐτίθεις.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Εἰ ἐθεώρεις κλέπτην, συνέτρεχες αὐτῷ, καὶ μετὰ μοιχῶν τὴν μερίδα σου ἐτίθεις.
+  usfm_code: PSA
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Τὸ στόμα σου ἐπλεόνασε κακίαν, καὶ ἡ γλῶσσά σου περιέπλεκε δολιότητα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Τὸ στόμα σου ἐπλεόνασε κακίαν, καὶ ἡ γλῶσσά σου περιέπλεκε δολιότητα.
+  usfm_code: PSA
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Καθήμενος κατὰ τοῦ ἀδελφοῦ σου κατελάλεις, καὶ κατὰ τοῦ υἱοῦ τῆς μητρός
-    σου ἐτίθεις σκάνδαλον.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Καθήμενος κατὰ τοῦ ἀδελφοῦ σου κατελάλεις, καὶ κατὰ τοῦ υἱοῦ τῆς μητρός σου
+    ἐτίθεις σκάνδαλον.
+  usfm_code: PSA
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: Ταῦτα ἐποίησας, καὶ ἐσίγησα, ὑπέλαβες ἀνομίαν ὅτι ἔσομαί σοι ὅμοιος·
-    ἐλέγξω σε, καὶ παραστήσω κατὰ πρόσωπόν σου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Ταῦτα ἐποίησας, καὶ ἐσίγησα, ὑπέλαβες ἀνομίαν ὅτι ἔσομαί σοι ὅμοιος· ἐλέγξω
+    σε, καὶ παραστήσω κατὰ πρόσωπόν σου.
+  usfm_code: PSA
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: Σύνετε δὴ ταῦτα οἱ ἐπιλανθανόμενοι τοῦ Θεοῦ, μήποτε ἁρπάσῃ, καὶ μὴ ᾖ
-    ὁ ῥυόμενος.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
-  book_usfm_code: PSA
-  chapter_number: 49
+  text: Σύνετε δὴ ταῦτα οἱ ἐπιλανθανόμενοι τοῦ Θεοῦ, μήποτε ἁρπάσῃ, καὶ μὴ ᾖ ὁ ῥυόμενος.
+  usfm_code: PSA
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 49
+  chapter: 49
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: Θυσία αἰνέσεως δοξάσει με, καὶ ἐκεῖ ὁδὸς ᾗ δείξω αὐτῷ τὸ σωτήριον Θεοῦ.
+  text: Θυσία αἰνέσεως δοξάσει με, καὶ ἐκεῖ ὁδὸς ᾗ δείξω αὐτῷ τὸ σωτήριον Θεοῦ.
+  usfm_code: PSA
+  verse: '23'

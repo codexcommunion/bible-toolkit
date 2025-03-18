@@ -1,138 +1,136 @@
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Μνήσθητι Κύριε, ὅ, τι ἐγενήθη ἡμῖν· ἐπίβλεψον, καὶ ἴδε τὸν ὀνειδισμὸν
-    ἡμῶν.
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: Μνήσθητι Κύριε, ὅ, τι ἐγενήθη ἡμῖν· ἐπίβλεψον, καὶ ἴδε τὸν ὀνειδισμὸν ἡμῶν.
+  usfm_code: LAM
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Κληρονομία ἡμῶν μετεστράθη ἀλλοτρίοις, οἱ οἶκοι ἡμῶν ξένοις.
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: Κληρονομία ἡμῶν μετεστράθη ἀλλοτρίοις, οἱ οἶκοι ἡμῶν ξένοις.
+  usfm_code: LAM
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ὀρφανοὶ ἐγενήθημεν, οὐχ ὑπάρχει πατὴρ, μητέρες ἡμῶν ὡς αἱ χῆραι.
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: Ὀρφανοὶ ἐγενήθημεν, οὐχ ὑπάρχει πατὴρ, μητέρες ἡμῶν ὡς αἱ χῆραι.
+  usfm_code: LAM
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Ὕδωρ ἡμῶν ἐν ἀργυρίῳ ἐπίομεν, ξύλα ἡμῶν ἐν ἀλλάγματι ἦλθεν ἐπὶ τὸν τράχηλον
+  text: Ὕδωρ ἡμῶν ἐν ἀργυρίῳ ἐπίομεν, ξύλα ἡμῶν ἐν ἀλλάγματι ἦλθεν ἐπὶ τὸν τράχηλον
     ἡμῶν·
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  usfm_code: LAM
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: ἐδιώχθημεν, ἐκοπιάσαμεν, οὐκ ἀνεπαύθημεν.
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: ἐδιώχθημεν, ἐκοπιάσαμεν, οὐκ ἀνεπαύθημεν.
+  usfm_code: LAM
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Αἴγυπτος ἔδωκε χεῖρα, Ἀσσοὺρ εἰς πλησμονὴν αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: Αἴγυπτος ἔδωκε χεῖρα, Ἀσσοὺρ εἰς πλησμονὴν αὐτῶν.
+  usfm_code: LAM
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Οἱ πατέρες ἡμῶν ἥμαρτον, οὐχ ὑπάρχουσιν, ἡμεῖς τὰ ἀνομήματα αὐτῶν ὑπέσχομεν.
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: Οἱ πατέρες ἡμῶν ἥμαρτον, οὐχ ὑπάρχουσιν, ἡμεῖς τὰ ἀνομήματα αὐτῶν ὑπέσχομεν.
+  usfm_code: LAM
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Δοῦλοι ἐκυρίευσαν ἡμῶν, λυτρούμενος οὐκ ἔστιν ἐκ τῆς χειρὸς αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: Δοῦλοι ἐκυρίευσαν ἡμῶν, λυτρούμενος οὐκ ἔστιν ἐκ τῆς χειρὸς αὐτῶν.
+  usfm_code: LAM
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Ἐν ταῖς ψυχαῖς ἡμῶν εἰσοίσομεν ἄρτον ἡμῶν, ἀπὸ προσώπου ῥομφαίας τῆς
-    ἐρήμου.
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: Ἐν ταῖς ψυχαῖς ἡμῶν εἰσοίσομεν ἄρτον ἡμῶν, ἀπὸ προσώπου ῥομφαίας τῆς ἐρήμου.
+  usfm_code: LAM
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Τὸ δέρμα ἡμῶν ὡς κλίβανος ἐπελιώθη, συνεσπάσθησαν ἀπὸ προσώπου καταιγίδων
+  text: Τὸ δέρμα ἡμῶν ὡς κλίβανος ἐπελιώθη, συνεσπάσθησαν ἀπὸ προσώπου καταιγίδων
     λιμοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  usfm_code: LAM
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Γυναῖκας ἐν Σιὼν ἐταπείνωσαν, παρθένους ἐν πόλεσιν Ἰούδα.
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: Γυναῖκας ἐν Σιὼν ἐταπείνωσαν, παρθένους ἐν πόλεσιν Ἰούδα.
+  usfm_code: LAM
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Ἄρχοντες ἐν χερσὶν αὐτῶν ἐκρεμάσθησαν, πρεσβύτεροι οὐκ ἐδοξάσθησαν.
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: Ἄρχοντες ἐν χερσὶν αὐτῶν ἐκρεμάσθησαν, πρεσβύτεροι οὐκ ἐδοξάσθησαν.
+  usfm_code: LAM
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Ἐκλεκτοὶ κλαυθμὸν ἀνέλαβον, καὶ νεανίσκοι ἐν ξύλῳ ἠσθένησαν.
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: Ἐκλεκτοὶ κλαυθμὸν ἀνέλαβον, καὶ νεανίσκοι ἐν ξύλῳ ἠσθένησαν.
+  usfm_code: LAM
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Καὶ πρεσβύται ἀπὸ πύλης κατέπαυσαν, ἐκλεκτοὶ ἐκ ψαλμῶν αὐτῶν κατέπαυσαν.
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: Καὶ πρεσβύται ἀπὸ πύλης κατέπαυσαν, ἐκλεκτοὶ ἐκ ψαλμῶν αὐτῶν κατέπαυσαν.
+  usfm_code: LAM
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Κατέλυσε χαρὰ καρδίας ἡμῶν, ἐστράφη εἰς πένθος ὁ χορὸς ἡμῶν·
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: Κατέλυσε χαρὰ καρδίας ἡμῶν, ἐστράφη εἰς πένθος ὁ χορὸς ἡμῶν·
+  usfm_code: LAM
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Ἔπεσεν ὁ στέφανος ἡμῶν τῆς κεφαλῆς· οὐαὶ δὲ ἡμῖν, ὅτι ἡμάρτομεν.
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: Ἔπεσεν ὁ στέφανος ἡμῶν τῆς κεφαλῆς· οὐαὶ δὲ ἡμῖν, ὅτι ἡμάρτομεν.
+  usfm_code: LAM
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Περὶ τούτου ἐγενήθη ὀδύνη, ὀδυνηρὰ ἡ καρδία ἡμῶν, περὶ τούτου ἐσκότασαν
-    οἱ ὀφθαλμοὶ ἡμῶν.
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: Περὶ τούτου ἐγενήθη ὀδύνη, ὀδυνηρὰ ἡ καρδία ἡμῶν, περὶ τούτου ἐσκότασαν οἱ
+    ὀφθαλμοὶ ἡμῶν.
+  usfm_code: LAM
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Ἐπʼ ὄρος Σιὼν, ὅτι ἠφανίσθη, ἀλώπεκες διῆλθον ἐν αὐτῇ.
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: Ἐπʼ ὄρος Σιὼν, ὅτι ἠφανίσθη, ἀλώπεκες διῆλθον ἐν αὐτῇ.
+  usfm_code: LAM
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Σὺ δὲ Κύριε εἰς τὸν αἰῶνα κατοικήσεις, ὁ θρόνος σου εἰς γενεὰν καὶ γενεάν.
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: Σὺ δὲ Κύριε εἰς τὸν αἰῶνα κατοικήσεις, ὁ θρόνος σου εἰς γενεὰν καὶ γενεάν.
+  usfm_code: LAM
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Ἱνατί εἰς νῖκος ἐπιλήσῃ ἡμῶν, καταλείψεις ἡμᾶς εἰς μακρότητα ἡμερῶν;
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: Ἱνατί εἰς νῖκος ἐπιλήσῃ ἡμῶν, καταλείψεις ἡμᾶς εἰς μακρότητα ἡμερῶν;
+  usfm_code: LAM
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: Ἐπίστρεψον ἡμᾶς Κύριε πρὸς σὲ, καὶ ἐπιστραφησόμεθα· καὶ ἀνακαίνισον
-    ἡμέρας ἡμῶν καθὼς ἔμπροσθεν.
-- book_title: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
-  book_usfm_code: LAM
-  chapter_number: 5
+  text: Ἐπίστρεψον ἡμᾶς Κύριε πρὸς σὲ, καὶ ἐπιστραφησόμεθα· καὶ ἀνακαίνισον ἡμέρας
+    ἡμῶν καθὼς ἔμπροσθεν.
+  usfm_code: LAM
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΘΡΗΝΟΙ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: Ὅτι ἀπωθούμενος ἀπώσω ἡμᾶς, ὠργίσθης ἐφʼ ἡμᾶς ἕως σθόδρα.
+  text: Ὅτι ἀπωθούμενος ἀπώσω ἡμᾶς, ὠργίσθης ἐφʼ ἡμᾶς ἕως σθόδρα.
+  usfm_code: LAM
+  verse: '22'

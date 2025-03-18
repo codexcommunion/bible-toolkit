@@ -1,50 +1,49 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 123
-  book_usfm_code: PSA
-  chapter_number: 123
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 123
+  chapter: 123
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ὠδὴ τῶν ἀναβαθμῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 123
-  book_usfm_code: PSA
-  chapter_number: 123
+  text: Ὠδὴ τῶν ἀναβαθμῶν.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 123
+  chapter: 123
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: εἰ μὴ ὅτι Κύριος ἦν ἐν ἡμῖν, ἐν τῷ ἐπαναστῆναι ἀνθρώπους ἐφʼ ἡμᾶς,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 123
-  book_usfm_code: PSA
-  chapter_number: 123
+  text: εἰ μὴ ὅτι Κύριος ἦν ἐν ἡμῖν, ἐν τῷ ἐπαναστῆναι ἀνθρώπους ἐφʼ ἡμᾶς,
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 123
+  chapter: 123
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: ἄρα ζῶντας ἂν κατέπιον ἡμᾶς· ἐν τῷ ὀργισθῆναι τὸν θυμὸν αὐτῶν ἐφʼ ἡμᾶς,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 123
-  book_usfm_code: PSA
-  chapter_number: 123
+  text: ἄρα ζῶντας ἂν κατέπιον ἡμᾶς· ἐν τῷ ὀργισθῆναι τὸν θυμὸν αὐτῶν ἐφʼ ἡμᾶς,
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 123
+  chapter: 123
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: ἄρα τὸ ὕδωρ ἂν κατεπόντισεν ἡμᾶς· χείμαῤῥον διῆλθεν ἡ ψυχὴ ἡμῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 123
-  book_usfm_code: PSA
-  chapter_number: 123
+  text: ἄρα τὸ ὕδωρ ἂν κατεπόντισεν ἡμᾶς· χείμαῤῥον διῆλθεν ἡ ψυχὴ ἡμῶν.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 123
+  chapter: 123
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Ἄρα διῆλθεν ἡ ψυχὴ ἡμῶν τὸ ὕδωρ τὸ ἀνυπόστατον.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 123
-  book_usfm_code: PSA
-  chapter_number: 123
+  text: Ἄρα διῆλθεν ἡ ψυχὴ ἡμῶν τὸ ὕδωρ τὸ ἀνυπόστατον.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 123
+  chapter: 123
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Εὐλογητὸς Κύριος, ὃς οὐκ ἔδωκεν ἡμᾶς εἰς θήραν τοῖς ὀδοῦσιν αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 123
-  book_usfm_code: PSA
-  chapter_number: 123
+  text: Εὐλογητὸς Κύριος, ὃς οὐκ ἔδωκεν ἡμᾶς εἰς θήραν τοῖς ὀδοῦσιν αὐτῶν.
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 123
+  chapter: 123
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ἡ ψυχὴ ἡμῶν ὡς στρουθίον ἐῤῥύσθη ἐκ τῆς παγίδος τῶν θηρευόντων· ἡ παγὶς
-    συνετρίβη, καὶ ἡμεῖς ἐῤῥύσθημεν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 123
-  book_usfm_code: PSA
-  chapter_number: 123
+  text: Ἡ ψυχὴ ἡμῶν ὡς στρουθίον ἐῤῥύσθη ἐκ τῆς παγίδος τῶν θηρευόντων· ἡ παγὶς συνετρίβη,
+    καὶ ἡμεῖς ἐῤῥύσθημεν.
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 123
+  chapter: 123
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Ἡ βοήθεια ἡμῶν ἐν ὀνόματι Κυρίου, τοῦ ποιήσαντος τὸν οὐρανὸν καὶ τὴν
-    γῆν.
+  text: Ἡ βοήθεια ἡμῶν ἐν ὀνόματι Κυρίου, τοῦ ποιήσαντος τὸν οὐρανὸν καὶ τὴν γῆν.
+  usfm_code: PSA
+  verse: '8'

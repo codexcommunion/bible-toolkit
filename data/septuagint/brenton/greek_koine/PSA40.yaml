@@ -1,95 +1,90 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
-  book_usfm_code: PSA
-  chapter_number: 40
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
+  chapter: 40
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Εἰς τὸ τέλος, ψαλμὸς τῷ Δαυίδ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
-  book_usfm_code: PSA
-  chapter_number: 40
+  text: Εἰς τὸ τέλος, ψαλμὸς τῷ Δαυίδ.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
+  chapter: 40
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Μακαρίος ὁ συνιῶν ἐπὶ πτωχὸν καὶ πένητα, ἐν ἡμέρᾳ πονηρᾷ ῥύσεται αὐτὸν
-    ὁ Κύριος.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
-  book_usfm_code: PSA
-  chapter_number: 40
+  text: Μακαρίος ὁ συνιῶν ἐπὶ πτωχὸν καὶ πένητα, ἐν ἡμέρᾳ πονηρᾷ ῥύσεται αὐτὸν ὁ Κύριος.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
+  chapter: 40
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Κύριος φυλάξαι αὐτὸν καὶ ζήσαι αὐτὸν, καὶ μακαρίσαι αὐτὸν ἐν τῇ γῇ,
-    καὶ μὴ παραδοῖ αὐτὸν εἰς χεῖρας ἐχθροῦ αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
-  book_usfm_code: PSA
-  chapter_number: 40
+  text: Κύριος φυλάξαι αὐτὸν καὶ ζήσαι αὐτὸν, καὶ μακαρίσαι αὐτὸν ἐν τῇ γῇ, καὶ μὴ
+    παραδοῖ αὐτὸν εἰς χεῖρας ἐχθροῦ αὐτοῦ.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
+  chapter: 40
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Κύριος βοηθήσαι αὐτῷ ἐπὶ κλίνης ὀδύνης αὐτοῦ, ὅλην τὴν κοίτην αὐτοῦ
-    ἔστρεψας ἐν τῇ ἀῤῥωστίᾳ αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
-  book_usfm_code: PSA
-  chapter_number: 40
+  text: Κύριος βοηθήσαι αὐτῷ ἐπὶ κλίνης ὀδύνης αὐτοῦ, ὅλην τὴν κοίτην αὐτοῦ ἔστρεψας
+    ἐν τῇ ἀῤῥωστίᾳ αὐτοῦ.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
+  chapter: 40
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Ἐγὼ εἶπα, Κύριε ἐλέησόν με, ἴασαι τὴν ψυχήν μου, ὅτι ἥμαρτόν σοι.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
-  book_usfm_code: PSA
-  chapter_number: 40
+  text: Ἐγὼ εἶπα, Κύριε ἐλέησόν με, ἴασαι τὴν ψυχήν μου, ὅτι ἥμαρτόν σοι.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
+  chapter: 40
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Οἱ ἐχθροί μου εἶπαν κακά μοι, πότε ἀποθανεῖται καὶ ἀπολεῖται τὸ ὄνομα
-    αὐτοῦ;
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
-  book_usfm_code: PSA
-  chapter_number: 40
+  text: Οἱ ἐχθροί μου εἶπαν κακά μοι, πότε ἀποθανεῖται καὶ ἀπολεῖται τὸ ὄνομα αὐτοῦ;
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
+  chapter: 40
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Καὶ εἰ εἰσεπορεύετο τοῦ ἰδεῖν, μάτην ἐλάλει ἡ καρδία αὐτοῦ, συνήγαγεν
-    ἀνομίαν ἑαυτῷ, ἐξεπορεύετο ἔξω, καὶ ἐλάλει
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
-  book_usfm_code: PSA
-  chapter_number: 40
+  text: Καὶ εἰ εἰσεπορεύετο τοῦ ἰδεῖν, μάτην ἐλάλει ἡ καρδία αὐτοῦ, συνήγαγεν ἀνομίαν
+    ἑαυτῷ, ἐξεπορεύετο ἔξω, καὶ ἐλάλει
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
+  chapter: 40
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: ἐπὶ τὸ αὐτό. Κατʼ ἐμοῦ ἐψιθύριζον πάντες οἱ ἐχθροί μου, κατʼ ἐμοῦ ἐλογίζοντο
+  text: ἐπὶ τὸ αὐτό. Κατʼ ἐμοῦ ἐψιθύριζον πάντες οἱ ἐχθροί μου, κατʼ ἐμοῦ ἐλογίζοντο
     κακά μοι.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
-  book_usfm_code: PSA
-  chapter_number: 40
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
+  chapter: 40
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Λόγον παράνομον κατέθεντο κατʼ ἐμοῦ, μὴ ὁ κοιμώμενος οὐχὶ προσθήσει
-    τοῦ ἀναστῆναι;
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
-  book_usfm_code: PSA
-  chapter_number: 40
+  text: Λόγον παράνομον κατέθεντο κατʼ ἐμοῦ, μὴ ὁ κοιμώμενος οὐχὶ προσθήσει τοῦ ἀναστῆναι;
+  usfm_code: PSA
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
+  chapter: 40
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Καὶ γὰρ ὁ ἄνθρωπος τῆς εἰρήνης μου ἐφʼ ὃν ἤλπισα, ὁ ἐσθίων ἄρτους μου
-    ἐμεγάλυνεν ἐπʼ ἐμὲ πτερνισμόν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
-  book_usfm_code: PSA
-  chapter_number: 40
+  text: Καὶ γὰρ ὁ ἄνθρωπος τῆς εἰρήνης μου ἐφʼ ὃν ἤλπισα, ὁ ἐσθίων ἄρτους μου ἐμεγάλυνεν
+    ἐπʼ ἐμὲ πτερνισμόν.
+  usfm_code: PSA
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
+  chapter: 40
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Σὺ δὲ Κύριε ἐλέησόν με, καὶ ἀνάστησόν με, καὶ ἀνταποδώσω αὐτοῖς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
-  book_usfm_code: PSA
-  chapter_number: 40
+  text: Σὺ δὲ Κύριε ἐλέησόν με, καὶ ἀνάστησόν με, καὶ ἀνταποδώσω αὐτοῖς.
+  usfm_code: PSA
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
+  chapter: 40
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Ἐν τούτῳ ἔγνων, ὅτι τεθέληκάς με ὅτι οὐ μὴ ἐπιχαρῇ ὁ ἐχθρός μου ἐπʼ
-    ἐμέ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
-  book_usfm_code: PSA
-  chapter_number: 40
+  text: Ἐν τούτῳ ἔγνων, ὅτι τεθέληκάς με ὅτι οὐ μὴ ἐπιχαρῇ ὁ ἐχθρός μου ἐπʼ ἐμέ.
+  usfm_code: PSA
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
+  chapter: 40
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Ἐμοῦ δὲ διὰ τὴν ἀκακίαν ἀντελάβου, καὶ ἐβεβαίωσάς με ἐνώπιόν σου εἰς
-    τὸν αἰῶνα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
-  book_usfm_code: PSA
-  chapter_number: 40
+  text: Ἐμοῦ δὲ διὰ τὴν ἀκακίαν ἀντελάβου, καὶ ἐβεβαίωσάς με ἐνώπιόν σου εἰς τὸν αἰῶνα.
+  usfm_code: PSA
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 40
+  chapter: 40
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Εὐλογητὸς Κύριος ὁ Θεὸς Ἰσραὴλ ἀπὸ τοῦ αἰῶνος καὶ εἰς τὸν αἰῶνα· γένοιτο,
+  text: Εὐλογητὸς Κύριος ὁ Θεὸς Ἰσραὴλ ἀπὸ τοῦ αἰῶνος καὶ εἰς τὸν αἰῶνα· γένοιτο,
     γένοιτο.
+  usfm_code: PSA
+  verse: '14'

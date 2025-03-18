@@ -1,26 +1,26 @@
 [
     {
-        "book_title": "Brenton Septuagint Translation Psalms 130",
-        "book_usfm_code": "PSA",
-        "chapter_number": 130,
-        "verse_number": 1,
-        "verse_text": "A Song of Degrees.",
+        "book": "Brenton Septuagint Translation Psalms 130",
+        "usfm_code": "PSA",
+        "chapter": 130,
+        "verse": "1",
+        "text": "A Song of Degrees.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 130",
-        "book_usfm_code": "PSA",
-        "chapter_number": 130,
-        "verse_number": 2,
-        "verse_text": "I shall have sinned if I have not been humble, but have exalted my soul: according to the relation of a weaned child to his mother, so wilt thou recompense my soul.",
+        "book": "Brenton Septuagint Translation Psalms 130",
+        "usfm_code": "PSA",
+        "chapter": 130,
+        "verse": "2",
+        "text": "I shall have sinned if I have not been humble, but have exalted my soul: according to the relation of a weaned child to his mother, so wilt thou recompense my soul.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 130",
-        "book_usfm_code": "PSA",
-        "chapter_number": 130,
-        "verse_number": 3,
-        "verse_text": "Let Israel hope in the Lord, from henceforth and for ever.",
+        "book": "Brenton Septuagint Translation Psalms 130",
+        "usfm_code": "PSA",
+        "chapter": 130,
+        "verse": "3",
+        "text": "Let Israel hope in the Lord, from henceforth and for ever.",
         "iso-639-2_language_code": "eng"
     }
 ]

@@ -1,56 +1,55 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 114
-  book_usfm_code: PSA
-  chapter_number: 114
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 114
+  chapter: 114
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ἀλληλούϊα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 114
-  book_usfm_code: PSA
-  chapter_number: 114
+  text: Ἀλληλούϊα.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 114
+  chapter: 114
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Ὅτι ἔκλινε τὸ οὖς αὐτοῦ ἐμοὶ, καὶ ἐν ταῖς ἡμέραις μου ἐπικαλέσομαι.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 114
-  book_usfm_code: PSA
-  chapter_number: 114
+  text: Ὅτι ἔκλινε τὸ οὖς αὐτοῦ ἐμοὶ, καὶ ἐν ταῖς ἡμέραις μου ἐπικαλέσομαι.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 114
+  chapter: 114
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Περιέσχον με ὠδῖνες θανάτου, κίνδυνοι ᾅδου εὕροσάν με· θλίψιν καὶ ὀδύνην
-    εὗρον,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 114
-  book_usfm_code: PSA
-  chapter_number: 114
+  text: Περιέσχον με ὠδῖνες θανάτου, κίνδυνοι ᾅδου εὕροσάν με· θλίψιν καὶ ὀδύνην εὗρον,
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 114
+  chapter: 114
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: καὶ τὸ ὄνομα Κυρίου ἐπεκαλεσάμην, ὦ Κύριε ῥῦσαι τὴν ψυχήν μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 114
-  book_usfm_code: PSA
-  chapter_number: 114
+  text: καὶ τὸ ὄνομα Κυρίου ἐπεκαλεσάμην, ὦ Κύριε ῥῦσαι τὴν ψυχήν μου.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 114
+  chapter: 114
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Ἐλεήμων ὁ Κύριος καὶ δίκαιος, καὶ ὁ Θεὸς ἡμῶν ἐλεεῖ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 114
-  book_usfm_code: PSA
-  chapter_number: 114
+  text: Ἐλεήμων ὁ Κύριος καὶ δίκαιος, καὶ ὁ Θεὸς ἡμῶν ἐλεεῖ.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 114
+  chapter: 114
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Φυλάσσων τὰ νήπια ὁ Κύριος, ἐταπεινώθην καὶ ἔσωσέ με.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 114
-  book_usfm_code: PSA
-  chapter_number: 114
+  text: Φυλάσσων τὰ νήπια ὁ Κύριος, ἐταπεινώθην καὶ ἔσωσέ με.
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 114
+  chapter: 114
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ἐπίστρεψον ψυχή μου εἰς τὴν ἀνάπαυσίν σου, ὅτι Κύριος εὐηργέτησέ σε.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 114
-  book_usfm_code: PSA
-  chapter_number: 114
+  text: Ἐπίστρεψον ψυχή μου εἰς τὴν ἀνάπαυσίν σου, ὅτι Κύριος εὐηργέτησέ σε.
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 114
+  chapter: 114
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Ὅτι ἐξείλετο τὴν ψυχήν μου ἐκ θανάτου, τοὺς ὀφθαλμούς μου ἀπὸ δακρύων,
-    καὶ τοὺς πόδας μου ἀπὸ ὀλισθήματος.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 114
-  book_usfm_code: PSA
-  chapter_number: 114
+  text: Ὅτι ἐξείλετο τὴν ψυχήν μου ἐκ θανάτου, τοὺς ὀφθαλμούς μου ἀπὸ δακρύων, καὶ
+    τοὺς πόδας μου ἀπὸ ὀλισθήματος.
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 114
+  chapter: 114
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Εὐαρεστήσω ἐνώπιον Κυρίου ἐν χώρᾳ ζώντων.
+  text: Εὐαρεστήσω ἐνώπιον Κυρίου ἐν χώρᾳ ζώντων.
+  usfm_code: PSA
+  verse: '9'

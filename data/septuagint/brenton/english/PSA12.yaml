@@ -1,42 +1,42 @@
-- book_title: Brenton Septuagint Translation Psalms 12
-  book_usfm_code: PSA
-  chapter_number: 12
+- book: Brenton Septuagint Translation Psalms 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: For the end, a Psalm of David.
-- book_title: Brenton Septuagint Translation Psalms 12
-  book_usfm_code: PSA
-  chapter_number: 12
+  text: For the end, a Psalm of David.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: How long, O Lord, wilt thou forget me? for ever? how long wilt thou
-    turn away thy face from me?
-- book_title: Brenton Septuagint Translation Psalms 12
-  book_usfm_code: PSA
-  chapter_number: 12
+  text: How long, O Lord, wilt thou forget me? for ever? how long wilt thou turn away
+    thy face from me?
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: How long shall I take counsel in my soul, having sorrows in my heart
-    daily? how long shall my enemy be exalted over me?
-- book_title: Brenton Septuagint Translation Psalms 12
-  book_usfm_code: PSA
-  chapter_number: 12
+  text: How long shall I take counsel in my soul, having sorrows in my heart daily?
+    how long shall my enemy be exalted over me?
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: 'Look on me, hearken to me, O Lord my God: lighten mine eyes, lest I
-    sleep in death;'
-- book_title: Brenton Septuagint Translation Psalms 12
-  book_usfm_code: PSA
-  chapter_number: 12
+  text: 'Look on me, hearken to me, O Lord my God: lighten mine eyes, lest I sleep
+    in death;'
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: 'lest at any time mine enemy say, I have prevailed against him: my persecutors
+  text: 'lest at any time mine enemy say, I have prevailed against him: my persecutors
     will exult if ever I should be moved.'
-- book_title: Brenton Septuagint Translation Psalms 12
-  book_usfm_code: PSA
-  chapter_number: 12
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: But I have hoped in thy mercy; my heart shall exult in thy salvation.
-    I will sing to the Lord who has dealt bountifully with me, and I will sing psalms
-    to the name of the Lord most high.
+  text: But I have hoped in thy mercy; my heart shall exult in thy salvation. I will
+    sing to the Lord who has dealt bountifully with me, and I will sing psalms to
+    the name of the Lord most high.
+  usfm_code: PSA
+  verse: '6'

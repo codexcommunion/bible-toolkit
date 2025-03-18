@@ -1,254 +1,251 @@
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Μετὰ δὲ τὸ παύσασθαι Ἐλιοὺν τῆς λέξεως, εἶπεν ὁ Κύριος τῷ Ἰὼβ διὰ λαίλαπος
+  text: Μετὰ δὲ τὸ παύσασθαι Ἐλιοὺν τῆς λέξεως, εἶπεν ὁ Κύριος τῷ Ἰὼβ διὰ λαίλαπος
     καὶ νεφῶν,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  usfm_code: JOB
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Τίς οὗτος ὁ κρύπτων με βουλὴν, συνέχεν δὲ ῥήματα ἐν καρδίᾳ, ἐμὲ δὲ οἴεται
+  text: Τίς οὗτος ὁ κρύπτων με βουλὴν, συνέχεν δὲ ῥήματα ἐν καρδίᾳ, ἐμὲ δὲ οἴεται
     κρύπτειν;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  usfm_code: JOB
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ζώσαι ὥσπερ ἀνὴρ τὴν ὀσφύν σου· ἐρωτήσω δέ σε, σὺ δέ μοι ἀποκρίθητι.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ζώσαι ὥσπερ ἀνὴρ τὴν ὀσφύν σου· ἐρωτήσω δέ σε, σὺ δέ μοι ἀποκρίθητι.
+  usfm_code: JOB
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Ποῦ ἦς ἐν τῷ θεμελιοῦν με τὴν γῆν; ἀπάγγειλον δέ μοι εἰ ἐπίστῃ σύνεσιν.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ποῦ ἦς ἐν τῷ θεμελιοῦν με τὴν γῆν; ἀπάγγειλον δέ μοι εἰ ἐπίστῃ σύνεσιν.
+  usfm_code: JOB
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Τίς ἔθετο τὰ μέτρα αὐτῆς, εἰ οἶδας; ἢ τίς ὁ ἐπαγαγὼν σπαρτίον ἐπʼ αὐτῆς;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Τίς ἔθετο τὰ μέτρα αὐτῆς, εἰ οἶδας; ἢ τίς ὁ ἐπαγαγὼν σπαρτίον ἐπʼ αὐτῆς;
+  usfm_code: JOB
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ἐπὶ τίνος οἱ κρίκοι αὐτῆς πεπήγασι; τίς δέ ἐστιν ὁ βαλὼν λίθον γωνιαῖον
-    ἐπʼ αὐτῆς;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ἐπὶ τίνος οἱ κρίκοι αὐτῆς πεπήγασι; τίς δέ ἐστιν ὁ βαλὼν λίθον γωνιαῖον ἐπʼ
+    αὐτῆς;
+  usfm_code: JOB
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ὅτε ἐγενήθησαν ἄστρα, ᾔνεσάν με φωνῇ μεγάλῃ πάντες ἄγγελοί μου.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ὅτε ἐγενήθησαν ἄστρα, ᾔνεσάν με φωνῇ μεγάλῃ πάντες ἄγγελοί μου.
+  usfm_code: JOB
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Ἔφραξα δὲ θάλασσαν πύλαις, ὅτε ἐμαίμασσεν ἐκ κοιλίας μητρὸς αὐγῆς ἐκπορευομένη·
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ἔφραξα δὲ θάλασσαν πύλαις, ὅτε ἐμαίμασσεν ἐκ κοιλίας μητρὸς αὐγῆς ἐκπορευομένη·
+  usfm_code: JOB
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Ἐθέμην δὲ αὐτῇ νέφος ἀμφίασιν, ὁμίχλῃ δὲ αὐτὴν ἐσπαργάνωσα.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ἐθέμην δὲ αὐτῇ νέφος ἀμφίασιν, ὁμίχλῃ δὲ αὐτὴν ἐσπαργάνωσα.
+  usfm_code: JOB
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Ἐθέμην δὲ αὐτῇ ὅρια, περιθεὶς κλεῖθρα καὶ πύλας.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ἐθέμην δὲ αὐτῇ ὅρια, περιθεὶς κλεῖθρα καὶ πύλας.
+  usfm_code: JOB
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Εἶπα δὲ αὐτῇ, μέχρι τούτου ἐλεύσῃ, καὶ οὐχ ὑπερβήσῃ, ἀλλʼ ἐν σεαυτῇ
-    συντριβήσεταί σου τὰ κύματα.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Εἶπα δὲ αὐτῇ, μέχρι τούτου ἐλεύσῃ, καὶ οὐχ ὑπερβήσῃ, ἀλλʼ ἐν σεαυτῇ συντριβήσεταί
+    σου τὰ κύματα.
+  usfm_code: JOB
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Ἢ ἐπὶ σοῦ συντέταχα φέγγος πρωϊνόν; Ἑωσφόρος δὲ ἶδε τὴν ἑαυτοῦ τάξιν,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ἢ ἐπὶ σοῦ συντέταχα φέγγος πρωϊνόν; Ἑωσφόρος δὲ ἶδε τὴν ἑαυτοῦ τάξιν,
+  usfm_code: JOB
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: ἐπιλαβέσθαι πτερύγων γῆς, ἐκτινάξαι ἀσεβεῖς ἐξ αὐτῆς;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: ἐπιλαβέσθαι πτερύγων γῆς, ἐκτινάξαι ἀσεβεῖς ἐξ αὐτῆς;
+  usfm_code: JOB
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Ἢ σὺ λαβὼν γῆν πηλὸν, ἔπλασας ζῶον, καὶ λαλητὸν αὐτὸν ἔθου ἐπὶ γῆς;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ἢ σὺ λαβὼν γῆν πηλὸν, ἔπλασας ζῶον, καὶ λαλητὸν αὐτὸν ἔθου ἐπὶ γῆς;
+  usfm_code: JOB
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Ἀφεῖλες δὲ ἀπὸ ἀσεβῶν τὸ φῶς, βραχίονα δὲ ὑπερηφάνων συνέτριψας;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ἀφεῖλες δὲ ἀπὸ ἀσεβῶν τὸ φῶς, βραχίονα δὲ ὑπερηφάνων συνέτριψας;
+  usfm_code: JOB
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Ἦλθες δὲ ἐπὶ πηγὴν θαλάσσης, ἐν δὲ ἴχνεσιν ἀβύσσου περιεπάτησας;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ἦλθες δὲ ἐπὶ πηγὴν θαλάσσης, ἐν δὲ ἴχνεσιν ἀβύσσου περιεπάτησας;
+  usfm_code: JOB
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Ἀνοίγονται δέ σοι φόβῳ πύλαι θανάτου, πυλωροὶ δὲ ᾅδου ἰδόντες σε ἔπτηξαν;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ἀνοίγονται δέ σοι φόβῳ πύλαι θανάτου, πυλωροὶ δὲ ᾅδου ἰδόντες σε ἔπτηξαν;
+  usfm_code: JOB
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Νενουθέτησαι δὲ τὸ εὖρος τῆς ὑπʼ οὐρανόν; ἀνάγγειλον δή μοι, πόση τίς
-    ἐστι;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Νενουθέτησαι δὲ τὸ εὖρος τῆς ὑπʼ οὐρανόν; ἀνάγγειλον δή μοι, πόση τίς ἐστι;
+  usfm_code: JOB
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Ποίᾳ δὲ γῇ αὐλίζεται τὸ φῶς; σκότους δὲ ποῖος ὁ τόπος;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ποίᾳ δὲ γῇ αὐλίζεται τὸ φῶς; σκότους δὲ ποῖος ὁ τόπος;
+  usfm_code: JOB
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Εἰ ἀγάγοις με εἰς ὅρια αὐτῶν, εἰ δὲ καὶ ἐπίστασαι τρίβους αὐτῶν·
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Εἰ ἀγάγοις με εἰς ὅρια αὐτῶν, εἰ δὲ καὶ ἐπίστασαι τρίβους αὐτῶν·
+  usfm_code: JOB
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: Οἶδα ἄρα ὅτι τότε γεγέννησαι, ἀριθμὸς δὲ ἐτῶν σου πολύς;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Οἶδα ἄρα ὅτι τότε γεγέννησαι, ἀριθμὸς δὲ ἐτῶν σου πολύς;
+  usfm_code: JOB
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: Ἦλθες δὲ ἐπὶ θησαυροὺς χιόνος, θησαυροὺς δὲ χαλάζης ἑώρακας;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ἦλθες δὲ ἐπὶ θησαυροὺς χιόνος, θησαυροὺς δὲ χαλάζης ἑώρακας;
+  usfm_code: JOB
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: Ἀπόκειται δέ σοι εἰς ὥραν ἐχθρῶν, εἰς ἡμέραν πολέμων καὶ μάχης;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ἀπόκειται δέ σοι εἰς ὥραν ἐχθρῶν, εἰς ἡμέραν πολέμων καὶ μάχης;
+  usfm_code: JOB
+  verse: '23'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 24
-  verse_text: Πόθεν δὲ ἐκπορεύεται πάχνη, ἢ διασκεδάννυται Νότος εἰς τὴν ὑπʼ οὐρανόν;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Πόθεν δὲ ἐκπορεύεται πάχνη, ἢ διασκεδάννυται Νότος εἰς τὴν ὑπʼ οὐρανόν;
+  usfm_code: JOB
+  verse: '24'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 25
-  verse_text: Τίς δὲ ἡτοίμασεν ὑετῷ λάβρῳ ῥύσιν, ὁδὸν δὲ κυδοιμῶν,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Τίς δὲ ἡτοίμασεν ὑετῷ λάβρῳ ῥύσιν, ὁδὸν δὲ κυδοιμῶν,
+  usfm_code: JOB
+  verse: '25'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 26
-  verse_text: τοῦ ὑετίσαι ἐπὶ γῆν οὗ οὐκ ἀνήρ, ἔρημον οὗ οὐχ ὑπάρχει ἄνθρωπος ἐν αὐτῇ,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: τοῦ ὑετίσαι ἐπὶ γῆν οὗ οὐκ ἀνήρ, ἔρημον οὗ οὐχ ὑπάρχει ἄνθρωπος ἐν αὐτῇ,
+  usfm_code: JOB
+  verse: '26'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 27
-  verse_text: τοῦ χορτάσαι ἄβατον καὶ ἀοίκητον, καὶ τοῦ ἐκβλαστῆσαι ἔξοδον χλόης;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: τοῦ χορτάσαι ἄβατον καὶ ἀοίκητον, καὶ τοῦ ἐκβλαστῆσαι ἔξοδον χλόης;
+  usfm_code: JOB
+  verse: '27'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 28
-  verse_text: Τίς ἐστιν ὑετοῦ πατήρ; τίς δέ ἐστιν ὁ τετοκὼς βώλους δρόσου;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Τίς ἐστιν ὑετοῦ πατήρ; τίς δέ ἐστιν ὁ τετοκὼς βώλους δρόσου;
+  usfm_code: JOB
+  verse: '28'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 29
-  verse_text: Ἐκ γαστρὸς δὲ τίνος ἐκπορεύεται ὁ κρύσταλλος; πάχνην δὲ ἐν οὐρανῷ τίς
-    τέτοκεν,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ἐκ γαστρὸς δὲ τίνος ἐκπορεύεται ὁ κρύσταλλος; πάχνην δὲ ἐν οὐρανῷ τίς τέτοκεν,
+  usfm_code: JOB
+  verse: '29'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 30
-  verse_text: ἣ καταβαίνει ὥσπερ ὕδωρ ῥέον; πρόσωπον ἀσεβοῦς τίς ἔπτηξε;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: ἣ καταβαίνει ὥσπερ ὕδωρ ῥέον; πρόσωπον ἀσεβοῦς τίς ἔπτηξε;
+  usfm_code: JOB
+  verse: '30'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 31
-  verse_text: Συνῆκας δὲ δεσμὸν Πλειάδος, καὶ φραγμὸν Ὠρίωνος ἤνοιξας;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Συνῆκας δὲ δεσμὸν Πλειάδος, καὶ φραγμὸν Ὠρίωνος ἤνοιξας;
+  usfm_code: JOB
+  verse: '31'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 32
-  verse_text: Ἢ διανοίξεις μαζουρὼθ ἐν καιρῷ αὐτοῦ, καὶ ἕσπερον ἐπὶ κόμης αὐτοῦ ἄξεις
-    αὐτά;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ἢ διανοίξεις μαζουρὼθ ἐν καιρῷ αὐτοῦ, καὶ ἕσπερον ἐπὶ κόμης αὐτοῦ ἄξεις αὐτά;
+  usfm_code: JOB
+  verse: '32'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 33
-  verse_text: Ἐπίστασαι δὲ τροπὰς οὐρανοῦ, ἢ τὰ ὑπʼ οὐρανὸν ὁμοθυμαδὸν γινόμενα;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ἐπίστασαι δὲ τροπὰς οὐρανοῦ, ἢ τὰ ὑπʼ οὐρανὸν ὁμοθυμαδὸν γινόμενα;
+  usfm_code: JOB
+  verse: '33'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 34
-  verse_text: καλέσεις δὲ νέφος φωνῇ, καὶ τρόμῳ ὕδατος λάβρου ὑπακούσεταί σου;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: καλέσεις δὲ νέφος φωνῇ, καὶ τρόμῳ ὕδατος λάβρου ὑπακούσεταί σου;
+  usfm_code: JOB
+  verse: '34'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 35
-  verse_text: Ἀποστελεῖς δὲ κεραυνοὺς καὶ πορεύσονται; ἐροῦσι δέ σοι, τί ἐστι;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Ἀποστελεῖς δὲ κεραυνοὺς καὶ πορεύσονται; ἐροῦσι δέ σοι, τί ἐστι;
+  usfm_code: JOB
+  verse: '35'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 36
-  verse_text: Τίς δὲ ἔδωκε γυναιξὶν ὑφάσματος σοφίαν, ἢ ποικιλτικὴν ἐπιστήμην;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Τίς δὲ ἔδωκε γυναιξὶν ὑφάσματος σοφίαν, ἢ ποικιλτικὴν ἐπιστήμην;
+  usfm_code: JOB
+  verse: '36'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 37
-  verse_text: Τίς δὲ ὁ ἀριθμῶν νέφη σοφίᾳ, οὐρανὸν δὲ εἰς γῆν ἔκλινε;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Τίς δὲ ὁ ἀριθμῶν νέφη σοφίᾳ, οὐρανὸν δὲ εἰς γῆν ἔκλινε;
+  usfm_code: JOB
+  verse: '37'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 38
-  verse_text: Κέχυται δὲ ὥσπερ γῆ κονία, κεκόλληκα δὲ αὐτὸν ὥσπερ λίθῳ κύβον.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Κέχυται δὲ ὥσπερ γῆ κονία, κεκόλληκα δὲ αὐτὸν ὥσπερ λίθῳ κύβον.
+  usfm_code: JOB
+  verse: '38'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 39
-  verse_text: Θηρεύσεις δὲ λέουσι βορὰν, ψυχὰς δὲ δρακόντων ἐμπλήσεις;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Θηρεύσεις δὲ λέουσι βορὰν, ψυχὰς δὲ δρακόντων ἐμπλήσεις;
+  usfm_code: JOB
+  verse: '39'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 40
-  verse_text: Δεδοίκασι γὰρ ἐν κοίταις αὐτῶν, κάθηνται δὲ ἐν ὕλαις ἐνεδρεύοντες.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 38
-  book_usfm_code: JOB
-  chapter_number: 38
+  text: Δεδοίκασι γὰρ ἐν κοίταις αὐτῶν, κάθηνται δὲ ἐν ὕλαις ἐνεδρεύοντες.
+  usfm_code: JOB
+  verse: '40'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 38
+  chapter: 38
   iso-639-2_language_code: grc
-  verse_number: 41
-  verse_text: Τίς δὲ ἡτοίμασε κόρακι βοράν; νεοσσοὶ γὰρ αὐτοῦ πρὸς Κύριον κεκράγασι
-    πλανώμενοι, τὰ σῖτα ζητοῦντες.
+  text: Τίς δὲ ἡτοίμασε κόρακι βοράν; νεοσσοὶ γὰρ αὐτοῦ πρὸς Κύριον κεκράγασι πλανώμενοι,
+    τὰ σῖτα ζητοῦντες.
+  usfm_code: JOB
+  verse: '41'

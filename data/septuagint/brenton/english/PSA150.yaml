@@ -1,39 +1,38 @@
-- book_title: Brenton Septuagint Translation Psalms 150
-  book_usfm_code: PSA
-  chapter_number: 150
+- book: Brenton Septuagint Translation Psalms 150
+  chapter: 150
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: Alleluia.
-- book_title: Brenton Septuagint Translation Psalms 150
-  book_usfm_code: PSA
-  chapter_number: 150
+  text: Alleluia.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 150
+  chapter: 150
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: 'Praise him on account of his mighty acts: praise him according to his
-    abundant greatness.'
-- book_title: Brenton Septuagint Translation Psalms 150
-  book_usfm_code: PSA
-  chapter_number: 150
+  text: 'Praise him on account of his mighty acts: praise him according to his abundant
+    greatness.'
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 150
+  chapter: 150
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: 'Praise him with the sound of a trumpet: praise him with psaltery and
-    harp.'
-- book_title: Brenton Septuagint Translation Psalms 150
-  book_usfm_code: PSA
-  chapter_number: 150
+  text: 'Praise him with the sound of a trumpet: praise him with psaltery and harp.'
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 150
+  chapter: 150
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: 'Praise him with timbrel and dance: praise him with stringed instruments
-    and the organ.'
-- book_title: Brenton Septuagint Translation Psalms 150
-  book_usfm_code: PSA
-  chapter_number: 150
+  text: 'Praise him with timbrel and dance: praise him with stringed instruments and
+    the organ.'
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 150
+  chapter: 150
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: 'Praise him with melodious cymbals: praise him with loud cymbals.'
-- book_title: Brenton Septuagint Translation Psalms 150
-  book_usfm_code: PSA
-  chapter_number: 150
+  text: 'Praise him with melodious cymbals: praise him with loud cymbals.'
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 150
+  chapter: 150
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: Let every thing that has breath praise the Lord.
+  text: Let every thing that has breath praise the Lord.
+  usfm_code: PSA
+  verse: '6'

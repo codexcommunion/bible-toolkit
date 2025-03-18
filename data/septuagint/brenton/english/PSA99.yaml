@@ -1,33 +1,33 @@
-- book_title: Brenton Septuagint Translation Psalms 99
-  book_usfm_code: PSA
-  chapter_number: 99
+- book: Brenton Septuagint Translation Psalms 99
+  chapter: 99
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: A Psalm for Thanksgiving.
-- book_title: Brenton Septuagint Translation Psalms 99
-  book_usfm_code: PSA
-  chapter_number: 99
+  text: A Psalm for Thanksgiving.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 99
+  chapter: 99
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: Serve the Lord with gladness; come before his presence with exultation.
-- book_title: Brenton Septuagint Translation Psalms 99
-  book_usfm_code: PSA
-  chapter_number: 99
+  text: Serve the Lord with gladness; come before his presence with exultation.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 99
+  chapter: 99
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: Know that the Lord he is God; he made us, and not we ourselves; we are
-    his people, and the sheep of his pasture.
-- book_title: Brenton Septuagint Translation Psalms 99
-  book_usfm_code: PSA
-  chapter_number: 99
+  text: Know that the Lord he is God; he made us, and not we ourselves; we are his
+    people, and the sheep of his pasture.
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 99
+  chapter: 99
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: Enter into his gates with thanksgiving, and his courts with hymns; give
-    thanks to him, praise his name.
-- book_title: Brenton Septuagint Translation Psalms 99
-  book_usfm_code: PSA
-  chapter_number: 99
+  text: Enter into his gates with thanksgiving, and his courts with hymns; give thanks
+    to him, praise his name.
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 99
+  chapter: 99
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: For the Lord is good, his mercy is for ever; and his truth endures to
-    generation and generation.
+  text: For the Lord is good, his mercy is for ever; and his truth endures to generation
+    and generation.
+  usfm_code: PSA
+  verse: '5'

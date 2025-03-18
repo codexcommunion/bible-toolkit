@@ -1,18 +1,18 @@
 [
     {
-        "book_title": "μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 116",
-        "book_usfm_code": "PSA",
-        "chapter_number": 116,
-        "verse_number": 1,
-        "verse_text": "Ἀλληλούϊα.",
+        "book": "μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 116",
+        "usfm_code": "PSA",
+        "chapter": 116,
+        "verse": "1",
+        "text": "Ἀλληλούϊα.",
         "iso-639-2_language_code": "grc"
     },
     {
-        "book_title": "μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 116",
-        "book_usfm_code": "PSA",
-        "chapter_number": 116,
-        "verse_number": 2,
-        "verse_text": "Ὅτι ἐκραταιώθη τὸ ἔλεος αὐτοῦ ἐφʼ ἡμᾶς, καὶ ἡ ἀλήθεια τοῦ Κυρίου μένει εἰς τὸν αἰῶνα.",
+        "book": "μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 116",
+        "usfm_code": "PSA",
+        "chapter": 116,
+        "verse": "2",
+        "text": "Ὅτι ἐκραταιώθη τὸ ἔλεος αὐτοῦ ἐφʼ ἡμᾶς, καὶ ἡ ἀλήθεια τοῦ Κυρίου μένει εἰς τὸν αἰῶνα.",
         "iso-639-2_language_code": "grc"
     }
 ]

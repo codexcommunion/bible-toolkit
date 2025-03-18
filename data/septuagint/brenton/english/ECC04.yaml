@@ -1,121 +1,120 @@
-- book_title: Brenton Septuagint Translation Ecclesiastes 4
-  book_usfm_code: ECC
-  chapter_number: 4
+- book: Brenton Septuagint Translation Ecclesiastes 4
+  chapter: 4
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: 'So I returned, and saw all the oppressions that were done under the
-    sun: and behold the tear of the oppressed, and they had no comforter; and on the
-    side of them that oppressed them was power; but they had no comforter:'
-- book_title: Brenton Septuagint Translation Ecclesiastes 4
-  book_usfm_code: ECC
-  chapter_number: 4
+  text: 'So I returned, and saw all the oppressions that were done under the sun:
+    and behold the tear of the oppressed, and they had no comforter; and on the side
+    of them that oppressed them was power; but they had no comforter:'
+  usfm_code: ECC
+  verse: '1'
+- book: Brenton Septuagint Translation Ecclesiastes 4
+  chapter: 4
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: and I praised all the dead that had already died more than the living,
-    as many as are alive until now.
-- book_title: Brenton Septuagint Translation Ecclesiastes 4
-  book_usfm_code: ECC
-  chapter_number: 4
+  text: and I praised all the dead that had already died more than the living, as
+    many as are alive until now.
+  usfm_code: ECC
+  verse: '2'
+- book: Brenton Septuagint Translation Ecclesiastes 4
+  chapter: 4
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: Better also than both these is he who has not yet been, who has not
-    seen all the evil work that is done under the sun.
-- book_title: Brenton Septuagint Translation Ecclesiastes 4
-  book_usfm_code: ECC
-  chapter_number: 4
+  text: Better also than both these is he who has not yet been, who has not seen all
+    the evil work that is done under the sun.
+  usfm_code: ECC
+  verse: '3'
+- book: Brenton Septuagint Translation Ecclesiastes 4
+  chapter: 4
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: And I saw all labour, and all the diligent work, that this is a man's
-    envy from his neighbour. This is also vanity and waywardness of spirit.
-- book_title: Brenton Septuagint Translation Ecclesiastes 4
-  book_usfm_code: ECC
-  chapter_number: 4
+  text: And I saw all labour, and all the diligent work, that this is a man's envy
+    from his neighbour. This is also vanity and waywardness of spirit.
+  usfm_code: ECC
+  verse: '4'
+- book: Brenton Septuagint Translation Ecclesiastes 4
+  chapter: 4
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: The fool folds his hands together, and eats his own flesh.
-- book_title: Brenton Septuagint Translation Ecclesiastes 4
-  book_usfm_code: ECC
-  chapter_number: 4
+  text: The fool folds his hands together, and eats his own flesh.
+  usfm_code: ECC
+  verse: '5'
+- book: Brenton Septuagint Translation Ecclesiastes 4
+  chapter: 4
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: Better is a handful of rest than two handfuls of trouble and waywardness
-    of spirit.
-- book_title: Brenton Septuagint Translation Ecclesiastes 4
-  book_usfm_code: ECC
-  chapter_number: 4
+  text: Better is a handful of rest than two handfuls of trouble and waywardness of
+    spirit.
+  usfm_code: ECC
+  verse: '6'
+- book: Brenton Septuagint Translation Ecclesiastes 4
+  chapter: 4
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: So I returned, and saw vanity under the sun.
-- book_title: Brenton Septuagint Translation Ecclesiastes 4
-  book_usfm_code: ECC
-  chapter_number: 4
+  text: So I returned, and saw vanity under the sun.
+  usfm_code: ECC
+  verse: '7'
+- book: Brenton Septuagint Translation Ecclesiastes 4
+  chapter: 4
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: 'There is one alone , and there is not a second; yea, he has neither
-    son nor brother: yet there is no end to all his labour; neither is his eye satisfied
-    with wealth; and for whom do I labour, and deprive my soul of good? this is also
-    vanity, and an evil trouble.'
-- book_title: Brenton Septuagint Translation Ecclesiastes 4
-  book_usfm_code: ECC
-  chapter_number: 4
+  text: 'There is one alone , and there is not a second; yea, he has neither son nor
+    brother: yet there is no end to all his labour; neither is his eye satisfied with
+    wealth; and for whom do I labour, and deprive my soul of good? this is also vanity,
+    and an evil trouble.'
+  usfm_code: ECC
+  verse: '8'
+- book: Brenton Septuagint Translation Ecclesiastes 4
+  chapter: 4
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: Two are better than one, seeing they have a good reward for their labour.
-- book_title: Brenton Septuagint Translation Ecclesiastes 4
-  book_usfm_code: ECC
-  chapter_number: 4
+  text: Two are better than one, seeing they have a good reward for their labour.
+  usfm_code: ECC
+  verse: '9'
+- book: Brenton Septuagint Translation Ecclesiastes 4
+  chapter: 4
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: 'For if they fall, the one will lift up his fellow: but woe to him that
-    is alone when he falls, and there is not a second to lift him up.'
-- book_title: Brenton Septuagint Translation Ecclesiastes 4
-  book_usfm_code: ECC
-  chapter_number: 4
+  text: 'For if they fall, the one will lift up his fellow: but woe to him that is
+    alone when he falls, and there is not a second to lift him up.'
+  usfm_code: ECC
+  verse: '10'
+- book: Brenton Septuagint Translation Ecclesiastes 4
+  chapter: 4
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: 'Also if two should lie together, they also get heat: but how shall
-    one be warmed alone ?'
-- book_title: Brenton Septuagint Translation Ecclesiastes 4
-  book_usfm_code: ECC
-  chapter_number: 4
+  text: 'Also if two should lie together, they also get heat: but how shall one be
+    warmed alone ?'
+  usfm_code: ECC
+  verse: '11'
+- book: Brenton Septuagint Translation Ecclesiastes 4
+  chapter: 4
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: And if one should prevail against him , the two shall withstand him;
-    and a threefold cord shall not be quickly broken.
-- book_title: Brenton Septuagint Translation Ecclesiastes 4
-  book_usfm_code: ECC
-  chapter_number: 4
+  text: And if one should prevail against him , the two shall withstand him; and a
+    threefold cord shall not be quickly broken.
+  usfm_code: ECC
+  verse: '12'
+- book: Brenton Septuagint Translation Ecclesiastes 4
+  chapter: 4
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: Better is a poor and wise child than an old and foolish king, who knows
-    not how to take heed any longer.
-- book_title: Brenton Septuagint Translation Ecclesiastes 4
-  book_usfm_code: ECC
-  chapter_number: 4
+  text: Better is a poor and wise child than an old and foolish king, who knows not
+    how to take heed any longer.
+  usfm_code: ECC
+  verse: '13'
+- book: Brenton Septuagint Translation Ecclesiastes 4
+  chapter: 4
   iso-639-2_language_code: eng
-  verse_number: 14
-  verse_text: For he shall come forth out of the house of the prisoners to reign,
-    because he also that was in his kingdom has become poor.
-- book_title: Brenton Septuagint Translation Ecclesiastes 4
-  book_usfm_code: ECC
-  chapter_number: 4
+  text: For he shall come forth out of the house of the prisoners to reign, because
+    he also that was in his kingdom has become poor.
+  usfm_code: ECC
+  verse: '14'
+- book: Brenton Septuagint Translation Ecclesiastes 4
+  chapter: 4
   iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: I beheld all the living who were walking under the sun, with the second
-    youth who shall stand up in each one's place.
-- book_title: Brenton Septuagint Translation Ecclesiastes 4
-  book_usfm_code: ECC
-  chapter_number: 4
+  text: I beheld all the living who were walking under the sun, with the second youth
+    who shall stand up in each one's place.
+  usfm_code: ECC
+  verse: '15'
+- book: Brenton Septuagint Translation Ecclesiastes 4
+  chapter: 4
   iso-639-2_language_code: eng
-  verse_number: 16
-  verse_text: 'There is no end to all the people, to all who were before them: and
-    the last shall not rejoice in him: for this also is vanity and waywardness of
-    spirit.'
-- book_title: Brenton Septuagint Translation Ecclesiastes 4
-  book_usfm_code: ECC
-  chapter_number: 4
+  text: 'There is no end to all the people, to all who were before them: and the last
+    shall not rejoice in him: for this also is vanity and waywardness of spirit.'
+  usfm_code: ECC
+  verse: '16'
+- book: Brenton Septuagint Translation Ecclesiastes 4
+  chapter: 4
   iso-639-2_language_code: eng
-  verse_number: 17
-  verse_text: 'Keep thy foot, whensoever thou goest to the house of God; and when
-    thou art near to hear, let thy sacrifice be better than the gift of fools: for
-    they know not that they are doing evil.'
+  text: 'Keep thy foot, whensoever thou goest to the house of God; and when thou art
+    near to hear, let thy sacrifice be better than the gift of fools: for they know
+    not that they are doing evil.'
+  usfm_code: ECC
+  verse: '17'

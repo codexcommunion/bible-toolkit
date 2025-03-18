@@ -1,242 +1,236 @@
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: 'Thou shalt not receive a vain report: thou shalt not agree with the
-    unjust man to become an unjust witness.'
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: 'Thou shalt not receive a vain report: thou shalt not agree with the unjust
+    man to become an unjust witness.'
+  usfm_code: EXO
+  verse: '1'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: Thou shalt not associate with the multitude for evil; thou shalt not
-    join thyself with a multitude to turn aside with the majority so as to shut out
-    judgment.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: Thou shalt not associate with the multitude for evil; thou shalt not join
+    thyself with a multitude to turn aside with the majority so as to shut out judgment.
+  usfm_code: EXO
+  verse: '2'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: And thou shalt not spare a poor man in judgment.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: And thou shalt not spare a poor man in judgment.
+  usfm_code: EXO
+  verse: '3'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: And if thou meet thine enemy's ox or his ass going astray, thou shalt
-    turn them back and restore them to him.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: And if thou meet thine enemy's ox or his ass going astray, thou shalt turn
+    them back and restore them to him.
+  usfm_code: EXO
+  verse: '4'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: And if thou see thine enemy's ass fallen under its burden, thou shalt
-    not pass by it, but shalt help to raise it with him.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: And if thou see thine enemy's ass fallen under its burden, thou shalt not
+    pass by it, but shalt help to raise it with him.
+  usfm_code: EXO
+  verse: '5'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: Thou shalt not wrest the sentence of the poor in his judgment.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: Thou shalt not wrest the sentence of the poor in his judgment.
+  usfm_code: EXO
+  verse: '6'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: 'Thou shalt abstain from every unjust thing: thou shalt not slay the
-    innocent and just, and thou shalt not justify the wicked for gifts.'
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: 'Thou shalt abstain from every unjust thing: thou shalt not slay the innocent
+    and just, and thou shalt not justify the wicked for gifts.'
+  usfm_code: EXO
+  verse: '7'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: And thou shalt not receive gifts; for gifts blind the eyes of the seeing,
+  text: And thou shalt not receive gifts; for gifts blind the eyes of the seeing,
     and corrupt just words.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  usfm_code: EXO
+  verse: '8'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: And ye shall not afflict a stranger, for ye know the heart of a stranger;
+  text: And ye shall not afflict a stranger, for ye know the heart of a stranger;
     for ye were yourselves strangers in the land of Egypt.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  usfm_code: EXO
+  verse: '9'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: Six years thou shalt sow thy land, and gather in the fruits of it.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: Six years thou shalt sow thy land, and gather in the fruits of it.
+  usfm_code: EXO
+  verse: '10'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: 'But in the seventh year thou shalt let it rest, and leave it, and the
-    poor of thy nation shall feed; and the wild beasts of the field shall eat that
-    which remains: thus shalt thou do to thy vineyard and to thine oliveyard.'
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: 'But in the seventh year thou shalt let it rest, and leave it, and the poor
+    of thy nation shall feed; and the wild beasts of the field shall eat that which
+    remains: thus shalt thou do to thy vineyard and to thine oliveyard.'
+  usfm_code: EXO
+  verse: '11'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: Six days shalt thou do thy works, and on the seventh day there shall
-    be rest, that thine ox and thine ass may rest, and that the son of thy maid-servant
-    and the stranger may be refreshed.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: Six days shalt thou do thy works, and on the seventh day there shall be rest,
+    that thine ox and thine ass may rest, and that the son of thy maid-servant and
+    the stranger may be refreshed.
+  usfm_code: EXO
+  verse: '12'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: Observe all things whatsoever I have commanded you; and ye shall make
-    no mention of the name of other gods, neither shall they be heard out of your
-    mouth.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: Observe all things whatsoever I have commanded you; and ye shall make no mention
+    of the name of other gods, neither shall they be heard out of your mouth.
+  usfm_code: EXO
+  verse: '13'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 14
-  verse_text: Keep ye a feast to me three times in the year.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: Keep ye a feast to me three times in the year.
+  usfm_code: EXO
+  verse: '14'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: 'Take heed to keep the feast of unleavened bread: seven days ye shall
-    eat unleavened bread, as I charged thee at the season of the month of new corn
-    , for in it thou camest out of Egypt: thou shalt not appear before me empty.'
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: 'Take heed to keep the feast of unleavened bread: seven days ye shall eat
+    unleavened bread, as I charged thee at the season of the month of new corn , for
+    in it thou camest out of Egypt: thou shalt not appear before me empty.'
+  usfm_code: EXO
+  verse: '15'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 16
-  verse_text: And thou shalt keep the feast of the harvest of first-fruits of thy
-    labours, whatsoever thou shalt have sown in thy field, and the feast of completion
-    at the end of the year in the gathering in of thy fruits out of thy field.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: And thou shalt keep the feast of the harvest of first-fruits of thy labours,
+    whatsoever thou shalt have sown in thy field, and the feast of completion at the
+    end of the year in the gathering in of thy fruits out of thy field.
+  usfm_code: EXO
+  verse: '16'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 17
-  verse_text: Three times in the year shall all thy males appear before the Lord thy
-    God.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: Three times in the year shall all thy males appear before the Lord thy God.
+  usfm_code: EXO
+  verse: '17'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 18
-  verse_text: For when I shall have cast out the nations from before thee, and shall
-    have widened thy borders, thou shalt not offer the blood of my sacrifice with
-    leaven, neither must the fat of my feast abide till the morning.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: For when I shall have cast out the nations from before thee, and shall have
+    widened thy borders, thou shalt not offer the blood of my sacrifice with leaven,
+    neither must the fat of my feast abide till the morning.
+  usfm_code: EXO
+  verse: '18'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 19
-  verse_text: Thou shalt bring the first-offerings of the first-fruits of thy land
-    into the house of the Lord thy God. Thou shalt not seethe a lamb in its mother's
-    milk.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: Thou shalt bring the first-offerings of the first-fruits of thy land into
+    the house of the Lord thy God. Thou shalt not seethe a lamb in its mother's milk.
+  usfm_code: EXO
+  verse: '19'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 20
-  verse_text: And, behold, I send my angel before thy face, that he may keep thee
-    in the way, that he may bring thee into the land which I have prepared for thee.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: And, behold, I send my angel before thy face, that he may keep thee in the
+    way, that he may bring thee into the land which I have prepared for thee.
+  usfm_code: EXO
+  verse: '20'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 21
-  verse_text: Take heed to thyself and hearken to him, and disobey him not; for he
-    will not give way to thee, for my name is on him.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: Take heed to thyself and hearken to him, and disobey him not; for he will
+    not give way to thee, for my name is on him.
+  usfm_code: EXO
+  verse: '21'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 22
-  verse_text: 'If ye will indeed hear my voice, and if thou wilt do all the things
-    I shall charge thee with, and keep my covenant, ye shall be to me a peculiar people
-    above all nations, for the whole earth is mine; and ye shall be to me a royal
-    priesthood, and a holy nation: these words shall ye speak to the children of Israel,
-    If ye shall indeed hear my voice, and do all the things I shall tell thee, I will
-    be an enemy to thine enemies, and an adversary to thine adversaries.'
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: 'If ye will indeed hear my voice, and if thou wilt do all the things I shall
+    charge thee with, and keep my covenant, ye shall be to me a peculiar people above
+    all nations, for the whole earth is mine; and ye shall be to me a royal priesthood,
+    and a holy nation: these words shall ye speak to the children of Israel, If ye
+    shall indeed hear my voice, and do all the things I shall tell thee, I will be
+    an enemy to thine enemies, and an adversary to thine adversaries.'
+  usfm_code: EXO
+  verse: '22'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 23
-  verse_text: For my angel shall go as thy leader, and shall bring thee to the Amorite,
+  text: For my angel shall go as thy leader, and shall bring thee to the Amorite,
     and Chettite, and Pherezite, and Chananite, and Gergesite, and Evite, and Jebusite,
     and I will destroy them.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  usfm_code: EXO
+  verse: '23'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 24
-  verse_text: 'Thou shalt not worship their gods, nor serve them: thou shalt not do
-    according to their works, but shalt utterly destroy them, and break to pieces
-    their pillars.'
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: 'Thou shalt not worship their gods, nor serve them: thou shalt not do according
+    to their works, but shalt utterly destroy them, and break to pieces their pillars.'
+  usfm_code: EXO
+  verse: '24'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 25
-  verse_text: And thou shalt serve the Lord thy God, and I will bless thy bread and
-    thy wine and thy water, and I will turn away sickness from you.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: And thou shalt serve the Lord thy God, and I will bless thy bread and thy
+    wine and thy water, and I will turn away sickness from you.
+  usfm_code: EXO
+  verse: '25'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 26
-  verse_text: There shall not be on thy land one that is impotent or barren. I will
-    surely fulfil the number of thy days.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: There shall not be on thy land one that is impotent or barren. I will surely
+    fulfil the number of thy days.
+  usfm_code: EXO
+  verse: '26'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 27
-  verse_text: And I will send terror before thee, and I will strike with amazement
-    all the nations to which thou shalt come, and I will make all thine enemies to
-    flee.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: And I will send terror before thee, and I will strike with amazement all the
+    nations to which thou shalt come, and I will make all thine enemies to flee.
+  usfm_code: EXO
+  verse: '27'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 28
-  verse_text: And I will send hornets before thee, and thou shalt cast out the Amorites
+  text: And I will send hornets before thee, and thou shalt cast out the Amorites
     and the Evites, and the Chananites and the Chettites from thee.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  usfm_code: EXO
+  verse: '28'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 29
-  verse_text: I will not cast them out in one year, lest the land become desolate,
-    and the beasts of the field multiply against thee.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: I will not cast them out in one year, lest the land become desolate, and the
+    beasts of the field multiply against thee.
+  usfm_code: EXO
+  verse: '29'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 30
-  verse_text: By little and little I will cast them out from before thee, until thou
-    shalt be increased and inherit the earth.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: By little and little I will cast them out from before thee, until thou shalt
+    be increased and inherit the earth.
+  usfm_code: EXO
+  verse: '30'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 31
-  verse_text: And I will set thy borders from the Red Sea, to the sea of the Phylistines,
+  text: And I will set thy borders from the Red Sea, to the sea of the Phylistines,
     and from the wilderness to the great river Euphrates; and I will give into your
     hand those that dwell in the land, and will cast them out from thee.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  usfm_code: EXO
+  verse: '31'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 32
-  verse_text: Thou shalt make no covenant with them and their gods.
-- book_title: Brenton Septuagint Translation Exodus 23
-  book_usfm_code: EXO
-  chapter_number: 23
+  text: Thou shalt make no covenant with them and their gods.
+  usfm_code: EXO
+  verse: '32'
+- book: Brenton Septuagint Translation Exodus 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 33
-  verse_text: And they shall not dwell in thy land, lest they cause thee to sin against
+  text: And they shall not dwell in thy land, lest they cause thee to sin against
     me; for if thou shouldest serve their gods, these will be an offence to thee.
+  usfm_code: EXO
+  verse: '33'

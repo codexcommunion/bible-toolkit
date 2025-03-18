@@ -1,97 +1,96 @@
-- book_title: Brenton Septuagint Translation Esaias 6
-  book_usfm_code: ISA
-  chapter_number: 6
+- book: Brenton Septuagint Translation Esaias 6
+  chapter: 6
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: And it came to pass in the year in which king Ozias died, that I saw
-    the Lord sitting on a high and exalted throne, and the house was full of his glory.
-- book_title: Brenton Septuagint Translation Esaias 6
-  book_usfm_code: ISA
-  chapter_number: 6
+  text: And it came to pass in the year in which king Ozias died, that I saw the Lord
+    sitting on a high and exalted throne, and the house was full of his glory.
+  usfm_code: ISA
+  verse: '1'
+- book: Brenton Septuagint Translation Esaias 6
+  chapter: 6
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: 'And seraphs stood round about him: each one had six wings: and with
-    two they covered their face, and with two they covered their feet, and with two
-    they flew.'
-- book_title: Brenton Septuagint Translation Esaias 6
-  book_usfm_code: ISA
-  chapter_number: 6
+  text: 'And seraphs stood round about him: each one had six wings: and with two they
+    covered their face, and with two they covered their feet, and with two they flew.'
+  usfm_code: ISA
+  verse: '2'
+- book: Brenton Septuagint Translation Esaias 6
+  chapter: 6
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: 'And one cried to the other, and they said, Holy, holy, holy, is the
-    Lord of hosts: the whole earth is full of his glory.'
-- book_title: Brenton Septuagint Translation Esaias 6
-  book_usfm_code: ISA
-  chapter_number: 6
+  text: 'And one cried to the other, and they said, Holy, holy, holy, is the Lord
+    of hosts: the whole earth is full of his glory.'
+  usfm_code: ISA
+  verse: '3'
+- book: Brenton Septuagint Translation Esaias 6
+  chapter: 6
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: And the lintel shook at the voice they uttered, and the house was filled
-    with smoke.
-- book_title: Brenton Septuagint Translation Esaias 6
-  book_usfm_code: ISA
-  chapter_number: 6
+  text: And the lintel shook at the voice they uttered, and the house was filled with
+    smoke.
+  usfm_code: ISA
+  verse: '4'
+- book: Brenton Septuagint Translation Esaias 6
+  chapter: 6
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: And I said, Woe is me, for I am pricked to the heart; for being a man,
-    and having unclean lips, I dwell in the midst of a people having unclean lips;
-    and I have seen with mine eyes the King, the Lord of hosts.
-- book_title: Brenton Septuagint Translation Esaias 6
-  book_usfm_code: ISA
-  chapter_number: 6
+  text: And I said, Woe is me, for I am pricked to the heart; for being a man, and
+    having unclean lips, I dwell in the midst of a people having unclean lips; and
+    I have seen with mine eyes the King, the Lord of hosts.
+  usfm_code: ISA
+  verse: '5'
+- book: Brenton Septuagint Translation Esaias 6
+  chapter: 6
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: 'And there was sent to me one of the seraphs, and he had in his hand
-    a coal, which he had taken off the altar with the tongs:'
-- book_title: Brenton Septuagint Translation Esaias 6
-  book_usfm_code: ISA
-  chapter_number: 6
+  text: 'And there was sent to me one of the seraphs, and he had in his hand a coal,
+    which he had taken off the altar with the tongs:'
+  usfm_code: ISA
+  verse: '6'
+- book: Brenton Septuagint Translation Esaias 6
+  chapter: 6
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: and he touched my mouth, and said, Behold, this has touched thy lips,
-    and will take away thine iniquities, and will purge off thy sins.
-- book_title: Brenton Septuagint Translation Esaias 6
-  book_usfm_code: ISA
-  chapter_number: 6
+  text: and he touched my mouth, and said, Behold, this has touched thy lips, and
+    will take away thine iniquities, and will purge off thy sins.
+  usfm_code: ISA
+  verse: '7'
+- book: Brenton Septuagint Translation Esaias 6
+  chapter: 6
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: And I heard the voice of the Lord, saying, Whom shall I send, and who
-    will go to this people? And I said, Behold, I am here , send me. And he said,
-    Go, and say to this people,
-- book_title: Brenton Septuagint Translation Esaias 6
-  book_usfm_code: ISA
-  chapter_number: 6
+  text: And I heard the voice of the Lord, saying, Whom shall I send, and who will
+    go to this people? And I said, Behold, I am here , send me. And he said, Go, and
+    say to this people,
+  usfm_code: ISA
+  verse: '8'
+- book: Brenton Septuagint Translation Esaias 6
+  chapter: 6
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: Ye shall hear indeed, but ye shall not understand; and ye shall see
-    indeed, but ye shall not perceive.
-- book_title: Brenton Septuagint Translation Esaias 6
-  book_usfm_code: ISA
-  chapter_number: 6
+  text: Ye shall hear indeed, but ye shall not understand; and ye shall see indeed,
+    but ye shall not perceive.
+  usfm_code: ISA
+  verse: '9'
+- book: Brenton Septuagint Translation Esaias 6
+  chapter: 6
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: For the heart of this people has become gross, and their ears are dull
-    of hearing, and their eyes have they closed; lest they should see with their eyes,
+  text: For the heart of this people has become gross, and their ears are dull of
+    hearing, and their eyes have they closed; lest they should see with their eyes,
     and hear with their ears, and understand with their heart, and be converted, and
     I should heal them.
-- book_title: Brenton Septuagint Translation Esaias 6
-  book_usfm_code: ISA
-  chapter_number: 6
+  usfm_code: ISA
+  verse: '10'
+- book: Brenton Septuagint Translation Esaias 6
+  chapter: 6
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: And I said, How long, O Lord? And he said, Until the cities be deserted
-    by reason of their not being inhabited, and the houses by reason of there being
-    no men, and the land shall be left desolate.
-- book_title: Brenton Septuagint Translation Esaias 6
-  book_usfm_code: ISA
-  chapter_number: 6
+  text: And I said, How long, O Lord? And he said, Until the cities be deserted by
+    reason of their not being inhabited, and the houses by reason of there being no
+    men, and the land shall be left desolate.
+  usfm_code: ISA
+  verse: '11'
+- book: Brenton Septuagint Translation Esaias 6
+  chapter: 6
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: And after this God shall remove the men far off, and they that are left
-    upon the land shall be multiplied.
-- book_title: Brenton Septuagint Translation Esaias 6
-  book_usfm_code: ISA
-  chapter_number: 6
+  text: And after this God shall remove the men far off, and they that are left upon
+    the land shall be multiplied.
+  usfm_code: ISA
+  verse: '12'
+- book: Brenton Septuagint Translation Esaias 6
+  chapter: 6
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: And yet there shall be a tenth upon it, and again it shall be for a
-    spoil, as a turpentine tree, and as an acorn when it falls out of its husk.
+  text: And yet there shall be a tenth upon it, and again it shall be for a spoil,
+    as a turpentine tree, and as an acorn when it falls out of its husk.
+  usfm_code: ISA
+  verse: '13'

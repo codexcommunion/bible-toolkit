@@ -1,50 +1,50 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 128
-  book_usfm_code: PSA
-  chapter_number: 128
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 128
+  chapter: 128
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ὠδὴ τῶν ἀναβαθμῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 128
-  book_usfm_code: PSA
-  chapter_number: 128
+  text: Ὠδὴ τῶν ἀναβαθμῶν.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 128
+  chapter: 128
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Πλεονάκις ἐπολέμησάν με ἐκ νεότητός μου, καὶ γὰρ οὐκ ἠδυνήθησάν μοι.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 128
-  book_usfm_code: PSA
-  chapter_number: 128
+  text: Πλεονάκις ἐπολέμησάν με ἐκ νεότητός μου, καὶ γὰρ οὐκ ἠδυνήθησάν μοι.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 128
+  chapter: 128
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ἐπὶ τὸν νῶτόν μου ἐτέκταινον οἱ ἁμαρτωλοὶ, ἐμάκρυναν τὴν ἀνομίαν αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 128
-  book_usfm_code: PSA
-  chapter_number: 128
+  text: Ἐπὶ τὸν νῶτόν μου ἐτέκταινον οἱ ἁμαρτωλοὶ, ἐμάκρυναν τὴν ἀνομίαν αὐτῶν.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 128
+  chapter: 128
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Κύριος δίκαιος συνέκοψεν αὐχένας ἁμαρτωλῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 128
-  book_usfm_code: PSA
-  chapter_number: 128
+  text: Κύριος δίκαιος συνέκοψεν αὐχένας ἁμαρτωλῶν.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 128
+  chapter: 128
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Αἰσχυνθήτωσαν καὶ ἀποστραφήτωσαν εἰς τὰ ὀπίσω πάντες οἱ μισοῦντες Σιών.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 128
-  book_usfm_code: PSA
-  chapter_number: 128
+  text: Αἰσχυνθήτωσαν καὶ ἀποστραφήτωσαν εἰς τὰ ὀπίσω πάντες οἱ μισοῦντες Σιών.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 128
+  chapter: 128
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Γενηθήτωσαν ὡσεὶ χόρτος δωμάτων, ὃς πρὸ τοῦ ἐκσπασθῆναι ἐξηράνθη·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 128
-  book_usfm_code: PSA
-  chapter_number: 128
+  text: Γενηθήτωσαν ὡσεὶ χόρτος δωμάτων, ὃς πρὸ τοῦ ἐκσπασθῆναι ἐξηράνθη·
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 128
+  chapter: 128
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Οὗ οὐκ ἐπλήρωσεν τὴν χεῖρα αὐτοῦ ὁ θερίζων, καὶ τὸν κόλπον αὐτοῦ ὁ τὰ
-    δράγματα συλλέγων.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 128
-  book_usfm_code: PSA
-  chapter_number: 128
+  text: Οὗ οὐκ ἐπλήρωσεν τὴν χεῖρα αὐτοῦ ὁ θερίζων, καὶ τὸν κόλπον αὐτοῦ ὁ τὰ δράγματα
+    συλλέγων.
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 128
+  chapter: 128
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Καὶ οὐκ εἶπαν οἱ παράγοντες, εὐλογία Κυρίου ἐφʼ ὑμᾶς, εὐλογήκαμεν ὑμᾶς
-    ἐν ὀνόματι Κυρίου.
+  text: Καὶ οὐκ εἶπαν οἱ παράγοντες, εὐλογία Κυρίου ἐφʼ ὑμᾶς, εὐλογήκαμεν ὑμᾶς ἐν
+    ὀνόματι Κυρίου.
+  usfm_code: PSA
+  verse: '8'

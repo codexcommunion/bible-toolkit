@@ -1,144 +1,141 @@
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Βρότος γὰρ γεννητὸς γυναικὸς, ὀλιγόβιος, καὶ πλήρης ὀργῆς·
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: Βρότος γὰρ γεννητὸς γυναικὸς, ὀλιγόβιος, καὶ πλήρης ὀργῆς·
+  usfm_code: JOB
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: ἢ ὥσπερ ἄνθος ἀνθῆσαν ἐξέπεσεν, ἀπέδρα δὲ ὥσπερ σκιὰ, καὶ οὐ μὴ στῇ.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: ἢ ὥσπερ ἄνθος ἀνθῆσαν ἐξέπεσεν, ἀπέδρα δὲ ὥσπερ σκιὰ, καὶ οὐ μὴ στῇ.
+  usfm_code: JOB
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Οὐχὶ καὶ τούτου λόγον ἐποιήσω, καὶ τοῦτον ἐποίησας εἰσελθεῖν ἐν κρίματι
-    ἐνώπιόν σου;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: Οὐχὶ καὶ τούτου λόγον ἐποιήσω, καὶ τοῦτον ἐποίησας εἰσελθεῖν ἐν κρίματι ἐνώπιόν
+    σου;
+  usfm_code: JOB
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Τίς γὰρ καθαρὸς ἔσται ἀπὸ ῥύπου; ἀλλʼ οὐθεὶς,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: Τίς γὰρ καθαρὸς ἔσται ἀπὸ ῥύπου; ἀλλʼ οὐθεὶς,
+  usfm_code: JOB
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: ἐὰν καὶ μία ἡμέρα ὁ βίος αὐτοῦ ἐπὶ τῆς γῆς· ἀριθμητοὶ δὲ μῆνες αὐτοῦ
-    παρʼ αὐτοῦ· εἰς χρόνον ἔθου, καὶ οὐ μὴ ὑπερβῇ.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: ἐὰν καὶ μία ἡμέρα ὁ βίος αὐτοῦ ἐπὶ τῆς γῆς· ἀριθμητοὶ δὲ μῆνες αὐτοῦ παρʼ
+    αὐτοῦ· εἰς χρόνον ἔθου, καὶ οὐ μὴ ὑπερβῇ.
+  usfm_code: JOB
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ἀπόστα ἀπʼ αὐτοῦ, ἵνα ἡσυχάσῃ, καὶ εὐδοκήσῃ τὸν βίον, ὥσπερ ὁ μισθωτός.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: Ἀπόστα ἀπʼ αὐτοῦ, ἵνα ἡσυχάσῃ, καὶ εὐδοκήσῃ τὸν βίον, ὥσπερ ὁ μισθωτός.
+  usfm_code: JOB
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ἔστι γὰρ δένδρῳ ἐλπὶς, ἐὰν γὰρ ἐκκοπῇ, ἔτι ἐπανθήσει, καὶ ὁ ῥάδαμνος
-    αὐτοῦ οὐ μὴ ἐκλείπῃ.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: Ἔστι γὰρ δένδρῳ ἐλπὶς, ἐὰν γὰρ ἐκκοπῇ, ἔτι ἐπανθήσει, καὶ ὁ ῥάδαμνος αὐτοῦ
+    οὐ μὴ ἐκλείπῃ.
+  usfm_code: JOB
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Ἐὰν γὰρ γηράσῃ ἐν γῇ ἡ ῥίζα αὐτοῦ, ἐν δὲ πέτρᾳ τελευτήσῃ,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: Ἐὰν γὰρ γηράσῃ ἐν γῇ ἡ ῥίζα αὐτοῦ, ἐν δὲ πέτρᾳ τελευτήσῃ,
+  usfm_code: JOB
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: τὸ στέλεχος αὐτοῦ ἀπὸ ὀσμῆς ὕδατος ἀνθήσει, ποιήσει δὲ θερισμὸν, ὥσπερ
-    νεόφυτον.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: τὸ στέλεχος αὐτοῦ ἀπὸ ὀσμῆς ὕδατος ἀνθήσει, ποιήσει δὲ θερισμὸν, ὥσπερ νεόφυτον.
+  usfm_code: JOB
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Ἀνὴρ δὲ τελευτήσας ᾤχετο, πεσὼν δὲ βροτὸς οὐκ ἔτι ἐστί.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: Ἀνὴρ δὲ τελευτήσας ᾤχετο, πεσὼν δὲ βροτὸς οὐκ ἔτι ἐστί.
+  usfm_code: JOB
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Χρόνῳ γὰρ σπανίζεται θάλασσα, ποταμὸς δὲ ἐρημωθεὶς ἐξηράνθη.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: Χρόνῳ γὰρ σπανίζεται θάλασσα, ποταμὸς δὲ ἐρημωθεὶς ἐξηράνθη.
+  usfm_code: JOB
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Ἄνθρωπος δὲ κοιμηθεὶς οὐ μὴν ἀναστῇ ἕως ἂν ὁ οὐρανὸς οὐ μὴ συῤῥαφῇ,
-    καὶ οὐκ ἐξυπνισθήσονται ἐξ ὕπνου αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: Ἄνθρωπος δὲ κοιμηθεὶς οὐ μὴν ἀναστῇ ἕως ἂν ὁ οὐρανὸς οὐ μὴ συῤῥαφῇ, καὶ οὐκ
+    ἐξυπνισθήσονται ἐξ ὕπνου αὐτῶν.
+  usfm_code: JOB
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Εἰ γὰρ ὄφελον ἐν ᾅδῃ με ἐφύλαξας, ἔκρυψας δέ με ἕως ἂν παύσηταί σου
-    ἡ ὀργὴ, καὶ τάξῃ μοι χρόνον ἐν ᾧ μνείαν μου ποιήσῃ.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: Εἰ γὰρ ὄφελον ἐν ᾅδῃ με ἐφύλαξας, ἔκρυψας δέ με ἕως ἂν παύσηταί σου ἡ ὀργὴ,
+    καὶ τάξῃ μοι χρόνον ἐν ᾧ μνείαν μου ποιήσῃ.
+  usfm_code: JOB
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Ἐὰν γὰρ ἀποθάνῃ ἄνθρωπος, ζήσεται συντελέσας ἡμέρας τοῦ βίου αὐτοῦ·
-    ὑπομενῶ ἕως πάλιν γένωμαι;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: Ἐὰν γὰρ ἀποθάνῃ ἄνθρωπος, ζήσεται συντελέσας ἡμέρας τοῦ βίου αὐτοῦ· ὑπομενῶ
+    ἕως πάλιν γένωμαι;
+  usfm_code: JOB
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Εἶτα καλέσεις, ἐγὼ δέ σοι ὑπακούσομαι, τὰ δὲ ἔργα τῶν χειρῶν σου μὴ
-    ἀποποιοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: Εἶτα καλέσεις, ἐγὼ δέ σοι ὑπακούσομαι, τὰ δὲ ἔργα τῶν χειρῶν σου μὴ ἀποποιοῦ.
+  usfm_code: JOB
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Ἠρίθμησας δέ μου τὰ ἐπιτηδεύματα, καὶ οὐ μὴ παρέλθῃ σε οὐδὲν τῶν ἁμαρτιῶν
+  text: Ἠρίθμησας δέ μου τὰ ἐπιτηδεύματα, καὶ οὐ μὴ παρέλθῃ σε οὐδὲν τῶν ἁμαρτιῶν
     μου;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  usfm_code: JOB
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Ἐσφράγισας δέ μου τὰς ἀνομίας ἐν βαλαντίῳ, ἐπεσημῄνω δὲ εἴτι ἄκων παρέβην.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: Ἐσφράγισας δέ μου τὰς ἀνομίας ἐν βαλαντίῳ, ἐπεσημῄνω δὲ εἴτι ἄκων παρέβην.
+  usfm_code: JOB
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Καὶ πλὴν ὄρος πίπτον διαπεσεῖται, καὶ πέτρα παλαιωθήσεται ἐκ τοῦ τόπου
-    αὐτῆς.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: Καὶ πλὴν ὄρος πίπτον διαπεσεῖται, καὶ πέτρα παλαιωθήσεται ἐκ τοῦ τόπου αὐτῆς.
+  usfm_code: JOB
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Λίθους ἐλέαναν ὕδατα, καὶ κατέκλυσεν ὕδατα ὕπτια τοῦ χώματος τῆς γῆς·
-    καὶ ὑπομονὴν ἀνθρώπου ἀπώλεσας.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: Λίθους ἐλέαναν ὕδατα, καὶ κατέκλυσεν ὕδατα ὕπτια τοῦ χώματος τῆς γῆς· καὶ
+    ὑπομονὴν ἀνθρώπου ἀπώλεσας.
+  usfm_code: JOB
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Ὦσας αὐτὸν εἰς τέλος, καὶ ᾤχετο· ἐπέστησας αὐτῷ τὸ πρόσωπον, καὶ ἐξαπέστειλας,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: Ὦσας αὐτὸν εἰς τέλος, καὶ ᾤχετο· ἐπέστησας αὐτῷ τὸ πρόσωπον, καὶ ἐξαπέστειλας,
+  usfm_code: JOB
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: πολλὼν δὲ γενομένων τῶν υἱῶν αὐτοῦ, οὐκ οἶδεν· ἐὰν δὲ ὀλίγοι γένωνται,
-    οὐκ ἐπέσταται.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 14
-  book_usfm_code: JOB
-  chapter_number: 14
+  text: πολλὼν δὲ γενομένων τῶν υἱῶν αὐτοῦ, οὐκ οἶδεν· ἐὰν δὲ ὀλίγοι γένωνται, οὐκ
+    ἐπέσταται.
+  usfm_code: JOB
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 14
+  chapter: 14
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: Ἀλλʼ ἢ αἱ σάρκες αὐτοῦ ἤλγησαν, ἡ δὲ ψυχὴ αὐτοῦ ἐπένθησεν.
+  text: Ἀλλʼ ἢ αἱ σάρκες αὐτοῦ ἤλγησαν, ἡ δὲ ψυχὴ αὐτοῦ ἐπένθησεν.
+  usfm_code: JOB
+  verse: '22'

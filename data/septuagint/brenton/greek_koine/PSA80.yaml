@@ -1,108 +1,108 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
-  book_usfm_code: PSA
-  chapter_number: 80
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
+  chapter: 80
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Εἰς τὸ τέλος, ὑπὲρ τῶν ληνῶν ψαλμὸς τῷ Ἀσάφ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: Εἰς τὸ τέλος, ὑπὲρ τῶν ληνῶν ψαλμὸς τῷ Ἀσάφ.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
+  chapter: 80
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Ἀγαλλιᾶσθε τῷ Θεῷ τῷ βοηθῷ ἡμῶν, ἀλαλάξατε τῷ Θεῷ Ἰακώβ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: Ἀγαλλιᾶσθε τῷ Θεῷ τῷ βοηθῷ ἡμῶν, ἀλαλάξατε τῷ Θεῷ Ἰακώβ.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
+  chapter: 80
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Λάβετε ψαλμὸν καὶ δότε τύμπανον, ψαλτήριον τερπνὸν μετὰ κιθάρας.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: Λάβετε ψαλμὸν καὶ δότε τύμπανον, ψαλτήριον τερπνὸν μετὰ κιθάρας.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
+  chapter: 80
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Σαλπίσατε ἐν νεομηνίᾳ σάλπιγγι, ἐν εὐσήμῳ ἡμέρᾳ ἑορτῆς ὑμῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: Σαλπίσατε ἐν νεομηνίᾳ σάλπιγγι, ἐν εὐσήμῳ ἡμέρᾳ ἑορτῆς ὑμῶν.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
+  chapter: 80
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Ὅτι πρόσταγμα τῷ Ἰσραήλ ἐστι, καὶ κρίμα τῷ Θεῷ Ἰακώβ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: Ὅτι πρόσταγμα τῷ Ἰσραήλ ἐστι, καὶ κρίμα τῷ Θεῷ Ἰακώβ.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
+  chapter: 80
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Μαρτύριον ἐν τῷ Ἰωσὴφ ἔθετο αὐτὸν, ἐν τῷ ἐξελθεῖν αὐτὸν ἐκ γῆς Αἰγύπτου·
-    γλῶσσαν ἣν οὐκ ἔγνω, ἤκουσεν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: Μαρτύριον ἐν τῷ Ἰωσὴφ ἔθετο αὐτὸν, ἐν τῷ ἐξελθεῖν αὐτὸν ἐκ γῆς Αἰγύπτου· γλῶσσαν
+    ἣν οὐκ ἔγνω, ἤκουσεν.
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
+  chapter: 80
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ἀπέστησεν ἀπὸ ἄρσεων τὸν νῶτον αὐτοῦ· αἱ χεῖρες αὐτοῦ ἐν τῷ κοφίνῳ ἐδούλευσαν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: Ἀπέστησεν ἀπὸ ἄρσεων τὸν νῶτον αὐτοῦ· αἱ χεῖρες αὐτοῦ ἐν τῷ κοφίνῳ ἐδούλευσαν.
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
+  chapter: 80
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Ἐν θλίψει ἐπεκαλέσω με καὶ ἐῤῥυσάμην σε· ἐπήκουσά σου ἐν ἀποκρύφῳ καταιγίδος,
+  text: Ἐν θλίψει ἐπεκαλέσω με καὶ ἐῤῥυσάμην σε· ἐπήκουσά σου ἐν ἀποκρύφῳ καταιγίδος,
     ἐδοκίμασά σε ἐπὶ ὕδατος ἀντιλογίας· διάψαλμα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
+  chapter: 80
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Ἄκουσον λαός μου καὶ λαλήσω σοι, Ἰσραὴλ, καὶ διαμαρτύρομαί σοι· ἐὰν
-    ἀκούσῃς μου,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: Ἄκουσον λαός μου καὶ λαλήσω σοι, Ἰσραὴλ, καὶ διαμαρτύρομαί σοι· ἐὰν ἀκούσῃς
+    μου,
+  usfm_code: PSA
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
+  chapter: 80
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: οὐκ ἔσται ἐν σοὶ θεὸς πρόσφατος, οὐδὲ προσκυνήσεις θεῷ ἀλλοτρίῳ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: οὐκ ἔσται ἐν σοὶ θεὸς πρόσφατος, οὐδὲ προσκυνήσεις θεῷ ἀλλοτρίῳ.
+  usfm_code: PSA
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
+  chapter: 80
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Ἐγὼ γάρ εἰμι Κύριος ὁ Θεός σου, ὁ ἀναγαγών σε ἐκ γῆς Αἰγύπτου, πλάτυνον
-    τὸ στόμα σου καὶ πληρώσω αὐτό.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: Ἐγὼ γάρ εἰμι Κύριος ὁ Θεός σου, ὁ ἀναγαγών σε ἐκ γῆς Αἰγύπτου, πλάτυνον τὸ
+    στόμα σου καὶ πληρώσω αὐτό.
+  usfm_code: PSA
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
+  chapter: 80
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Καὶ οὐκ ἤκουσεν ὁ λαός μου τῆς φωνῆς μου, καὶ Ἰσραὴλ οὐ προσέσχε μοι.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: Καὶ οὐκ ἤκουσεν ὁ λαός μου τῆς φωνῆς μου, καὶ Ἰσραὴλ οὐ προσέσχε μοι.
+  usfm_code: PSA
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
+  chapter: 80
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Καὶ ἐξαπέστειλα αὐτοὺς κατὰ τὰ ἐπιτηδεύματα τῶν καρδιῶν αὐτῶν, πορεύσονται
+  text: Καὶ ἐξαπέστειλα αὐτοὺς κατὰ τὰ ἐπιτηδεύματα τῶν καρδιῶν αὐτῶν, πορεύσονται
     ἐν τοῖς ἐπιτηδεύμασιν αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  usfm_code: PSA
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
+  chapter: 80
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Εἰ ὁ λαός μου ἤκουσέ μου, Ἰσραὴλ ταῖς ὁδοῖς μου εἰ ἐπορεύθη,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: Εἰ ὁ λαός μου ἤκουσέ μου, Ἰσραὴλ ταῖς ὁδοῖς μου εἰ ἐπορεύθη,
+  usfm_code: PSA
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
+  chapter: 80
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: ἐν τῷ μηδενὶ ἂν τοὺς ἐχθροὺς αὐτῶν ἐταπείνωσα, καὶ ἐπὶ τοὺς θλίβοντας
-    αὐτοὺς ἐπέβαλον ἂν τὴν χεῖρά μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: ἐν τῷ μηδενὶ ἂν τοὺς ἐχθροὺς αὐτῶν ἐταπείνωσα, καὶ ἐπὶ τοὺς θλίβοντας αὐτοὺς
+    ἐπέβαλον ἂν τὴν χεῖρά μου.
+  usfm_code: PSA
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
+  chapter: 80
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Οἱ ἐχθροὶ Κυρίου ἐψεύσαντο αὐτῷ, καὶ ἔσται ὁ καιρὸς αὐτῶν εἰς τὸν αἰῶνα,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: Οἱ ἐχθροὶ Κυρίου ἐψεύσαντο αὐτῷ, καὶ ἔσται ὁ καιρὸς αὐτῶν εἰς τὸν αἰῶνα,
+  usfm_code: PSA
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 80
+  chapter: 80
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: καὶ ἐψώμισεν αὐτοὺς ἐκ στέατος πυροῦ, καὶ ἐκ πέτρας μέλι ἐχόρτασεν αὐτούς.
+  text: καὶ ἐψώμισεν αὐτοὺς ἐκ στέατος πυροῦ, καὶ ἐκ πέτρας μέλι ἐχόρτασεν αὐτούς.
+  usfm_code: PSA
+  verse: '17'

@@ -1,78 +1,76 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
-  book_usfm_code: PSA
-  chapter_number: 2
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
+  chapter: 2
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ἱνατί ἐφρύαξαν ἔθνη, καὶ λαοὶ ἐμελέτησαν κενά;
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
-  book_usfm_code: PSA
-  chapter_number: 2
+  text: Ἱνατί ἐφρύαξαν ἔθνη, καὶ λαοὶ ἐμελέτησαν κενά;
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
+  chapter: 2
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Παρέστησαν οἱ βασιλεῖς τῆς γῆς, καὶ οἱ ἄρχοντες συνήχθησαν ἐπιτοαυτὸ
-    κατὰ τοῦ Κυρίου, καὶ κατὰ τοῦ Χριστοῦ αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
-  book_usfm_code: PSA
-  chapter_number: 2
+  text: Παρέστησαν οἱ βασιλεῖς τῆς γῆς, καὶ οἱ ἄρχοντες συνήχθησαν ἐπιτοαυτὸ κατὰ
+    τοῦ Κυρίου, καὶ κατὰ τοῦ Χριστοῦ αὐτοῦ.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
+  chapter: 2
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Διαῤῥήξωμεν τοὺς δεσμοὺς αὐτῶν, καὶ ἀποῤῥίψωμεν ἀφʼ ἡμῶν τὸν ζυγὸν αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
-  book_usfm_code: PSA
-  chapter_number: 2
+  text: Διαῤῥήξωμεν τοὺς δεσμοὺς αὐτῶν, καὶ ἀποῤῥίψωμεν ἀφʼ ἡμῶν τὸν ζυγὸν αὐτῶν.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
+  chapter: 2
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Ὁ κατοικῶν ἐν οὐρανοῖς ἐκγελάσεται αὐτοὺς, καὶ ὁ Κύριος ἐκμυκτηριεῖ
-    αὐτούς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
-  book_usfm_code: PSA
-  chapter_number: 2
+  text: Ὁ κατοικῶν ἐν οὐρανοῖς ἐκγελάσεται αὐτοὺς, καὶ ὁ Κύριος ἐκμυκτηριεῖ αὐτούς.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
+  chapter: 2
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Τότε λαλήσει πρὸς αὐτοὺς ἐν ὀργῇ αὐτοῦ, καὶ ἐν τῷ θυμῷ αὐτοῦ ταράξει
-    αὐτούς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
-  book_usfm_code: PSA
-  chapter_number: 2
+  text: Τότε λαλήσει πρὸς αὐτοὺς ἐν ὀργῇ αὐτοῦ, καὶ ἐν τῷ θυμῷ αὐτοῦ ταράξει αὐτούς.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
+  chapter: 2
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ἐγὼ δὲ κατεστάθην βασιλεὺς ὑπʼ αὐτοῦ ἐπὶ Σιὼν ὄρος τὸ ἅγιον αὐτοῦ,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
-  book_usfm_code: PSA
-  chapter_number: 2
+  text: Ἐγὼ δὲ κατεστάθην βασιλεὺς ὑπʼ αὐτοῦ ἐπὶ Σιὼν ὄρος τὸ ἅγιον αὐτοῦ,
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
+  chapter: 2
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: διαγγέλλων τὸ πρόσταγμα Κυρίου· Κύριος εἶπε πρὸς μὲ, υἱός μου εἶ σὺ,
-    ἐγὼ σήμερον γεγέννηκά σε.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
-  book_usfm_code: PSA
-  chapter_number: 2
+  text: διαγγέλλων τὸ πρόσταγμα Κυρίου· Κύριος εἶπε πρὸς μὲ, υἱός μου εἶ σὺ, ἐγὼ σήμερον
+    γεγέννηκά σε.
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
+  chapter: 2
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Αἴτησαι παρʼ ἐμοῦ, καὶ δώσω σοι ἔθνη τὴν κληρονομίαν σου, καὶ τὴν κατάσχεσίν
+  text: Αἴτησαι παρʼ ἐμοῦ, καὶ δώσω σοι ἔθνη τὴν κληρονομίαν σου, καὶ τὴν κατάσχεσίν
     σου τὰ πέρατα τῆς γῆς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
-  book_usfm_code: PSA
-  chapter_number: 2
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
+  chapter: 2
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Ποιμανεῖς αὐτοὺς ἐν ῥάβδῳ σιδηρᾷ, ὡς σκεῦος κεραμέως συντρίψεις αὐτούς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
-  book_usfm_code: PSA
-  chapter_number: 2
+  text: Ποιμανεῖς αὐτοὺς ἐν ῥάβδῳ σιδηρᾷ, ὡς σκεῦος κεραμέως συντρίψεις αὐτούς.
+  usfm_code: PSA
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
+  chapter: 2
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Καὶ νῦν βασιλεῖς σύνετε, παιδεύθητε πάντες οἱ κρίνοντες τὴν γῆν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
-  book_usfm_code: PSA
-  chapter_number: 2
+  text: Καὶ νῦν βασιλεῖς σύνετε, παιδεύθητε πάντες οἱ κρίνοντες τὴν γῆν.
+  usfm_code: PSA
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
+  chapter: 2
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Δουλεύσατε τῷ Κυρίῳ ἐν φόβῳ, καὶ ἀγαλλιᾶσθε αὐτῷ ἐν τρόμῳ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
-  book_usfm_code: PSA
-  chapter_number: 2
+  text: Δουλεύσατε τῷ Κυρίῳ ἐν φόβῳ, καὶ ἀγαλλιᾶσθε αὐτῷ ἐν τρόμῳ.
+  usfm_code: PSA
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 2
+  chapter: 2
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Δράξασθε παιδείας, μή ποτε ὀργισθῇ Κύριος, καὶ ἀπολεῖσθε ἐξ ὁδοῦ δικαίας·
+  text: Δράξασθε παιδείας, μή ποτε ὀργισθῇ Κύριος, καὶ ἀπολεῖσθε ἐξ ὁδοῦ δικαίας·
     ὅταν ἐκκαυθῇ ἐν τάχει ὁ θυμὸς αὐτοῦ, μακάριοι πάντες οἱ πεποιθότες ἐπʼ αὐτῷ.
+  usfm_code: PSA
+  verse: '12'

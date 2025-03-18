@@ -1,105 +1,104 @@
-- book_title: Brenton Septuagint Translation Psalms 16
-  book_usfm_code: PSA
-  chapter_number: 16
+- book: Brenton Septuagint Translation Psalms 16
+  chapter: 16
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: A Prayer of David.
-- book_title: Brenton Septuagint Translation Psalms 16
-  book_usfm_code: PSA
-  chapter_number: 16
+  text: A Prayer of David.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 16
+  chapter: 16
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: Let my judgment come forth from thy presence; let mine eyes behold righteousness.
-- book_title: Brenton Septuagint Translation Psalms 16
-  book_usfm_code: PSA
-  chapter_number: 16
+  text: Let my judgment come forth from thy presence; let mine eyes behold righteousness.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 16
+  chapter: 16
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: 'Thou hast proved mine heart; thou hast visited me by night; thou hast
-    tried me as with fire, and unrighteousness has not been found in me: I am purposed
-    that my mouth shall not speak amiss .'
-- book_title: Brenton Septuagint Translation Psalms 16
-  book_usfm_code: PSA
-  chapter_number: 16
+  text: 'Thou hast proved mine heart; thou hast visited me by night; thou hast tried
+    me as with fire, and unrighteousness has not been found in me: I am purposed that
+    my mouth shall not speak amiss .'
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 16
+  chapter: 16
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: As for the works of men, by the words of thy lips I have guarded myself
-    from hard ways.
-- book_title: Brenton Septuagint Translation Psalms 16
-  book_usfm_code: PSA
-  chapter_number: 16
+  text: As for the works of men, by the words of thy lips I have guarded myself from
+    hard ways.
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 16
+  chapter: 16
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: Direct my steps in thy paths, that my steps slip not.
-- book_title: Brenton Septuagint Translation Psalms 16
-  book_usfm_code: PSA
-  chapter_number: 16
+  text: Direct my steps in thy paths, that my steps slip not.
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 16
+  chapter: 16
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: 'I have cried, for thou heardest me, O God: incline thine ear to me,
-    and hearken to my words.'
-- book_title: Brenton Septuagint Translation Psalms 16
-  book_usfm_code: PSA
-  chapter_number: 16
+  text: 'I have cried, for thou heardest me, O God: incline thine ear to me, and hearken
+    to my words.'
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 16
+  chapter: 16
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: Shew the marvels of thy mercies, thou that savest them that hope in
-    thee.
-- book_title: Brenton Septuagint Translation Psalms 16
-  book_usfm_code: PSA
-  chapter_number: 16
+  text: Shew the marvels of thy mercies, thou that savest them that hope in thee.
+  usfm_code: PSA
+  verse: '7'
+- book: Brenton Septuagint Translation Psalms 16
+  chapter: 16
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: 'Keep me as the apple of the eye from those that resist thy right hand:
-    thou shalt screen me by the covering of thy wings,'
-- book_title: Brenton Septuagint Translation Psalms 16
-  book_usfm_code: PSA
-  chapter_number: 16
+  text: 'Keep me as the apple of the eye from those that resist thy right hand: thou
+    shalt screen me by the covering of thy wings,'
+  usfm_code: PSA
+  verse: '8'
+- book: Brenton Septuagint Translation Psalms 16
+  chapter: 16
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: 'from the face of the ungodly that have afflicted me: mine enemies have
-    compassed about my soul.'
-- book_title: Brenton Septuagint Translation Psalms 16
-  book_usfm_code: PSA
-  chapter_number: 16
+  text: 'from the face of the ungodly that have afflicted me: mine enemies have compassed
+    about my soul.'
+  usfm_code: PSA
+  verse: '9'
+- book: Brenton Septuagint Translation Psalms 16
+  chapter: 16
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: 'They have enclosed themselves with their own fat: their mouth has spoken
+  text: 'They have enclosed themselves with their own fat: their mouth has spoken
     pride.'
-- book_title: Brenton Septuagint Translation Psalms 16
-  book_usfm_code: PSA
-  chapter_number: 16
+  usfm_code: PSA
+  verse: '10'
+- book: Brenton Septuagint Translation Psalms 16
+  chapter: 16
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: 'They have now cast me out and compassed me round about: they have set
-    their eyes so as to bow them down to the ground.'
-- book_title: Brenton Septuagint Translation Psalms 16
-  book_usfm_code: PSA
-  chapter_number: 16
+  text: 'They have now cast me out and compassed me round about: they have set their
+    eyes so as to bow them down to the ground.'
+  usfm_code: PSA
+  verse: '11'
+- book: Brenton Septuagint Translation Psalms 16
+  chapter: 16
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: They laid wait for me as a lion ready for prey, and like a lion's whelp
-    dwelling in secret places .
-- book_title: Brenton Septuagint Translation Psalms 16
-  book_usfm_code: PSA
-  chapter_number: 16
+  text: They laid wait for me as a lion ready for prey, and like a lion's whelp dwelling
+    in secret places .
+  usfm_code: PSA
+  verse: '12'
+- book: Brenton Septuagint Translation Psalms 16
+  chapter: 16
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: 'Arise, O Lord, prevent them, and cast them down: deliver my soul from
-    the ungodly: draw thy sword,'
-- book_title: Brenton Septuagint Translation Psalms 16
-  book_usfm_code: PSA
-  chapter_number: 16
+  text: 'Arise, O Lord, prevent them, and cast them down: deliver my soul from the
+    ungodly: draw thy sword,'
+  usfm_code: PSA
+  verse: '13'
+- book: Brenton Septuagint Translation Psalms 16
+  chapter: 16
   iso-639-2_language_code: eng
-  verse_number: 14
-  verse_text: 'because of the enemies of thine hand: O Lord, destroy them from the
-    earth; scatter them in their life, though their belly has been filled with thy
-    hidden treasures : they have been satisfied with uncleanness, and have left the
-    remnant of their possessions to their babes.'
-- book_title: Brenton Septuagint Translation Psalms 16
-  book_usfm_code: PSA
-  chapter_number: 16
+  text: 'because of the enemies of thine hand: O Lord, destroy them from the earth;
+    scatter them in their life, though their belly has been filled with thy hidden
+    treasures : they have been satisfied with uncleanness, and have left the remnant
+    of their possessions to their babes.'
+  usfm_code: PSA
+  verse: '14'
+- book: Brenton Septuagint Translation Psalms 16
+  chapter: 16
   iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: 'But I shall appear in righteousness before thy face: I shall be satisfied
+  text: 'But I shall appear in righteousness before thy face: I shall be satisfied
     when thy glory appears.'
+  usfm_code: PSA
+  verse: '15'

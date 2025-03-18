@@ -1,65 +1,63 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
-  book_usfm_code: PSA
-  chapter_number: 110
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
+  chapter: 110
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ἀλληλούϊα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
-  book_usfm_code: PSA
-  chapter_number: 110
+  text: Ἀλληλούϊα.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
+  chapter: 110
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Μεγάλα τὰ ἔργα Κυρίου, ἐξεζητημένα εἰς πάντα τὰ θελήματα αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
-  book_usfm_code: PSA
-  chapter_number: 110
+  text: Μεγάλα τὰ ἔργα Κυρίου, ἐξεζητημένα εἰς πάντα τὰ θελήματα αὐτοῦ.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
+  chapter: 110
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ἐξομολόγησις καὶ μεγαλοπρέπεια τὸ ἔργον αὐτοῦ, καὶ ἡ δικαιοσύνη αὐτοῦ
-    μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
-  book_usfm_code: PSA
-  chapter_number: 110
+  text: Ἐξομολόγησις καὶ μεγαλοπρέπεια τὸ ἔργον αὐτοῦ, καὶ ἡ δικαιοσύνη αὐτοῦ μένει
+    εἰς τὸν αἰῶνα τοῦ αἰῶνος.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
+  chapter: 110
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Μνείαν ἐποιήσατο τῶν θαυμασίων αὐτοῦ, ἐλεήμων καὶ οἰκτίρμων ὁ Κύριος.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
-  book_usfm_code: PSA
-  chapter_number: 110
+  text: Μνείαν ἐποιήσατο τῶν θαυμασίων αὐτοῦ, ἐλεήμων καὶ οἰκτίρμων ὁ Κύριος.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
+  chapter: 110
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Τροφὴν ἔδωκε τοῖς φοβουμένοις αὐτόν· μνησθήσεται εἰς τὸν αἰῶνα διαθήκης
-    αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
-  book_usfm_code: PSA
-  chapter_number: 110
+  text: Τροφὴν ἔδωκε τοῖς φοβουμένοις αὐτόν· μνησθήσεται εἰς τὸν αἰῶνα διαθήκης αὐτοῦ.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
+  chapter: 110
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ἰσχὺν ἔργων αὐτοῦ ἀνήγγειλε τῷ λαῷ αὐτοῦ, τοῦ δοῦναι αὐτοῖς κληρονομίαν
-    ἐθνῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
-  book_usfm_code: PSA
-  chapter_number: 110
+  text: Ἰσχὺν ἔργων αὐτοῦ ἀνήγγειλε τῷ λαῷ αὐτοῦ, τοῦ δοῦναι αὐτοῖς κληρονομίαν ἐθνῶν.
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
+  chapter: 110
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ἔργα χειρῶν αὐτοῦ, ἀλήθεια καὶ κρίσις· πισταὶ πᾶσαι αἱ ἐντολαὶ αὐτοῦ,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
-  book_usfm_code: PSA
-  chapter_number: 110
+  text: Ἔργα χειρῶν αὐτοῦ, ἀλήθεια καὶ κρίσις· πισταὶ πᾶσαι αἱ ἐντολαὶ αὐτοῦ,
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
+  chapter: 110
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: ἐστηριγμέναι εἰς τὸν αἰῶνα τοῦ αἰῶνος, πεποιημέναι ἐν ἀληθείᾳ καὶ εὐθύτητι.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
-  book_usfm_code: PSA
-  chapter_number: 110
+  text: ἐστηριγμέναι εἰς τὸν αἰῶνα τοῦ αἰῶνος, πεποιημέναι ἐν ἀληθείᾳ καὶ εὐθύτητι.
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
+  chapter: 110
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Λύτρωσιν ἀπέστειλε τῷ λαῷ αὐτοῦ· ἐνετείλατο εἰς τὸν αἰῶνα διαθήκην αὐτοῦ·
+  text: Λύτρωσιν ἀπέστειλε τῷ λαῷ αὐτοῦ· ἐνετείλατο εἰς τὸν αἰῶνα διαθήκην αὐτοῦ·
     ἅγιον καὶ φοβερὸν τὸ ὄνομα αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
-  book_usfm_code: PSA
-  chapter_number: 110
+  usfm_code: PSA
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 110
+  chapter: 110
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Ἀρχὴ σοφίας φόβος Κυρίου, σύνεσις δὲ ἀγαθὴ πᾶσι τοῖς ποιοῦσιν αὐτήν·
-    ἡ αἴνεσις αὐτοῦ μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος.
+  text: Ἀρχὴ σοφίας φόβος Κυρίου, σύνεσις δὲ ἀγαθὴ πᾶσι τοῖς ποιοῦσιν αὐτήν· ἡ αἴνεσις
+    αὐτοῦ μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος.
+  usfm_code: PSA
+  verse: '10'

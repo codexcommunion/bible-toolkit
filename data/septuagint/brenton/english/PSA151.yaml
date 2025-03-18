@@ -1,46 +1,46 @@
-- book_title: Brenton Septuagint Translation Psalms 151
-  book_usfm_code: PSA
-  chapter_number: 151
+- book: Brenton Septuagint Translation Psalms 151
+  chapter: 151
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: This Psalm is a genuine one of David, though supernumerary, composed
-    when he fought in single combat with Goliad.
-- book_title: Brenton Septuagint Translation Psalms 151
-  book_usfm_code: PSA
-  chapter_number: 151
+  text: This Psalm is a genuine one of David, though supernumerary, composed when
+    he fought in single combat with Goliad.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 151
+  chapter: 151
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: My hands formed a musical instrument, and my fingers tuned a psaltery.
-- book_title: Brenton Septuagint Translation Psalms 151
-  book_usfm_code: PSA
-  chapter_number: 151
+  text: My hands formed a musical instrument, and my fingers tuned a psaltery.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 151
+  chapter: 151
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: And who shall tell my Lord? the Lord himself, he himself hears.
-- book_title: Brenton Septuagint Translation Psalms 151
-  book_usfm_code: PSA
-  chapter_number: 151
+  text: And who shall tell my Lord? the Lord himself, he himself hears.
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 151
+  chapter: 151
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: He sent forth his angel, and took me from my father's sheep, and he
-    anointed me with the oil of his anointing.
-- book_title: Brenton Septuagint Translation Psalms 151
-  book_usfm_code: PSA
-  chapter_number: 151
+  text: He sent forth his angel, and took me from my father's sheep, and he anointed
+    me with the oil of his anointing.
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 151
+  chapter: 151
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: My brothers were handsome and tall; but the Lord did not take pleasure
-    in them.
-- book_title: Brenton Septuagint Translation Psalms 151
-  book_usfm_code: PSA
-  chapter_number: 151
+  text: My brothers were handsome and tall; but the Lord did not take pleasure in
+    them.
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 151
+  chapter: 151
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: I went forth to meet the Philistine; and he cursed me by his idols.
-- book_title: Brenton Septuagint Translation Psalms 151
-  book_usfm_code: PSA
-  chapter_number: 151
+  text: I went forth to meet the Philistine; and he cursed me by his idols.
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 151
+  chapter: 151
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: But I drew his own sword, and beheaded him, and removed reproach from
-    the children of Israel.
+  text: But I drew his own sword, and beheaded him, and removed reproach from the
+    children of Israel.
+  usfm_code: PSA
+  verse: '7'

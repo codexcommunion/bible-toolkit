@@ -1,150 +1,148 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Τῷ Δαυὶδ, ὁπότε ἠλλοίωσε τὸ πρόσωπον αὐτοῦ ἐναντίον Ἀβιμέλεχ, καὶ ἀπέλυσεν
+  text: Τῷ Δαυὶδ, ὁπότε ἠλλοίωσε τὸ πρόσωπον αὐτοῦ ἐναντίον Ἀβιμέλεχ, καὶ ἀπέλυσεν
     αὐτὸν, καὶ ἀπῆλθεν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Εὐλογήσω τὸν Κύριον ἐν παντὶ καιρῷ, διαπαντὸς ἡ αἴνεσις αὐτοῦ ἐν τῷ
-    στόματί μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  text: Εὐλογήσω τὸν Κύριον ἐν παντὶ καιρῷ, διαπαντὸς ἡ αἴνεσις αὐτοῦ ἐν τῷ στόματί
+    μου.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ἐν τῷ Κυρίῳ ἐπαινεθήσεται ἡ ψυχή μου· ἀκουσάτωσαν πρᾳεῖς καὶ εὐφρανθήτωσαν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  text: Ἐν τῷ Κυρίῳ ἐπαινεθήσεται ἡ ψυχή μου· ἀκουσάτωσαν πρᾳεῖς καὶ εὐφρανθήτωσαν.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Μεγαλύνατε τὸν Κύριον σὺν ἐμοὶ, καὶ ὑψώσωμεν τὸ ὄνομα αὐτοῦ ἐπιτοαυτό.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  text: Μεγαλύνατε τὸν Κύριον σὺν ἐμοὶ, καὶ ὑψώσωμεν τὸ ὄνομα αὐτοῦ ἐπιτοαυτό.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Ἐξεζήτησα τὸν Κύριον καὶ ἐπήκουσέ μου, καὶ ἐκ πασῶν τῶν παροικιῶν μου
-    ἐῤῥύσατό με·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  text: Ἐξεζήτησα τὸν Κύριον καὶ ἐπήκουσέ μου, καὶ ἐκ πασῶν τῶν παροικιῶν μου ἐῤῥύσατό
+    με·
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Προσέλθατε πρὸς αὐτὸν καὶ φωτίσθητε, καὶ τὰ πρόσωπα ὑμῶν οὐ μὴ καταισχυνθῇ·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  text: Προσέλθατε πρὸς αὐτὸν καὶ φωτίσθητε, καὶ τὰ πρόσωπα ὑμῶν οὐ μὴ καταισχυνθῇ·
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Οὗτος ὁ πτωχὸς ἐκέκραξε, καὶ ὁ Κύριος εἰσήκουσεν αὐτοῦ, καὶ ἐκ πασῶν
-    τῶν θλίψεων αὐτοῦ ἔσωσεν αὐτόν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  text: Οὗτος ὁ πτωχὸς ἐκέκραξε, καὶ ὁ Κύριος εἰσήκουσεν αὐτοῦ, καὶ ἐκ πασῶν τῶν θλίψεων
+    αὐτοῦ ἔσωσεν αὐτόν.
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Παρεμβαλεῖ ἄγγελος Κυρίου κύκλῳ τῶν φοβουμένων αὐτὸν, καὶ ῥύσεται αὐτούς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  text: Παρεμβαλεῖ ἄγγελος Κυρίου κύκλῳ τῶν φοβουμένων αὐτὸν, καὶ ῥύσεται αὐτούς.
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Γεύσασθε καὶ ἴδετε ὅτι χρηστὸς ὁ Κύριος, μακάριος ἀνὴρ ὃς ἐλπίζει ἐπʼ
+  text: Γεύσασθε καὶ ἴδετε ὅτι χρηστὸς ὁ Κύριος, μακάριος ἀνὴρ ὃς ἐλπίζει ἐπʼ αὐτόν.
+  usfm_code: PSA
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
+  iso-639-2_language_code: grc
+  text: φοβήθητε τὸν Κύριον πάντες οἱ ἅγιοι αὐτοῦ, ὅτι οὐκ ἔστιν ὑστέρημα τοῖς φοβουμένοις
     αὐτόν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  usfm_code: PSA
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: φοβήθητε τὸν Κύριον πάντες οἱ ἅγιοι αὐτοῦ, ὅτι οὐκ ἔστιν ὑστέρημα τοῖς
-    φοβουμένοις αὐτόν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  text: Πλούσιοι ἐπτώχευσαν καὶ ἐπείνασαν, οἱ δὲ ἐκζητοῦντες τὸν Κύριον οὐκ ἐλαττωθήσονται
+    παντὸς ἀγαθοῦ· διάψαλμα.
+  usfm_code: PSA
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Πλούσιοι ἐπτώχευσαν καὶ ἐπείνασαν, οἱ δὲ ἐκζητοῦντες τὸν Κύριον οὐκ
-    ἐλαττωθήσονται παντὸς ἀγαθοῦ· διάψαλμα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  text: Δεῦτε τέκνα, ἀκούσατέ μου, φόβον Κυρίου διδάξω ὑμᾶς.
+  usfm_code: PSA
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Δεῦτε τέκνα, ἀκούσατέ μου, φόβον Κυρίου διδάξω ὑμᾶς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  text: Τίς ἐστιν ἄνθρωπος ὁ θέλων ζωὴν, ἀγαπῶν ἡμέρας ἰδεῖν ἀγαθάς;
+  usfm_code: PSA
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Τίς ἐστιν ἄνθρωπος ὁ θέλων ζωὴν, ἀγαπῶν ἡμέρας ἰδεῖν ἀγαθάς;
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  text: Παῦσον τὴν γνῶσσάν σου ἀπὸ κακοῦ, καὶ χείλη σου τοῦ μὴ λαλῆσαι δόλον.
+  usfm_code: PSA
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Παῦσον τὴν γνῶσσάν σου ἀπὸ κακοῦ, καὶ χείλη σου τοῦ μὴ λαλῆσαι δόλον.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  text: Ἔκκλινον ἀπὸ κακοῦ, καὶ ποίησον ἀγαθὸν· ζήτησον εἰρήνην, καὶ δίωξον αὐτήν.
+  usfm_code: PSA
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Ἔκκλινον ἀπὸ κακοῦ, καὶ ποίησον ἀγαθὸν· ζήτησον εἰρήνην, καὶ δίωξον
-    αὐτήν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  text: Οφθαλμοὶ Κυρίου ἐπὶ δικαίους, καὶ ὦτα αὐτοῦ εἰς δέησιν αὐτῶν·
+  usfm_code: PSA
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Οφθαλμοὶ Κυρίου ἐπὶ δικαίους, καὶ ὦτα αὐτοῦ εἰς δέησιν αὐτῶν·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
-  iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Πρόσωπον δὲ Κυρίου ἐπὶ ποιοῦντας κακὰ, τοῦ ἐξολοθρεῦσαι ἐκ γῆς τὸ μνημόσυνον
+  text: Πρόσωπον δὲ Κυρίου ἐπὶ ποιοῦντας κακὰ, τοῦ ἐξολοθρεῦσαι ἐκ γῆς τὸ μνημόσυνον
     αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  usfm_code: PSA
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Ἐκέκραξαν οἱ δίκαιοι, καὶ ὁ Κύριος εἰσήκουσεν αὐτῶν, καὶ ἐκ πασῶν τῶν
-    θλίψεων αὐτῶν ἐῤῥύσατο αὐτούς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  text: Ἐκέκραξαν οἱ δίκαιοι, καὶ ὁ Κύριος εἰσήκουσεν αὐτῶν, καὶ ἐκ πασῶν τῶν θλίψεων
+    αὐτῶν ἐῤῥύσατο αὐτούς.
+  usfm_code: PSA
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Ἐγγὺς Κύριος τοῖς συντετριμμένοις τὴν καρδίαν, καὶ τοὺς ταπεινοὺς τῷ
-    πνεύματι σώσει.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  text: Ἐγγὺς Κύριος τοῖς συντετριμμένοις τὴν καρδίαν, καὶ τοὺς ταπεινοὺς τῷ πνεύματι
+    σώσει.
+  usfm_code: PSA
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Πολλαὶ αἱ θλίψεις τῶν δικαίων, καὶ ἐκ πασῶν αὐτῶν ῥύσεται αὐτοὺς
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  text: Πολλαὶ αἱ θλίψεις τῶν δικαίων, καὶ ἐκ πασῶν αὐτῶν ῥύσεται αὐτοὺς
+  usfm_code: PSA
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: ὁ Κύριος. Φυλάσσει πάντα τὰ ὀστᾶ αὐτῶν, ἓν ἐξ αὐτῶν οὐ συντριβήσεται.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  text: ὁ Κύριος. Φυλάσσει πάντα τὰ ὀστᾶ αὐτῶν, ἓν ἐξ αὐτῶν οὐ συντριβήσεται.
+  usfm_code: PSA
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: Θάνατος ἁμαρτωλῶν πονηρὸς, καὶ οἱ μισοῦντες τὸ δίκαιον πλημμελήσουσι.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
-  book_usfm_code: PSA
-  chapter_number: 33
+  text: Θάνατος ἁμαρτωλῶν πονηρὸς, καὶ οἱ μισοῦντες τὸ δίκαιον πλημμελήσουσι.
+  usfm_code: PSA
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 33
+  chapter: 33
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: Λυτρώσεται Κύριος ψυχὰς δούλων αὐτοῦ, καὶ οὐ μὴ πλημμελήσουσι πάντες
-    οἱ ἐλπίζοντες ἐπʼ αὐτόν.
+  text: Λυτρώσεται Κύριος ψυχὰς δούλων αὐτοῦ, καὶ οὐ μὴ πλημμελήσουσι πάντες οἱ ἐλπίζοντες
+    ἐπʼ αὐτόν.
+  usfm_code: PSA
+  verse: '23'

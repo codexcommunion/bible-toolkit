@@ -1,58 +1,58 @@
 [
     {
-        "book_title": "Brenton Septuagint Translation Psalms 151",
-        "book_usfm_code": "PSA",
-        "chapter_number": 151,
-        "verse_number": 1,
-        "verse_text": "This Psalm is a genuine one of David, though supernumerary, composed when he fought in single combat with Goliad.",
+        "book": "Brenton Septuagint Translation Psalms 151",
+        "usfm_code": "PSA",
+        "chapter": 151,
+        "verse": "1",
+        "text": "This Psalm is a genuine one of David, though supernumerary, composed when he fought in single combat with Goliad.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 151",
-        "book_usfm_code": "PSA",
-        "chapter_number": 151,
-        "verse_number": 2,
-        "verse_text": "My hands formed a musical instrument, and my fingers tuned a psaltery.",
+        "book": "Brenton Septuagint Translation Psalms 151",
+        "usfm_code": "PSA",
+        "chapter": 151,
+        "verse": "2",
+        "text": "My hands formed a musical instrument, and my fingers tuned a psaltery.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 151",
-        "book_usfm_code": "PSA",
-        "chapter_number": 151,
-        "verse_number": 3,
-        "verse_text": "And who shall tell my Lord? the Lord himself, he himself hears.",
+        "book": "Brenton Septuagint Translation Psalms 151",
+        "usfm_code": "PSA",
+        "chapter": 151,
+        "verse": "3",
+        "text": "And who shall tell my Lord? the Lord himself, he himself hears.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 151",
-        "book_usfm_code": "PSA",
-        "chapter_number": 151,
-        "verse_number": 4,
-        "verse_text": "He sent forth his angel, and took me from my father's sheep, and he anointed me with the oil of his anointing.",
+        "book": "Brenton Septuagint Translation Psalms 151",
+        "usfm_code": "PSA",
+        "chapter": 151,
+        "verse": "4",
+        "text": "He sent forth his angel, and took me from my father's sheep, and he anointed me with the oil of his anointing.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 151",
-        "book_usfm_code": "PSA",
-        "chapter_number": 151,
-        "verse_number": 5,
-        "verse_text": "My brothers were handsome and tall; but the Lord did not take pleasure in them.",
+        "book": "Brenton Septuagint Translation Psalms 151",
+        "usfm_code": "PSA",
+        "chapter": 151,
+        "verse": "5",
+        "text": "My brothers were handsome and tall; but the Lord did not take pleasure in them.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 151",
-        "book_usfm_code": "PSA",
-        "chapter_number": 151,
-        "verse_number": 6,
-        "verse_text": "I went forth to meet the Philistine; and he cursed me by his idols.",
+        "book": "Brenton Septuagint Translation Psalms 151",
+        "usfm_code": "PSA",
+        "chapter": 151,
+        "verse": "6",
+        "text": "I went forth to meet the Philistine; and he cursed me by his idols.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 151",
-        "book_usfm_code": "PSA",
-        "chapter_number": 151,
-        "verse_number": 7,
-        "verse_text": "But I drew his own sword, and beheaded him, and removed reproach from the children of Israel.",
+        "book": "Brenton Septuagint Translation Psalms 151",
+        "usfm_code": "PSA",
+        "chapter": 151,
+        "verse": "7",
+        "text": "But I drew his own sword, and beheaded him, and removed reproach from the children of Israel.",
         "iso-639-2_language_code": "eng"
     }
 ]

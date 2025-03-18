@@ -1,251 +1,248 @@
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Υἱὲ, ἐὰν ἐγγυήσῃ σὸν φίλον, παραδώσεις σὴν χεῖρα ἐχθρῷ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Υἱὲ, ἐὰν ἐγγυήσῃ σὸν φίλον, παραδώσεις σὴν χεῖρα ἐχθρῷ.
+  usfm_code: PRO
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Παγὶς γὰρ ἰσχυρὰ ἀνδρὶ τὰ ἴδια χείλη, καὶ ἁλίσκεται χείλεσιν ἰδίου στόματος.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Παγὶς γὰρ ἰσχυρὰ ἀνδρὶ τὰ ἴδια χείλη, καὶ ἁλίσκεται χείλεσιν ἰδίου στόματος.
+  usfm_code: PRO
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ποίει υἱὲ ἃ ἐγώ σοι ἐντέλλομαι, καὶ σώζου· ἥκεις γὰρ εἰς χεῖρας κακῶν
-    διὰ σὸν φίλον· ἴσθι μὴ ἐκλυόμενος, παρόξυνε δὲ καὶ τὸν φίλον σου ὃν ἐνεγγυήσω.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Ποίει υἱὲ ἃ ἐγώ σοι ἐντέλλομαι, καὶ σώζου· ἥκεις γὰρ εἰς χεῖρας κακῶν διὰ
+    σὸν φίλον· ἴσθι μὴ ἐκλυόμενος, παρόξυνε δὲ καὶ τὸν φίλον σου ὃν ἐνεγγυήσω.
+  usfm_code: PRO
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Μὴ δῷς ὕπνον σοῖς ὄμμασι, μηδὲ ἐπινυστάξῃς σοῖς βλεφάροις,
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Μὴ δῷς ὕπνον σοῖς ὄμμασι, μηδὲ ἐπινυστάξῃς σοῖς βλεφάροις,
+  usfm_code: PRO
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: ἵνα σώζῃ ὥσπερ δορκὰς ἐκ βρόχων, καὶ ὥσπερ ὄρνεον ἐκ παγίδος.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: ἵνα σώζῃ ὥσπερ δορκὰς ἐκ βρόχων, καὶ ὥσπερ ὄρνεον ἐκ παγίδος.
+  usfm_code: PRO
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ἴθι πρὸς τὸν μύρμηκα ὦ ὀκνηρὲ, καὶ ζήλωσον ἰδὼν τὰς ὁδοὺς αὐτοῦ, καὶ
-    γενοῦ ἐκείνου σοφώτερος.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Ἴθι πρὸς τὸν μύρμηκα ὦ ὀκνηρὲ, καὶ ζήλωσον ἰδὼν τὰς ὁδοὺς αὐτοῦ, καὶ γενοῦ
+    ἐκείνου σοφώτερος.
+  usfm_code: PRO
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ἐκείνῳ γὰρ γεωργίου μὴ ὑπάρχοντος, μηδὲ τὸν ἀναγκάζοντα ἔχων, μηδὲ ὑπὸ
-    δεσπότην ὢν,
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Ἐκείνῳ γὰρ γεωργίου μὴ ὑπάρχοντος, μηδὲ τὸν ἀναγκάζοντα ἔχων, μηδὲ ὑπὸ δεσπότην
+    ὢν,
+  usfm_code: PRO
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: ἐτοιμάζεται θέρους τὴν τροφὴν, πολλήν τε ἐν τῷ ἀμητῷ ποιεῖται τὴν παράθεσιν·
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: ἐτοιμάζεται θέρους τὴν τροφὴν, πολλήν τε ἐν τῷ ἀμητῷ ποιεῖται τὴν παράθεσιν·
+  usfm_code: PRO
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: ἢ πορεύθητι πρὸς τὴν μέλισσαν, καὶ μάθε ὡς ἐργάτις ἐστὶ, τήν τε ἐργασίαν
-    ὡς σεμνὴν ποιεῖται·
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: ἢ πορεύθητι πρὸς τὴν μέλισσαν, καὶ μάθε ὡς ἐργάτις ἐστὶ, τήν τε ἐργασίαν ὡς
+    σεμνὴν ποιεῖται·
+  usfm_code: PRO
+  verse: 8a
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: ἧς τοὺς πόνους βασιλεῖς καὶ ἰδιῶται πρὸς ὑγίειαν προσφέρονται· ποθεινὴ
-    δέ ἐστι πᾶσι καὶ ἐπίδοξος,
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: ἧς τοὺς πόνους βασιλεῖς καὶ ἰδιῶται πρὸς ὑγίειαν προσφέρονται· ποθεινὴ δέ
+    ἐστι πᾶσι καὶ ἐπίδοξος,
+  usfm_code: PRO
+  verse: 8b
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: καίπερ οὖσα τῇ ῥώμῃ ἀσθενὴς, τὴν σοφίαν τιμήσασα προήχθη.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: καίπερ οὖσα τῇ ῥώμῃ ἀσθενὴς, τὴν σοφίαν τιμήσασα προήχθη.
+  usfm_code: PRO
+  verse: 8c
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Ἕως τίνος ὀκνηρὲ κατάκεισαι; πότε δὲ ἐξ ὕπνου ἐγερθήσῃ;
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Ἕως τίνος ὀκνηρὲ κατάκεισαι; πότε δὲ ἐξ ὕπνου ἐγερθήσῃ;
+  usfm_code: PRO
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: ὀλίγον μὲν ὑπνοῖς, ὀλίγον δὲ κάθησαι, μικρὸν δὲ νυστάζεις, ὀλίγον δὲ
-    ἐναγκαλίζῃ χερσὶ στήθη.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: ὀλίγον μὲν ὑπνοῖς, ὀλίγον δὲ κάθησαι, μικρὸν δὲ νυστάζεις, ὀλίγον δὲ ἐναγκαλίζῃ
+    χερσὶ στήθη.
+  usfm_code: PRO
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Εἶτʼ ἐνπαραγίνεταί σοι ὥσπερ κακὸς ὁδοιπόρος ἡ πενία, καὶ ἡ ἔνδεια ὥσπερ
-    ἀγαθὸς δρομεύς·
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Εἶτʼ ἐνπαραγίνεταί σοι ὥσπερ κακὸς ὁδοιπόρος ἡ πενία, καὶ ἡ ἔνδεια ὥσπερ ἀγαθὸς
+    δρομεύς·
+  usfm_code: PRO
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: ἐὰν δὲ ἄοκνος ᾖς, ἥξει ὥσπερ πηγὴ ὁ ἀμητός σου· ἡ δὲ ἔνδεια, ὥσπερ κακὸς
-    δρομεὺς ἀπαυτομολήσει.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: ἐὰν δὲ ἄοκνος ᾖς, ἥξει ὥσπερ πηγὴ ὁ ἀμητός σου· ἡ δὲ ἔνδεια, ὥσπερ κακὸς δρομεὺς
+    ἀπαυτομολήσει.
+  usfm_code: PRO
+  verse: 11a
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Ἀνὴρ ἄφρων καὶ παράνομος πορεύεται ὁδοὺς οὐκ ἀγαθάς.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Ἀνὴρ ἄφρων καὶ παράνομος πορεύεται ὁδοὺς οὐκ ἀγαθάς.
+  usfm_code: PRO
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Ὁ δʼ αὐτὸς ἐννεύει ὀφθαλμῷ, σημαίνει δὲ ποδὶ, διδάσκει δὲ ἐννεύμασι
-    δακτύλων.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Ὁ δʼ αὐτὸς ἐννεύει ὀφθαλμῷ, σημαίνει δὲ ποδὶ, διδάσκει δὲ ἐννεύμασι δακτύλων.
+  usfm_code: PRO
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Διεστραμμένη καρδία τεκταίνεται κακὰ, ἐν παντὶ καιρῷ ὁ τοιοῦτος ταραχὰς
-    συνίστησιν πόλει.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Διεστραμμένη καρδία τεκταίνεται κακὰ, ἐν παντὶ καιρῷ ὁ τοιοῦτος ταραχὰς συνίστησιν
+    πόλει.
+  usfm_code: PRO
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Διὰ τοῦτο ἐξαπίνης ἔρχεται ἡ ἀπώλεια αὐτοῦ, διακοπὴ καὶ συντριβὴ ἀνίατος.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Διὰ τοῦτο ἐξαπίνης ἔρχεται ἡ ἀπώλεια αὐτοῦ, διακοπὴ καὶ συντριβὴ ἀνίατος.
+  usfm_code: PRO
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Ὅτι χαίρει πᾶσιν οἷς μισεῖ ὁ Θεὸς, συντρίβεται δὲ διʼ ἀκαθαρσίαν ψυχῆς.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Ὅτι χαίρει πᾶσιν οἷς μισεῖ ὁ Θεὸς, συντρίβεται δὲ διʼ ἀκαθαρσίαν ψυχῆς.
+  usfm_code: PRO
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Ὀφθαλμὸς ὑβριστοῦ, γλῶσσα ἄδικος· χεῖρες ἐκχέουσαι αἷμα δικαίου,
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Ὀφθαλμὸς ὑβριστοῦ, γλῶσσα ἄδικος· χεῖρες ἐκχέουσαι αἷμα δικαίου,
+  usfm_code: PRO
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: καὶ καρδία τεκταινομένη λογισμοὺς κακοὺς, καὶ πόδες ἐπισπεύδοντες κακοποιεῖν.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: καὶ καρδία τεκταινομένη λογισμοὺς κακοὺς, καὶ πόδες ἐπισπεύδοντες κακοποιεῖν.
+  usfm_code: PRO
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Ἐκκαίει ψευδῆ μάρτυς ἄδικος, καὶ ἐπιπέμπει κρίσεις ἀναμέσον ἀδελφῶν.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Ἐκκαίει ψευδῆ μάρτυς ἄδικος, καὶ ἐπιπέμπει κρίσεις ἀναμέσον ἀδελφῶν.
+  usfm_code: PRO
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Υἱὲ, φύλασσε νόμους πατρός σου, καὶ μὴ ἀπώσῃ θεσμοὺς μητρός σου·
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Υἱὲ, φύλασσε νόμους πατρός σου, καὶ μὴ ἀπώσῃ θεσμοὺς μητρός σου·
+  usfm_code: PRO
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: Ἄφαψαι δὲ αὐτοὺς ἐπὶ σῇ ψυχῇ διαπαντὸς, καὶ ἐλκλοίωσαι περὶ σῷ τραχήλῳ·
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Ἄφαψαι δὲ αὐτοὺς ἐπὶ σῇ ψυχῇ διαπαντὸς, καὶ ἐλκλοίωσαι περὶ σῷ τραχήλῳ·
+  usfm_code: PRO
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: Ἡνίκα ἂν περιπατῇς, ἐπάγου αὐτὴν καὶ μετὰ σοῦ ἔστω, ὡς δʼ ἂν καθεύδῃς
-    φυλασσέτω σε, ἵνα ἐγειρομένῳ συλλαλῇ σοι.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Ἡνίκα ἂν περιπατῇς, ἐπάγου αὐτὴν καὶ μετὰ σοῦ ἔστω, ὡς δʼ ἂν καθεύδῃς φυλασσέτω
+    σε, ἵνα ἐγειρομένῳ συλλαλῇ σοι.
+  usfm_code: PRO
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: Ὅτι λύχνος ἐντολὴ νόμου καὶ φῶς, ὁδὸς ζωῆς, καὶ ἔλεγχος καὶ παιδεία,
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Ὅτι λύχνος ἐντολὴ νόμου καὶ φῶς, ὁδὸς ζωῆς, καὶ ἔλεγχος καὶ παιδεία,
+  usfm_code: PRO
+  verse: '23'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 24
-  verse_text: τοῦ διαφυλάσσειν σε ἀπὸ γυναικὸς ὑπάνδρου, καὶ ἀπὸ διαβολῆς γλώσσης
-    ἀλλοτρίας.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: τοῦ διαφυλάσσειν σε ἀπὸ γυναικὸς ὑπάνδρου, καὶ ἀπὸ διαβολῆς γλώσσης ἀλλοτρίας.
+  usfm_code: PRO
+  verse: '24'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 25
-  verse_text: Μή σε νικήσῃ κάλλους ἐπιθυμία, μηδὲ ἀγρευθῇς σοῖς ὀφθαλμοῖς, μηδὲ συναρπασθῇς
+  text: Μή σε νικήσῃ κάλλους ἐπιθυμία, μηδὲ ἀγρευθῇς σοῖς ὀφθαλμοῖς, μηδὲ συναρπασθῇς
     ἀπὸ τῶν αὐτῆς βλεφάρων.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  usfm_code: PRO
+  verse: '25'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 26
-  verse_text: Τιμὴ γὰρ πόρνης ὅση καὶ ἑνὸς ἄρτου, γυνὴ δὲ ἀνδρῶν τιμίας ψυχὰς ἀγρεύει.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Τιμὴ γὰρ πόρνης ὅση καὶ ἑνὸς ἄρτου, γυνὴ δὲ ἀνδρῶν τιμίας ψυχὰς ἀγρεύει.
+  usfm_code: PRO
+  verse: '26'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 27
-  verse_text: Ἀποδήσει τις πῦρ ἐν κόλπῳ, τὰ δὲ ἱμάτια οὐ κατακαύσει;
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Ἀποδήσει τις πῦρ ἐν κόλπῳ, τὰ δὲ ἱμάτια οὐ κατακαύσει;
+  usfm_code: PRO
+  verse: '27'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 28
-  verse_text: ἢ περιπατήσει τις ἐπʼ ἀνθράκων πυρὸς, τοὺς δὲ πόδας οὐ κατακαύσει;
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: ἢ περιπατήσει τις ἐπʼ ἀνθράκων πυρὸς, τοὺς δὲ πόδας οὐ κατακαύσει;
+  usfm_code: PRO
+  verse: '28'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 29
-  verse_text: Οὕτως ὁ εἰσελθὼν πρὸς γυναῖκα ὕπανδρον, οὐκ ἀθωωθήσεται, οὐδὲ πᾶς ὁ
-    ἁπτόμενος αὐτῆς.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Οὕτως ὁ εἰσελθὼν πρὸς γυναῖκα ὕπανδρον, οὐκ ἀθωωθήσεται, οὐδὲ πᾶς ὁ ἁπτόμενος
+    αὐτῆς.
+  usfm_code: PRO
+  verse: '29'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 30
-  verse_text: Οὐ θαυμαστὸν ἐὰν ἁλῷ τις κλέπτων, κλέπτει γὰρ ἵνα ἐμπλήσῃ τὴν ψυχὴν
-    πεινῶν.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Οὐ θαυμαστὸν ἐὰν ἁλῷ τις κλέπτων, κλέπτει γὰρ ἵνα ἐμπλήσῃ τὴν ψυχὴν πεινῶν.
+  usfm_code: PRO
+  verse: '30'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 31
-  verse_text: Ἐὰν δὲ ἁλῷ, ἀποτίσει ἑπταπλάσια, καὶ πάντα τὰ ὑπάρχοντα αὐτοῦ δοὺς ῥύσεται
+  text: Ἐὰν δὲ ἁλῷ, ἀποτίσει ἑπταπλάσια, καὶ πάντα τὰ ὑπάρχοντα αὐτοῦ δοὺς ῥύσεται
     ἑσυτόν.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  usfm_code: PRO
+  verse: '31'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 32
-  verse_text: Ὁ δὲ μοιχὸς διʼ ἔνδειαν φρενῶν ἀπώλειαν τῇ ψυχῇ αὐτοῦ περιποιεῖται,
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Ὁ δὲ μοιχὸς διʼ ἔνδειαν φρενῶν ἀπώλειαν τῇ ψυχῇ αὐτοῦ περιποιεῖται,
+  usfm_code: PRO
+  verse: '32'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 33
-  verse_text: ὀδύνας τε καὶ ἀτιμίας ὑποφέρει, τὸ δὲ ὄνειδος αὐτοῦ οὐκ ἐξαλειφθήσεται
-    εἰς τὸν αἰῶνα.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: ὀδύνας τε καὶ ἀτιμίας ὑποφέρει, τὸ δὲ ὄνειδος αὐτοῦ οὐκ ἐξαλειφθήσεται εἰς
+    τὸν αἰῶνα.
+  usfm_code: PRO
+  verse: '33'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 34
-  verse_text: Μεστὸς γὰρ ζήλου θυμὸς ἀνδρὸς αὐτῆς, οὐ φείσεται ἐν ἡμέρᾳ κρίσεως.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
-  book_usfm_code: PRO
-  chapter_number: 6
+  text: Μεστὸς γὰρ ζήλου θυμὸς ἀνδρὸς αὐτῆς, οὐ φείσεται ἐν ἡμέρᾳ κρίσεως.
+  usfm_code: PRO
+  verse: '34'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 6
+  chapter: 6
   iso-639-2_language_code: grc
-  verse_number: 35
-  verse_text: Οὐκ ἀνταλλάξεται οὐδενὸς λύτρου τὴν ἔχθραν, οὐδὲ μὴ διαλυθῇ πολλῶν δώρων.
+  text: Οὐκ ἀνταλλάξεται οὐδενὸς λύτρου τὴν ἔχθραν, οὐδὲ μὴ διαλυθῇ πολλῶν δώρων.
+  usfm_code: PRO
+  verse: '35'

@@ -1,13 +1,13 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 116
-  book_usfm_code: PSA
-  chapter_number: 116
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 116
+  chapter: 116
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ἀλληλούϊα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 116
-  book_usfm_code: PSA
-  chapter_number: 116
+  text: Ἀλληλούϊα.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 116
+  chapter: 116
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Ὅτι ἐκραταιώθη τὸ ἔλεος αὐτοῦ ἐφʼ ἡμᾶς, καὶ ἡ ἀλήθεια τοῦ Κυρίου μένει
-    εἰς τὸν αἰῶνα.
+  text: Ὅτι ἐκραταιώθη τὸ ἔλεος αὐτοῦ ἐφʼ ἡμᾶς, καὶ ἡ ἀλήθεια τοῦ Κυρίου μένει εἰς
+    τὸν αἰῶνα.
+  usfm_code: PSA
+  verse: '2'

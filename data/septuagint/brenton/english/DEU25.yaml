@@ -1,145 +1,140 @@
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: 'And if there should be a dispute between men, and they should come
-    forward to judgment, and the judges judge, and justify the righteous, and condemn
-    the wicked:'
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+  text: 'And if there should be a dispute between men, and they should come forward
+    to judgment, and the judges judge, and justify the righteous, and condemn the
+    wicked:'
+  usfm_code: DEU
+  verse: '1'
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: then it shall come to pass, if the unrighteous should be worthy of stripes,
+  text: then it shall come to pass, if the unrighteous should be worthy of stripes,
     thou shalt lay him down before the judges, and they shall scourge him before them
     according to his iniquity.
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+  usfm_code: DEU
+  verse: '2'
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: And they shall scourge him with forty stripes in number, they shall
-    not inflict more; for if thou shouldest scourge him with more stripes beyond these
-    stripes, thy brother will be disgraced before thee.
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+  text: And they shall scourge him with forty stripes in number, they shall not inflict
+    more; for if thou shouldest scourge him with more stripes beyond these stripes,
+    thy brother will be disgraced before thee.
+  usfm_code: DEU
+  verse: '3'
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: Thou shalt not muzzle the ox that treads out the corn.
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+  text: Thou shalt not muzzle the ox that treads out the corn.
+  usfm_code: DEU
+  verse: '4'
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: 'And if brethren should live together, and one of them should die, and
-    should not have seed, the wife of the deceased shall not marry out of the family
-    to a man not related: her husband''s brother shall go in to her, and shall take
-    her to himself for a wife, and shall dwell with her.'
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+  text: 'And if brethren should live together, and one of them should die, and should
+    not have seed, the wife of the deceased shall not marry out of the family to a
+    man not related: her husband''s brother shall go in to her, and shall take her
+    to himself for a wife, and shall dwell with her.'
+  usfm_code: DEU
+  verse: '5'
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: And it shall come to pass that the child which she shall bear, shall
-    be named by the name of the deceased, and his name shall not be blotted out of
-    Israel.
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+  text: And it shall come to pass that the child which she shall bear, shall be named
+    by the name of the deceased, and his name shall not be blotted out of Israel.
+  usfm_code: DEU
+  verse: '6'
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: And if the man should not be willing to take his brother's wife, then
-    shall the woman go up to the gate to the elders, and she shall say, My husband's
-    brother will not raise up the name of his brother in Israel, my husband's brother
-    has refused.
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+  text: And if the man should not be willing to take his brother's wife, then shall
+    the woman go up to the gate to the elders, and she shall say, My husband's brother
+    will not raise up the name of his brother in Israel, my husband's brother has
+    refused.
+  usfm_code: DEU
+  verse: '7'
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: 'And the elders of his city shall call him, and speak to him; and if
-    he stand and say, I will not take her:'
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+  text: 'And the elders of his city shall call him, and speak to him; and if he stand
+    and say, I will not take her:'
+  usfm_code: DEU
+  verse: '8'
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: then his brother's wife shall come forward before the elders, and shall
-    loose one shoe from off his foot, and shall spit in his face, and shall answer
-    and say, Thus shall they do to the man who will not build his brother's house
-    in Israel.
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+  text: then his brother's wife shall come forward before the elders, and shall loose
+    one shoe from off his foot, and shall spit in his face, and shall answer and say,
+    Thus shall they do to the man who will not build his brother's house in Israel.
+  usfm_code: DEU
+  verse: '9'
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: And his name shall be called in Israel, The house of him that has had
-    his shoe loosed.
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+  text: And his name shall be called in Israel, The house of him that has had his
+    shoe loosed.
+  usfm_code: DEU
+  verse: '10'
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: And if men should strive together, a man with his brother, and the wife
-    of one of them should advance to rescue her husband out of the hand of him that
-    smites him, and she should stretch forth her hand, and take hold of his private
-    parts;
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+  text: And if men should strive together, a man with his brother, and the wife of
+    one of them should advance to rescue her husband out of the hand of him that smites
+    him, and she should stretch forth her hand, and take hold of his private parts;
+  usfm_code: DEU
+  verse: '11'
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: thou shalt cut off her hand; thine eye shall not spare her.
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+  text: thou shalt cut off her hand; thine eye shall not spare her.
+  usfm_code: DEU
+  verse: '12'
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: Thou shalt not have in thy bag divers weights, a great and a small.
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+  text: Thou shalt not have in thy bag divers weights, a great and a small.
+  usfm_code: DEU
+  verse: '13'
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 14
-  verse_text: Thou shalt not have in thine house divers measures, a great and a small.
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+  text: Thou shalt not have in thine house divers measures, a great and a small.
+  usfm_code: DEU
+  verse: '14'
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: Thou shalt have a true and just weight, and a true and just measure,
-    that thou mayest live long upon the land which the Lord thy God gives thee for
-    an inheritance.
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+  text: Thou shalt have a true and just weight, and a true and just measure, that
+    thou mayest live long upon the land which the Lord thy God gives thee for an inheritance.
+  usfm_code: DEU
+  verse: '15'
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 16
-  verse_text: For every one that does this is an abomination to the Lord thy God,
-    even every one that does injustice.
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+  text: For every one that does this is an abomination to the Lord thy God, even every
+    one that does injustice.
+  usfm_code: DEU
+  verse: '16'
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 17
-  verse_text: 'Remember what things Amalec did to thee by the way, when thou wentest
-    forth out of the land of Egypt:'
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+  text: 'Remember what things Amalec did to thee by the way, when thou wentest forth
+    out of the land of Egypt:'
+  usfm_code: DEU
+  verse: '17'
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 18
-  verse_text: how he withstood thee in the way, and harassed thy rear, even those
-    that were weary behind thee, and thou didst hunger and wast weary; and he did
-    not fear God.
-- book_title: Brenton Septuagint Translation Deuteronomy 25
-  book_usfm_code: DEU
-  chapter_number: 25
+  text: how he withstood thee in the way, and harassed thy rear, even those that were
+    weary behind thee, and thou didst hunger and wast weary; and he did not fear God.
+  usfm_code: DEU
+  verse: '18'
+- book: Brenton Septuagint Translation Deuteronomy 25
+  chapter: 25
   iso-639-2_language_code: eng
-  verse_number: 19
-  verse_text: And it shall come to pass whenever the Lord thy God shall have given
-    thee rest from all thine enemies round about thee, in the land which the Lord
-    thy God gives thee to inherit, thou shalt blot out the name of Amalec from under
-    heaven, and shalt not forget to do it .
+  text: And it shall come to pass whenever the Lord thy God shall have given thee
+    rest from all thine enemies round about thee, in the land which the Lord thy God
+    gives thee to inherit, thou shalt blot out the name of Amalec from under heaven,
+    and shalt not forget to do it .
+  usfm_code: DEU
+  verse: '19'

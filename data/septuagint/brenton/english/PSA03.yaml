@@ -1,60 +1,56 @@
-- book_title: Brenton Septuagint Translation Psalms 3
-  book_usfm_code: PSA
-  chapter_number: 3
+- book: Brenton Septuagint Translation Psalms 3
+  chapter: 3
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: A Psalm of David, when he fled from the presence of his son Abessalom.
-- book_title: Brenton Septuagint Translation Psalms 3
-  book_usfm_code: PSA
-  chapter_number: 3
+  text: A Psalm of David, when he fled from the presence of his son Abessalom.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 3
+  chapter: 3
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: O Lord, why are they that afflict me multiplied? many rise up against
-    me.
-- book_title: Brenton Septuagint Translation Psalms 3
-  book_usfm_code: PSA
-  chapter_number: 3
+  text: O Lord, why are they that afflict me multiplied? many rise up against me.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 3
+  chapter: 3
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: Many say concerning my soul, There is no deliverance for him in his
-    God. Pause.
-- book_title: Brenton Septuagint Translation Psalms 3
-  book_usfm_code: PSA
-  chapter_number: 3
+  text: Many say concerning my soul, There is no deliverance for him in his God. Pause.
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 3
+  chapter: 3
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: 'But thou, O Lord, art my helper: my glory, and the one that lifts up
-    my head.'
-- book_title: Brenton Septuagint Translation Psalms 3
-  book_usfm_code: PSA
-  chapter_number: 3
+  text: 'But thou, O Lord, art my helper: my glory, and the one that lifts up my head.'
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 3
+  chapter: 3
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: I cried to the Lord with my voice, and he heard me out of his holy mountain.
+  text: I cried to the Lord with my voice, and he heard me out of his holy mountain.
     Pause.
-- book_title: Brenton Septuagint Translation Psalms 3
-  book_usfm_code: PSA
-  chapter_number: 3
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 3
+  chapter: 3
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: I lay down and slept; I awaked; for the Lord will help me.
-- book_title: Brenton Septuagint Translation Psalms 3
-  book_usfm_code: PSA
-  chapter_number: 3
+  text: I lay down and slept; I awaked; for the Lord will help me.
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 3
+  chapter: 3
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: I will not be afraid of ten thousands of people, who beset me round
-    about.
-- book_title: Brenton Septuagint Translation Psalms 3
-  book_usfm_code: PSA
-  chapter_number: 3
+  text: I will not be afraid of ten thousands of people, who beset me round about.
+  usfm_code: PSA
+  verse: '7'
+- book: Brenton Septuagint Translation Psalms 3
+  chapter: 3
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: 'Arise, Lord; deliver me, my God: for thou hast smitten all who were
-    without cause mine enemies; thou hast broken the teeth of sinners.'
-- book_title: Brenton Septuagint Translation Psalms 3
-  book_usfm_code: PSA
-  chapter_number: 3
+  text: 'Arise, Lord; deliver me, my God: for thou hast smitten all who were without
+    cause mine enemies; thou hast broken the teeth of sinners.'
+  usfm_code: PSA
+  verse: '8'
+- book: Brenton Septuagint Translation Psalms 3
+  chapter: 3
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: Deliverance is the Lord's, and thy blessing is upon thy people.
+  text: Deliverance is the Lord's, and thy blessing is upon thy people.
+  usfm_code: PSA
+  verse: '9'

@@ -1,217 +1,213 @@
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: 'This is the genealogy of men in the day in which God made Adam; in
-    the image of God he made him:'
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
+  text: 'This is the genealogy of men in the day in which God made Adam; in the image
+    of God he made him:'
+  usfm_code: GEN
+  verse: '1'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: male and female he made them, and blessed them; and he called his name
-    Adam, in the day in which he made them.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
+  text: male and female he made them, and blessed them; and he called his name Adam,
+    in the day in which he made them.
+  usfm_code: GEN
+  verse: '2'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: And Adam lived two hundred and thirty years, and begot a son after his
-    own form, and after his own image, and he called his name Seth.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
+  text: And Adam lived two hundred and thirty years, and begot a son after his own
+    form, and after his own image, and he called his name Seth.
+  usfm_code: GEN
+  verse: '3'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: And the days of Adam, which he lived after his begetting Seth, were
-    seven hundred years; and he begot sons and daughters.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
+  text: And the days of Adam, which he lived after his begetting Seth, were seven
+    hundred years; and he begot sons and daughters.
+  usfm_code: GEN
+  verse: '4'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: And all the days of Adam which he lived were nine hundred and thirty
-    years, and he died.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
+  text: And all the days of Adam which he lived were nine hundred and thirty years,
+    and he died.
+  usfm_code: GEN
+  verse: '5'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: Now Seth lived two hundred and five years, and begot Enos.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
+  text: Now Seth lived two hundred and five years, and begot Enos.
+  usfm_code: GEN
+  verse: '6'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: And Seth lived after his begetting Enos, seven hundred and seven years,
-    and he begot sons and daughters.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
-  iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: And all the days of Seth were nine hundred and twelve years, and he
-    died.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
-  iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: And Enos lived an hundred and ninety years, and begot Cainan.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
-  iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: And Enos lived after his begetting Cainan, seven hundred and fifteen
-    years, and he begot sons and daughters.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
-  iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: And all the days of Enos were nine hundred and five years, and he died.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
-  iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: And Cainan lived an hundred and seventy years, and he begot Maleleel.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
-  iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: And Cainan lived after his begetting Maleleel, seven hundred and forty
-    years, and he begot sons and daughters.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
-  iso-639-2_language_code: eng
-  verse_number: 14
-  verse_text: And all the days of Cainan were nine hundred and ten years, and he died.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
-  iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: And Maleleel lived an hundred and sixty and five years, and he begot
-    Jared.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
-  iso-639-2_language_code: eng
-  verse_number: 16
-  verse_text: And Maleleel lived after his begetting Jared, seven hundred and thirty
-    years, and he begot sons and daughters.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
-  iso-639-2_language_code: eng
-  verse_number: 17
-  verse_text: And all the days of Maleleel were eight hundred and ninety and five
-    years, and he died.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
-  iso-639-2_language_code: eng
-  verse_number: 18
-  verse_text: 'And Jared lived an hundred and sixty and two years, and begot Enoch:'
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
-  iso-639-2_language_code: eng
-  verse_number: 19
-  verse_text: and Jared lived after his begetting Enoch, eight hundred years, and
+  text: And Seth lived after his begetting Enos, seven hundred and seven years, and
     he begot sons and daughters.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
+  usfm_code: GEN
+  verse: '7'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 20
-  verse_text: And all the days of Jared were nine hundred and sixty and two years,
+  text: And all the days of Seth were nine hundred and twelve years, and he died.
+  usfm_code: GEN
+  verse: '8'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
+  iso-639-2_language_code: eng
+  text: And Enos lived an hundred and ninety years, and begot Cainan.
+  usfm_code: GEN
+  verse: '9'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
+  iso-639-2_language_code: eng
+  text: And Enos lived after his begetting Cainan, seven hundred and fifteen years,
+    and he begot sons and daughters.
+  usfm_code: GEN
+  verse: '10'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
+  iso-639-2_language_code: eng
+  text: And all the days of Enos were nine hundred and five years, and he died.
+  usfm_code: GEN
+  verse: '11'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
+  iso-639-2_language_code: eng
+  text: And Cainan lived an hundred and seventy years, and he begot Maleleel.
+  usfm_code: GEN
+  verse: '12'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
+  iso-639-2_language_code: eng
+  text: And Cainan lived after his begetting Maleleel, seven hundred and forty years,
+    and he begot sons and daughters.
+  usfm_code: GEN
+  verse: '13'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
+  iso-639-2_language_code: eng
+  text: And all the days of Cainan were nine hundred and ten years, and he died.
+  usfm_code: GEN
+  verse: '14'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
+  iso-639-2_language_code: eng
+  text: And Maleleel lived an hundred and sixty and five years, and he begot Jared.
+  usfm_code: GEN
+  verse: '15'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
+  iso-639-2_language_code: eng
+  text: And Maleleel lived after his begetting Jared, seven hundred and thirty years,
+    and he begot sons and daughters.
+  usfm_code: GEN
+  verse: '16'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
+  iso-639-2_language_code: eng
+  text: And all the days of Maleleel were eight hundred and ninety and five years,
     and he died.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
+  usfm_code: GEN
+  verse: '17'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 21
-  verse_text: And Enoch lived an hundred and sixty and five years, and begat Mathusala.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
+  text: 'And Jared lived an hundred and sixty and two years, and begot Enoch:'
+  usfm_code: GEN
+  verse: '18'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 22
-  verse_text: And Enoch was well-pleasing to God after his begetting Mathusala, two
-    hundred years, and he begot sons and daughters.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
+  text: and Jared lived after his begetting Enoch, eight hundred years, and he begot
+    sons and daughters.
+  usfm_code: GEN
+  verse: '19'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 23
-  verse_text: And all the days of Enoch were three hundred and sixty and five years.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
+  text: And all the days of Jared were nine hundred and sixty and two years, and he
+    died.
+  usfm_code: GEN
+  verse: '20'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 24
-  verse_text: And Enoch was well-pleasing to God, and was not found, because God translated
+  text: And Enoch lived an hundred and sixty and five years, and begat Mathusala.
+  usfm_code: GEN
+  verse: '21'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
+  iso-639-2_language_code: eng
+  text: And Enoch was well-pleasing to God after his begetting Mathusala, two hundred
+    years, and he begot sons and daughters.
+  usfm_code: GEN
+  verse: '22'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
+  iso-639-2_language_code: eng
+  text: And all the days of Enoch were three hundred and sixty and five years.
+  usfm_code: GEN
+  verse: '23'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
+  iso-639-2_language_code: eng
+  text: And Enoch was well-pleasing to God, and was not found, because God translated
     him.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
+  usfm_code: GEN
+  verse: '24'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 25
-  verse_text: And Mathusala lived an hundred and sixty and seven years, and begot
-    Lamech.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
+  text: And Mathusala lived an hundred and sixty and seven years, and begot Lamech.
+  usfm_code: GEN
+  verse: '25'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 26
-  verse_text: And Mathusala lived after his begetting Lamech eight hundred and two
+  text: And Mathusala lived after his begetting Lamech eight hundred and two years,
+    and begot sons and daughters.
+  usfm_code: GEN
+  verse: '26'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
+  iso-639-2_language_code: eng
+  text: And all the days of Mathusala which he lived, were nine hundred and sixty
+    and nine years, and he died.
+  usfm_code: GEN
+  verse: '27'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
+  iso-639-2_language_code: eng
+  text: And Lamech lived an hundred and eighty and eight years, and begot a son.
+  usfm_code: GEN
+  verse: '28'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
+  iso-639-2_language_code: eng
+  text: And he called his name Noe, saying, This one will cause us to cease from our
+    works, and from the toils of our hands, and from the earth, which the Lord God
+    has cursed.
+  usfm_code: GEN
+  verse: '29'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
+  iso-639-2_language_code: eng
+  text: And Lamech lived after his begetting Noe, five hundred and sixty and five
     years, and begot sons and daughters.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
+  usfm_code: GEN
+  verse: '30'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 27
-  verse_text: And all the days of Mathusala which he lived, were nine hundred and
-    sixty and nine years, and he died.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
+  text: And all the days of Lamech were seven hundred and fifty-three years, and he
+    died.
+  usfm_code: GEN
+  verse: '31'
+- book: Brenton Septuagint Translation Genesis 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 28
-  verse_text: And Lamech lived an hundred and eighty and eight years, and begot a
-    son.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
-  iso-639-2_language_code: eng
-  verse_number: 29
-  verse_text: And he called his name Noe, saying, This one will cause us to cease
-    from our works, and from the toils of our hands, and from the earth, which the
-    Lord God has cursed.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
-  iso-639-2_language_code: eng
-  verse_number: 30
-  verse_text: And Lamech lived after his begetting Noe, five hundred and sixty and
-    five years, and begot sons and daughters.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
-  iso-639-2_language_code: eng
-  verse_number: 31
-  verse_text: And all the days of Lamech were seven hundred and fifty-three years,
-    and he died.
-- book_title: Brenton Septuagint Translation Genesis 5
-  book_usfm_code: GEN
-  chapter_number: 5
-  iso-639-2_language_code: eng
-  verse_number: 32
-  verse_text: And Noe was five hundred years old, and he begot three sons, Sem, Cham,
-    and Japheth.
+  text: And Noe was five hundred years old, and he begot three sons, Sem, Cham, and
+    Japheth.
+  usfm_code: GEN
+  verse: '32'

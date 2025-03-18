@@ -1,109 +1,107 @@
-- book_title: Brenton Septuagint Translation Psalms 90
-  book_usfm_code: PSA
-  chapter_number: 90
+- book: Brenton Septuagint Translation Psalms 90
+  chapter: 90
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: Praise of a Song, by David.
-- book_title: Brenton Septuagint Translation Psalms 90
-  book_usfm_code: PSA
-  chapter_number: 90
+  text: Praise of a Song, by David.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 90
+  chapter: 90
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: 'He shall say to the Lord, Thou art my helper and my refuge: my God;
-    I will hope in him.'
-- book_title: Brenton Septuagint Translation Psalms 90
-  book_usfm_code: PSA
-  chapter_number: 90
+  text: 'He shall say to the Lord, Thou art my helper and my refuge: my God; I will
+    hope in him.'
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 90
+  chapter: 90
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: For he shall deliver thee from the snare of the hunters, from every
-    troublesome matter.
-- book_title: Brenton Septuagint Translation Psalms 90
-  book_usfm_code: PSA
-  chapter_number: 90
+  text: For he shall deliver thee from the snare of the hunters, from every troublesome
+    matter.
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 90
+  chapter: 90
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: 'He shall overshadow thee with his shoulders, and thou shalt trust under
-    his wings: his truth shall cover thee with a shield.'
-- book_title: Brenton Septuagint Translation Psalms 90
-  book_usfm_code: PSA
-  chapter_number: 90
+  text: 'He shall overshadow thee with his shoulders, and thou shalt trust under his
+    wings: his truth shall cover thee with a shield.'
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 90
+  chapter: 90
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: Thou shalt not be afraid of terror by night; nor of the arrow flying
-    by day;
-- book_title: Brenton Septuagint Translation Psalms 90
-  book_usfm_code: PSA
-  chapter_number: 90
+  text: Thou shalt not be afraid of terror by night; nor of the arrow flying by day;
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 90
+  chapter: 90
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: nor of the evil thing that walks in darkness; nor of calamity, and the
-    evil spirit at noon-day.
-- book_title: Brenton Septuagint Translation Psalms 90
-  book_usfm_code: PSA
-  chapter_number: 90
+  text: nor of the evil thing that walks in darkness; nor of calamity, and the evil
+    spirit at noon-day.
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 90
+  chapter: 90
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: A thousand shall fall at thy side, and ten thousand at thy right hand;
-    but it shall not come nigh thee.
-- book_title: Brenton Septuagint Translation Psalms 90
-  book_usfm_code: PSA
-  chapter_number: 90
+  text: A thousand shall fall at thy side, and ten thousand at thy right hand; but
+    it shall not come nigh thee.
+  usfm_code: PSA
+  verse: '7'
+- book: Brenton Septuagint Translation Psalms 90
+  chapter: 90
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: Only with thine eyes shalt thou observe and see the reward of sinners.
-- book_title: Brenton Septuagint Translation Psalms 90
-  book_usfm_code: PSA
-  chapter_number: 90
+  text: Only with thine eyes shalt thou observe and see the reward of sinners.
+  usfm_code: PSA
+  verse: '8'
+- book: Brenton Septuagint Translation Psalms 90
+  chapter: 90
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: 'For thou, O Lord, art my hope: thou, my soul, hast made the Most High
-    thy refuge.'
-- book_title: Brenton Septuagint Translation Psalms 90
-  book_usfm_code: PSA
-  chapter_number: 90
+  text: 'For thou, O Lord, art my hope: thou, my soul, hast made the Most High thy
+    refuge.'
+  usfm_code: PSA
+  verse: '9'
+- book: Brenton Septuagint Translation Psalms 90
+  chapter: 90
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: No evils shall come upon thee, and no scourge shall draw nigh to thy
-    dwelling.
-- book_title: Brenton Septuagint Translation Psalms 90
-  book_usfm_code: PSA
-  chapter_number: 90
+  text: No evils shall come upon thee, and no scourge shall draw nigh to thy dwelling.
+  usfm_code: PSA
+  verse: '10'
+- book: Brenton Septuagint Translation Psalms 90
+  chapter: 90
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: For he shall give his angels charge concerning thee, to keep thee in
-    all thy ways.
-- book_title: Brenton Septuagint Translation Psalms 90
-  book_usfm_code: PSA
-  chapter_number: 90
+  text: For he shall give his angels charge concerning thee, to keep thee in all thy
+    ways.
+  usfm_code: PSA
+  verse: '11'
+- book: Brenton Septuagint Translation Psalms 90
+  chapter: 90
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: They shall bear thee up on their hands, lest at any time thou dash thy
-    foot against a stone.
-- book_title: Brenton Septuagint Translation Psalms 90
-  book_usfm_code: PSA
-  chapter_number: 90
+  text: They shall bear thee up on their hands, lest at any time thou dash thy foot
+    against a stone.
+  usfm_code: PSA
+  verse: '12'
+- book: Brenton Septuagint Translation Psalms 90
+  chapter: 90
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: 'Thou shalt tread on the asp and basilisk: and thou shalt trample on
-    the lion and dragon.'
-- book_title: Brenton Septuagint Translation Psalms 90
-  book_usfm_code: PSA
-  chapter_number: 90
+  text: 'Thou shalt tread on the asp and basilisk: and thou shalt trample on the lion
+    and dragon.'
+  usfm_code: PSA
+  verse: '13'
+- book: Brenton Septuagint Translation Psalms 90
+  chapter: 90
   iso-639-2_language_code: eng
-  verse_number: 14
-  verse_text: 'For he has hoped in me, and I will deliver him: I will protect him,
-    because he has known my name.'
-- book_title: Brenton Septuagint Translation Psalms 90
-  book_usfm_code: PSA
-  chapter_number: 90
+  text: 'For he has hoped in me, and I will deliver him: I will protect him, because
+    he has known my name.'
+  usfm_code: PSA
+  verse: '14'
+- book: Brenton Septuagint Translation Psalms 90
+  chapter: 90
   iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: 'He shall call upon me, and I will hearken to him: I am with him in
-    affliction; and I will deliver him, and glorify him.'
-- book_title: Brenton Septuagint Translation Psalms 90
-  book_usfm_code: PSA
-  chapter_number: 90
+  text: 'He shall call upon me, and I will hearken to him: I am with him in affliction;
+    and I will deliver him, and glorify him.'
+  usfm_code: PSA
+  verse: '15'
+- book: Brenton Septuagint Translation Psalms 90
+  chapter: 90
   iso-639-2_language_code: eng
-  verse_number: 16
-  verse_text: I will satisfy him with length of days, and shew him my salvation.
+  text: I will satisfy him with length of days, and shew him my salvation.
+  usfm_code: PSA
+  verse: '16'

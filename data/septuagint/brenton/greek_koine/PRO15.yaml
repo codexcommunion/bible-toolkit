@@ -1,232 +1,230 @@
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ὀργὴ ἀπόλλυσι καὶ φρονίμους, ἀπόκρισις δὲ ὑποπίπτουσα ἀποστρέφει θυμὸν,
-    λόγος δὲ λυπηρὸς ἐγείρει ὀργάς.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Ὀργὴ ἀπόλλυσι καὶ φρονίμους, ἀπόκρισις δὲ ὑποπίπτουσα ἀποστρέφει θυμὸν, λόγος
+    δὲ λυπηρὸς ἐγείρει ὀργάς.
+  usfm_code: PRO
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Γλῶσσα σοφῶν καλὰ ἐπίσταται, στόμα δὲ ἀφρόνων ἀναγγέλλει κακά.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Γλῶσσα σοφῶν καλὰ ἐπίσταται, στόμα δὲ ἀφρόνων ἀναγγέλλει κακά.
+  usfm_code: PRO
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ἐν παντὶ τόπῳ ὀφθαλμοὶ Κυρίου σκοπεύουσι κακούς τε καὶ ἀγαθούς.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Ἐν παντὶ τόπῳ ὀφθαλμοὶ Κυρίου σκοπεύουσι κακούς τε καὶ ἀγαθούς.
+  usfm_code: PRO
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Ἴασις γλώσσης δένδρον ζωῆς, ὁ δὲ συντηρῶν αὐτὴν πλησθήσεται πνεύματος.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Ἴασις γλώσσης δένδρον ζωῆς, ὁ δὲ συντηρῶν αὐτὴν πλησθήσεται πνεύματος.
+  usfm_code: PRO
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Ἄφρων μυκτηρίζει παιδείαν πατρὸς, ὁ δὲ φυλάσσων ἐντολὰς, πανουργότερος·
-    ἐν πλεοναζούσῃ δικαιοσύνῃ ἰσχὺς πολλὴ, οἱ δὲ ἀσεβεῖς ὁλόῤῥιζοι ἐκ γῆς ἀπολοῦνται.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Ἄφρων μυκτηρίζει παιδείαν πατρὸς, ὁ δὲ φυλάσσων ἐντολὰς, πανουργότερος· ἐν
+    πλεοναζούσῃ δικαιοσύνῃ ἰσχὺς πολλὴ, οἱ δὲ ἀσεβεῖς ὁλόῤῥιζοι ἐκ γῆς ἀπολοῦνται.
+  usfm_code: PRO
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Οἴκοις δικαίων ἰσχὺς πολλή, καρποὶ δὲ ἀσεβῶν ἀπολοῦνται.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Οἴκοις δικαίων ἰσχὺς πολλή, καρποὶ δὲ ἀσεβῶν ἀπολοῦνται.
+  usfm_code: PRO
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Χείλη σοφῶν δέδεται αἰσθήσει, καρδίαι δὲ ἀφρόνων οὐκ ἀσφαλεῖς.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Χείλη σοφῶν δέδεται αἰσθήσει, καρδίαι δὲ ἀφρόνων οὐκ ἀσφαλεῖς.
+  usfm_code: PRO
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Θυσίαι ἀσεβῶν βδέλυγμα Κυρίῳ, εὐχαὶ δὲ κατευθυνόντων δεκταὶ παρʼ αὐτῷ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Θυσίαι ἀσεβῶν βδέλυγμα Κυρίῳ, εὐχαὶ δὲ κατευθυνόντων δεκταὶ παρʼ αὐτῷ.
+  usfm_code: PRO
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Βδέλυγμα Κυρίῳ ὁδοὶ ἀσεβοῦς, διώκοντας δὲ δικαιοσύνην ἀγαπᾷ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Βδέλυγμα Κυρίῳ ὁδοὶ ἀσεβοῦς, διώκοντας δὲ δικαιοσύνην ἀγαπᾷ.
+  usfm_code: PRO
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Παιδεία ἀκάκου γνωρίζεται ὑπὸ τῶν παριόντων, οἱ δὲ μισοῦντες ἐλέγχους
-    τελευτῶσιν αἰσχρῶς.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Παιδεία ἀκάκου γνωρίζεται ὑπὸ τῶν παριόντων, οἱ δὲ μισοῦντες ἐλέγχους τελευτῶσιν
+    αἰσχρῶς.
+  usfm_code: PRO
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Ἅδης καὶ ἀπώλεια φανερὰ παρὰ τῷ Κυρίῳ· πῶς οὐχὶ καὶ αἱ καρδίαι τῶν ἀνθρώπων;
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Ἅδης καὶ ἀπώλεια φανερὰ παρὰ τῷ Κυρίῳ· πῶς οὐχὶ καὶ αἱ καρδίαι τῶν ἀνθρώπων;
+  usfm_code: PRO
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Οὐκ ἀγαπήσει ἀπαίδευτος τοὺς ἐλέγχοντας αὐτόν, μετὰ δὲ σοφῶν οὐχ ὁμιλήσει.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Οὐκ ἀγαπήσει ἀπαίδευτος τοὺς ἐλέγχοντας αὐτόν, μετὰ δὲ σοφῶν οὐχ ὁμιλήσει.
+  usfm_code: PRO
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Καρδίας εὐφραινομένης πρόσωπον θάλλει, ἐν δὲ λύπαις οὔσης σκυθρωπάζει.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Καρδίας εὐφραινομένης πρόσωπον θάλλει, ἐν δὲ λύπαις οὔσης σκυθρωπάζει.
+  usfm_code: PRO
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Καρδία ὀρθὴ ζητεῖ αἴσθησιν, στόμα δὲ ἀπαιδεύτων γνώσεται κακά.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Καρδία ὀρθὴ ζητεῖ αἴσθησιν, στόμα δὲ ἀπαιδεύτων γνώσεται κακά.
+  usfm_code: PRO
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Πάντα τὸν χρόνον οἱ ὀφθαλμοὶ τῶν κακῶν προσδέχονται κακὰ, οἱ δὲ ἀγαθοὶ
-    ἡσυχάζουσι διαπαντός.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Πάντα τὸν χρόνον οἱ ὀφθαλμοὶ τῶν κακῶν προσδέχονται κακὰ, οἱ δὲ ἀγαθοὶ ἡσυχάζουσι
+    διαπαντός.
+  usfm_code: PRO
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Κρεῖσσον μικρὰ μερὶς μετὰ φόβου Κυρίου, ἢ θησαυροὶ μεγάλοι μετὰ ἀφοβίας.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Κρεῖσσον μικρὰ μερὶς μετὰ φόβου Κυρίου, ἢ θησαυροὶ μεγάλοι μετὰ ἀφοβίας.
+  usfm_code: PRO
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Κρείσσων ξενισμὸς μετὰ λαχάνων πρὸς φιλίαν καὶ χάριν, ἢ παράθεσις μόσχων
-    μετὰ ἔχθρας.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Κρείσσων ξενισμὸς μετὰ λαχάνων πρὸς φιλίαν καὶ χάριν, ἢ παράθεσις μόσχων μετὰ
+    ἔχθρας.
+  usfm_code: PRO
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Ἀνὴρ θυμώδης παρασκευάζει μάχας· μακρόθυμος δὲ καὶ τὴν μέλλουσαν καταπρᾳΰνει·
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Ἀνὴρ θυμώδης παρασκευάζει μάχας· μακρόθυμος δὲ καὶ τὴν μέλλουσαν καταπρᾳΰνει·
+  usfm_code: PRO
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: μακρόθυμος ἀνὴρ κατασβέσει κρίσεις, ὁ δὲ ἀσεβὴς ἐγείρει μᾶλλον.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: μακρόθυμος ἀνὴρ κατασβέσει κρίσεις, ὁ δὲ ἀσεβὴς ἐγείρει μᾶλλον.
+  usfm_code: PRO
+  verse: 18a
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Ὁδοὶ ἀεργῶν ἐστρωμέναι ἀκάνθαις, αἱ δὲ τῶν ἀνδρείων τετριμμέναι.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Ὁδοὶ ἀεργῶν ἐστρωμέναι ἀκάνθαις, αἱ δὲ τῶν ἀνδρείων τετριμμέναι.
+  usfm_code: PRO
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Υἱὸς σοφὸς εὐφραίνει πατέρα, υἱὸς δὲ ἄφρων μυκτηρίζει μητέρα αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Υἱὸς σοφὸς εὐφραίνει πατέρα, υἱὸς δὲ ἄφρων μυκτηρίζει μητέρα αὐτοῦ.
+  usfm_code: PRO
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: Ἀνοήτου τρίβοι ἐνδεεῖς φρενῶν, ἀνὴρ δὲ φρόνιμος κατευθύνων πορεύεται.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Ἀνοήτου τρίβοι ἐνδεεῖς φρενῶν, ἀνὴρ δὲ φρόνιμος κατευθύνων πορεύεται.
+  usfm_code: PRO
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: Ὑπερτίθενται λογισμοὺς οἱ μὴ τιμῶντες συνέδρια, ἐν δὲ καρδίαις βουλευομένων
+  text: Ὑπερτίθενται λογισμοὺς οἱ μὴ τιμῶντες συνέδρια, ἐν δὲ καρδίαις βουλευομένων
     μένει βουλή.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  usfm_code: PRO
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: Οὐ μὴ ὑπακούσει ὁ κακὸς αὐτῇ, οὐδὲ μὴ εἴπῃ καίριόν τι καὶ καλὸν τῷ κοινῷ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Οὐ μὴ ὑπακούσει ὁ κακὸς αὐτῇ, οὐδὲ μὴ εἴπῃ καίριόν τι καὶ καλὸν τῷ κοινῷ.
+  usfm_code: PRO
+  verse: '23'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 24
-  verse_text: Ὁδοὶ ζωῆς διανοήματα συνετοῦ, ἵνα ἐκκλίνας ἐκ τοῦ ᾅδου σωθῇ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Ὁδοὶ ζωῆς διανοήματα συνετοῦ, ἵνα ἐκκλίνας ἐκ τοῦ ᾅδου σωθῇ.
+  usfm_code: PRO
+  verse: '24'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 25
-  verse_text: Οἴκους ὑβριστῶν κατασπᾷ Κύριος, ἐστήρισε δὲ ὅριον χήρας.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Οἴκους ὑβριστῶν κατασπᾷ Κύριος, ἐστήρισε δὲ ὅριον χήρας.
+  usfm_code: PRO
+  verse: '25'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 26
-  verse_text: Βδέλυγμα Κυρίῳ λογισμὸς ἄδικος, ἁγνῶν δὲ ῥήσεις σεμναί.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Βδέλυγμα Κυρίῳ λογισμὸς ἄδικος, ἁγνῶν δὲ ῥήσεις σεμναί.
+  usfm_code: PRO
+  verse: '26'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 27
-  verse_text: Ἐξόλλυσιν ἑαυτὸν ὁ δωρολήπτης, ὁ δὲ μισῶν δώρων λήψεις σώζεται·
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Ἐξόλλυσιν ἑαυτὸν ὁ δωρολήπτης, ὁ δὲ μισῶν δώρων λήψεις σώζεται·
+  usfm_code: PRO
+  verse: '27'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 28
-  verse_text: ἐλεημοσύναις καὶ πίστεσιν ἀποκαθαίρονται ἁμαρτίαι, τῷ δὲ φόβῳ Κυρίου
-    ἐκκλίνει πᾶς ἀπὸ κακοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: ἐλεημοσύναις καὶ πίστεσιν ἀποκαθαίρονται ἁμαρτίαι, τῷ δὲ φόβῳ Κυρίου ἐκκλίνει
+    πᾶς ἀπὸ κακοῦ.
+  usfm_code: PRO
+  verse: 27a
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 28
-  verse_text: Καρδίαι δικαίων μελετῶσι πίστεις, στόμα δὲ ἀσεβῶν ἀποκρίνεται κακά·
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Καρδίαι δικαίων μελετῶσι πίστεις, στόμα δὲ ἀσεβῶν ἀποκρίνεται κακά·
+  usfm_code: PRO
+  verse: '28'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 29
-  verse_text: δεκταὶ παρὰ Κυρίῳ ὁδοὶ ἀνθρώπων δικαίων, διὰ δὲ αὐτῶν καὶ οἱ ἐχθροὶ
-    φίλοι γίνονται.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: δεκταὶ παρὰ Κυρίῳ ὁδοὶ ἀνθρώπων δικαίων, διὰ δὲ αὐτῶν καὶ οἱ ἐχθροὶ φίλοι
+    γίνονται.
+  usfm_code: PRO
+  verse: 28a
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 29
-  verse_text: Μακρὰν ἀπέχει ὁ Θεὸς ἀπὸ ἀσεβῶν, εὐχαῖς δὲ δικαίων ἐπακούει·
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Μακρὰν ἀπέχει ὁ Θεὸς ἀπὸ ἀσεβῶν, εὐχαῖς δὲ δικαίων ἐπακούει·
+  usfm_code: PRO
+  verse: '29'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 30
-  verse_text: κρείσσων ὀλίγη λῆψις μετὰ δικαιοσύνης, ἢ πολλὰ γεννήματα μετὰ ἀδικίας.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: κρείσσων ὀλίγη λῆψις μετὰ δικαιοσύνης, ἢ πολλὰ γεννήματα μετὰ ἀδικίας.
+  usfm_code: PRO
+  verse: 29a
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 31
-  verse_text: Καρδία ἀνδρὸς λογιζέσθω δίκαια, ἵνα ὑπὸ τοῦ Θεοῦ διορθωθῇ τὰ διαβήματα
-    αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Καρδία ἀνδρὸς λογιζέσθω δίκαια, ἵνα ὑπὸ τοῦ Θεοῦ διορθωθῇ τὰ διαβήματα αὐτοῦ.
+  usfm_code: PRO
+  verse: 29b
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 30
-  verse_text: Θεωρῶν ὀφθαλμὸς καλὰ εὐφραίνει καρδίαν, φημη δὲ ἀγαθὴ πιαίνει ὀστᾶ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Θεωρῶν ὀφθαλμὸς καλὰ εὐφραίνει καρδίαν, φημη δὲ ἀγαθὴ πιαίνει ὀστᾶ.
+  usfm_code: PRO
+  verse: '30'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 32
-  verse_text: Ὃς ἀπωθεῖται παιδείαν, μισεῖ ἑαυτὸν· ὁ δὲ τηρῶν ἐλέγχους, ἀγαπᾷ ψυχὴν
-    αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
-  book_usfm_code: PRO
-  chapter_number: 15
+  text: Ὃς ἀπωθεῖται παιδείαν, μισεῖ ἑαυτὸν· ὁ δὲ τηρῶν ἐλέγχους, ἀγαπᾷ ψυχὴν αὐτοῦ.
+  usfm_code: PRO
+  verse: '32'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 33
-  verse_text: Φόβος Κυρίου παιδεία καὶ σοφία, καὶ ἀρχὴ δόξης ἀποκριθήσεται αὐτῇ.
+  text: Φόβος Κυρίου παιδεία καὶ σοφία, καὶ ἀρχὴ δόξης ἀποκριθήσεται αὐτῇ.
+  usfm_code: PRO
+  verse: '33'

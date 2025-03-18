@@ -1,187 +1,182 @@
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ὑπολαβὼν δὲ Σωφὰρ ὁ Μιναῖος, λέγει,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Ὑπολαβὼν δὲ Σωφὰρ ὁ Μιναῖος, λέγει,
+  usfm_code: JOB
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Οὐχ οὕτως ὑπελάμβανον ἀντερεῖν σε ταῦτα, καὶ οὐχὶ συνίετε μᾶλλον ἢ καὶ
-    ἐγώ.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Οὐχ οὕτως ὑπελάμβανον ἀντερεῖν σε ταῦτα, καὶ οὐχὶ συνίετε μᾶλλον ἢ καὶ ἐγώ.
+  usfm_code: JOB
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Παιδείαν ἐντροπῆς μου ἀκούσομαι, καὶ πνεῦμα ἐκ τῆς συνέσεως ἀποκρίνεταί
-    μοι.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Παιδείαν ἐντροπῆς μου ἀκούσομαι, καὶ πνεῦμα ἐκ τῆς συνέσεως ἀποκρίνεταί μοι.
+  usfm_code: JOB
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Μὴ ταῦτα ἔγνως ἀπὸ τοῦ ἔτι, ἀφʼ οὗ ἐτέθη ἄνθρωπος ἐπὶ τῆς γῆς;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Μὴ ταῦτα ἔγνως ἀπὸ τοῦ ἔτι, ἀφʼ οὗ ἐτέθη ἄνθρωπος ἐπὶ τῆς γῆς;
+  usfm_code: JOB
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Εὐφροσύνη δὲ ἀσεβῶν πτῶμα ἐξαίσιον, χαρμονὴ δὲ παρανόμων ἀπώλεια·
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Εὐφροσύνη δὲ ἀσεβῶν πτῶμα ἐξαίσιον, χαρμονὴ δὲ παρανόμων ἀπώλεια·
+  usfm_code: JOB
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: ἐὰν ἀναβῇ εἰς οὐρανὸν αὐτοῦ τὰ δῶρα, ἡ δὲ θυσία αὐτοῦ νεφῶν ἅψηται.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: ἐὰν ἀναβῇ εἰς οὐρανὸν αὐτοῦ τὰ δῶρα, ἡ δὲ θυσία αὐτοῦ νεφῶν ἅψηται.
+  usfm_code: JOB
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ὅταν γὰρ δοκῇ ἤδη κατεστηρίχθαι, τότε εἰς τέλος ἀπολεῖται· οἱ δὲ εἰδότες
-    αὐτὸν ἐροῦσι, ποῦ ἐστιν;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Ὅταν γὰρ δοκῇ ἤδη κατεστηρίχθαι, τότε εἰς τέλος ἀπολεῖται· οἱ δὲ εἰδότες αὐτὸν
+    ἐροῦσι, ποῦ ἐστιν;
+  usfm_code: JOB
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Ὥσπερ ἐνύπνιον ἐκπετασθὲν οὐ μὴ εὑρεθῇ, ἔπτη δὲ ὥσπερ φάσμα νυκτερινόν.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Ὥσπερ ἐνύπνιον ἐκπετασθὲν οὐ μὴ εὑρεθῇ, ἔπτη δὲ ὥσπερ φάσμα νυκτερινόν.
+  usfm_code: JOB
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Ὀφθαλμὸς παρέβλεψε, καὶ οὐ προσθήσει, καὶ οὐκ ἔτι προσνοήσει αὐτὸν ὁ
-    τόπος αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Ὀφθαλμὸς παρέβλεψε, καὶ οὐ προσθήσει, καὶ οὐκ ἔτι προσνοήσει αὐτὸν ὁ τόπος
+    αὐτοῦ.
+  usfm_code: JOB
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Τοὺς υἱοὺς αὐτοῦ ὀλέσαισαν ἥττονες, αἱ δὲ χεῖρες αὐτοῦ πυρσεύσαισαν
-    ὀδύνας.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Τοὺς υἱοὺς αὐτοῦ ὀλέσαισαν ἥττονες, αἱ δὲ χεῖρες αὐτοῦ πυρσεύσαισαν ὀδύνας.
+  usfm_code: JOB
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Ὀστᾶ αὐτοῦ ἐνεπλήσθησαν νεότητος αὐτοῦ, καὶ μετʼ αὐτοῦ ἐπὶ χώματος κοιμηθήσεται.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Ὀστᾶ αὐτοῦ ἐνεπλήσθησαν νεότητος αὐτοῦ, καὶ μετʼ αὐτοῦ ἐπὶ χώματος κοιμηθήσεται.
+  usfm_code: JOB
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Ἐὰν γλυκανθῇ ἐν στόματι αὐτοῦ κακία, κρύψει αὐτὴν ὑπὸ τὴν γλῶσσαν αὐτοῦ,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Ἐὰν γλυκανθῇ ἐν στόματι αὐτοῦ κακία, κρύψει αὐτὴν ὑπὸ τὴν γλῶσσαν αὐτοῦ,
+  usfm_code: JOB
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: οὐ φείσεται αὐτῆς, καὶ οὐκ ἐγκαταλείψει αὐτήν· καὶ συνάξει αὐτὴν ἐν
-    μέσῳ τοῦ λάρυγγος αὐτοῦ,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: οὐ φείσεται αὐτῆς, καὶ οὐκ ἐγκαταλείψει αὐτήν· καὶ συνάξει αὐτὴν ἐν μέσῳ τοῦ
+    λάρυγγος αὐτοῦ,
+  usfm_code: JOB
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: καὶ οὐ μὴ δυνηθῇ βοηθῆσαι ἑαυτῷ· χολὴ ἀσπίδος ἐν γαστρὶ αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: καὶ οὐ μὴ δυνηθῇ βοηθῆσαι ἑαυτῷ· χολὴ ἀσπίδος ἐν γαστρὶ αὐτοῦ.
+  usfm_code: JOB
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Πλοῦτος ἀδίκως συναγόμενος ἐξεμεθήσεται, ἐξ οἰκίας αὐτοῦ ἐξελκύσει αὐτὸν
-    ἄγγελος.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Πλοῦτος ἀδίκως συναγόμενος ἐξεμεθήσεται, ἐξ οἰκίας αὐτοῦ ἐξελκύσει αὐτὸν ἄγγελος.
+  usfm_code: JOB
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Θυμὸν δὲ δρακόντων θηλάσειεν, ἀνέλοι δὲ αὐτὸν γλῶσσα ὄφεως.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Θυμὸν δὲ δρακόντων θηλάσειεν, ἀνέλοι δὲ αὐτὸν γλῶσσα ὄφεως.
+  usfm_code: JOB
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Μὴ ἴδοι ἄμελξιν νομάδων, μηδὲ νομὰς μέλιτος καὶ βουτύρου.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Μὴ ἴδοι ἄμελξιν νομάδων, μηδὲ νομὰς μέλιτος καὶ βουτύρου.
+  usfm_code: JOB
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Εἰς κενὰ καὶ μάταια ἐκοπίασε, πλοῦτον ἐξ οὗ οὐ γεύσεται· ὥσπερ στρίφνος
-    ἀμάσητος, ἀκατάποτος.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Εἰς κενὰ καὶ μάταια ἐκοπίασε, πλοῦτον ἐξ οὗ οὐ γεύσεται· ὥσπερ στρίφνος ἀμάσητος,
+    ἀκατάποτος.
+  usfm_code: JOB
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Πολλῶν γὰρ δυνατῶν οἴκους ἔθλασε· δίαιταν δὲ ἥρπασε, καὶ οὐκ ἔστησεν.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Πολλῶν γὰρ δυνατῶν οἴκους ἔθλασε· δίαιταν δὲ ἥρπασε, καὶ οὐκ ἔστησεν.
+  usfm_code: JOB
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Οὐκ ἔστιν αὐτοῦ σωτηρία τοῖς ὑπάρχουσιν, ἐν ἐπιθυμίᾳ αὐτοῦ οὐ σωθήσεται.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Οὐκ ἔστιν αὐτοῦ σωτηρία τοῖς ὑπάρχουσιν, ἐν ἐπιθυμίᾳ αὐτοῦ οὐ σωθήσεται.
+  usfm_code: JOB
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: Οὐκ ἔστιν ὑπόλειμμα τοῖς βρώμασιν αὐτοῦ, διὰ τοῦτο οὐκ ἀνθήσει αὐτοῦ
-    τὰ ἀγαθά.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Οὐκ ἔστιν ὑπόλειμμα τοῖς βρώμασιν αὐτοῦ, διὰ τοῦτο οὐκ ἀνθήσει αὐτοῦ τὰ ἀγαθά.
+  usfm_code: JOB
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: Ὅταν δὲ δοκῇ ἤδη πεπληρῶσθαι, θλιβήσεται, πᾶσα δὲ ἀνάγκη ἐπʼ αὐτὸν ἐπελεύσεται.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Ὅταν δὲ δοκῇ ἤδη πεπληρῶσθαι, θλιβήσεται, πᾶσα δὲ ἀνάγκη ἐπʼ αὐτὸν ἐπελεύσεται.
+  usfm_code: JOB
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: Εἴ πῶς εἶ πληρῶσαι γαστέρα αὐτοῦ, ἐπαποστείλαι ἐπʼ αὐτὸν θυμὸν ὀργῆς,
-    νίψαι ἐπʼ αὐτὸν ὀδύνας,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Εἴ πῶς εἶ πληρῶσαι γαστέρα αὐτοῦ, ἐπαποστείλαι ἐπʼ αὐτὸν θυμὸν ὀργῆς, νίψαι
+    ἐπʼ αὐτὸν ὀδύνας,
+  usfm_code: JOB
+  verse: '23'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 24
-  verse_text: καὶ οὐ μὴ σωθῇ ἐκ χειρὸς σιδήρου· τρώσαι αὐτὸν τόξον χάλκειον.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: καὶ οὐ μὴ σωθῇ ἐκ χειρὸς σιδήρου· τρώσαι αὐτὸν τόξον χάλκειον.
+  usfm_code: JOB
+  verse: '24'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 25
-  verse_text: Διεξέλθοι δὲ διὰ σώματος αὐτοῦ βέλος, ἄστρα δὲ ἐν διαίταις αὐτοῦ· περιπατήσαισαν
+  text: Διεξέλθοι δὲ διὰ σώματος αὐτοῦ βέλος, ἄστρα δὲ ἐν διαίταις αὐτοῦ· περιπατήσαισαν
     ἐπʼ αὐτῷ φόβοι,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  usfm_code: JOB
+  verse: '25'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 26
-  verse_text: πᾶν δὲ σκότος αὐτῷ ὑπομείναι· κατέδεται αὐτὸν πῦρ ἄκαυστον, κακώσαι
-    δὲ αὐτοῦ ἐπήλυτος τὸν οἶκον.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: πᾶν δὲ σκότος αὐτῷ ὑπομείναι· κατέδεται αὐτὸν πῦρ ἄκαυστον, κακώσαι δὲ αὐτοῦ
+    ἐπήλυτος τὸν οἶκον.
+  usfm_code: JOB
+  verse: '26'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 27
-  verse_text: Ἀνακάλυψαι δὲ αὐτοῦ ὁ οὐρανὸς τὰς ἀνομίας, γῆ δὲ ἐπανασταίη αὐτῷ.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Ἀνακάλυψαι δὲ αὐτοῦ ὁ οὐρανὸς τὰς ἀνομίας, γῆ δὲ ἐπανασταίη αὐτῷ.
+  usfm_code: JOB
+  verse: '27'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 28
-  verse_text: Ἑλκύσαι τὸν οἶκον αὐτοῦ ἀπώλεια εἰς τέλος, ἡμέρα ὀργῆς ἐπέλθοι αὐτῷ.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 20
-  book_usfm_code: JOB
-  chapter_number: 20
+  text: Ἑλκύσαι τὸν οἶκον αὐτοῦ ἀπώλεια εἰς τέλος, ἡμέρα ὀργῆς ἐπέλθοι αὐτῷ.
+  usfm_code: JOB
+  verse: '28'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 20
+  chapter: 20
   iso-639-2_language_code: grc
-  verse_number: 29
-  verse_text: Αὕτη ἡ μέρις ἀνθρώπου ἀσεβοῦς παρὰ Κυρίου, καὶ κτῆμα ὑπαρχόντων αὐτῷ
-    παρὰ τοῦ ἐπισκόπου.
+  text: Αὕτη ἡ μέρις ἀνθρώπου ἀσεβοῦς παρὰ Κυρίου, καὶ κτῆμα ὑπαρχόντων αὐτῷ παρὰ
+    τοῦ ἐπισκόπου.
+  usfm_code: JOB
+  verse: '29'

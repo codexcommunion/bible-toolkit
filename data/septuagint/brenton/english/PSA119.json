@@ -1,58 +1,58 @@
 [
     {
-        "book_title": "Brenton Septuagint Translation Psalms 119",
-        "book_usfm_code": "PSA",
-        "chapter_number": 119,
-        "verse_number": 1,
-        "verse_text": "A Song of Degrees.",
+        "book": "Brenton Septuagint Translation Psalms 119",
+        "usfm_code": "PSA",
+        "chapter": 119,
+        "verse": "1",
+        "text": "A Song of Degrees.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 119",
-        "book_usfm_code": "PSA",
-        "chapter_number": 119,
-        "verse_number": 2,
-        "verse_text": "Deliver my soul, O Lord, from unjust lips, and from a deceitful tongue.",
+        "book": "Brenton Septuagint Translation Psalms 119",
+        "usfm_code": "PSA",
+        "chapter": 119,
+        "verse": "2",
+        "text": "Deliver my soul, O Lord, from unjust lips, and from a deceitful tongue.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 119",
-        "book_usfm_code": "PSA",
-        "chapter_number": 119,
-        "verse_number": 3,
-        "verse_text": "What should be given to thee, and what should be added to thee, for thy crafty tongue?",
+        "book": "Brenton Septuagint Translation Psalms 119",
+        "usfm_code": "PSA",
+        "chapter": 119,
+        "verse": "3",
+        "text": "What should be given to thee, and what should be added to thee, for thy crafty tongue?",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 119",
-        "book_usfm_code": "PSA",
-        "chapter_number": 119,
-        "verse_number": 4,
-        "verse_text": "Sharpened weapons of the mighty, with coals of the desert.",
+        "book": "Brenton Septuagint Translation Psalms 119",
+        "usfm_code": "PSA",
+        "chapter": 119,
+        "verse": "4",
+        "text": "Sharpened weapons of the mighty, with coals of the desert.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 119",
-        "book_usfm_code": "PSA",
-        "chapter_number": 119,
-        "verse_number": 5,
-        "verse_text": "Woe is me, that my sojourning is prolonged; I have tabernacled among the tents of Kedar.",
+        "book": "Brenton Septuagint Translation Psalms 119",
+        "usfm_code": "PSA",
+        "chapter": 119,
+        "verse": "5",
+        "text": "Woe is me, that my sojourning is prolonged; I have tabernacled among the tents of Kedar.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 119",
-        "book_usfm_code": "PSA",
-        "chapter_number": 119,
-        "verse_number": 6,
-        "verse_text": "My soul has long been a sojourner;",
+        "book": "Brenton Septuagint Translation Psalms 119",
+        "usfm_code": "PSA",
+        "chapter": 119,
+        "verse": "6",
+        "text": "My soul has long been a sojourner;",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 119",
-        "book_usfm_code": "PSA",
-        "chapter_number": 119,
-        "verse_number": 7,
-        "verse_text": "I was peaceable among them that hated peace; when I spoke to them, they warred against me without a cause.",
+        "book": "Brenton Septuagint Translation Psalms 119",
+        "usfm_code": "PSA",
+        "chapter": 119,
+        "verse": "7",
+        "text": "I was peaceable among them that hated peace; when I spoke to them, they warred against me without a cause.",
         "iso-639-2_language_code": "eng"
     }
 ]

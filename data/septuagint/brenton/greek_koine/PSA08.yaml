@@ -1,66 +1,65 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
-  book_usfm_code: PSA
-  chapter_number: 8
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
+  chapter: 8
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Εἰς τὸ τέλος, ὑπὲρ τῶν ληνῶν, ψαλμὸς τῷ Δαυίδ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
-  book_usfm_code: PSA
-  chapter_number: 8
+  text: Εἰς τὸ τέλος, ὑπὲρ τῶν ληνῶν, ψαλμὸς τῷ Δαυίδ.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
+  chapter: 8
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Κύριε ὁ Κύριος ἡμῶν, ὡς θαυμαστὸν τὸ ὄνομά σου ἐν πάσῃ τῇ γῇ; ὅτι ἐπῄρθη
-    ἡ μεγαλοπρέπειά σου ὑπεράνω τῶν οὐρανῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
-  book_usfm_code: PSA
-  chapter_number: 8
+  text: Κύριε ὁ Κύριος ἡμῶν, ὡς θαυμαστὸν τὸ ὄνομά σου ἐν πάσῃ τῇ γῇ; ὅτι ἐπῄρθη ἡ
+    μεγαλοπρέπειά σου ὑπεράνω τῶν οὐρανῶν.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
+  chapter: 8
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ἐκ στόματος νηπίων καὶ θηλαζόντων κατηρτίσω αἶνον· ἕνεκα τῶν ἐχθρῶν
-    σου, τοῦ καταλῦσαι ἐχθρὸν καὶ ἐκδικητήν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
-  book_usfm_code: PSA
-  chapter_number: 8
+  text: Ἐκ στόματος νηπίων καὶ θηλαζόντων κατηρτίσω αἶνον· ἕνεκα τῶν ἐχθρῶν σου, τοῦ
+    καταλῦσαι ἐχθρὸν καὶ ἐκδικητήν.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
+  chapter: 8
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Ὅτι ὄψομαι τοὺς οὐρανοὺς ἔργα τῶν δακτύλων σου, σελήνην καὶ ἀστέρας,
-    ἃ σὺ ἐθεμελίωσας·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
-  book_usfm_code: PSA
-  chapter_number: 8
+  text: Ὅτι ὄψομαι τοὺς οὐρανοὺς ἔργα τῶν δακτύλων σου, σελήνην καὶ ἀστέρας, ἃ σὺ
+    ἐθεμελίωσας·
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
+  chapter: 8
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Τί ἐστιν ἄνθρωπος, ὅτι μιμνήσκῃ αὐτοῦ; ἢ υἱὸς ἀνθρώπου, ὅτι ἐπισκέπτῃ
-    αὐτόν;
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
-  book_usfm_code: PSA
-  chapter_number: 8
+  text: Τί ἐστιν ἄνθρωπος, ὅτι μιμνήσκῃ αὐτοῦ; ἢ υἱὸς ἀνθρώπου, ὅτι ἐπισκέπτῃ αὐτόν;
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
+  chapter: 8
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ἠλάττωσας αὐτὸν βραχύ τι παρʼ ἀγγέλους, δόξῃ καὶ τιμῇ ἐστεφάνωσας αὐτὸν,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
-  book_usfm_code: PSA
-  chapter_number: 8
+  text: Ἠλάττωσας αὐτὸν βραχύ τι παρʼ ἀγγέλους, δόξῃ καὶ τιμῇ ἐστεφάνωσας αὐτὸν,
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
+  chapter: 8
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: καὶ κατέστησας αὐτὸν ἐπὶ τὰ ἔργα τῶν χειρῶν σου· πάντα ὑπέταξας ὑποκάτω
-    τῶν ποδῶν αὐτοῦ,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
-  book_usfm_code: PSA
-  chapter_number: 8
+  text: καὶ κατέστησας αὐτὸν ἐπὶ τὰ ἔργα τῶν χειρῶν σου· πάντα ὑπέταξας ὑποκάτω τῶν
+    ποδῶν αὐτοῦ,
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
+  chapter: 8
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: πρόβατα καὶ βόας πάσας, ἔτι δὲ καὶ τὰ κτήνη τοῦ πεδίου,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
-  book_usfm_code: PSA
-  chapter_number: 8
+  text: πρόβατα καὶ βόας πάσας, ἔτι δὲ καὶ τὰ κτήνη τοῦ πεδίου,
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
+  chapter: 8
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: τὰ πετεινὰ τοῦ οὐρανοῦ, καὶ τοὺς ἰχθύας τῆς θαλάσσης, τὰ διαπορευόμενα
-    τρίβους θαλασσῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
-  book_usfm_code: PSA
-  chapter_number: 8
+  text: τὰ πετεινὰ τοῦ οὐρανοῦ, καὶ τοὺς ἰχθύας τῆς θαλάσσης, τὰ διαπορευόμενα τρίβους
+    θαλασσῶν.
+  usfm_code: PSA
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 8
+  chapter: 8
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Κύριε ὁ Κύριος ἡμῶν, ὡς θαυμαστὸν ὄνομά σου ἐν πάσῃ τῇ γῇ;
+  text: Κύριε ὁ Κύριος ἡμῶν, ὡς θαυμαστὸν ὄνομά σου ἐν πάσῃ τῇ γῇ;
+  usfm_code: PSA
+  verse: '10'

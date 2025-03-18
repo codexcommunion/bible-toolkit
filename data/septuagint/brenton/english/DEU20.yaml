@@ -1,153 +1,151 @@
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: And if thou shouldest go forth to war against thine enemies, and shouldest
+  text: And if thou shouldest go forth to war against thine enemies, and shouldest
     see horse, and rider, and a people more numerous than thyself; thou shalt not
     be afraid of them, for the Lord thy God is with thee, who brought thee up out
     of the land of Egypt.
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  usfm_code: DEU
+  verse: '1'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: And it shall come to pass whenever thou shalt draw nigh to battle, that
-    the priest shall draw nigh and speak to the people, and shall say to them,
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  text: And it shall come to pass whenever thou shalt draw nigh to battle, that the
+    priest shall draw nigh and speak to the people, and shall say to them,
+  usfm_code: DEU
+  verse: '2'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: 'Hear, O Israel; ye are going this day to battle against your enemies:
-    let not your heart faint, fear not, neither be confounded, neither turn aside
-    from their face.'
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  text: 'Hear, O Israel; ye are going this day to battle against your enemies: let
+    not your heart faint, fear not, neither be confounded, neither turn aside from
+    their face.'
+  usfm_code: DEU
+  verse: '3'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: For it is the Lord your God who advances with you, to fight with you
-    against your enemies, and to save you.
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  text: For it is the Lord your God who advances with you, to fight with you against
+    your enemies, and to save you.
+  usfm_code: DEU
+  verse: '4'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: And the scribes shall speak to the people, saying, What man is he that
-    has built a new house, and has not dedicated it? let him go and return to his
-    house, lest he die in the war, and another man dedicate it.
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  text: And the scribes shall speak to the people, saying, What man is he that has
+    built a new house, and has not dedicated it? let him go and return to his house,
+    lest he die in the war, and another man dedicate it.
+  usfm_code: DEU
+  verse: '5'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: And what man is he that has planted a vineyard, and not been made merry
-    with it? let him go and return to his house, lest he die in the battle, and another
+  text: And what man is he that has planted a vineyard, and not been made merry with
+    it? let him go and return to his house, lest he die in the battle, and another
     man be made merry with it.
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  usfm_code: DEU
+  verse: '6'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: And what man is he that has betrothed a wife, and has not taken her?
-    let him go and return to his house, lest he die in the battle, and another man
-    take her.
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  text: And what man is he that has betrothed a wife, and has not taken her? let him
+    go and return to his house, lest he die in the battle, and another man take her.
+  usfm_code: DEU
+  verse: '7'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: And the scribes shall speak further to the people, and say, What man
-    is he that fears and is cowardly in his heart? Let him go and return to his house,
-    lest he make the heart of his brother fail, as his own.
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  text: And the scribes shall speak further to the people, and say, What man is he
+    that fears and is cowardly in his heart? Let him go and return to his house, lest
+    he make the heart of his brother fail, as his own.
+  usfm_code: DEU
+  verse: '8'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: And it shall come to pass when the scribes shall have ceased speaking
-    to the people, that they shall appoint generals of the army to be leaders of the
-    people.
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  text: And it shall come to pass when the scribes shall have ceased speaking to the
+    people, that they shall appoint generals of the army to be leaders of the people.
+  usfm_code: DEU
+  verse: '9'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: And if thou shalt draw nigh to a city to overcome them by war, then
-    call them out peaceably.
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  text: And if thou shalt draw nigh to a city to overcome them by war, then call them
+    out peaceably.
+  usfm_code: DEU
+  verse: '10'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: If then they should answer peaceably to thee, and open to thee, it shall
-    be that all the people found in it shall be tributary and subject to thee.
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  text: If then they should answer peaceably to thee, and open to thee, it shall be
+    that all the people found in it shall be tributary and subject to thee.
+  usfm_code: DEU
+  verse: '11'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: But if they will not hearken to thee, but wage war against thee, thou
-    shalt invest it;
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  text: But if they will not hearken to thee, but wage war against thee, thou shalt
+    invest it;
+  usfm_code: DEU
+  verse: '12'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: 'until the Lord thy God shall deliver it into thy hands, and thou shalt
-    smite every male of it with the edge of the sword:'
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  text: 'until the Lord thy God shall deliver it into thy hands, and thou shalt smite
+    every male of it with the edge of the sword:'
+  usfm_code: DEU
+  verse: '13'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 14
-  verse_text: 'except the women and the stuff: and all the cattle, and whatsoever
-    shall be in the city, and all the plunder thou shalt take as spoil for thyself,
-    and shalt eat all the plunder of thine enemies whom the Lord thy God gives thee.'
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  text: 'except the women and the stuff: and all the cattle, and whatsoever shall
+    be in the city, and all the plunder thou shalt take as spoil for thyself, and
+    shalt eat all the plunder of thine enemies whom the Lord thy God gives thee.'
+  usfm_code: DEU
+  verse: '14'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: Thus shalt thou do to all the cities that are very far off from thee,
-    not being of the cities of these nations which the Lord thy God gives thee to
-    inherit their land.
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  text: Thus shalt thou do to all the cities that are very far off from thee, not
+    being of the cities of these nations which the Lord thy God gives thee to inherit
+    their land.
+  usfm_code: DEU
+  verse: '15'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 16
-  verse_text: Of these ye shall not take any thing alive;
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  text: Of these ye shall not take any thing alive;
+  usfm_code: DEU
+  verse: '16'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 17
-  verse_text: 'but ye shall surely curse them, the Chettite, and the Amorite, and
-    the Chananite, and the Pherezite, and the Evite, and the Jebusite, and the Gergesite;
-    as the Lord thy God commanded thee:'
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  text: 'but ye shall surely curse them, the Chettite, and the Amorite, and the Chananite,
+    and the Pherezite, and the Evite, and the Jebusite, and the Gergesite; as the
+    Lord thy God commanded thee:'
+  usfm_code: DEU
+  verse: '17'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 18
-  verse_text: that they may not teach you to do all their abominations, which they
-    did to their gods, and so ye should sin before the Lord your God.
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  text: that they may not teach you to do all their abominations, which they did to
+    their gods, and so ye should sin before the Lord your God.
+  usfm_code: DEU
+  verse: '18'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 19
-  verse_text: 'And if thou shouldest besiege a city many days to prevail against it
-    by war to take it, thou shalt not destroy its trees, by applying an iron tool
-    to them, but thou shalt eat of it, and shalt not cut it down: Is the tree that
-    is in the field a man, to enter before thee into the work of the siege?'
-- book_title: Brenton Septuagint Translation Deuteronomy 20
-  book_usfm_code: DEU
-  chapter_number: 20
+  text: 'And if thou shouldest besiege a city many days to prevail against it by war
+    to take it, thou shalt not destroy its trees, by applying an iron tool to them,
+    but thou shalt eat of it, and shalt not cut it down: Is the tree that is in the
+    field a man, to enter before thee into the work of the siege?'
+  usfm_code: DEU
+  verse: '19'
+- book: Brenton Septuagint Translation Deuteronomy 20
+  chapter: 20
   iso-639-2_language_code: eng
-  verse_number: 20
-  verse_text: But the tree which thou knowest to be not fruit-bearing, this thou shalt
-    destroy and cut down; and thou shalt construct a mound against the city, which
-    makes war against thee, until it be delivered up.
+  text: But the tree which thou knowest to be not fruit-bearing, this thou shalt destroy
+    and cut down; and thou shalt construct a mound against the city, which makes war
+    against thee, until it be delivered up.
+  usfm_code: DEU
+  verse: '20'

@@ -1,193 +1,190 @@
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: A man shall not take his father's wife, and shall not uncover his father's
+  text: A man shall not take his father's wife, and shall not uncover his father's
     skirt.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+  usfm_code: DEU
+  verse: '1'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: He that is fractured or mutilated in his private parts shall not enter
-    into the assembly of the Lord.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
-  iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: One born of a harlot shall not enter into the assembly of the Lord.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
-  iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: 'The Ammanite and Moabite shall not enter into the assembly of the Lord,
-    even until the tenth generation he shall not enter into the assembly of the Lord,
-    even for ever:'
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
-  iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: because they met you not with bread and water by the way, when ye went
-    out of Egypt; and because they hired against thee Balaam the son of Beor of Mesopotamia
-    to curse thee.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
-  iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: But the Lord thy God would not hearken to Balaam; and the Lord thy God
-    changed the curses into blessings, because the Lord thy God loved thee.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
-  iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: Thou shalt not speak peaceably or profitably to them all thy days for
-    ever.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
-  iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: Thou shalt not abhor an Edomite, because he is thy brother; thou shalt
-    not abhor an Egyptian, because thou wast a stranger in his land.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
-  iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: If sons be born to them, in the third generation they shall enter into
+  text: He that is fractured or mutilated in his private parts shall not enter into
     the assembly of the Lord.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+  usfm_code: DEU
+  verse: '2'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: And if thou shouldest go forth to engage with thine enemies, then thou
-    shalt keep thee from every wicked thing.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+  text: One born of a harlot shall not enter into the assembly of the Lord.
+  usfm_code: DEU
+  verse: '3'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: If there should be in thee a man who is not clean by reason of his issue
-    by night, then he shall go forth out of the camp, and he shall not enter into
-    the camp.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+  text: 'The Ammanite and Moabite shall not enter into the assembly of the Lord, even
+    until the tenth generation he shall not enter into the assembly of the Lord, even
+    for ever:'
+  usfm_code: DEU
+  verse: '4'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: And it shall come to pass toward evening he shall wash his body with
-    water, and when the sun has gone down, he shall go into the camp.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+  text: because they met you not with bread and water by the way, when ye went out
+    of Egypt; and because they hired against thee Balaam the son of Beor of Mesopotamia
+    to curse thee.
+  usfm_code: DEU
+  verse: '5'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: And thou shalt have a place outside of the camp, and thou shalt go out
-    thither,
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+  text: But the Lord thy God would not hearken to Balaam; and the Lord thy God changed
+    the curses into blessings, because the Lord thy God loved thee.
+  usfm_code: DEU
+  verse: '6'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 14
-  verse_text: and thou shalt have a trowel on thy girdle; and it shall come to pass
-    when thou wouldest relieve thyself abroad, that thou shalt dig with it, and shalt
-    bring back the earth and cover thy nuisance.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+  text: Thou shalt not speak peaceably or profitably to them all thy days for ever.
+  usfm_code: DEU
+  verse: '7'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: Because the Lord thy God walks in thy camp to deliver thee, and to give
-    up thine enemy before thy face; and thy camp shall be holy, and there shall not
-    appear in thee a disgraceful thing, and so he shall turn away from thee.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+  text: Thou shalt not abhor an Edomite, because he is thy brother; thou shalt not
+    abhor an Egyptian, because thou wast a stranger in his land.
+  usfm_code: DEU
+  verse: '8'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 16
-  verse_text: Thou shalt not deliver a servant to his master, who coming from his
-    master attaches himself to thee.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+  text: If sons be born to them, in the third generation they shall enter into the
+    assembly of the Lord.
+  usfm_code: DEU
+  verse: '9'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 17
-  verse_text: He shall dwell with thee, he shall dwell among you where he shall please;
+  text: And if thou shouldest go forth to engage with thine enemies, then thou shalt
+    keep thee from every wicked thing.
+  usfm_code: DEU
+  verse: '10'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
+  iso-639-2_language_code: eng
+  text: If there should be in thee a man who is not clean by reason of his issue by
+    night, then he shall go forth out of the camp, and he shall not enter into the
+    camp.
+  usfm_code: DEU
+  verse: '11'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
+  iso-639-2_language_code: eng
+  text: And it shall come to pass toward evening he shall wash his body with water,
+    and when the sun has gone down, he shall go into the camp.
+  usfm_code: DEU
+  verse: '12'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
+  iso-639-2_language_code: eng
+  text: And thou shalt have a place outside of the camp, and thou shalt go out thither,
+  usfm_code: DEU
+  verse: '13'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
+  iso-639-2_language_code: eng
+  text: and thou shalt have a trowel on thy girdle; and it shall come to pass when
+    thou wouldest relieve thyself abroad, that thou shalt dig with it, and shalt bring
+    back the earth and cover thy nuisance.
+  usfm_code: DEU
+  verse: '14'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
+  iso-639-2_language_code: eng
+  text: Because the Lord thy God walks in thy camp to deliver thee, and to give up
+    thine enemy before thy face; and thy camp shall be holy, and there shall not appear
+    in thee a disgraceful thing, and so he shall turn away from thee.
+  usfm_code: DEU
+  verse: '15'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
+  iso-639-2_language_code: eng
+  text: Thou shalt not deliver a servant to his master, who coming from his master
+    attaches himself to thee.
+  usfm_code: DEU
+  verse: '16'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
+  iso-639-2_language_code: eng
+  text: He shall dwell with thee, he shall dwell among you where he shall please;
     thou shalt not afflict him.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+  usfm_code: DEU
+  verse: '17'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 18
-  verse_text: There shall not be a harlot of the daughters of Israel, and there shall
-    not be a fornicator of the sons of Israel; there shall not be an idolatress of
-    the daughters of Israel, and there shall not be an initiated person of the sons
-    of Israel.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+  text: There shall not be a harlot of the daughters of Israel, and there shall not
+    be a fornicator of the sons of Israel; there shall not be an idolatress of the
+    daughters of Israel, and there shall not be an initiated person of the sons of
+    Israel.
+  usfm_code: DEU
+  verse: '18'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 19
-  verse_text: Thou shalt not bring the hire of a harlot, nor the price of a dog into
-    the house of the Lord thy God, for any vow; because even both are an abomination
-    to the Lord thy God.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+  text: Thou shalt not bring the hire of a harlot, nor the price of a dog into the
+    house of the Lord thy God, for any vow; because even both are an abomination to
+    the Lord thy God.
+  usfm_code: DEU
+  verse: '19'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 20
-  verse_text: Thou shalt not lend to thy brother on usury of silver, or usury of meat,
-    or usury of any thing which thou mayest lend out.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+  text: Thou shalt not lend to thy brother on usury of silver, or usury of meat, or
+    usury of any thing which thou mayest lend out.
+  usfm_code: DEU
+  verse: '20'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 21
-  verse_text: Thou mayest lend on usury to a stranger, but to thy brother thou shalt
-    not lend on usury; that the Lord thy God may bless thee in all thy works upon
-    the land, into which thou art entering to inherit it.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+  text: Thou mayest lend on usury to a stranger, but to thy brother thou shalt not
+    lend on usury; that the Lord thy God may bless thee in all thy works upon the
+    land, into which thou art entering to inherit it.
+  usfm_code: DEU
+  verse: '21'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 22
-  verse_text: And if thou wilt vow a vow to the Lord thy God, thou shalt not delay
-    to pay it; for the Lord thy God will surely require it of thee, and otherwise
-    it shall be sin in thee.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+  text: And if thou wilt vow a vow to the Lord thy God, thou shalt not delay to pay
+    it; for the Lord thy God will surely require it of thee, and otherwise it shall
+    be sin in thee.
+  usfm_code: DEU
+  verse: '22'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 23
-  verse_text: But if thou shouldest be unwilling to vow, it is not sin in thee.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+  text: But if thou shouldest be unwilling to vow, it is not sin in thee.
+  usfm_code: DEU
+  verse: '23'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 24
-  verse_text: Thou shalt observe the words that proceed from between thy lips; and
-    as thou hast vowed a gift to the Lord God, so shalt thou do that which thou hast
-    spoken with thy mouth.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+  text: Thou shalt observe the words that proceed from between thy lips; and as thou
+    hast vowed a gift to the Lord God, so shalt thou do that which thou hast spoken
+    with thy mouth.
+  usfm_code: DEU
+  verse: '24'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 25
-  verse_text: And if thou shouldest go into the corn field of thy neighbour, then
-    thou mayest gather the ears with thy hands; but thou shalt not put the sickle
-    to thy neighbour's corn.
-- book_title: Brenton Septuagint Translation Deuteronomy 23
-  book_usfm_code: DEU
-  chapter_number: 23
+  text: And if thou shouldest go into the corn field of thy neighbour, then thou mayest
+    gather the ears with thy hands; but thou shalt not put the sickle to thy neighbour's
+    corn.
+  usfm_code: DEU
+  verse: '25'
+- book: Brenton Septuagint Translation Deuteronomy 23
+  chapter: 23
   iso-639-2_language_code: eng
-  verse_number: 26
-  verse_text: And if thou shouldest go into the vineyard of thy neighbour, thou shalt
-    eat grapes sufficient to satisfy thy desire; but thou mayest not put them into
-    a vessel.
+  text: And if thou shouldest go into the vineyard of thy neighbour, thou shalt eat
+    grapes sufficient to satisfy thy desire; but thou mayest not put them into a vessel.
+  usfm_code: DEU
+  verse: '26'

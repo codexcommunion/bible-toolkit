@@ -1,113 +1,110 @@
-- book_title: Brenton Septuagint Translation Psalms 80
-  book_usfm_code: PSA
-  chapter_number: 80
+- book: Brenton Septuagint Translation Psalms 80
+  chapter: 80
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: For the end, a Psalm for Asaph, concerning the wine-presses.
-- book_title: Brenton Septuagint Translation Psalms 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: For the end, a Psalm for Asaph, concerning the wine-presses.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 80
+  chapter: 80
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: Rejoice ye in God our helper; shout aloud to the God of Jacob.
-- book_title: Brenton Septuagint Translation Psalms 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: Rejoice ye in God our helper; shout aloud to the God of Jacob.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 80
+  chapter: 80
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: Take a psalm, and produce the timbrel, the pleasant psaltery with the
-    harp.
-- book_title: Brenton Septuagint Translation Psalms 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: Take a psalm, and produce the timbrel, the pleasant psaltery with the harp.
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 80
+  chapter: 80
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: Blow the trumpet at the new moon, in the glorious day of your feast.
-- book_title: Brenton Septuagint Translation Psalms 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: Blow the trumpet at the new moon, in the glorious day of your feast.
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 80
+  chapter: 80
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: For this is an ordinance for Israel, and a statute of the God of Jacob.
-- book_title: Brenton Septuagint Translation Psalms 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: For this is an ordinance for Israel, and a statute of the God of Jacob.
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 80
+  chapter: 80
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: 'He made it to be a testimony in Joseph, when he came forth out of the
-    land of Egypt: he heard a language which he understood not.'
-- book_title: Brenton Septuagint Translation Psalms 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: 'He made it to be a testimony in Joseph, when he came forth out of the land
+    of Egypt: he heard a language which he understood not.'
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 80
+  chapter: 80
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: 'He removed his back from burdens: his hands slaved in making the baskets.'
-- book_title: Brenton Septuagint Translation Psalms 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: 'He removed his back from burdens: his hands slaved in making the baskets.'
+  usfm_code: PSA
+  verse: '7'
+- book: Brenton Septuagint Translation Psalms 80
+  chapter: 80
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: 'Thou didst call upon me in trouble, and I delivered thee; I heard thee
-    in the secret place of the storm: I proved thee at the water of Strife. Pause.'
-- book_title: Brenton Septuagint Translation Psalms 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: 'Thou didst call upon me in trouble, and I delivered thee; I heard thee in
+    the secret place of the storm: I proved thee at the water of Strife. Pause.'
+  usfm_code: PSA
+  verse: '8'
+- book: Brenton Septuagint Translation Psalms 80
+  chapter: 80
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: 'Hear, my people, and I will speak to thee, O Israel; and I will testify
-    to thee: if thou wilt hearken to me;'
-- book_title: Brenton Septuagint Translation Psalms 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: 'Hear, my people, and I will speak to thee, O Israel; and I will testify to
+    thee: if thou wilt hearken to me;'
+  usfm_code: PSA
+  verse: '9'
+- book: Brenton Septuagint Translation Psalms 80
+  chapter: 80
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: there shall be no new god in thee; neither shalt thou worship a strange
-    god.
-- book_title: Brenton Septuagint Translation Psalms 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: there shall be no new god in thee; neither shalt thou worship a strange god.
+  usfm_code: PSA
+  verse: '10'
+- book: Brenton Septuagint Translation Psalms 80
+  chapter: 80
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: 'For I am the Lord thy God, that brought thee out of the land of Egypt:
-    open thy mouth wide, and I will fill it.'
-- book_title: Brenton Septuagint Translation Psalms 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: 'For I am the Lord thy God, that brought thee out of the land of Egypt: open
+    thy mouth wide, and I will fill it.'
+  usfm_code: PSA
+  verse: '11'
+- book: Brenton Septuagint Translation Psalms 80
+  chapter: 80
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: But my people hearkened not to my voice; and Israel gave no heed to
-    me.
-- book_title: Brenton Septuagint Translation Psalms 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: But my people hearkened not to my voice; and Israel gave no heed to me.
+  usfm_code: PSA
+  verse: '12'
+- book: Brenton Septuagint Translation Psalms 80
+  chapter: 80
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: 'So I let them go after the ways of their own hearts: they will go on
-    in their own ways.'
-- book_title: Brenton Septuagint Translation Psalms 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: 'So I let them go after the ways of their own hearts: they will go on in their
+    own ways.'
+  usfm_code: PSA
+  verse: '13'
+- book: Brenton Septuagint Translation Psalms 80
+  chapter: 80
   iso-639-2_language_code: eng
-  verse_number: 14
-  verse_text: If my people had hearkened to me, if Israel had walked in my ways,
-- book_title: Brenton Septuagint Translation Psalms 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: If my people had hearkened to me, if Israel had walked in my ways,
+  usfm_code: PSA
+  verse: '14'
+- book: Brenton Septuagint Translation Psalms 80
+  chapter: 80
   iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: I should have put down their enemies very quickly, and should have laid
-    my hand upon those that afflicted them.
-- book_title: Brenton Septuagint Translation Psalms 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: I should have put down their enemies very quickly, and should have laid my
+    hand upon those that afflicted them.
+  usfm_code: PSA
+  verse: '15'
+- book: Brenton Septuagint Translation Psalms 80
+  chapter: 80
   iso-639-2_language_code: eng
-  verse_number: 16
-  verse_text: 'The Lord''s enemies should have lied to him: but their time shall be
-    for ever.'
-- book_title: Brenton Septuagint Translation Psalms 80
-  book_usfm_code: PSA
-  chapter_number: 80
+  text: 'The Lord''s enemies should have lied to him: but their time shall be for
+    ever.'
+  usfm_code: PSA
+  verse: '16'
+- book: Brenton Septuagint Translation Psalms 80
+  chapter: 80
   iso-639-2_language_code: eng
-  verse_number: 17
-  verse_text: And he fed them with the fat of wheat; and satisfied them with honey
-    out of the rock.
+  text: And he fed them with the fat of wheat; and satisfied them with honey out of
+    the rock.
+  usfm_code: PSA
+  verse: '17'

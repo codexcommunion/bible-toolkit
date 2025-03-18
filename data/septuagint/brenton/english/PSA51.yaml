@@ -1,74 +1,73 @@
-- book_title: Brenton Septuagint Translation Psalms 51
-  book_usfm_code: PSA
-  chapter_number: 51
+- book: Brenton Septuagint Translation Psalms 51
+  chapter: 51
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: For the end, a Psalm of instruction by David,
-- book_title: Brenton Septuagint Translation Psalms 51
-  book_usfm_code: PSA
-  chapter_number: 51
+  text: For the end, a Psalm of instruction by David,
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 51
+  chapter: 51
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: when Doec the Idumean came and told Saul, and said to him, David is
-    gone to the house of Abimelech.
-- book_title: Brenton Septuagint Translation Psalms 51
-  book_usfm_code: PSA
-  chapter_number: 51
+  text: when Doec the Idumean came and told Saul, and said to him, David is gone to
+    the house of Abimelech.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 51
+  chapter: 51
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: Why dost thou, O mighty man, boast of iniquity in thy mischief? All
-    the day
-- book_title: Brenton Septuagint Translation Psalms 51
-  book_usfm_code: PSA
-  chapter_number: 51
+  text: Why dost thou, O mighty man, boast of iniquity in thy mischief? All the day
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 51
+  chapter: 51
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: thy tongue has devised unrighteousness; like a sharpened razor thou
-    hast wrought deceit.
-- book_title: Brenton Septuagint Translation Psalms 51
-  book_usfm_code: PSA
-  chapter_number: 51
+  text: thy tongue has devised unrighteousness; like a sharpened razor thou hast wrought
+    deceit.
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 51
+  chapter: 51
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: Thou hast loved wickedness more than goodness; unrighteousness better
-    than to speak righteousness. Pause.
-- book_title: Brenton Septuagint Translation Psalms 51
-  book_usfm_code: PSA
-  chapter_number: 51
+  text: Thou hast loved wickedness more than goodness; unrighteousness better than
+    to speak righteousness. Pause.
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 51
+  chapter: 51
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: Thou hast loved all words of destruction, and a deceitful tongue.
-- book_title: Brenton Septuagint Translation Psalms 51
-  book_usfm_code: PSA
-  chapter_number: 51
+  text: Thou hast loved all words of destruction, and a deceitful tongue.
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 51
+  chapter: 51
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: Therefore may God destroy thee for ever, may he pluck thee up and utterly
+  text: Therefore may God destroy thee for ever, may he pluck thee up and utterly
     remove thee from thy dwelling, and thy root from the land of the living. Pause.
-- book_title: Brenton Septuagint Translation Psalms 51
-  book_usfm_code: PSA
-  chapter_number: 51
+  usfm_code: PSA
+  verse: '7'
+- book: Brenton Septuagint Translation Psalms 51
+  chapter: 51
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: And the righteous shall see, and fear, and shall laugh at him, and say,
-- book_title: Brenton Septuagint Translation Psalms 51
-  book_usfm_code: PSA
-  chapter_number: 51
+  text: And the righteous shall see, and fear, and shall laugh at him, and say,
+  usfm_code: PSA
+  verse: '8'
+- book: Brenton Septuagint Translation Psalms 51
+  chapter: 51
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: Behold the man who made not God his help; but trusted in the abundance
-    of his wealth, and strengthened himself in his vanity.
-- book_title: Brenton Septuagint Translation Psalms 51
-  book_usfm_code: PSA
-  chapter_number: 51
+  text: Behold the man who made not God his help; but trusted in the abundance of
+    his wealth, and strengthened himself in his vanity.
+  usfm_code: PSA
+  verse: '9'
+- book: Brenton Septuagint Translation Psalms 51
+  chapter: 51
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: 'But I am as a fruitful olive in the house of God: I have trusted in
-    the mercy of God for ever, even for evermore.'
-- book_title: Brenton Septuagint Translation Psalms 51
-  book_usfm_code: PSA
-  chapter_number: 51
+  text: 'But I am as a fruitful olive in the house of God: I have trusted in the mercy
+    of God for ever, even for evermore.'
+  usfm_code: PSA
+  verse: '10'
+- book: Brenton Septuagint Translation Psalms 51
+  chapter: 51
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: 'I will give thanks to thee for ever, for thou hast done it : and I
-    will wait on thy name; for it is good before thy saints.'
+  text: 'I will give thanks to thee for ever, for thou hast done it : and I will wait
+    on thy name; for it is good before thy saints.'
+  usfm_code: PSA
+  verse: '11'

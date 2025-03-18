@@ -1,60 +1,59 @@
-- book_title: Brenton Septuagint Translation Psalms 136
-  book_usfm_code: PSA
-  chapter_number: 136
+- book: Brenton Septuagint Translation Psalms 136
+  chapter: 136
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: For David, a Psalm of Jeremias.
-- book_title: Brenton Septuagint Translation Psalms 136
-  book_usfm_code: PSA
-  chapter_number: 136
+  text: For David, a Psalm of Jeremias.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 136
+  chapter: 136
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: We hung our harps on the willows in the midst of it.
-- book_title: Brenton Septuagint Translation Psalms 136
-  book_usfm_code: PSA
-  chapter_number: 136
+  text: We hung our harps on the willows in the midst of it.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 136
+  chapter: 136
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: For there they that had taken us captive asked of us the words of a
-    song; and they that had carried us away asked a hymn, saying , Sing us one of
-    the songs of Sion.
-- book_title: Brenton Septuagint Translation Psalms 136
-  book_usfm_code: PSA
-  chapter_number: 136
+  text: For there they that had taken us captive asked of us the words of a song;
+    and they that had carried us away asked a hymn, saying , Sing us one of the songs
+    of Sion.
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 136
+  chapter: 136
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: How should we sing the Lord's song in a strange land?
-- book_title: Brenton Septuagint Translation Psalms 136
-  book_usfm_code: PSA
-  chapter_number: 136
+  text: How should we sing the Lord's song in a strange land?
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 136
+  chapter: 136
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: If I forget thee, O Jerusalem, let my right hand forget its skill .
-- book_title: Brenton Septuagint Translation Psalms 136
-  book_usfm_code: PSA
-  chapter_number: 136
+  text: If I forget thee, O Jerusalem, let my right hand forget its skill .
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 136
+  chapter: 136
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: May my tongue cleave to my throat, if I do not remember thee; if I do
-    not prefer Jerusalem as the chief of my joy.
-- book_title: Brenton Septuagint Translation Psalms 136
-  book_usfm_code: PSA
-  chapter_number: 136
+  text: May my tongue cleave to my throat, if I do not remember thee; if I do not
+    prefer Jerusalem as the chief of my joy.
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 136
+  chapter: 136
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: Remember, O Lord, the children of Edom in the day of Jerusalem; who
-    said, Rase it , rase it , even to its foundations.
-- book_title: Brenton Septuagint Translation Psalms 136
-  book_usfm_code: PSA
-  chapter_number: 136
+  text: Remember, O Lord, the children of Edom in the day of Jerusalem; who said,
+    Rase it , rase it , even to its foundations.
+  usfm_code: PSA
+  verse: '7'
+- book: Brenton Septuagint Translation Psalms 136
+  chapter: 136
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: Wretched daughter of Babylon! blessed shall he be who shall reward thee
-    as thou hast rewarded us.
-- book_title: Brenton Septuagint Translation Psalms 136
-  book_usfm_code: PSA
-  chapter_number: 136
+  text: Wretched daughter of Babylon! blessed shall he be who shall reward thee as
+    thou hast rewarded us.
+  usfm_code: PSA
+  verse: '8'
+- book: Brenton Septuagint Translation Psalms 136
+  chapter: 136
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: Blessed shall he be who shall seize and dash thine infants against the
-    rock.
+  text: Blessed shall he be who shall seize and dash thine infants against the rock.
+  usfm_code: PSA
+  verse: '9'

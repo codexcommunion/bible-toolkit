@@ -1,178 +1,175 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Εἰς τὸ τέλος, τοῖς υἱοῖς Κορὲ εἰς σύνεσιν ψαλμός.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Εἰς τὸ τέλος, τοῖς υἱοῖς Κορὲ εἰς σύνεσιν ψαλμός.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Ὁ Θεὸς ἐν τοῖς ὠσὶν ἡμῶν ἠκούσαμεν, οἱ πατέρες ἡμῶν ἀνήγγειλαν ἡμῖν,
-    ἔργον ὃ εἰργάσω ἐν ταῖς ἡμέραις αὐτῶν, ἐν ἡμεραίς ἀρχαίαις.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Ὁ Θεὸς ἐν τοῖς ὠσὶν ἡμῶν ἠκούσαμεν, οἱ πατέρες ἡμῶν ἀνήγγειλαν ἡμῖν, ἔργον
+    ὃ εἰργάσω ἐν ταῖς ἡμέραις αὐτῶν, ἐν ἡμεραίς ἀρχαίαις.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ἡ χείρ σου ἔθνη ἐξωλόθρευσε, καὶ κατεφύτευσας αὐτοὺς, ἐκάκωσας λαοὺς
-    καὶ ἐξέβαλες αὐτούς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Ἡ χείρ σου ἔθνη ἐξωλόθρευσε, καὶ κατεφύτευσας αὐτοὺς, ἐκάκωσας λαοὺς καὶ ἐξέβαλες
+    αὐτούς.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Οὐ γὰρ ἐν τῇ ῥομφαίᾳ αὐτῶν ἐκληρονόμησαν γῆν, καὶ ὁ βραχίων αὐτῶν οὐκ
-    ἔσωσεν αὐτοὺς, ἀλλὰ ἡ δεξιά σου καὶ ὁ βραχίων σου, καὶ ὁ φωτισμὸς τοῦ προσώπου
-    σου, ὅτι εὐδόκησας ἐν αὐτοῖς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Οὐ γὰρ ἐν τῇ ῥομφαίᾳ αὐτῶν ἐκληρονόμησαν γῆν, καὶ ὁ βραχίων αὐτῶν οὐκ ἔσωσεν
+    αὐτοὺς, ἀλλὰ ἡ δεξιά σου καὶ ὁ βραχίων σου, καὶ ὁ φωτισμὸς τοῦ προσώπου σου, ὅτι
+    εὐδόκησας ἐν αὐτοῖς.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Σὺ εἶ αὐτὸς ὁ βασιλεύς μου καὶ ὁ Θεός μου, ὁ ἐντελλόμενος τὰς σωτηρίας
-    Ἰακώβ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Σὺ εἶ αὐτὸς ὁ βασιλεύς μου καὶ ὁ Θεός μου, ὁ ἐντελλόμενος τὰς σωτηρίας Ἰακώβ.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ἐν σοὶ τοὺς ἐχθροὺς ἡμῶν κερατιοῦμεν, καὶ ἐν τῷ ὀνόματί σου ἐξουθενώσομεν
+  text: Ἐν σοὶ τοὺς ἐχθροὺς ἡμῶν κερατιοῦμεν, καὶ ἐν τῷ ὀνόματί σου ἐξουθενώσομεν
     τοὺς ἐπανισταμένους ἡμῖν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Οὐ γὰρ ἐπὶ τῷ τόξῳ μου ἐλπιῶ, καὶ ἡ ῥομφαία μου οὐ σώσει με.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Οὐ γὰρ ἐπὶ τῷ τόξῳ μου ἐλπιῶ, καὶ ἡ ῥομφαία μου οὐ σώσει με.
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Ἔσωσας γὰρ ἡμᾶς ἐκ τῶν θλιβόντων ἡμᾶς, καὶ τοὺς μισοῦντας ἡμᾶς κατῄσχυνας.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Ἔσωσας γὰρ ἡμᾶς ἐκ τῶν θλιβόντων ἡμᾶς, καὶ τοὺς μισοῦντας ἡμᾶς κατῄσχυνας.
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Ἐν τῷ Θεῷ ἐπαινεθησόμεθα ὅλην τὴν ἡμέραν, καὶ ἐν τῷ ὀνόματί σου ἐξομολογησόμεθα
+  text: Ἐν τῷ Θεῷ ἐπαινεθησόμεθα ὅλην τὴν ἡμέραν, καὶ ἐν τῷ ὀνόματί σου ἐξομολογησόμεθα
     εἰς τὸν αἰῶνα. διάψαλμα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  usfm_code: PSA
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Νυνὶ δὲ ἀπώσω καὶ κατῄσχυνας ἡμᾶς, καὶ οὐκ ἐξελεύσῃ ἐν ταῖς δυνάμεσιν
+  text: Νυνὶ δὲ ἀπώσω καὶ κατῄσχυνας ἡμᾶς, καὶ οὐκ ἐξελεύσῃ ἐν ταῖς δυνάμεσιν ἡμῶν.
+  usfm_code: PSA
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
+  iso-639-2_language_code: grc
+  text: Ἀπέστρεψας ἡμᾶς εἰς τὰ ὀπίσω παρὰ τοὺς ἐχθροὺς ἡμῶν, καὶ οἱ μισοῦντες ἡμᾶς
+    διήρπαζον ἑαυτοῖς.
+  usfm_code: PSA
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
+  iso-639-2_language_code: grc
+  text: Ἔδωκας ἡμᾶς ὡς πρόβατα βρώσεως, καὶ ἐν τοῖς ἔθνεσι διέσπειρας ἡμᾶς·
+  usfm_code: PSA
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
+  iso-639-2_language_code: grc
+  text: Ἀπέδου τὸν λαόν σου ἄνευ τιμῆς, καὶ οὐκ ἦν πλῆθος ἐν τοῖς ἀλαλάγμασιν αὐτῶν.
+  usfm_code: PSA
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
+  iso-639-2_language_code: grc
+  text: Ἔθου ἡμᾶς ὄνειδος τοῖς γείτοσιν ἡμῶν, μυκτηρισμὸν καὶ καταγέλωτα τοῖς κύκλῳ
     ἡμῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  usfm_code: PSA
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Ἀπέστρεψας ἡμᾶς εἰς τὰ ὀπίσω παρὰ τοὺς ἐχθροὺς ἡμῶν, καὶ οἱ μισοῦντες
-    ἡμᾶς διήρπαζον ἑαυτοῖς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Ἔθου ἡμᾶς εἰς παραβολὴν ἐν τοῖς ἔθνεσι, κίνησιν κεφαλῆς ἐν τοῖς λαοῖς.
+  usfm_code: PSA
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Ἔδωκας ἡμᾶς ὡς πρόβατα βρώσεως, καὶ ἐν τοῖς ἔθνεσι διέσπειρας ἡμᾶς·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Ὅλην τὴν ἡμέραν ἡ ἐντροπή μου κατεναντίον μου ἐστὶ, καὶ ἡ αἰσχύνη τοῦ προσώπου
+    μου ἐκάλυψέ με,
+  usfm_code: PSA
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Ἀπέδου τὸν λαόν σου ἄνευ τιμῆς, καὶ οὐκ ἦν πλῆθος ἐν τοῖς ἀλαλάγμασιν
-    αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: ἀπὸ φωνῆς ὀνειδίζοντος καὶ παραλαλοῦντος, ἀπὸ προσώπου ἐχθροῦ καὶ ἐκδιώκοντος.
+  usfm_code: PSA
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Ἔθου ἡμᾶς ὄνειδος τοῖς γείτοσιν ἡμῶν, μυκτηρισμὸν καὶ καταγέλωτα τοῖς
-    κύκλῳ ἡμῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Ταῦτα πάντα ἦλθεν ἐφʼ ἡμᾶς, καὶ οὐκ ἐπελαθόμεθά σου, καὶ οὐκ ἠδικήσαμεν ἐν
+    διαθήκῃ σου.
+  usfm_code: PSA
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Ἔθου ἡμᾶς εἰς παραβολὴν ἐν τοῖς ἔθνεσι, κίνησιν κεφαλῆς ἐν τοῖς λαοῖς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Καὶ οὐκ ἀπέστη εἰς τὰ ὀπίσω ἡ καρδία ἡμῶν, καὶ ἐξέκλινας τὰς τρίβους ἡμῶν
+    ἀπὸ τῆς ὁδοῦ σου.
+  usfm_code: PSA
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Ὅλην τὴν ἡμέραν ἡ ἐντροπή μου κατεναντίον μου ἐστὶ, καὶ ἡ αἰσχύνη τοῦ
-    προσώπου μου ἐκάλυψέ με,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Ὅτι ἐταπείνωσας ἡμᾶς ἐν τόπῳ κακώσεως, καὶ ἐπεκάλυψεν ἡμᾶς σκιὰ θανάτου.
+  usfm_code: PSA
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: ἀπὸ φωνῆς ὀνειδίζοντος καὶ παραλαλοῦντος, ἀπὸ προσώπου ἐχθροῦ καὶ ἐκδιώκοντος.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Εἰ ἐπελαθόμεθα τοῦ ὀνόματος τοῦ Θεοῦ ἡμῶν, καὶ εἰ διεπετάσαμεν χεῖρας ἡμῶν
+    πρὸς θεὸν ἀλλότριον,
+  usfm_code: PSA
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Ταῦτα πάντα ἦλθεν ἐφʼ ἡμᾶς, καὶ οὐκ ἐπελαθόμεθά σου, καὶ οὐκ ἠδικήσαμεν
-    ἐν διαθήκῃ σου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: οὐχὶ ὁ Θεὸς ἐκζητήσει ταῦτα; αὐτὸς γὰρ γινώσκει τὰ κρύφια τῆς καρδίας.
+  usfm_code: PSA
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Καὶ οὐκ ἀπέστη εἰς τὰ ὀπίσω ἡ καρδία ἡμῶν, καὶ ἐξέκλινας τὰς τρίβους
-    ἡμῶν ἀπὸ τῆς ὁδοῦ σου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Ὅτι ἕνεκά σου θανατούμεθα ὅλην τὴν ἡμέραν, ἐλογίσθημεν ὡς πρόβατα σφαγῆς.
+  usfm_code: PSA
+  verse: '23'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Ὅτι ἐταπείνωσας ἡμᾶς ἐν τόπῳ κακώσεως, καὶ ἐπεκάλυψεν ἡμᾶς σκιὰ θανάτου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Ἐξεγέρθητι, ἱνατί ὑπνοῖς Κύριε; ἀνάστηθι, καὶ μὴ ἀπώσῃ εἰς τέλος.
+  usfm_code: PSA
+  verse: '24'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: Εἰ ἐπελαθόμεθα τοῦ ὀνόματος τοῦ Θεοῦ ἡμῶν, καὶ εἰ διεπετάσαμεν χεῖρας
-    ἡμῶν πρὸς θεὸν ἀλλότριον,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Ἱνατί τὸ πρόσωπόν σου ἀποστρέφεις; ἐπιλανθάνῃ τῆς πτωχείας ἡμῶν καὶ τῆς θλίψεως
+    ἡμῶν;
+  usfm_code: PSA
+  verse: '25'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: οὐχὶ ὁ Θεὸς ἐκζητήσει ταῦτα; αὐτὸς γὰρ γινώσκει τὰ κρύφια τῆς καρδίας.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
+  text: Ὅτι ἐταπεινώθη εἰς χοῦν ἡ ψυχὴ ἡμῶν, ἐκολλήθη εἰς γῆν ἡ γαστὴρ ἡμῶν.
+  usfm_code: PSA
+  verse: '26'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
+  chapter: 43
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: Ὅτι ἕνεκά σου θανατούμεθα ὅλην τὴν ἡμέραν, ἐλογίσθημεν ὡς πρόβατα σφαγῆς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
-  iso-639-2_language_code: grc
-  verse_number: 24
-  verse_text: Ἐξεγέρθητι, ἱνατί ὑπνοῖς Κύριε; ἀνάστηθι, καὶ μὴ ἀπώσῃ εἰς τέλος.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
-  iso-639-2_language_code: grc
-  verse_number: 25
-  verse_text: Ἱνατί τὸ πρόσωπόν σου ἀποστρέφεις; ἐπιλανθάνῃ τῆς πτωχείας ἡμῶν καὶ
-    τῆς θλίψεως ἡμῶν;
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
-  iso-639-2_language_code: grc
-  verse_number: 26
-  verse_text: Ὅτι ἐταπεινώθη εἰς χοῦν ἡ ψυχὴ ἡμῶν, ἐκολλήθη εἰς γῆν ἡ γαστὴρ ἡμῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 43
-  book_usfm_code: PSA
-  chapter_number: 43
-  iso-639-2_language_code: grc
-  verse_number: 27
-  verse_text: Ἀνάστα Κύριε, βοήθησον ἡμῖν, καὶ λύτρωσαι ἡμᾶς ἕνεκεν τοῦ ὀνόματός σου.
+  text: Ἀνάστα Κύριε, βοήθησον ἡμῖν, καὶ λύτρωσαι ἡμᾶς ἕνεκεν τοῦ ὀνόματός σου.
+  usfm_code: PSA
+  verse: '27'

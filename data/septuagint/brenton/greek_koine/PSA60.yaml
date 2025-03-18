@@ -1,60 +1,60 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 60
-  book_usfm_code: PSA
-  chapter_number: 60
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 60
+  chapter: 60
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Εἰς τὸ τέλος, ἐν ὕμνοις τῷ Δαυίδ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 60
-  book_usfm_code: PSA
-  chapter_number: 60
+  text: Εἰς τὸ τέλος, ἐν ὕμνοις τῷ Δαυίδ.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 60
+  chapter: 60
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Εἰσάκουσον ὁ Θεὸς τῆς δεήσεώς μου, πρόσχες τῇ προσευχῇ μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 60
-  book_usfm_code: PSA
-  chapter_number: 60
+  text: Εἰσάκουσον ὁ Θεὸς τῆς δεήσεώς μου, πρόσχες τῇ προσευχῇ μου.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 60
+  chapter: 60
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ἀπὸ τῶν περάτων τῆς γῆς πρὸς σὲ ἐκέκραξα, ἐν τῷ ἀκηδιάσαι τὴν καρδίαν
-    μου, ἐν πέτρᾳ ὕψωσάς με, ὁδήγησάς με,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 60
-  book_usfm_code: PSA
-  chapter_number: 60
+  text: Ἀπὸ τῶν περάτων τῆς γῆς πρὸς σὲ ἐκέκραξα, ἐν τῷ ἀκηδιάσαι τὴν καρδίαν μου,
+    ἐν πέτρᾳ ὕψωσάς με, ὁδήγησάς με,
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 60
+  chapter: 60
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: ὅτι ἐγενήθης ἐλπίς μου, πύργος ἰσχύος ἀπὸ προσώπου ἐχθροῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 60
-  book_usfm_code: PSA
-  chapter_number: 60
+  text: ὅτι ἐγενήθης ἐλπίς μου, πύργος ἰσχύος ἀπὸ προσώπου ἐχθροῦ.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 60
+  chapter: 60
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Παροικήσω ἐν τῷ σκηνώματί σου εἰς τοὺς αἰῶνας, σκεπασθήσομαι ἐν σκέπῃ
-    τῶν πτερύγων σου· διάψαλμα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 60
-  book_usfm_code: PSA
-  chapter_number: 60
+  text: Παροικήσω ἐν τῷ σκηνώματί σου εἰς τοὺς αἰῶνας, σκεπασθήσομαι ἐν σκέπῃ τῶν
+    πτερύγων σου· διάψαλμα.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 60
+  chapter: 60
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ὅτι σὺ ὁ Θεὸς εἰσήκουσας τῶν προσευχῶν μου, ἔδωκας κληρονομίαν τοῖς
-    φοβουμένοις τὸ ὄνομά σου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 60
-  book_usfm_code: PSA
-  chapter_number: 60
+  text: Ὅτι σὺ ὁ Θεὸς εἰσήκουσας τῶν προσευχῶν μου, ἔδωκας κληρονομίαν τοῖς φοβουμένοις
+    τὸ ὄνομά σου.
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 60
+  chapter: 60
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ἡμέρας ἐφʼ ἡμέρας βασιλέως προσθήσεις, τὰ ἔτη αὐτοῦ ἕως ἡμέρας γενεᾶς
-    καὶ γενεᾶς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 60
-  book_usfm_code: PSA
-  chapter_number: 60
+  text: Ἡμέρας ἐφʼ ἡμέρας βασιλέως προσθήσεις, τὰ ἔτη αὐτοῦ ἕως ἡμέρας γενεᾶς καὶ
+    γενεᾶς.
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 60
+  chapter: 60
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Διαμενεῖ εἰς τὸν αἰῶνα ἐνώπιον τοῦ Θεοῦ, ἔλεος καὶ ἀλήθειαν αὐτοῦ τίς
-    ἐκζητήσει αὐτῶν;
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 60
-  book_usfm_code: PSA
-  chapter_number: 60
+  text: Διαμενεῖ εἰς τὸν αἰῶνα ἐνώπιον τοῦ Θεοῦ, ἔλεος καὶ ἀλήθειαν αὐτοῦ τίς ἐκζητήσει
+    αὐτῶν;
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 60
+  chapter: 60
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Οὕτως ψαγῶ τῷ ὀνόματί σου εἰς τὸν αἰῶνα τοῦ αἰῶνος, τοῦ ἀποδοῦναί με
-    τὰς εὐχάς μου ἡμέραν ἐξ ἡμέρας.
+  text: Οὕτως ψαγῶ τῷ ὀνόματί σου εἰς τὸν αἰῶνα τοῦ αἰῶνος, τοῦ ἀποδοῦναί με τὰς εὐχάς
+    μου ἡμέραν ἐξ ἡμέρας.
+  usfm_code: PSA
+  verse: '9'

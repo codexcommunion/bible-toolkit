@@ -1,217 +1,213 @@
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ὑπολαβὼν δὲ Ἰὼβ, λέγει,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ὑπολαβὼν δὲ Ἰὼβ, λέγει,
+  usfm_code: JOB
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Ἐπʼ ἀληθείας οἶδα, ὅτι οὕτως ἐστί· πῶς γὰρ ἔσται δίκαιος βροτὸς παρὰ
-    Κυρίῳ;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ἐπʼ ἀληθείας οἶδα, ὅτι οὕτως ἐστί· πῶς γὰρ ἔσται δίκαιος βροτὸς παρὰ Κυρίῳ;
+  usfm_code: JOB
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ἐὰν γὰρ βούληται κριθῆναι αὐτῷ, οὐ μὴ ὑπακούσῃ αὐτῷ, ἵνα μὴ ἀντείπῃ
-    πρὸς ἕνα λόγον αὐτοῦ ἐκ χιλίων.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ἐὰν γὰρ βούληται κριθῆναι αὐτῷ, οὐ μὴ ὑπακούσῃ αὐτῷ, ἵνα μὴ ἀντείπῃ πρὸς ἕνα
+    λόγον αὐτοῦ ἐκ χιλίων.
+  usfm_code: JOB
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Σοφὸς γάρ ἐστι διανοίᾳ, κραταιός τε καὶ μέγας· τίς σκληρὸς γενόμενος
-    ἐναντίον αὐτοῦ ὑπέμεινεν;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Σοφὸς γάρ ἐστι διανοίᾳ, κραταιός τε καὶ μέγας· τίς σκληρὸς γενόμενος ἐναντίον
+    αὐτοῦ ὑπέμεινεν;
+  usfm_code: JOB
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Ὁ παλαιῶν ὄρη καὶ οὐκ οἴδασιν, ὁ καταστρέφων αὐτὰ ὀργῇ·
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ὁ παλαιῶν ὄρη καὶ οὐκ οἴδασιν, ὁ καταστρέφων αὐτὰ ὀργῇ·
+  usfm_code: JOB
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ὁ σείων τὴν ὑπʼ οὐρανὸν ἐκ θεμελίων, οἱ δὲ στύλοι αὐτῆς σαλεύονται·
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ὁ σείων τὴν ὑπʼ οὐρανὸν ἐκ θεμελίων, οἱ δὲ στύλοι αὐτῆς σαλεύονται·
+  usfm_code: JOB
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ὁ λέγων τῷ ἡλίῳ καὶ οὐκ ἀνατέλλει, κατὰ δὲ ἄστρων κατασφραγίζει·
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ὁ λέγων τῷ ἡλίῳ καὶ οὐκ ἀνατέλλει, κατὰ δὲ ἄστρων κατασφραγίζει·
+  usfm_code: JOB
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Ὁ τανύσας τὸν οὐρανὸν μόνος, καὶ περιπατῶν ὡς ἐπʼ ἐδάφους ἐπὶ θαλάσσης·
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ὁ τανύσας τὸν οὐρανὸν μόνος, καὶ περιπατῶν ὡς ἐπʼ ἐδάφους ἐπὶ θαλάσσης·
+  usfm_code: JOB
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Ὁ ποιῶν Πλειάδα καὶ Ἕσπερον καὶ Ἀρκτοῦρον, καὶ ταμεῖα Νότου·
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ὁ ποιῶν Πλειάδα καὶ Ἕσπερον καὶ Ἀρκτοῦρον, καὶ ταμεῖα Νότου·
+  usfm_code: JOB
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Ὁ ποιῶν μεγάλα καὶ ἀνεξιχνίαστα, ἔνδοξά τε καὶ ἐξαίσια, ὧν οὐκ ἔστιν
-    ἀριθμός.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ὁ ποιῶν μεγάλα καὶ ἀνεξιχνίαστα, ἔνδοξά τε καὶ ἐξαίσια, ὧν οὐκ ἔστιν ἀριθμός.
+  usfm_code: JOB
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Ἐὰν ὑπερβῇ με, οὐ μὴ ἴδω· ἐὰν παρέλθῃ με, οὐδʼ ὡς ἔγνων.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ἐὰν ὑπερβῇ με, οὐ μὴ ἴδω· ἐὰν παρέλθῃ με, οὐδʼ ὡς ἔγνων.
+  usfm_code: JOB
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Ἐὰν ἀπαλλάξῃ, τίς ἀποστρέψει; ἢ τίς ἐρεῖ αὐτῷ, τί ἐποίησας;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ἐὰν ἀπαλλάξῃ, τίς ἀποστρέψει; ἢ τίς ἐρεῖ αὐτῷ, τί ἐποίησας;
+  usfm_code: JOB
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Αὐτὸς γὰρ ἀπέστραπται ὀργὴν, ὑπʼ αὐτοῦ ἐκάμφθησαν κήτη τὰ ὑπʼ οὐρανόν
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Αὐτὸς γὰρ ἀπέστραπται ὀργὴν, ὑπʼ αὐτοῦ ἐκάμφθησαν κήτη τὰ ὑπʼ οὐρανόν
+  usfm_code: JOB
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Ἐὰν δέ μου ὑπακούσεται, ἤ διακρίνει τὰ ῥήματά μου.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ἐὰν δέ μου ὑπακούσεται, ἤ διακρίνει τὰ ῥήματά μου.
+  usfm_code: JOB
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Ἐὰν γὰρ ὦ δίκαιος, οὐκ εἰσακούσεταί μου, τοῦ κρίματος αὐτοῦ δεηθήσομαι·
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ἐὰν γὰρ ὦ δίκαιος, οὐκ εἰσακούσεταί μου, τοῦ κρίματος αὐτοῦ δεηθήσομαι·
+  usfm_code: JOB
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Ἐάν τε καλέσω καὶ μὴ ὑπακούσῃ, οὐ πιστεύω ὅτι εἰσακήκοέ μου τῆς φωνῆς.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ἐάν τε καλέσω καὶ μὴ ὑπακούσῃ, οὐ πιστεύω ὅτι εἰσακήκοέ μου τῆς φωνῆς.
+  usfm_code: JOB
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Μὴ γνόφῳ με ἐκτρίψῃ· πολλὰ δέ μου τὰ συντρίμματα πεποίηκε διακενῆς.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Μὴ γνόφῳ με ἐκτρίψῃ· πολλὰ δέ μου τὰ συντρίμματα πεποίηκε διακενῆς.
+  usfm_code: JOB
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Οὐκ ἐᾷ γάρ με ἀναπνεῦσαι· ἐνέπλησε δέ με πικρίας,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Οὐκ ἐᾷ γάρ με ἀναπνεῦσαι· ἐνέπλησε δέ με πικρίας,
+  usfm_code: JOB
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: ὅτι μὲν γὰρ ἰσχύει κράτει· τίς οὖν κρίματι αὐτοῦ ἀντιστήσεται;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: ὅτι μὲν γὰρ ἰσχύει κράτει· τίς οὖν κρίματι αὐτοῦ ἀντιστήσεται;
+  usfm_code: JOB
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Ἐὰν γὰρ ὦ δίκαιος, τὸ στόμα μου ἀσεβήσει· ἐάν τε ᾧ ἄμεμπτος, σκολιὸς
-    ἀποβήσομαι.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ἐὰν γὰρ ὦ δίκαιος, τὸ στόμα μου ἀσεβήσει· ἐάν τε ᾧ ἄμεμπτος, σκολιὸς ἀποβήσομαι.
+  usfm_code: JOB
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: Εἴτε γὰρ ἠσέβησα, οὐκ οἶδα τῇ ψυχῇ, πλὴν ἀφαιρεῖταί μου ἡ ζωή.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Εἴτε γὰρ ἠσέβησα, οὐκ οἶδα τῇ ψυχῇ, πλὴν ἀφαιρεῖταί μου ἡ ζωή.
+  usfm_code: JOB
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: Διὸ εἶπον, μέγαν καὶ δυνάστην ἀπολλύει ὀργή,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Διὸ εἶπον, μέγαν καὶ δυνάστην ἀπολλύει ὀργή,
+  usfm_code: JOB
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: ὅτι φαῦλοι ἐν θανάτῳ ἐξαισίῳ, ἀλλὰ δίκαιοι καταγελῶνται,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: ὅτι φαῦλοι ἐν θανάτῳ ἐξαισίῳ, ἀλλὰ δίκαιοι καταγελῶνται,
+  usfm_code: JOB
+  verse: '23'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 24
-  verse_text: παραδέδονται γὰρ εἰς χεῖρας ἀσεβοῦς, πρόσωπα κριτῶν αὐτῆς συγκαλύπτει·
-    εἰ δὲ μὴ αὐτός ἐστι, τίς ἐστιν;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: παραδέδονται γὰρ εἰς χεῖρας ἀσεβοῦς, πρόσωπα κριτῶν αὐτῆς συγκαλύπτει· εἰ
+    δὲ μὴ αὐτός ἐστι, τίς ἐστιν;
+  usfm_code: JOB
+  verse: '24'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 25
-  verse_text: Ὁ δὲ βίος μου ἐστὶν ἐλαφρότερος δρομέως· ἀπέδρασαν, καὶ οὐκ εἴδοσαν.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ὁ δὲ βίος μου ἐστὶν ἐλαφρότερος δρομέως· ἀπέδρασαν, καὶ οὐκ εἴδοσαν.
+  usfm_code: JOB
+  verse: '25'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 26
-  verse_text: Ἢ καὶ ἐστι ναυσὶν ἴχνος ὁδοῦ, ἢ ἀετοῦ πετομένου ζητοῦντος βοράν;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ἢ καὶ ἐστι ναυσὶν ἴχνος ὁδοῦ, ἢ ἀετοῦ πετομένου ζητοῦντος βοράν;
+  usfm_code: JOB
+  verse: '26'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 27
-  verse_text: Ἐάν τε γὰρ εἶπω, ἐπιλήσομαι λαλῶν, συγκύψας τῷ προσώπῳ στενάξω·
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ἐάν τε γὰρ εἶπω, ἐπιλήσομαι λαλῶν, συγκύψας τῷ προσώπῳ στενάξω·
+  usfm_code: JOB
+  verse: '27'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 28
-  verse_text: Σείομαι πᾶσι τοῖς μέλεσιν, οἴδα γὰρ ὅτι οὐκ ἀθῶόν με ἐάσεις.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Σείομαι πᾶσι τοῖς μέλεσιν, οἴδα γὰρ ὅτι οὐκ ἀθῶόν με ἐάσεις.
+  usfm_code: JOB
+  verse: '28'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 29
-  verse_text: Ἐπειδὴ δέ εἰμι ἀσεβὴς, διὰ τί οὐκ ἀπέθανον;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ἐπειδὴ δέ εἰμι ἀσεβὴς, διὰ τί οὐκ ἀπέθανον;
+  usfm_code: JOB
+  verse: '29'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 30
-  verse_text: Ἐὰν γὰρ ἀπολούσωμαι χιόνι, καὶ ἀποκαθάρωμαι χερσὶ καθαραῖς,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ἐὰν γὰρ ἀπολούσωμαι χιόνι, καὶ ἀποκαθάρωμαι χερσὶ καθαραῖς,
+  usfm_code: JOB
+  verse: '30'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 31
-  verse_text: ἱκανῶς ἐν ῥύπῳ με ἔβαψας, ἐβδελύξατο δέ με ἡ στολή.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: ἱκανῶς ἐν ῥύπῳ με ἔβαψας, ἐβδελύξατο δέ με ἡ στολή.
+  usfm_code: JOB
+  verse: '31'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 32
-  verse_text: Οὐ γὰρ εἰ ἄνθρωπος κατʼ ἐμὲ, ᾧ ἀντικρινοῦμαι, ἵνα ἔλθωμεν ὁμοθυμαδὸν
-    εἰς κρίσιν.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Οὐ γὰρ εἰ ἄνθρωπος κατʼ ἐμὲ, ᾧ ἀντικρινοῦμαι, ἵνα ἔλθωμεν ὁμοθυμαδὸν εἰς κρίσιν.
+  usfm_code: JOB
+  verse: '32'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 33
-  verse_text: Εἴθε ἦν ὁ μεσίτης ἡμῶν, καὶ ἐλέγχων, καὶ διακούων ἀναμέσον ἀμφοτέρων.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Εἴθε ἦν ὁ μεσίτης ἡμῶν, καὶ ἐλέγχων, καὶ διακούων ἀναμέσον ἀμφοτέρων.
+  usfm_code: JOB
+  verse: '33'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 34
-  verse_text: Ἀπαλλαξάτω ἀπʼ ἐμοῦ τὴν ῥάβδον, ὁ δὲ φόβος αὐτοῦ μή με στροβείτω,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 9
-  book_usfm_code: JOB
-  chapter_number: 9
+  text: Ἀπαλλαξάτω ἀπʼ ἐμοῦ τὴν ῥάβδον, ὁ δὲ φόβος αὐτοῦ μή με στροβείτω,
+  usfm_code: JOB
+  verse: '34'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 9
+  chapter: 9
   iso-639-2_language_code: grc
-  verse_number: 35
-  verse_text: καὶ οὐ μὴ φοβηθῶ, ἀλλὰ λαλήσω· οὐ γὰρ οὕτω συνεπίσταμαι.
+  text: καὶ οὐ μὴ φοβηθῶ, ἀλλὰ λαλήσω· οὐ γὰρ οὕτω συνεπίσταμαι.
+  usfm_code: JOB
+  verse: '35'

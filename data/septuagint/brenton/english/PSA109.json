@@ -1,58 +1,58 @@
 [
     {
-        "book_title": "Brenton Septuagint Translation Psalms 109",
-        "book_usfm_code": "PSA",
-        "chapter_number": 109,
-        "verse_number": 1,
-        "verse_text": "A Psalm of David.",
+        "book": "Brenton Septuagint Translation Psalms 109",
+        "usfm_code": "PSA",
+        "chapter": 109,
+        "verse": "1",
+        "text": "A Psalm of David.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 109",
-        "book_usfm_code": "PSA",
-        "chapter_number": 109,
-        "verse_number": 2,
-        "verse_text": "The Lord shall send out a rod of power for thee out of Sion: rule thou in the midst of thine enemies.",
+        "book": "Brenton Septuagint Translation Psalms 109",
+        "usfm_code": "PSA",
+        "chapter": 109,
+        "verse": "2",
+        "text": "The Lord shall send out a rod of power for thee out of Sion: rule thou in the midst of thine enemies.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 109",
-        "book_usfm_code": "PSA",
-        "chapter_number": 109,
-        "verse_number": 3,
-        "verse_text": "With thee is dominion in the day of thy power, in the splendours of thy saints: I have begotten thee from the womb before the morning.",
+        "book": "Brenton Septuagint Translation Psalms 109",
+        "usfm_code": "PSA",
+        "chapter": 109,
+        "verse": "3",
+        "text": "With thee is dominion in the day of thy power, in the splendours of thy saints: I have begotten thee from the womb before the morning.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 109",
-        "book_usfm_code": "PSA",
-        "chapter_number": 109,
-        "verse_number": 4,
-        "verse_text": "The Lord sware, and will not repent, Thou art a priest for ever, after the order of Melchisedec.",
+        "book": "Brenton Septuagint Translation Psalms 109",
+        "usfm_code": "PSA",
+        "chapter": 109,
+        "verse": "4",
+        "text": "The Lord sware, and will not repent, Thou art a priest for ever, after the order of Melchisedec.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 109",
-        "book_usfm_code": "PSA",
-        "chapter_number": 109,
-        "verse_number": 5,
-        "verse_text": "The Lord at thy right hand has dashed in pieces kings in the day of his wrath.",
+        "book": "Brenton Septuagint Translation Psalms 109",
+        "usfm_code": "PSA",
+        "chapter": 109,
+        "verse": "5",
+        "text": "The Lord at thy right hand has dashed in pieces kings in the day of his wrath.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 109",
-        "book_usfm_code": "PSA",
-        "chapter_number": 109,
-        "verse_number": 6,
-        "verse_text": "He shall judge among the nations, he shall fill up the number of corpses, he shall crush the heads of many on the earth.",
+        "book": "Brenton Septuagint Translation Psalms 109",
+        "usfm_code": "PSA",
+        "chapter": 109,
+        "verse": "6",
+        "text": "He shall judge among the nations, he shall fill up the number of corpses, he shall crush the heads of many on the earth.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 109",
-        "book_usfm_code": "PSA",
-        "chapter_number": 109,
-        "verse_number": 7,
-        "verse_text": "He shall drink of the brook in the way; therefore shall he lift up the head.",
+        "book": "Brenton Septuagint Translation Psalms 109",
+        "usfm_code": "PSA",
+        "chapter": 109,
+        "verse": "7",
+        "text": "He shall drink of the brook in the way; therefore shall he lift up the head.",
         "iso-639-2_language_code": "eng"
     }
 ]

@@ -1,19 +1,18 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 133
-  book_usfm_code: PSA
-  chapter_number: 133
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 133
+  chapter: 133
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ὠδὴ τῶν ἀναβαθμῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 133
-  book_usfm_code: PSA
-  chapter_number: 133
+  text: Ὠδὴ τῶν ἀναβαθμῶν.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 133
+  chapter: 133
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: ἐν ταῖς νυξὶν ἐπάρατε τὰς χεῖρας ὑμῶν εἰς τὰ ἅγια, καὶ εὐλογεῖτε τὸν
-    Κύριον.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 133
-  book_usfm_code: PSA
-  chapter_number: 133
+  text: ἐν ταῖς νυξὶν ἐπάρατε τὰς χεῖρας ὑμῶν εἰς τὰ ἅγια, καὶ εὐλογεῖτε τὸν Κύριον.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 133
+  chapter: 133
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Εὐλογήσαι σε Κύριος ἐκ Σιὼν, ὁ ποιήσας τὸν οὐρανὸν καὶ τὴν γῆν.
+  text: Εὐλογήσαι σε Κύριος ἐκ Σιὼν, ὁ ποιήσας τὸν οὐρανὸν καὶ τὴν γῆν.
+  usfm_code: PSA
+  verse: '3'

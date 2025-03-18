@@ -1,45 +1,45 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 109
-  book_usfm_code: PSA
-  chapter_number: 109
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 109
+  chapter: 109
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ψαλμὸς τῷ Δαυίδ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 109
-  book_usfm_code: PSA
-  chapter_number: 109
+  text: Ψαλμὸς τῷ Δαυίδ.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 109
+  chapter: 109
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Ῥάβδον δυνάμεως ἐξαποστελεῖ σοι Κύριος ἐκ Σιὼν, κατακυρίευε ἐν μέσῳ
-    τῶν ἐχθρῶν σου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 109
-  book_usfm_code: PSA
-  chapter_number: 109
+  text: Ῥάβδον δυνάμεως ἐξαποστελεῖ σοι Κύριος ἐκ Σιὼν, κατακυρίευε ἐν μέσῳ τῶν ἐχθρῶν
+    σου.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 109
+  chapter: 109
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Μετὰ σοῦ ἡ ἀρχὴ ἐν ἡμέρᾳ τῆς δυνάμεώς σου, ἐν ταῖς λαμπρότησι τῶν ἁγίων
-    σου· ἐκ γαστρὸς πρὸ Ἑωσφόρου ἐγέννησά σε.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 109
-  book_usfm_code: PSA
-  chapter_number: 109
+  text: Μετὰ σοῦ ἡ ἀρχὴ ἐν ἡμέρᾳ τῆς δυνάμεώς σου, ἐν ταῖς λαμπρότησι τῶν ἁγίων σου·
+    ἐκ γαστρὸς πρὸ Ἑωσφόρου ἐγέννησά σε.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 109
+  chapter: 109
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Ὤμοσε Κύριος καὶ οὐ μεταμεληθήσεται, σὺ ἱερεὺς εἰς τὸν αἰῶνα, κατὰ τὴν
-    τάξιν Μελχισεδέκ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 109
-  book_usfm_code: PSA
-  chapter_number: 109
+  text: Ὤμοσε Κύριος καὶ οὐ μεταμεληθήσεται, σὺ ἱερεὺς εἰς τὸν αἰῶνα, κατὰ τὴν τάξιν
+    Μελχισεδέκ.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 109
+  chapter: 109
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Κύριος ἐκ δεξιῶν σου συνέθλασεν ἐν ἡμέρᾳ ὀργῆς αὐτοῦ βασιλεῖς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 109
-  book_usfm_code: PSA
-  chapter_number: 109
+  text: Κύριος ἐκ δεξιῶν σου συνέθλασεν ἐν ἡμέρᾳ ὀργῆς αὐτοῦ βασιλεῖς.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 109
+  chapter: 109
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Κρινεῖ ἐν τοῖς ἔθνεσι, πληρώσει πτώματα, συνθλάσει κεφαλὰς ἐπὶ γῆν πολλῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 109
-  book_usfm_code: PSA
-  chapter_number: 109
+  text: Κρινεῖ ἐν τοῖς ἔθνεσι, πληρώσει πτώματα, συνθλάσει κεφαλὰς ἐπὶ γῆν πολλῶν.
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 109
+  chapter: 109
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ἐκ χειμάῤῥου ἐν ὁδῷ πίεται, διὰ τοῦτο ὑψώσει κεφαλήν.
+  text: Ἐκ χειμάῤῥου ἐν ὁδῷ πίεται, διὰ τοῦτο ὑψώσει κεφαλήν.
+  usfm_code: PSA
+  verse: '7'

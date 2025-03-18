@@ -1,90 +1,89 @@
-- book_title: Brenton Septuagint Translation Psalms 5
-  book_usfm_code: PSA
-  chapter_number: 5
+- book: Brenton Septuagint Translation Psalms 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: For the end, a Psalm of David, concerning her that inherits.
-- book_title: Brenton Septuagint Translation Psalms 5
-  book_usfm_code: PSA
-  chapter_number: 5
+  text: For the end, a Psalm of David, concerning her that inherits.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: Hearken to my words, O Lord, attend to my cry.
-- book_title: Brenton Septuagint Translation Psalms 5
-  book_usfm_code: PSA
-  chapter_number: 5
+  text: Hearken to my words, O Lord, attend to my cry.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: 'Attend to the voice of my supplication, my King, and my God: for to
-    thee, O Lord, will I pray.'
-- book_title: Brenton Septuagint Translation Psalms 5
-  book_usfm_code: PSA
-  chapter_number: 5
+  text: 'Attend to the voice of my supplication, my King, and my God: for to thee,
+    O Lord, will I pray.'
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: 'In the morning thou shalt hear my voice: in the morning will I wait
-    upon thee, and will look up.'
-- book_title: Brenton Septuagint Translation Psalms 5
-  book_usfm_code: PSA
-  chapter_number: 5
+  text: 'In the morning thou shalt hear my voice: in the morning will I wait upon
+    thee, and will look up.'
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: For thou art not a God that desires iniquity; neither shall the worker
-    of wickedness dwell with thee.
-- book_title: Brenton Septuagint Translation Psalms 5
-  book_usfm_code: PSA
-  chapter_number: 5
+  text: For thou art not a God that desires iniquity; neither shall the worker of
+    wickedness dwell with thee.
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: 'Neither shall the transgressors continue in thy sight: thou hatest,
-    O Lord, all them that work iniquity.'
-- book_title: Brenton Septuagint Translation Psalms 5
-  book_usfm_code: PSA
-  chapter_number: 5
+  text: 'Neither shall the transgressors continue in thy sight: thou hatest, O Lord,
+    all them that work iniquity.'
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: 'Thou wilt destroy all that speak falsehood: the Lord abhors the bloody
-    and deceitful man.'
-- book_title: Brenton Septuagint Translation Psalms 5
-  book_usfm_code: PSA
-  chapter_number: 5
+  text: 'Thou wilt destroy all that speak falsehood: the Lord abhors the bloody and
+    deceitful man.'
+  usfm_code: PSA
+  verse: '7'
+- book: Brenton Septuagint Translation Psalms 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: 'But I will enter into thine house in the multitude of thy mercy: I
-    will worship in thy fear toward thy holy temple.'
-- book_title: Brenton Septuagint Translation Psalms 5
-  book_usfm_code: PSA
-  chapter_number: 5
+  text: 'But I will enter into thine house in the multitude of thy mercy: I will worship
+    in thy fear toward thy holy temple.'
+  usfm_code: PSA
+  verse: '8'
+- book: Brenton Septuagint Translation Psalms 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: Lead me, O Lord, in thy righteousness because of mine enemies; make
-    my way plain before thy face.
-- book_title: Brenton Septuagint Translation Psalms 5
-  book_usfm_code: PSA
-  chapter_number: 5
+  text: Lead me, O Lord, in thy righteousness because of mine enemies; make my way
+    plain before thy face.
+  usfm_code: PSA
+  verse: '9'
+- book: Brenton Septuagint Translation Psalms 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: For there is no truth in their mouth; their heart is vain; their throat
-    is an open sepulchre; with their tongues they have used deceit.
-- book_title: Brenton Septuagint Translation Psalms 5
-  book_usfm_code: PSA
-  chapter_number: 5
+  text: For there is no truth in their mouth; their heart is vain; their throat is
+    an open sepulchre; with their tongues they have used deceit.
+  usfm_code: PSA
+  verse: '10'
+- book: Brenton Septuagint Translation Psalms 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: 'Judge them, O God; let them fail of their counsels: cast them out according
+  text: 'Judge them, O God; let them fail of their counsels: cast them out according
     to the abundance of their ungodliness; for they have provoked thee, O Lord.'
-- book_title: Brenton Septuagint Translation Psalms 5
-  book_usfm_code: PSA
-  chapter_number: 5
+  usfm_code: PSA
+  verse: '11'
+- book: Brenton Septuagint Translation Psalms 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: 'But let all that trust on thee be glad in thee: they shall exult for
-    ever, and thou shalt dwell among them; and all that love thy name shall rejoice
-    in thee.'
-- book_title: Brenton Septuagint Translation Psalms 5
-  book_usfm_code: PSA
-  chapter_number: 5
+  text: 'But let all that trust on thee be glad in thee: they shall exult for ever,
+    and thou shalt dwell among them; and all that love thy name shall rejoice in thee.'
+  usfm_code: PSA
+  verse: '12'
+- book: Brenton Septuagint Translation Psalms 5
+  chapter: 5
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: 'For thou, Lord, shalt bless the righteous: thou hast compassed us as
-    with a shield of favour.'
+  text: 'For thou, Lord, shalt bless the righteous: thou hast compassed us as with
+    a shield of favour.'
+  usfm_code: PSA
+  verse: '13'

@@ -1,231 +1,228 @@
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Υἱὲ, ἐμῶννομίμων μὴ ἐπιλανθάνου, τὰ δὲ ῥήματά μου τηρείτω σὴ καρδία·
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Υἱὲ, ἐμῶννομίμων μὴ ἐπιλανθάνου, τὰ δὲ ῥήματά μου τηρείτω σὴ καρδία·
+  usfm_code: PRO
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Μῆκος γὰρ βίου, καὶ ἔτη ζωῆς, καὶ εἰρήνην προσθήσουσί σοι.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Μῆκος γὰρ βίου, καὶ ἔτη ζωῆς, καὶ εἰρήνην προσθήσουσί σοι.
+  usfm_code: PRO
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ἐλεημοσύναι καὶ πίστεις μὴ ἐκλειπέτωσάν σε· ἄφαψαι δὲ αὐτὰς ἐπὶ σῷ τραχήλῳ,
+  text: Ἐλεημοσύναι καὶ πίστεις μὴ ἐκλειπέτωσάν σε· ἄφαψαι δὲ αὐτὰς ἐπὶ σῷ τραχήλῳ,
     καὶ εὑρήσεις χάριν·
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  usfm_code: PRO
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: καὶ προνοοῦ καλὰ ἐνώπιον Κυρίου καὶ ἀνθρώπων.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: καὶ προνοοῦ καλὰ ἐνώπιον Κυρίου καὶ ἀνθρώπων.
+  usfm_code: PRO
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Ἴσθι πεποιθὼς ἐν ὅλῃ τῇ καρδίᾳ ἐπὶ Θεῷ, ἐπὶ δὲ σῇ σοφίᾳ μὴ ἐπαίρου.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Ἴσθι πεποιθὼς ἐν ὅλῃ τῇ καρδίᾳ ἐπὶ Θεῷ, ἐπὶ δὲ σῇ σοφίᾳ μὴ ἐπαίρου.
+  usfm_code: PRO
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Πάσαις ὁδοῖς σου γνώριζε αὐτὴν, ἵνα ὀρθοτομῇ τὰς ὁδούς σου.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Πάσαις ὁδοῖς σου γνώριζε αὐτὴν, ἵνα ὀρθοτομῇ τὰς ὁδούς σου.
+  usfm_code: PRO
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Μὴ ἴσθι φρόνιμος παρὰ σεαυτῷ, φοβοῦ δὲ τὸν Θεὸν, καὶ ἔκκλινε ἀπὸ παντὸς
-    κακοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Μὴ ἴσθι φρόνιμος παρὰ σεαυτῷ, φοβοῦ δὲ τὸν Θεὸν, καὶ ἔκκλινε ἀπὸ παντὸς κακοῦ.
+  usfm_code: PRO
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Τότε ἴασις ἔσται τῷ σώματί σου, καὶ ἐπιμέλεια τοῖς ὀστέοις σου.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Τότε ἴασις ἔσται τῷ σώματί σου, καὶ ἐπιμέλεια τοῖς ὀστέοις σου.
+  usfm_code: PRO
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Τίμα τὸν Κύριον ἀπὸ σῶν δικαίων πόνων, καὶ ἀπάρχου αὐτῷ ἀπὸ σῶν καρπῶν
-    δικαιοσύνης·
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Τίμα τὸν Κύριον ἀπὸ σῶν δικαίων πόνων, καὶ ἀπάρχου αὐτῷ ἀπὸ σῶν καρπῶν δικαιοσύνης·
+  usfm_code: PRO
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Ἵνα πίμπληται τὰ ταμιεῖά σου πλησμονῆς σίτῳ, οἴνῳ δὲ αἱ ληνοί σου ἐκβλύζωσιν.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Ἵνα πίμπληται τὰ ταμιεῖά σου πλησμονῆς σίτῳ, οἴνῳ δὲ αἱ ληνοί σου ἐκβλύζωσιν.
+  usfm_code: PRO
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Υἱὲ, μὴ ὀλιγώρει παιδείας Κυρίου, μηδὲ ἐκλύου ὑπʼ αὐτοῦ ἐλεγχόμενος.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Υἱὲ, μὴ ὀλιγώρει παιδείας Κυρίου, μηδὲ ἐκλύου ὑπʼ αὐτοῦ ἐλεγχόμενος.
+  usfm_code: PRO
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Ὃν γὰρ ἀγαπᾷ Κύριος, ἐλέγχει, μαστιγοῖ δὲ πάντα υἱὸν ὃν παραδέχεται.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Ὃν γὰρ ἀγαπᾷ Κύριος, ἐλέγχει, μαστιγοῖ δὲ πάντα υἱὸν ὃν παραδέχεται.
+  usfm_code: PRO
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Μακάριος ἄνθρωπος ὃς εὗρε σοφίαν, καὶ θνητὸς ὃς εἶδε φρόνησιν.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Μακάριος ἄνθρωπος ὃς εὗρε σοφίαν, καὶ θνητὸς ὃς εἶδε φρόνησιν.
+  usfm_code: PRO
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Κρεῖσσον γὰρ αὐτὴν ἐμπορεύεσθαι, ἢ χρυσίου καὶ ἀργυρίου θησαυρούς.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Κρεῖσσον γὰρ αὐτὴν ἐμπορεύεσθαι, ἢ χρυσίου καὶ ἀργυρίου θησαυρούς.
+  usfm_code: PRO
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Τιμιωτέρα δέ ἐστι λίθων πολυτελῶν, οὐκ ἀντιτάξεται αὐτῇ οὐδὲν πονηρόν·
-    εὔγνωστός ἐστι πᾶσι τοῖς ἐγγίζουσιν αὐτῇ, πᾶν δὲ τίμιον οὐκ ἄξιον αὐτῆς ἐστι.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Τιμιωτέρα δέ ἐστι λίθων πολυτελῶν, οὐκ ἀντιτάξεται αὐτῇ οὐδὲν πονηρόν· εὔγνωστός
+    ἐστι πᾶσι τοῖς ἐγγίζουσιν αὐτῇ, πᾶν δὲ τίμιον οὐκ ἄξιον αὐτῆς ἐστι.
+  usfm_code: PRO
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Μῆκος γὰρ βίου καὶ ἔτη ζωῆς ἐν τῇ δεξιᾷ αὐτῆς, ἐν δὲ τῇ ἀριστερᾷ αὐτῆς
-    πλοῦτος καὶ δόξα·
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Μῆκος γὰρ βίου καὶ ἔτη ζωῆς ἐν τῇ δεξιᾷ αὐτῆς, ἐν δὲ τῇ ἀριστερᾷ αὐτῆς πλοῦτος
+    καὶ δόξα·
+  usfm_code: PRO
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: ἐκ τοῦ στόματος αὐτῆς ἐκπορεύεται δικαιοσύνη, νόμον δὲ καὶ ἔλεον ἐπὶ
-    γλώσσης φορεῖ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: ἐκ τοῦ στόματος αὐτῆς ἐκπορεύεται δικαιοσύνη, νόμον δὲ καὶ ἔλεον ἐπὶ γλώσσης
+    φορεῖ.
+  usfm_code: PRO
+  verse: 16a
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Αἱ ὁδοὶ αὐτῆς ὁδοὶ καλαί, καὶ πάσαι αἱ τρίβοι αὐτῆς ἐν εἰρήνῃ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Αἱ ὁδοὶ αὐτῆς ὁδοὶ καλαί, καὶ πάσαι αἱ τρίβοι αὐτῆς ἐν εἰρήνῃ.
+  usfm_code: PRO
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Ξύλον ζωῆς ἐστι πᾶσι τοῖς ἀντεχομένοις αὐτῆς, καὶ τοῖς ἐπερειδομένοις
-    ἐπʼ αὐτὴν ὡς ἐπὶ Κύριον ἀσφαλής.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Ξύλον ζωῆς ἐστι πᾶσι τοῖς ἀντεχομένοις αὐτῆς, καὶ τοῖς ἐπερειδομένοις ἐπʼ
+    αὐτὴν ὡς ἐπὶ Κύριον ἀσφαλής.
+  usfm_code: PRO
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Ὁ Θεὸς τῇ σοφίᾳ ἐθεμελίωσε τὴν γῆν, ἡτοίμασε δὲ οὐρανοὺς φρονήσει.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Ὁ Θεὸς τῇ σοφίᾳ ἐθεμελίωσε τὴν γῆν, ἡτοίμασε δὲ οὐρανοὺς φρονήσει.
+  usfm_code: PRO
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Ἐν αἰσθήσει ἄβυσσοι ἐῤῥάγησαν, νέφη δὲ ἐῤῥύησαν δρόσους.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Ἐν αἰσθήσει ἄβυσσοι ἐῤῥάγησαν, νέφη δὲ ἐῤῥύησαν δρόσους.
+  usfm_code: PRO
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: Υἱὲ, μὴ παραῤῥυῇς, τήρησον δὲ ἐμὴν βουλὴν καὶ ἔννοιαν·
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Υἱὲ, μὴ παραῤῥυῇς, τήρησον δὲ ἐμὴν βουλὴν καὶ ἔννοιαν·
+  usfm_code: PRO
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: ἵνα ζήσῃ ἡ ψυχή σου, καὶ χάρις ᾖ περὶ σῷ τραχήλῳ·
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: ἵνα ζήσῃ ἡ ψυχή σου, καὶ χάρις ᾖ περὶ σῷ τραχήλῳ·
+  usfm_code: PRO
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: ἔσται δὲ ἴασις ταῖς σαρξί σου, καὶ ἐπιμέλεια τοῖς σοῖς ὀστέοις·
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: ἔσται δὲ ἴασις ταῖς σαρξί σου, καὶ ἐπιμέλεια τοῖς σοῖς ὀστέοις·
+  usfm_code: PRO
+  verse: 22a
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: ἵνα πορεύῃ πεποιθὼς ἐν εἰρήνῃ πάσας τὰς ὁδούς σου, ὁ δὲ πούς σου οὐ
-    μὴ προσκόψῃ.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: ἵνα πορεύῃ πεποιθὼς ἐν εἰρήνῃ πάσας τὰς ὁδούς σου, ὁ δὲ πούς σου οὐ μὴ προσκόψῃ.
+  usfm_code: PRO
+  verse: '23'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 24
-  verse_text: Ἐὰν γὰρ κάθῃ, ἄφοβος ἔσῃ· ἐὰν δὲ καθεύδῃς, ἡδέως ὑπνώσεις.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Ἐὰν γὰρ κάθῃ, ἄφοβος ἔσῃ· ἐὰν δὲ καθεύδῃς, ἡδέως ὑπνώσεις.
+  usfm_code: PRO
+  verse: '24'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 25
-  verse_text: Καὶ οὐ φοβηθήσῃ πτόησιν ἐπελθοῦσαν, οὐδὲ ὁρμὰς ἀσεβῶν ἐπερχομένας.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Καὶ οὐ φοβηθήσῃ πτόησιν ἐπελθοῦσαν, οὐδὲ ὁρμὰς ἀσεβῶν ἐπερχομένας.
+  usfm_code: PRO
+  verse: '25'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 26
-  verse_text: Ὁ γὰρ Κύριος ἔσται ἐπὶ πασῶν ὁδῶν σου, καὶ ἐρείσει σὸν πόδα ἵνα μὴ σαλευθῇς.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Ὁ γὰρ Κύριος ἔσται ἐπὶ πασῶν ὁδῶν σου, καὶ ἐρείσει σὸν πόδα ἵνα μὴ σαλευθῇς.
+  usfm_code: PRO
+  verse: '26'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 27
-  verse_text: Μὴ ἀπόσχῃ εὖ ποιεῖν ἐνδεῆ, ἡνίκα ἂν ἔχῃ ἡ χείρ σου βοηθεῖν.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Μὴ ἀπόσχῃ εὖ ποιεῖν ἐνδεῆ, ἡνίκα ἂν ἔχῃ ἡ χείρ σου βοηθεῖν.
+  usfm_code: PRO
+  verse: '27'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 28
-  verse_text: Μὴ εἴπῃς, ἐπανελθὼν ἐπάνηκε, αὔριον δώσω, δυνατοῦ σου ὄντος εὖ ποιεῖν·
-    οὐ γὰρ οἶδας τί τέξεται ἡ ἐπιοῦσα.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Μὴ εἴπῃς, ἐπανελθὼν ἐπάνηκε, αὔριον δώσω, δυνατοῦ σου ὄντος εὖ ποιεῖν· οὐ
+    γὰρ οἶδας τί τέξεται ἡ ἐπιοῦσα.
+  usfm_code: PRO
+  verse: '28'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 29
-  verse_text: Μὴ τεκτῄνῃ ἐπὶ σὸν φίλον κακὰ παροικοῦντα καὶ πεποιθότα ἐπὶ σοί.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Μὴ τεκτῄνῃ ἐπὶ σὸν φίλον κακὰ παροικοῦντα καὶ πεποιθότα ἐπὶ σοί.
+  usfm_code: PRO
+  verse: '29'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 30
-  verse_text: Μὴ φιλεχθρήσῃς πρὸς ἄνθρωπον μάτην, μήτί σε ἐργάσηται κακόν.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Μὴ φιλεχθρήσῃς πρὸς ἄνθρωπον μάτην, μήτί σε ἐργάσηται κακόν.
+  usfm_code: PRO
+  verse: '30'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 31
-  verse_text: Μὴ κτήσῃ κακῶν ἀνδρῶν ὀνείδη, μηδὲ ζηλώσῃς τὰς ὁδοὺς αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Μὴ κτήσῃ κακῶν ἀνδρῶν ὀνείδη, μηδὲ ζηλώσῃς τὰς ὁδοὺς αὐτῶν.
+  usfm_code: PRO
+  verse: '31'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 32
-  verse_text: Ἀκάθαρτος γὰρ ἔναντι Κυρίου πᾶς παράνομος, ἐν δὲ δικαίοις οὐ συνεδριάζει.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Ἀκάθαρτος γὰρ ἔναντι Κυρίου πᾶς παράνομος, ἐν δὲ δικαίοις οὐ συνεδριάζει.
+  usfm_code: PRO
+  verse: '32'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 33
-  verse_text: Κατάρα Θεοῦ ἐν οἴκοις ἀσεβῶν, ἐπαύλεις δὲ δικαίων εὐλογοῦνται.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Κατάρα Θεοῦ ἐν οἴκοις ἀσεβῶν, ἐπαύλεις δὲ δικαίων εὐλογοῦνται.
+  usfm_code: PRO
+  verse: '33'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 34
-  verse_text: Κύριος ὑπερηφάνοις ἀντιτάσσεται, ταπεινοῖς δὲ δίδωσι χάριν.
-- book_title: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
-  book_usfm_code: PRO
-  chapter_number: 3
+  text: Κύριος ὑπερηφάνοις ἀντιτάσσεται, ταπεινοῖς δὲ δίδωσι χάριν.
+  usfm_code: PRO
+  verse: '34'
+- book: μετάφραση των εβδομήκοντα ΠΑΡΟΙΜΙΑΙ 3
+  chapter: 3
   iso-639-2_language_code: grc
-  verse_number: 35
-  verse_text: Δόξαν σοφοὶ κληρονομήσουσιν, οἱ δὲ ἀσεβεῖς ὕψωσαν ἀτιμίαν.
+  text: Δόξαν σοφοὶ κληρονομήσουσιν, οἱ δὲ ἀσεβεῖς ὕψωσαν ἀτιμίαν.
+  usfm_code: PRO
+  verse: '35'

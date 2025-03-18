@@ -1,59 +1,57 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 149
-  book_usfm_code: PSA
-  chapter_number: 149
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 149
+  chapter: 149
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ἀλληλούϊα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 149
-  book_usfm_code: PSA
-  chapter_number: 149
+  text: Ἀλληλούϊα.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 149
+  chapter: 149
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Εὐφρανθήτω Ἰσραὴλ ἐπὶ τῷ ποιήσαντι αὐτὸν, καὶ υἱοὶ Σιὼν ἀγαλλιάσθωσαν
-    ἐπὶ τῷ βασιλεῖ αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 149
-  book_usfm_code: PSA
-  chapter_number: 149
+  text: Εὐφρανθήτω Ἰσραὴλ ἐπὶ τῷ ποιήσαντι αὐτὸν, καὶ υἱοὶ Σιὼν ἀγαλλιάσθωσαν ἐπὶ
+    τῷ βασιλεῖ αὐτῶν.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 149
+  chapter: 149
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Αἰνεσάτωσαν τὸ ὄνομα αὐτοῦ ἐν χορῷ, ἐν τυμπάνῳ καὶ ψαλτηρίῳ ψαλάτωσαν
-    αὐτῷ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 149
-  book_usfm_code: PSA
-  chapter_number: 149
+  text: Αἰνεσάτωσαν τὸ ὄνομα αὐτοῦ ἐν χορῷ, ἐν τυμπάνῳ καὶ ψαλτηρίῳ ψαλάτωσαν αὐτῷ.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 149
+  chapter: 149
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Ὅτι εὐδοκεῖ Κύριος ἐν λαῷ αὐτοῦ, καὶ ὑψώσει πρᾳεῖς ἐν σωτηρίᾳ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 149
-  book_usfm_code: PSA
-  chapter_number: 149
+  text: Ὅτι εὐδοκεῖ Κύριος ἐν λαῷ αὐτοῦ, καὶ ὑψώσει πρᾳεῖς ἐν σωτηρίᾳ.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 149
+  chapter: 149
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Καυχήσονται ὅσιοι ἐν δόξῃ, καὶ ἀγαλλιάσονται ἐπὶ τῶν κοιτῶν αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 149
-  book_usfm_code: PSA
-  chapter_number: 149
+  text: Καυχήσονται ὅσιοι ἐν δόξῃ, καὶ ἀγαλλιάσονται ἐπὶ τῶν κοιτῶν αὐτῶν.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 149
+  chapter: 149
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Αἱ ὑψώσεις τοῦ Θεοῦ ἐν λάρυγγι αὐτῶν, καὶ ῥομφαῖαι δίστομοι ἐν ταῖς
-    χερσὶν αὐτῶν·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 149
-  book_usfm_code: PSA
-  chapter_number: 149
+  text: Αἱ ὑψώσεις τοῦ Θεοῦ ἐν λάρυγγι αὐτῶν, καὶ ῥομφαῖαι δίστομοι ἐν ταῖς χερσὶν
+    αὐτῶν·
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 149
+  chapter: 149
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Τοῦ ποιῆσαι ἐκδίκησιν ἐν τοῖς ἔθνεσιν, ἐλεγμοὺς ἐν τοῖς λαοῖς·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 149
-  book_usfm_code: PSA
-  chapter_number: 149
+  text: Τοῦ ποιῆσαι ἐκδίκησιν ἐν τοῖς ἔθνεσιν, ἐλεγμοὺς ἐν τοῖς λαοῖς·
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 149
+  chapter: 149
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Τοῦ δῆσαι τοὺς βασιλεῖς αὐτῶν ἐν πέδαις, καὶ τοὺς ἐνδόξους αὐτῶν ἐν
-    χειροπέδαις σιδηραῖς·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 149
-  book_usfm_code: PSA
-  chapter_number: 149
+  text: Τοῦ δῆσαι τοὺς βασιλεῖς αὐτῶν ἐν πέδαις, καὶ τοὺς ἐνδόξους αὐτῶν ἐν χειροπέδαις
+    σιδηραῖς·
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 149
+  chapter: 149
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Τοῦ ποιῆσαι ἐν αὐτοῖς κρίμα ἔγγραπτον· δόξα αὕτη ἐστὶ πᾶσι τοῖς ὁσίοις
-    αὐτοῦ.
+  text: Τοῦ ποιῆσαι ἐν αὐτοῖς κρίμα ἔγγραπτον· δόξα αὕτη ἐστὶ πᾶσι τοῖς ὁσίοις αὐτοῦ.
+  usfm_code: PSA
+  verse: '9'

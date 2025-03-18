@@ -1,89 +1,87 @@
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 26
-  book_usfm_code: JOB
-  chapter_number: 26
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 26
+  chapter: 26
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ὑπολαβὼν δὲ Ἰὼβ, λέγει,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 26
-  book_usfm_code: JOB
-  chapter_number: 26
+  text: Ὑπολαβὼν δὲ Ἰὼβ, λέγει,
+  usfm_code: JOB
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 26
+  chapter: 26
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Τίνι πρόσκεισαι, ἢ τίνι μέλλεις βοηθεῖν; πότερον οὐχ ᾧ πολλὴ ἰσχὺς,
-    καὶ ᾧ βραχίων κραταιός ἐστι;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 26
-  book_usfm_code: JOB
-  chapter_number: 26
+  text: Τίνι πρόσκεισαι, ἢ τίνι μέλλεις βοηθεῖν; πότερον οὐχ ᾧ πολλὴ ἰσχὺς, καὶ ᾧ
+    βραχίων κραταιός ἐστι;
+  usfm_code: JOB
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 26
+  chapter: 26
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Τίνι συμβεβούλευσαι; οὐχ ᾧ πᾶσα σοφία; τίνι ἐπακολουθήσεις; οὐχ ᾧ μεγίστη
+  text: Τίνι συμβεβούλευσαι; οὐχ ᾧ πᾶσα σοφία; τίνι ἐπακολουθήσεις; οὐχ ᾧ μεγίστη
     δύναμις;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 26
-  book_usfm_code: JOB
-  chapter_number: 26
+  usfm_code: JOB
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 26
+  chapter: 26
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Τίνι ἀνήγγειλας ῥήματα; πνοὴ δὲ τίνος ἐστὶν ἡ ἐξελθοῦσα ἐκ σοῦ;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 26
-  book_usfm_code: JOB
-  chapter_number: 26
+  text: Τίνι ἀνήγγειλας ῥήματα; πνοὴ δὲ τίνος ἐστὶν ἡ ἐξελθοῦσα ἐκ σοῦ;
+  usfm_code: JOB
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 26
+  chapter: 26
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Μὴ γίγαντες μαιωθήσονται ὑποκάτωθεν ὕδατος καὶ τῶν γειτόνων αὐτοῦ;
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 26
-  book_usfm_code: JOB
-  chapter_number: 26
+  text: Μὴ γίγαντες μαιωθήσονται ὑποκάτωθεν ὕδατος καὶ τῶν γειτόνων αὐτοῦ;
+  usfm_code: JOB
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 26
+  chapter: 26
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Γυμνὸς ὁ ᾅδης ἐνώπιον αὐτοῦ, καὶ οὐκ ἔστι περιβόλαιον τῇ ἀπωλείᾳ.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 26
-  book_usfm_code: JOB
-  chapter_number: 26
+  text: Γυμνὸς ὁ ᾅδης ἐνώπιον αὐτοῦ, καὶ οὐκ ἔστι περιβόλαιον τῇ ἀπωλείᾳ.
+  usfm_code: JOB
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 26
+  chapter: 26
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ἐκτείνων βορέαν ἐπʼ οὐδὲν, κρεμάζων γῆν ἐπὶ οὐδενός.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 26
-  book_usfm_code: JOB
-  chapter_number: 26
+  text: Ἐκτείνων βορέαν ἐπʼ οὐδὲν, κρεμάζων γῆν ἐπὶ οὐδενός.
+  usfm_code: JOB
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 26
+  chapter: 26
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Δεσμεύων ὕδωρ ἐν νεφέλαις αὐτοῦ, καὶ οὐκ ἐῤῥάγη νέφος ὑποκάτω αὐτοῦ·
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 26
-  book_usfm_code: JOB
-  chapter_number: 26
+  text: Δεσμεύων ὕδωρ ἐν νεφέλαις αὐτοῦ, καὶ οὐκ ἐῤῥάγη νέφος ὑποκάτω αὐτοῦ·
+  usfm_code: JOB
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 26
+  chapter: 26
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Ὁ κρατῶν πρόσωπον θρόνου, ἐκπετάζων ἐπʼ αὐτὸν νέφος αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 26
-  book_usfm_code: JOB
-  chapter_number: 26
+  text: Ὁ κρατῶν πρόσωπον θρόνου, ἐκπετάζων ἐπʼ αὐτὸν νέφος αὐτοῦ.
+  usfm_code: JOB
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 26
+  chapter: 26
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Πρόσταγμα ἐγύρωσεν ἐπὶ πρόσωπον ὕδατος, μέχρι συντελείας φωτὸς μετὰ
-    σκότους.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 26
-  book_usfm_code: JOB
-  chapter_number: 26
+  text: Πρόσταγμα ἐγύρωσεν ἐπὶ πρόσωπον ὕδατος, μέχρι συντελείας φωτὸς μετὰ σκότους.
+  usfm_code: JOB
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 26
+  chapter: 26
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Στύλοι οὐρανοῦ ἐπετάσθησαν, καὶ ἐξέστησαν ἀπὸ τῆς ἐπιτιμήσεως αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 26
-  book_usfm_code: JOB
-  chapter_number: 26
+  text: Στύλοι οὐρανοῦ ἐπετάσθησαν, καὶ ἐξέστησαν ἀπὸ τῆς ἐπιτιμήσεως αὐτοῦ.
+  usfm_code: JOB
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 26
+  chapter: 26
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Ἰσχύϊ κατέπαυσε τὴν θάλασσαν, ἐπιστήμῃ δὲ ἔστρωται τὸ κῆτος.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 26
-  book_usfm_code: JOB
-  chapter_number: 26
+  text: Ἰσχύϊ κατέπαυσε τὴν θάλασσαν, ἐπιστήμῃ δὲ ἔστρωται τὸ κῆτος.
+  usfm_code: JOB
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 26
+  chapter: 26
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Κλεῖθρα δὲ οὐρανοῦ δεδοίκασιν αὐτόν· προστάγματι δὲ ἐθανάτωσε δράκοντα
-    ἀποστάτην.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 26
-  book_usfm_code: JOB
-  chapter_number: 26
+  text: Κλεῖθρα δὲ οὐρανοῦ δεδοίκασιν αὐτόν· προστάγματι δὲ ἐθανάτωσε δράκοντα ἀποστάτην.
+  usfm_code: JOB
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 26
+  chapter: 26
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Ἰδοῦ ταῦτα μέρη ὁδοῦ αὐτοῦ, καὶ ἐπὶ ἰκμάδα λόγου ἀκουσόμεθα ἐν αὐτῷ·
-    σθενὸς δὲ βροντῆς αὐτοῦ, τίς οἶδεν ὁπότε ποιήσει;
+  text: Ἰδοῦ ταῦτα μέρη ὁδοῦ αὐτοῦ, καὶ ἐπὶ ἰκμάδα λόγου ἀκουσόμεθα ἐν αὐτῷ· σθενὸς
+    δὲ βροντῆς αὐτοῦ, τίς οἶδεν ὁπότε ποιήσει;
+  usfm_code: JOB
+  verse: '14'

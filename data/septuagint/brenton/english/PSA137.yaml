@@ -1,57 +1,56 @@
-- book_title: Brenton Septuagint Translation Psalms 137
-  book_usfm_code: PSA
-  chapter_number: 137
+- book: Brenton Septuagint Translation Psalms 137
+  chapter: 137
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: A Psalm for David, of Aggæus and Zacharias.
-- book_title: Brenton Septuagint Translation Psalms 137
-  book_usfm_code: PSA
-  chapter_number: 137
+  text: A Psalm for David, of Aggæus and Zacharias.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 137
+  chapter: 137
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: I will worship toward thy holy temple, and give thanks to thy name,
-    on account of thy mercy and thy truth; for thou hast magnified thy holy name above
-    every thing.
-- book_title: Brenton Septuagint Translation Psalms 137
-  book_usfm_code: PSA
-  chapter_number: 137
+  text: I will worship toward thy holy temple, and give thanks to thy name, on account
+    of thy mercy and thy truth; for thou hast magnified thy holy name above every
+    thing.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 137
+  chapter: 137
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: In whatsoever day I shall call upon thee, hear me speedily; thou shalt
-    abundantly provide me with thy power in my soul.
-- book_title: Brenton Septuagint Translation Psalms 137
-  book_usfm_code: PSA
-  chapter_number: 137
+  text: In whatsoever day I shall call upon thee, hear me speedily; thou shalt abundantly
+    provide me with thy power in my soul.
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 137
+  chapter: 137
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: Let all the kings of the earth, O Lord, give thanks unto thee; for they
-    have heard all the words of thy mouth.
-- book_title: Brenton Septuagint Translation Psalms 137
-  book_usfm_code: PSA
-  chapter_number: 137
+  text: Let all the kings of the earth, O Lord, give thanks unto thee; for they have
+    heard all the words of thy mouth.
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 137
+  chapter: 137
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: And let them sing in the ways of the Lord; for great is the glory of
-    the Lord.
-- book_title: Brenton Septuagint Translation Psalms 137
-  book_usfm_code: PSA
-  chapter_number: 137
+  text: And let them sing in the ways of the Lord; for great is the glory of the Lord.
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 137
+  chapter: 137
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: For the Lord is high, and yet regards the lowly; and he knows high things
+  text: For the Lord is high, and yet regards the lowly; and he knows high things
     from afar off.
-- book_title: Brenton Septuagint Translation Psalms 137
-  book_usfm_code: PSA
-  chapter_number: 137
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 137
+  chapter: 137
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: Though I should walk in the midst of affliction, thou wilt quicken me;
-    thou hast stretched forth thine hands against the wrath of mine enemies, and thy
-    right hand has saved me.
-- book_title: Brenton Septuagint Translation Psalms 137
-  book_usfm_code: PSA
-  chapter_number: 137
+  text: Though I should walk in the midst of affliction, thou wilt quicken me; thou
+    hast stretched forth thine hands against the wrath of mine enemies, and thy right
+    hand has saved me.
+  usfm_code: PSA
+  verse: '7'
+- book: Brenton Septuagint Translation Psalms 137
+  chapter: 137
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: 'O Lord, thou shalt recompense them on my behalf: thy mercy, O Lord,
-    endures for ever: overlook not the works of thine hands.'
+  text: 'O Lord, thou shalt recompense them on my behalf: thy mercy, O Lord, endures
+    for ever: overlook not the works of thine hands.'
+  usfm_code: PSA
+  verse: '8'

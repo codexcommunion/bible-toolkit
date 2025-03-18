@@ -1,34 +1,34 @@
-- book_title: Brenton Septuagint Translation Psalms 126
-  book_usfm_code: PSA
-  chapter_number: 126
+- book: Brenton Septuagint Translation Psalms 126
+  chapter: 126
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: A Song of Degrees.
-- book_title: Brenton Septuagint Translation Psalms 126
-  book_usfm_code: PSA
-  chapter_number: 126
+  text: A Song of Degrees.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 126
+  chapter: 126
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: 'It is vain for you to rise early: ye rise up after resting, ye that
-    eat the bread of grief; while he gives sleep to his beloved.'
-- book_title: Brenton Septuagint Translation Psalms 126
-  book_usfm_code: PSA
-  chapter_number: 126
+  text: 'It is vain for you to rise early: ye rise up after resting, ye that eat the
+    bread of grief; while he gives sleep to his beloved.'
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 126
+  chapter: 126
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: Behold, the inheritance of the Lord, children, the reward of the fruit
-    of the womb.
-- book_title: Brenton Septuagint Translation Psalms 126
-  book_usfm_code: PSA
-  chapter_number: 126
+  text: Behold, the inheritance of the Lord, children, the reward of the fruit of
+    the womb.
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 126
+  chapter: 126
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: As arrows in the hand of a mighty man; so are the children of those
-    who were outcasts.
-- book_title: Brenton Septuagint Translation Psalms 126
-  book_usfm_code: PSA
-  chapter_number: 126
+  text: As arrows in the hand of a mighty man; so are the children of those who were
+    outcasts.
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 126
+  chapter: 126
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: 'Blessed is the man who shall satisfy his desire with them: they shall
-    not be ashamed when they shall speak to their enemies in the gates.'
+  text: 'Blessed is the man who shall satisfy his desire with them: they shall not
+    be ashamed when they shall speak to their enemies in the gates.'
+  usfm_code: PSA
+  verse: '5'

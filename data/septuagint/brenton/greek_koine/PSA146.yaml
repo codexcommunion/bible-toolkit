@@ -1,72 +1,70 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
-  book_usfm_code: PSA
-  chapter_number: 146
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
+  chapter: 146
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ἀλληλούϊα· Ἀγγαίου καὶ Ζαχαρίου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
-  book_usfm_code: PSA
-  chapter_number: 146
+  text: Ἀλληλούϊα· Ἀγγαίου καὶ Ζαχαρίου.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
+  chapter: 146
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Οἰκοδομῶν Ἱερουσαλὴμ ὁ Κύριος, καὶ τὰς διασπορὰς τοῦ Ἰσραὴλ ἐπισυνάξει·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
-  book_usfm_code: PSA
-  chapter_number: 146
+  text: Οἰκοδομῶν Ἱερουσαλὴμ ὁ Κύριος, καὶ τὰς διασπορὰς τοῦ Ἰσραὴλ ἐπισυνάξει·
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
+  chapter: 146
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ὁ ἰώμενος τοὺς συντετριμμένους τὴν καρδίαν, καὶ δεσμεύων τὰ συντρίμματα
-    αὐτῶν·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
-  book_usfm_code: PSA
-  chapter_number: 146
+  text: Ὁ ἰώμενος τοὺς συντετριμμένους τὴν καρδίαν, καὶ δεσμεύων τὰ συντρίμματα αὐτῶν·
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
+  chapter: 146
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Ὁ ἀριθμῶν πλήθη ἄστρων, καὶ πᾶσιν αὐτοῖς ὀνόματα καλῶν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
-  book_usfm_code: PSA
-  chapter_number: 146
+  text: Ὁ ἀριθμῶν πλήθη ἄστρων, καὶ πᾶσιν αὐτοῖς ὀνόματα καλῶν.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
+  chapter: 146
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Μέγας ὁ Κύριος ἡμῶν, καὶ μεγάλη ἡ ἰσχὺς αὐτοῦ, καὶ τῆς συνέσεως αὐτοῦ
-    οὐκ ἔστιν ἀριθμός.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
-  book_usfm_code: PSA
-  chapter_number: 146
+  text: Μέγας ὁ Κύριος ἡμῶν, καὶ μεγάλη ἡ ἰσχὺς αὐτοῦ, καὶ τῆς συνέσεως αὐτοῦ οὐκ
+    ἔστιν ἀριθμός.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
+  chapter: 146
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ἀναλαμβάνων πρᾳεῖς ὁ Κύριος, ταπεινῶν δὲ ἁμαρτωλοὺς ἕως τῆς γῆς.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
-  book_usfm_code: PSA
-  chapter_number: 146
+  text: Ἀναλαμβάνων πρᾳεῖς ὁ Κύριος, ταπεινῶν δὲ ἁμαρτωλοὺς ἕως τῆς γῆς.
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
+  chapter: 146
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ἐξάρξατε τῷ Κυρίῳ ἐν ἐξομολογήσει, ψάλατε τῷ Θεῷ ἡμῶν ἐν κιθάρᾳ·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
-  book_usfm_code: PSA
-  chapter_number: 146
+  text: Ἐξάρξατε τῷ Κυρίῳ ἐν ἐξομολογήσει, ψάλατε τῷ Θεῷ ἡμῶν ἐν κιθάρᾳ·
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
+  chapter: 146
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Τῷ περιβάλλοντι τὸν οὐρανὸν ἐν νεφέλαις, τῷ ἑτοιμάζοντι τῇ γῇ ὑετόν·
-    τῷ ἐξανατέλλοντι ἐν ὄρεσι χόρτον, καὶ χλόην τῇ δουλείᾳ τῶν ἀνθρώπων·
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
-  book_usfm_code: PSA
-  chapter_number: 146
+  text: Τῷ περιβάλλοντι τὸν οὐρανὸν ἐν νεφέλαις, τῷ ἑτοιμάζοντι τῇ γῇ ὑετόν· τῷ ἐξανατέλλοντι
+    ἐν ὄρεσι χόρτον, καὶ χλόην τῇ δουλείᾳ τῶν ἀνθρώπων·
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
+  chapter: 146
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: καὶ διδόντι τοῖς κτήνεσι τροφὴν αὐτῶν, καὶ τοῖς νεοσσοῖς τῶν κοράκων
-    τοῖς ἐπικαλουμένοις αὐτόν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
-  book_usfm_code: PSA
-  chapter_number: 146
+  text: καὶ διδόντι τοῖς κτήνεσι τροφὴν αὐτῶν, καὶ τοῖς νεοσσοῖς τῶν κοράκων τοῖς
+    ἐπικαλουμένοις αὐτόν.
+  usfm_code: PSA
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
+  chapter: 146
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Οὐκ ἐν τῇ δυναστείᾳ τοῦ ἵππου θελήσει, οὐδὲ ἐν ταῖς κνήμαις τοῦ ἀνδρὸς
-    εὐδοκεῖ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
-  book_usfm_code: PSA
-  chapter_number: 146
+  text: Οὐκ ἐν τῇ δυναστείᾳ τοῦ ἵππου θελήσει, οὐδὲ ἐν ταῖς κνήμαις τοῦ ἀνδρὸς εὐδοκεῖ.
+  usfm_code: PSA
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 146
+  chapter: 146
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Εὐδοκεῖ Κύριος ἐν τοῖς φοβουμένοις αὐτὸν, καὶ ἐν πᾶσιν τοῖς ἐλπιζουσιν
-    ἐπὶ τὸ ἔλεος αὐτοῦ.
+  text: Εὐδοκεῖ Κύριος ἐν τοῖς φοβουμένοις αὐτὸν, καὶ ἐν πᾶσιν τοῖς ἐλπιζουσιν ἐπὶ
+    τὸ ἔλεος αὐτοῦ.
+  usfm_code: PSA
+  verse: '11'

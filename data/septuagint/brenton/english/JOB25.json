@@ -1,50 +1,50 @@
 [
     {
-        "book_title": "Brenton Septuagint Translation Job 25",
-        "book_usfm_code": "JOB",
-        "chapter_number": 25,
-        "verse_number": 1,
-        "verse_text": "Then Baldad the Sauchite answered and said,",
+        "book": "Brenton Septuagint Translation Job 25",
+        "usfm_code": "JOB",
+        "chapter": 25,
+        "verse": "1",
+        "text": "Then Baldad the Sauchite answered and said,",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Job 25",
-        "book_usfm_code": "JOB",
-        "chapter_number": 25,
-        "verse_number": 2,
-        "verse_text": "What beginning or fear is his—even he that makes all things in the highest?",
+        "book": "Brenton Septuagint Translation Job 25",
+        "usfm_code": "JOB",
+        "chapter": 25,
+        "verse": "2",
+        "text": "What beginning or fear is his—even he that makes all things in the highest?",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Job 25",
-        "book_usfm_code": "JOB",
-        "chapter_number": 25,
-        "verse_number": 3,
-        "verse_text": "For let none think that there is a respite for robbers: and upon whom will there not come a snare from him?",
+        "book": "Brenton Septuagint Translation Job 25",
+        "usfm_code": "JOB",
+        "chapter": 25,
+        "verse": "3",
+        "text": "For let none think that there is a respite for robbers: and upon whom will there not come a snare from him?",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Job 25",
-        "book_usfm_code": "JOB",
-        "chapter_number": 25,
-        "verse_number": 4,
-        "verse_text": "For how shall a mortal be just before the Lord? or who that is born of a woman shall purify himself?",
+        "book": "Brenton Septuagint Translation Job 25",
+        "usfm_code": "JOB",
+        "chapter": 25,
+        "verse": "4",
+        "text": "For how shall a mortal be just before the Lord? or who that is born of a woman shall purify himself?",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Job 25",
-        "book_usfm_code": "JOB",
-        "chapter_number": 25,
-        "verse_number": 5,
-        "verse_text": "If he gives an order to the moon, then it shines not; and the stars are not pure before him.",
+        "book": "Brenton Septuagint Translation Job 25",
+        "usfm_code": "JOB",
+        "chapter": 25,
+        "verse": "5",
+        "text": "If he gives an order to the moon, then it shines not; and the stars are not pure before him.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Job 25",
-        "book_usfm_code": "JOB",
-        "chapter_number": 25,
-        "verse_number": 6,
-        "verse_text": "But alas! man is corruption, and the son of man a worm.",
+        "book": "Brenton Septuagint Translation Job 25",
+        "usfm_code": "JOB",
+        "chapter": 25,
+        "verse": "6",
+        "text": "But alas! man is corruption, and the son of man a worm.",
         "iso-639-2_language_code": "eng"
     }
 ]

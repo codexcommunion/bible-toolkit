@@ -1,201 +1,199 @@
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: 'Ye are the children of the Lord your God: ye shall not make any baldness
+  text: 'Ye are the children of the Lord your God: ye shall not make any baldness
     between your eyes for the dead.'
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  usfm_code: DEU
+  verse: '1'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: For thou art a holy people to the Lord thy God, and the Lord thy God
-    has chosen thee to be a peculiar people to himself of all the nations on the face
-    of the earth.
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: For thou art a holy people to the Lord thy God, and the Lord thy God has chosen
+    thee to be a peculiar people to himself of all the nations on the face of the
+    earth.
+  usfm_code: DEU
+  verse: '2'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: Ye shall not eat any abominable thing.
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: Ye shall not eat any abominable thing.
+  usfm_code: DEU
+  verse: '3'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: These are the beasts which ye shall eat; the calf of the herd, and lamb
-    of the sheep, and kid of the goats;
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: These are the beasts which ye shall eat; the calf of the herd, and lamb of
+    the sheep, and kid of the goats;
+  usfm_code: DEU
+  verse: '4'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: the stag, and doe, and pygarg, and wild goat, and camelopard.
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: the stag, and doe, and pygarg, and wild goat, and camelopard.
+  usfm_code: DEU
+  verse: '5'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: Every beast that divides the hoofs, and makes claws of two divisions,
-    and that chews the cud among beasts, these ye shall eat.
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: Every beast that divides the hoofs, and makes claws of two divisions, and
+    that chews the cud among beasts, these ye shall eat.
+  usfm_code: DEU
+  verse: '6'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: And these ye shall not eat of them that chew the cud, and of those that
-    divide the hoofs, and make distinct claws; the camel, and the hare, and the rabbit;
-    because they chew the cud, and do not divide the hoof, these are unclean to you.
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: And these ye shall not eat of them that chew the cud, and of those that divide
+    the hoofs, and make distinct claws; the camel, and the hare, and the rabbit; because
+    they chew the cud, and do not divide the hoof, these are unclean to you.
+  usfm_code: DEU
+  verse: '7'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: And as for the swine, because he divides the hoof, and makes claws of
-    the hoof, yet he chews not the cud, he is unclean to you; ye shall not eat of
-    their flesh, ye shall not touch their dead bodies.
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: And as for the swine, because he divides the hoof, and makes claws of the
+    hoof, yet he chews not the cud, he is unclean to you; ye shall not eat of their
+    flesh, ye shall not touch their dead bodies.
+  usfm_code: DEU
+  verse: '8'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: And these ye shall eat of all that are in the water, ye shall eat all
-    that have fins and scales.
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: And these ye shall eat of all that are in the water, ye shall eat all that
+    have fins and scales.
+  usfm_code: DEU
+  verse: '9'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: And all that have not fins and scales ye shall not eat; they are unclean
-    to you.
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: And all that have not fins and scales ye shall not eat; they are unclean to
+    you.
+  usfm_code: DEU
+  verse: '10'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: Ye shall eat every clean bird.
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: Ye shall eat every clean bird.
+  usfm_code: DEU
+  verse: '11'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: And these of them ye shall not eat; the eagle, and the ossifrage, and
-    the sea-eagle,
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: And these of them ye shall not eat; the eagle, and the ossifrage, and the
+    sea-eagle,
+  usfm_code: DEU
+  verse: '12'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: and the vulture, and the kite and the like to it,
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: and the vulture, and the kite and the like to it,
+  usfm_code: DEU
+  verse: '13'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: and the sparrow, and the owl, and the sea-mew,
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: and the sparrow, and the owl, and the sea-mew,
+  usfm_code: DEU
+  verse: '15'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 16
-  verse_text: and the heron, and the swan, and the stork,
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: and the heron, and the swan, and the stork,
+  usfm_code: DEU
+  verse: '16'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 17
-  verse_text: and the cormorant, and the hawk, and its like, and the hoopoe, and the
-    raven,
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: and the cormorant, and the hawk, and its like, and the hoopoe, and the raven,
+  usfm_code: DEU
+  verse: '17'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 18
-  verse_text: and the pelican, and the diver and the like to it, and the red-bill
-    and the bat.
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: and the pelican, and the diver and the like to it, and the red-bill and the
+    bat.
+  usfm_code: DEU
+  verse: '18'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 19
-  verse_text: All winged animals that creep are unclean to you; ye shall not eat of
-    them.
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: All winged animals that creep are unclean to you; ye shall not eat of them.
+  usfm_code: DEU
+  verse: '19'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 20
-  verse_text: Ye shall eat every clean bird.
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: Ye shall eat every clean bird.
+  usfm_code: DEU
+  verse: '20'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 21
-  verse_text: Ye shall eat nothing that dies of itself; it shall be given to the sojourner
+  text: Ye shall eat nothing that dies of itself; it shall be given to the sojourner
     in thy cities and he shall eat it, or thou shalt sell it to a stranger, because
     thou art a holy people to the Lord thy God. Thou shalt not boil a lamb in his
     mother's milk.
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  usfm_code: DEU
+  verse: '21'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 22
-  verse_text: Thou shalt tithe a tenth of all the produce of thy seed, the fruit of
-    thy field year by year.
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: Thou shalt tithe a tenth of all the produce of thy seed, the fruit of thy
+    field year by year.
+  usfm_code: DEU
+  verse: '22'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 23
-  verse_text: And thou shalt eat it in the place which the Lord thy God shall choose
-    to have his name called there; ye shall bring the tithe of thy corn and of thy
-    wine, and of thine oil, the first-born of thy herd and of thy flock, that thou
-    mayest learn to fear the Lord thy God always.
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: And thou shalt eat it in the place which the Lord thy God shall choose to
+    have his name called there; ye shall bring the tithe of thy corn and of thy wine,
+    and of thine oil, the first-born of thy herd and of thy flock, that thou mayest
+    learn to fear the Lord thy God always.
+  usfm_code: DEU
+  verse: '23'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 24
-  verse_text: And if the journey be too far for thee, and thou art not able to bring
-    them, because the place is far from thee which the Lord thy God shall choose to
-    have his name called there, because the Lord thy God will bless thee;
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: And if the journey be too far for thee, and thou art not able to bring them,
+    because the place is far from thee which the Lord thy God shall choose to have
+    his name called there, because the Lord thy God will bless thee;
+  usfm_code: DEU
+  verse: '24'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 25
-  verse_text: then thou shalt sell them for money, and thou shalt take the money in
-    thy hands, and thou shalt go to the place which the Lord thy God shall choose.
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: then thou shalt sell them for money, and thou shalt take the money in thy
+    hands, and thou shalt go to the place which the Lord thy God shall choose.
+  usfm_code: DEU
+  verse: '25'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 26
-  verse_text: And thou shalt give the money for whatsoever thy soul shall desire,
-    for oxen or for sheep, or for wine, or thou shalt lay it out on strong drink,
-    or on whatsoever thy soul may desire, and thou shalt eat there before the Lord
-    thy God, and thou shalt rejoice and thy house,
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: And thou shalt give the money for whatsoever thy soul shall desire, for oxen
+    or for sheep, or for wine, or thou shalt lay it out on strong drink, or on whatsoever
+    thy soul may desire, and thou shalt eat there before the Lord thy God, and thou
+    shalt rejoice and thy house,
+  usfm_code: DEU
+  verse: '26'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 27
-  verse_text: and the Levite that is in thy cities, because he has not a portion or
-    inheritance with thee.
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: and the Levite that is in thy cities, because he has not a portion or inheritance
+    with thee.
+  usfm_code: DEU
+  verse: '27'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 28
-  verse_text: After three years thou shalt bring out all the tithes of thy fruits,
-    in that year thou shalt lay it up in thy cities.
-- book_title: Brenton Septuagint Translation Deuteronomy 14
-  book_usfm_code: DEU
-  chapter_number: 14
+  text: After three years thou shalt bring out all the tithes of thy fruits, in that
+    year thou shalt lay it up in thy cities.
+  usfm_code: DEU
+  verse: '28'
+- book: Brenton Septuagint Translation Deuteronomy 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 29
-  verse_text: And the Levite shall come, because he has no part or lot with thee,
-    and the stranger, and the orphan, and the widow which is in thy cities; and they
-    shall eat and be filled, that the Lord thy God may bless thee in all the works
-    which thou shalt do.
+  text: And the Levite shall come, because he has no part or lot with thee, and the
+    stranger, and the orphan, and the widow which is in thy cities; and they shall
+    eat and be filled, that the Lord thy God may bless thee in all the works which
+    thou shalt do.
+  usfm_code: DEU
+  verse: '29'

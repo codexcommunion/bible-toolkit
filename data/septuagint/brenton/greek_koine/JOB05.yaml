@@ -1,175 +1,169 @@
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ἐπικαλέσαι δὲ εἴ τις σοι ὑπακούσεται, ἢ εἴ τινα ἀγγέλων ἁγίων ὄψῃ·
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: Ἐπικαλέσαι δὲ εἴ τις σοι ὑπακούσεται, ἢ εἴ τινα ἀγγέλων ἁγίων ὄψῃ·
+  usfm_code: JOB
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Καὶ γὰρ ἄφρονα ἀναιρεῖ ὀργὴ, πεπλανημένον δὲ θανατοῖ ζῆλος.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: Καὶ γὰρ ἄφρονα ἀναιρεῖ ὀργὴ, πεπλανημένον δὲ θανατοῖ ζῆλος.
+  usfm_code: JOB
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ἐγὼ δὲ ἑώρακα ἄφρονας ῥίζαν βάλλοντας, ἀλλʼ εὐθέως ἐβρώθη αὐτῶν ἡ δίαιτα.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: Ἐγὼ δὲ ἑώρακα ἄφρονας ῥίζαν βάλλοντας, ἀλλʼ εὐθέως ἐβρώθη αὐτῶν ἡ δίαιτα.
+  usfm_code: JOB
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Πόῤῥω γένοιντο οἱ υἱοὶ αὐτῶν ἀπὸ σωτηρίας, κολαβρισθείησαν δὲ ἐπὶ θύραις
-    ἡσσόνων, καὶ οὐκ ἔσται ὁ ἐξαιρούμενος.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: Πόῤῥω γένοιντο οἱ υἱοὶ αὐτῶν ἀπὸ σωτηρίας, κολαβρισθείησαν δὲ ἐπὶ θύραις ἡσσόνων,
+    καὶ οὐκ ἔσται ὁ ἐξαιρούμενος.
+  usfm_code: JOB
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Ἃ γὰρ ἐκεῖνοι συνήγαγον, δίκαιοι ἔδονται, αὐτοὶ δὲ ἐκ κακῶν οὐκ ἐξαίρετοι
+  text: Ἃ γὰρ ἐκεῖνοι συνήγαγον, δίκαιοι ἔδονται, αὐτοὶ δὲ ἐκ κακῶν οὐκ ἐξαίρετοι
     ἔσονται· ἐκσιφωνισθείη αὐτῶν ἡ ἰσχύς.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  usfm_code: JOB
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Οὐ γὰρ μὴ ἐξέλθῃ ἐκ τῆς γῆς κόπος, οὐδὲ ἐξ ὀρέων ἀναβλαστήσει πόνος.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: Οὐ γὰρ μὴ ἐξέλθῃ ἐκ τῆς γῆς κόπος, οὐδὲ ἐξ ὀρέων ἀναβλαστήσει πόνος.
+  usfm_code: JOB
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ἀλλὰ ἄνθρωπος γεννᾶται κόπῳ, νεοσσοὶ δὲ γυπὸς τὰ ὑψηλὰ πέτονται.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: Ἀλλὰ ἄνθρωπος γεννᾶται κόπῳ, νεοσσοὶ δὲ γυπὸς τὰ ὑψηλὰ πέτονται.
+  usfm_code: JOB
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Οὐ μὴν δὲ ἀλλὰ ἐγὼ δεηθήσομαι Κυρίου, Κύριον δὲ τὸν πάντων δεσπότην
-    ἐπικαλέσομαι,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: Οὐ μὴν δὲ ἀλλὰ ἐγὼ δεηθήσομαι Κυρίου, Κύριον δὲ τὸν πάντων δεσπότην ἐπικαλέσομαι,
+  usfm_code: JOB
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: τὸν ποιοῦντα μεγάλα καὶ ἀνεξιχνίαστα, ἔνδοξά τε καὶ ἐξαίσια, ὧν οὐκ
-    ἔστιν ἀριθμὸς,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: τὸν ποιοῦντα μεγάλα καὶ ἀνεξιχνίαστα, ἔνδοξά τε καὶ ἐξαίσια, ὧν οὐκ ἔστιν
+    ἀριθμὸς,
+  usfm_code: JOB
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: τὸν διδόντα ὑετὸν ἐπὶ τὴν γῆν, ἀποστέλλοντα ὕδωρ ἐπὶ τὴν ὑπʼ οὐρανὸν,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: τὸν διδόντα ὑετὸν ἐπὶ τὴν γῆν, ἀποστέλλοντα ὕδωρ ἐπὶ τὴν ὑπʼ οὐρανὸν,
+  usfm_code: JOB
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: τὸν ποιοῦντα ταπεινοὺς εἰς ὕψος, καὶ ἀπολωλότας ἐξεγείροντα,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: τὸν ποιοῦντα ταπεινοὺς εἰς ὕψος, καὶ ἀπολωλότας ἐξεγείροντα,
+  usfm_code: JOB
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: διαλλάσσοντα βουλὰς πανούργων, καὶ οὐ μὴ ποιήσουσιν αἱ χεῖρες αὐτῶν
-    ἀληθές·
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: διαλλάσσοντα βουλὰς πανούργων, καὶ οὐ μὴ ποιήσουσιν αἱ χεῖρες αὐτῶν ἀληθές·
+  usfm_code: JOB
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: ὁ καταλαμβάνων σοφοὺς ἐν τῇ φρονήσει, βουλὴν δὲ πολυπλόκων ἐξέστησεν.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: ὁ καταλαμβάνων σοφοὺς ἐν τῇ φρονήσει, βουλὴν δὲ πολυπλόκων ἐξέστησεν.
+  usfm_code: JOB
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Ἡμέρας συναντήσεται αὐτοῖς σκότος, τὸ δὲ μεσημβρινὸν ψηλαφήσαισαν ἶσα
-    νυκτὶ,
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: Ἡμέρας συναντήσεται αὐτοῖς σκότος, τὸ δὲ μεσημβρινὸν ψηλαφήσαισαν ἶσα νυκτὶ,
+  usfm_code: JOB
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: ἀπόλοιντο δὲ ἐν πολέμῳ· ἀδύνατος δὲ ἐξέλθοι ἐκ χειρὸς δυνάστου.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: ἀπόλοιντο δὲ ἐν πολέμῳ· ἀδύνατος δὲ ἐξέλθοι ἐκ χειρὸς δυνάστου.
+  usfm_code: JOB
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Εἴη δὲ ἀδυνάτῳ ἐλπὶς, ἀδίκου δὲ στόμα ἐμφραχθείη.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: Εἴη δὲ ἀδυνάτῳ ἐλπὶς, ἀδίκου δὲ στόμα ἐμφραχθείη.
+  usfm_code: JOB
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Μακάριος δὲ ἄνθρωπος ὃν ἤλεγξεν ὁ Κύριος, νουθέτημα δὲ παντοκράτορος
-    μὴ ἀπαναίνου.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: Μακάριος δὲ ἄνθρωπος ὃν ἤλεγξεν ὁ Κύριος, νουθέτημα δὲ παντοκράτορος μὴ ἀπαναίνου.
+  usfm_code: JOB
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Αὐτὸς γὰρ ἀλγεῖν ποιεῖ, καὶ πάλιν ἀποκαθίστησιν· ἔπαισε, καὶ αἱ χεῖρες
-    αὐτοῦ ἰάσαντο.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: Αὐτὸς γὰρ ἀλγεῖν ποιεῖ, καὶ πάλιν ἀποκαθίστησιν· ἔπαισε, καὶ αἱ χεῖρες αὐτοῦ
+    ἰάσαντο.
+  usfm_code: JOB
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Ἑξάκις ἐξ ἀναγκῶν σε ἐξελεῖται, ἐν δὲ τῷ ἑβδόμῳ οὐ μὴ ἅψηταί σου κακόν.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: Ἑξάκις ἐξ ἀναγκῶν σε ἐξελεῖται, ἐν δὲ τῷ ἑβδόμῳ οὐ μὴ ἅψηταί σου κακόν.
+  usfm_code: JOB
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Ἐν λιμῷ ῥύσεταί σε ἐκ θανάτου, ἐν πολέμῳ δὲ ἐκ χειρὸς σιδήρου λύσει
-    σε.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: Ἐν λιμῷ ῥύσεταί σε ἐκ θανάτου, ἐν πολέμῳ δὲ ἐκ χειρὸς σιδήρου λύσει σε.
+  usfm_code: JOB
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: Ἀπὸ μάστιγος γλώσσης σε κρύψει, καὶ οὐ μὴ φοβηθῇς ἀπὸ κακῶν ἐρχομένων.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: Ἀπὸ μάστιγος γλώσσης σε κρύψει, καὶ οὐ μὴ φοβηθῇς ἀπὸ κακῶν ἐρχομένων.
+  usfm_code: JOB
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: Ἀδίκων καὶ ἀνόμων καταγελάσῃ· ἀπὸ δὲ θηρίων ἀγρίων οὐ μὴ φοβηθῇς·
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: Ἀδίκων καὶ ἀνόμων καταγελάσῃ· ἀπὸ δὲ θηρίων ἀγρίων οὐ μὴ φοβηθῇς·
+  usfm_code: JOB
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: Θῆρες γὰρ ἄγριοι εἰρηνεύσουσί σοι.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: Θῆρες γὰρ ἄγριοι εἰρηνεύσουσί σοι.
+  usfm_code: JOB
+  verse: '23'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 24
-  verse_text: Εἶτα γνώσῃ ὅτι εἰρηνεύσει σου ὁ οἶκος· ἡ δὲ δίαιτα τῆς σκηνῆς σου οὐ
-    μὴ ἁμάρτῃ.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: Εἶτα γνώσῃ ὅτι εἰρηνεύσει σου ὁ οἶκος· ἡ δὲ δίαιτα τῆς σκηνῆς σου οὐ μὴ ἁμάρτῃ.
+  usfm_code: JOB
+  verse: '24'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 25
-  verse_text: Γνώσῃ δὲ ὅτι πολὺ τὸ σπέρμα σου, τὰ δὲ τέκνα σου ἔσται ὥσπερ τὸ παμβότανον
+  text: Γνώσῃ δὲ ὅτι πολὺ τὸ σπέρμα σου, τὰ δὲ τέκνα σου ἔσται ὥσπερ τὸ παμβότανον
     τοῦ ἀγροῦ.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  usfm_code: JOB
+  verse: '25'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 26
-  verse_text: Ἐλεύσῃ δὲ ἐν τάφῳ ὥσπερ σῖτος ὥριμος κατὰ καιρὸν θεριζόμενος, ἢ ὥσπερ
-    θιμωνία ἅλωνος καθʼ ὥραν συγκομισθεῖσα.
-- book_title: μετάφραση των εβδομήκοντα ΙΩΒ 5
-  book_usfm_code: JOB
-  chapter_number: 5
+  text: Ἐλεύσῃ δὲ ἐν τάφῳ ὥσπερ σῖτος ὥριμος κατὰ καιρὸν θεριζόμενος, ἢ ὥσπερ θιμωνία
+    ἅλωνος καθʼ ὥραν συγκομισθεῖσα.
+  usfm_code: JOB
+  verse: '26'
+- book: μετάφραση των εβδομήκοντα ΙΩΒ 5
+  chapter: 5
   iso-639-2_language_code: grc
-  verse_number: 27
-  verse_text: Ἰδοὺ ταῦτα οὕτως ἐξιχνιάσαμεν· ταῦτά ἐστιν ἃ ἀκηκόαμεν· σὺ δὲ γνῶθι
-    σεαυτῷ, εἴ τι ἔπραξας.
+  text: Ἰδοὺ ταῦτα οὕτως ἐξιχνιάσαμεν· ταῦτά ἐστιν ἃ ἀκηκόαμεν· σὺ δὲ γνῶθι σεαυτῷ,
+    εἴ τι ἔπραξας.
+  usfm_code: JOB
+  verse: '27'

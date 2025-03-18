@@ -1,181 +1,175 @@
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Τέκνον, ἥμαρτες; μὴ προσθῇς μηκέτι, καὶ περὶ τῶν προτέρων σου δεήθητι.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Τέκνον, ἥμαρτες; μὴ προσθῇς μηκέτι, καὶ περὶ τῶν προτέρων σου δεήθητι.
+  usfm_code: SIR
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Ὡς ἀπὸ προσώπου ὄφεως, φεῦγε ἀπὸ ἁμαρτίας, ἐὰν γὰρ προσέλθῃς, δήξεταί
-    σε· ὀδόντες λέοντος οἱ ὀδόντες αὐτῆς, ἀναιροῦντες ψυχὰς ἀνθρώπεν.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Ὡς ἀπὸ προσώπου ὄφεως, φεῦγε ἀπὸ ἁμαρτίας, ἐὰν γὰρ προσέλθῃς, δήξεταί σε·
+    ὀδόντες λέοντος οἱ ὀδόντες αὐτῆς, ἀναιροῦντες ψυχὰς ἀνθρώπεν.
+  usfm_code: SIR
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ὡς ῥομφαία δίστομος πᾶσα ἀνομία, τῇ πληγῇ αὐτῆς οὐκ ἔστιν ἴασις.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Ὡς ῥομφαία δίστομος πᾶσα ἀνομία, τῇ πληγῇ αὐτῆς οὐκ ἔστιν ἴασις.
+  usfm_code: SIR
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Καταπληγμὸς καὶ ὕβρις ἐρημώσουσι πλοῦτον, οὕτως οἶκος ὑπερηφάνου ἐρημωθήσεται.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Καταπληγμὸς καὶ ὕβρις ἐρημώσουσι πλοῦτον, οὕτως οἶκος ὑπερηφάνου ἐρημωθήσεται.
+  usfm_code: SIR
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Δέησις πτωχοῦ ἐκ στόματος ἕως ὠτίων αὐτοῦ, καὶ τὸ κρίμα αὐτοῦ κατὰ σπουδὴν
+  text: Δέησις πτωχοῦ ἐκ στόματος ἕως ὠτίων αὐτοῦ, καὶ τὸ κρίμα αὐτοῦ κατὰ σπουδὴν
     ἔρχεται.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  usfm_code: SIR
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Μισῶν ἐλεγμὸν, ἐν ἴχνει ἁμαρτωλοῦ, καὶ ὁ φοβούμενος Κύριον ἐπιστρέψει
-    ἐν καρδίᾳ.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Μισῶν ἐλεγμὸν, ἐν ἴχνει ἁμαρτωλοῦ, καὶ ὁ φοβούμενος Κύριον ἐπιστρέψει ἐν καρδίᾳ.
+  usfm_code: SIR
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Γνωστὸς μακρόθεν ὁ δυνατὸς ἐν γλώσσῃ, ὁ δὲ νοήμων οἶδεν ἐν τῷ ὀλισθαίνειν
+  text: Γνωστὸς μακρόθεν ὁ δυνατὸς ἐν γλώσσῃ, ὁ δὲ νοήμων οἶδεν ἐν τῷ ὀλισθαίνειν
     αὐτόν.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  usfm_code: SIR
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Ὁ οἰκοδομῶν τὴν οἰκίαν αὐτοῦ ἐν χρήμασιν ἀλλοτρίοις, ὡς ὁ συνάγων αὐτοῦ
-    τοὺς λίθους εἰς χειμῶνα.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Ὁ οἰκοδομῶν τὴν οἰκίαν αὐτοῦ ἐν χρήμασιν ἀλλοτρίοις, ὡς ὁ συνάγων αὐτοῦ τοὺς
+    λίθους εἰς χειμῶνα.
+  usfm_code: SIR
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Στυππεῖον συνηγμένον συναγωγὴ ἀνόμων, καὶ ἡ συντέλεια αὐτῶν φλὸξ πυρός.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Στυππεῖον συνηγμένον συναγωγὴ ἀνόμων, καὶ ἡ συντέλεια αὐτῶν φλὸξ πυρός.
+  usfm_code: SIR
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Ὁδὸς ἁμαρτωλῶν ὡμαλισμένη ἐκ λίθων, καὶ ἐπʼ ἐσχάτῳ αὐτῆς βόθρος ᾅδου.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Ὁδὸς ἁμαρτωλῶν ὡμαλισμένη ἐκ λίθων, καὶ ἐπʼ ἐσχάτῳ αὐτῆς βόθρος ᾅδου.
+  usfm_code: SIR
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Ὁ φύλασσων νόμον κατακρατεῖ τοῦ ἐννοήματος αὐτοῦ, καὶ συντέλεια τοῦ
-    φόβου Κυρίου σοφία.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Ὁ φύλασσων νόμον κατακρατεῖ τοῦ ἐννοήματος αὐτοῦ, καὶ συντέλεια τοῦ φόβου
+    Κυρίου σοφία.
+  usfm_code: SIR
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Οὐ παιδευθήσεται ὃς οὐκ ἔστι πανοῦργος· ἔστι πανουργία πληθύνουσα πικρίαν.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Οὐ παιδευθήσεται ὃς οὐκ ἔστι πανοῦργος· ἔστι πανουργία πληθύνουσα πικρίαν.
+  usfm_code: SIR
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Γνῶσις σοφοῦ ὡς κατακλυσμὸς πληθυνθήσεται, καὶ ἡ βουλὴ αὐτοῦ ὡς πηγὴ
-    ζωῆς.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Γνῶσις σοφοῦ ὡς κατακλυσμὸς πληθυνθήσεται, καὶ ἡ βουλὴ αὐτοῦ ὡς πηγὴ ζωῆς.
+  usfm_code: SIR
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Ἔγκατα μωροῦ ὡς ἀγγεῖον συντετριμμένον, καὶ πᾶσαν γνῶσιν οὐ κρατήσει.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Ἔγκατα μωροῦ ὡς ἀγγεῖον συντετριμμένον, καὶ πᾶσαν γνῶσιν οὐ κρατήσει.
+  usfm_code: SIR
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Λόγον σοφὸν ἐὰν ἀκούσῃ ἐπιστήμων, αἰνέσει αὐτὸν, καὶ ἐπʼ αὐτὸν προσθήσει·
+  text: Λόγον σοφὸν ἐὰν ἀκούσῃ ἐπιστήμων, αἰνέσει αὐτὸν, καὶ ἐπʼ αὐτὸν προσθήσει·
     ἤκουσεν ὁ σπαταλῶν καὶ ἀπήρεσεν αὐτῷ, καὶ ἀπέστρεψεν αὐτὸν ὀπίσω τοῦ νώτου αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  usfm_code: SIR
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Ἐξήγησις μωροῦ ὡς ἐν ὁδῷ φορτίον, ἐπὶ δὲ χείλους συνετοῦ εὑρεθήσεται
-    χάρις.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Ἐξήγησις μωροῦ ὡς ἐν ὁδῷ φορτίον, ἐπὶ δὲ χείλους συνετοῦ εὑρεθήσεται χάρις.
+  usfm_code: SIR
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Στόμα φρονίμου ζητηθήσεται ἐν ἐκκλησίᾳ, καὶ τοὺς λόγους αὐτοῦ διανοηθήσεται
+  text: Στόμα φρονίμου ζητηθήσεται ἐν ἐκκλησίᾳ, καὶ τοὺς λόγους αὐτοῦ διανοηθήσεται
     ἐν καρδίᾳ.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  usfm_code: SIR
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Ὡς οἶκος ἠφανισμένος οὕτως μωρῷ σοφία· καὶ γνῶσις ἀσυνέτου, ἀδιεξέταστοι
-    λόγοι.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Ὡς οἶκος ἠφανισμένος οὕτως μωρῷ σοφία· καὶ γνῶσις ἀσυνέτου, ἀδιεξέταστοι λόγοι.
+  usfm_code: SIR
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Πέδαι ἐν ποσὶν ἀνόητοις παιδεία, καὶ ὡς χειροπέδαι ἐπὶ χειρὸς δεξιᾶς.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Πέδαι ἐν ποσὶν ἀνόητοις παιδεία, καὶ ὡς χειροπέδαι ἐπὶ χειρὸς δεξιᾶς.
+  usfm_code: SIR
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Μωρὸς ἐν γέλωτι ἀνυψοῖ φωνὴν αὐτοῦ, ἀνὴρ δὲ πανοῦργος μόλις ἡσυχῇ μειδιάσει.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Μωρὸς ἐν γέλωτι ἀνυψοῖ φωνὴν αὐτοῦ, ἀνὴρ δὲ πανοῦργος μόλις ἡσυχῇ μειδιάσει.
+  usfm_code: SIR
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: Ὡς κόσμος χρυσοῦ φρονίμῳ παιδεία, καὶ ὡς χλιδὼν ἐπὶ βραχίονι δεξιῷ.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Ὡς κόσμος χρυσοῦ φρονίμῳ παιδεία, καὶ ὡς χλιδὼν ἐπὶ βραχίονι δεξιῷ.
+  usfm_code: SIR
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: Ποὺς μωροῦ ταχὺς εἰς οἰκίαν, ἄνθρωπος δὲ πολύπειρος αἰσχυνθήσεται ἀπὸ
-    προσώπου.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Ποὺς μωροῦ ταχὺς εἰς οἰκίαν, ἄνθρωπος δὲ πολύπειρος αἰσχυνθήσεται ἀπὸ προσώπου.
+  usfm_code: SIR
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: Ἄφρων ἀπὸ θύρας παρακύπτει εἰς οἰκίαν, ἀνὴρ δὲ πεπαιδευμένος ἔξω στήσεται.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Ἄφρων ἀπὸ θύρας παρακύπτει εἰς οἰκίαν, ἀνὴρ δὲ πεπαιδευμένος ἔξω στήσεται.
+  usfm_code: SIR
+  verse: '23'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 24
-  verse_text: Ἀπαιδευσία ἀνθρώπου ἀκροᾶσθαι παρὰ θύραν, ὁ δὲ φρόνιμος βαρυνθήσεται
-    ἀτιμίᾳ.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Ἀπαιδευσία ἀνθρώπου ἀκροᾶσθαι παρὰ θύραν, ὁ δὲ φρόνιμος βαρυνθήσεται ἀτιμίᾳ.
+  usfm_code: SIR
+  verse: '24'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 25
-  verse_text: Χείλη ἀλλοτρίων ἐν τούτοις βαρυνθήσεται, λόγοι δὲ φρονίμων ἐν ζυγῷ σταθήσονται.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Χείλη ἀλλοτρίων ἐν τούτοις βαρυνθήσεται, λόγοι δὲ φρονίμων ἐν ζυγῷ σταθήσονται.
+  usfm_code: SIR
+  verse: '25'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 26
-  verse_text: Ἐν στόματι μωρῶν ἡ καρδία αὐτῶν, καρδία δὲ σοφῶν στόμα αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Ἐν στόματι μωρῶν ἡ καρδία αὐτῶν, καρδία δὲ σοφῶν στόμα αὐτῶν.
+  usfm_code: SIR
+  verse: '26'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 27
-  verse_text: Ἐν τῷ καταρᾶσθαι ἀσεβῆ τὸν Σατανᾶν, αὐτὸς καταρᾶται τὴν ἑαυτοῦ ψυχήν.
-- book_title: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
-  book_usfm_code: SIR
-  chapter_number: 21
+  text: Ἐν τῷ καταρᾶσθαι ἀσεβῆ τὸν Σατανᾶν, αὐτὸς καταρᾶται τὴν ἑαυτοῦ ψυχήν.
+  usfm_code: SIR
+  verse: '27'
+- book: μετάφραση των εβδομήκοντα ΣΕΙΡΑΧ 21
+  chapter: 21
   iso-639-2_language_code: grc
-  verse_number: 28
-  verse_text: Μολύνει τὴν ἑαυτοῦ ψυχὴν ὁ ψιθυρίζων, καὶ ἐν παροικήσει μισηθήσεται.
+  text: Μολύνει τὴν ἑαυτοῦ ψυχὴν ὁ ψιθυρίζων, καὶ ἐν παροικήσει μισηθήσεται.
+  usfm_code: SIR
+  verse: '28'

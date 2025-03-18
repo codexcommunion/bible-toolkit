@@ -1,52 +1,52 @@
-- book_title: Brenton Septuagint Translation Psalms 128
-  book_usfm_code: PSA
-  chapter_number: 128
+- book: Brenton Septuagint Translation Psalms 128
+  chapter: 128
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: A Song of Degrees.
-- book_title: Brenton Septuagint Translation Psalms 128
-  book_usfm_code: PSA
-  chapter_number: 128
+  text: A Song of Degrees.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 128
+  chapter: 128
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: 'Many a time have they warred against me from my youth: and yet they
-    prevailed not against me.'
-- book_title: Brenton Septuagint Translation Psalms 128
-  book_usfm_code: PSA
-  chapter_number: 128
+  text: 'Many a time have they warred against me from my youth: and yet they prevailed
+    not against me.'
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 128
+  chapter: 128
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: 'The sinners wrought upon my back: they prolonged their iniquity.'
-- book_title: Brenton Septuagint Translation Psalms 128
-  book_usfm_code: PSA
-  chapter_number: 128
+  text: 'The sinners wrought upon my back: they prolonged their iniquity.'
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 128
+  chapter: 128
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: The righteous Lord has cut asunder the necks of sinners.
-- book_title: Brenton Septuagint Translation Psalms 128
-  book_usfm_code: PSA
-  chapter_number: 128
+  text: The righteous Lord has cut asunder the necks of sinners.
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 128
+  chapter: 128
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: Let all that hate Sion be put to shame and turned back.
-- book_title: Brenton Septuagint Translation Psalms 128
-  book_usfm_code: PSA
-  chapter_number: 128
+  text: Let all that hate Sion be put to shame and turned back.
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 128
+  chapter: 128
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: Let them be as the grass of the house-tops, which withers before it
-    is plucked up.
-- book_title: Brenton Septuagint Translation Psalms 128
-  book_usfm_code: PSA
-  chapter_number: 128
+  text: Let them be as the grass of the house-tops, which withers before it is plucked
+    up.
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 128
+  chapter: 128
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: Wherewith the reaper fills not his hand, nor he that makes up the sheaves,
+  text: Wherewith the reaper fills not his hand, nor he that makes up the sheaves,
     his bosom.
-- book_title: Brenton Septuagint Translation Psalms 128
-  book_usfm_code: PSA
-  chapter_number: 128
+  usfm_code: PSA
+  verse: '7'
+- book: Brenton Septuagint Translation Psalms 128
+  chapter: 128
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: 'Neither do they that go by say, The blessing of the Lord be upon you:
-    we have blessed you in the name of the Lord.'
+  text: 'Neither do they that go by say, The blessing of the Lord be upon you: we
+    have blessed you in the name of the Lord.'
+  usfm_code: PSA
+  verse: '8'

@@ -1,49 +1,49 @@
-- book_title: Brenton Septuagint Translation Psalms 120
-  book_usfm_code: PSA
-  chapter_number: 120
+- book: Brenton Septuagint Translation Psalms 120
+  chapter: 120
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: A Song of Degrees.
-- book_title: Brenton Septuagint Translation Psalms 120
-  book_usfm_code: PSA
-  chapter_number: 120
+  text: A Song of Degrees.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 120
+  chapter: 120
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: My help shall come from the Lord, who made the heaven and the earth.
-- book_title: Brenton Septuagint Translation Psalms 120
-  book_usfm_code: PSA
-  chapter_number: 120
+  text: My help shall come from the Lord, who made the heaven and the earth.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 120
+  chapter: 120
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: Let not thy foot be moved; and let not thy keeper slumber.
-- book_title: Brenton Septuagint Translation Psalms 120
-  book_usfm_code: PSA
-  chapter_number: 120
+  text: Let not thy foot be moved; and let not thy keeper slumber.
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 120
+  chapter: 120
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: Behold, he that keeps Israel shall not slumber nor sleep.
-- book_title: Brenton Septuagint Translation Psalms 120
-  book_usfm_code: PSA
-  chapter_number: 120
+  text: Behold, he that keeps Israel shall not slumber nor sleep.
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 120
+  chapter: 120
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: 'The Lord shall keep thee: the Lord is thy shelter upon thy right hand.'
-- book_title: Brenton Septuagint Translation Psalms 120
-  book_usfm_code: PSA
-  chapter_number: 120
+  text: 'The Lord shall keep thee: the Lord is thy shelter upon thy right hand.'
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 120
+  chapter: 120
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: The sun shall not burn thee by day, neither the moon by night.
-- book_title: Brenton Septuagint Translation Psalms 120
-  book_usfm_code: PSA
-  chapter_number: 120
+  text: The sun shall not burn thee by day, neither the moon by night.
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 120
+  chapter: 120
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: 'May the Lord preserve thee from all evil: the Lord shall keep thy soul.'
-- book_title: Brenton Septuagint Translation Psalms 120
-  book_usfm_code: PSA
-  chapter_number: 120
+  text: 'May the Lord preserve thee from all evil: the Lord shall keep thy soul.'
+  usfm_code: PSA
+  verse: '7'
+- book: Brenton Septuagint Translation Psalms 120
+  chapter: 120
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: The Lord shall keep thy coming in, and thy going out, from henceforth
-    and even for ever.
+  text: The Lord shall keep thy coming in, and thy going out, from henceforth and
+    even for ever.
+  usfm_code: PSA
+  verse: '8'

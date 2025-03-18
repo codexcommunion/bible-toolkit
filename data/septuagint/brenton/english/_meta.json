@@ -1,0 +1,22 @@
+{
+    "scripture_name": "Brenton Septuagint",
+    "abbreviation": "BRSGNT",
+    "language": "eng",
+    "description": "The Brenton Septuagint",
+    "structure": {
+        "type": "structured_verses",
+        "format": [
+            "json",
+            "yaml"
+        ],
+        "index_file": "_index.json"
+    },
+    "creation_date": "2025-03-17",
+    "generator": "CodexCommunion",
+    "notes": "This dataset is structured to allow efficient retrieval of individual verses.",
+    "stats": {
+        "book_count": 52,
+        "chapter_count": 1099,
+        "verse_count": 28522
+    }
+}

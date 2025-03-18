@@ -1,58 +1,58 @@
 [
     {
-        "book_title": "Brenton Septuagint Translation Psalms 52",
-        "book_usfm_code": "PSA",
-        "chapter_number": 52,
-        "verse_number": 1,
-        "verse_text": "For the end, a Psalm of David upon Maeleth, of instruction.",
+        "book": "Brenton Septuagint Translation Psalms 52",
+        "usfm_code": "PSA",
+        "chapter": 52,
+        "verse": "1",
+        "text": "For the end, a Psalm of David upon Maeleth, of instruction.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 52",
-        "book_usfm_code": "PSA",
-        "chapter_number": 52,
-        "verse_number": 2,
-        "verse_text": "The fool has said in his heart, There is no God. They have corrupted themselves , and become abominable in iniquities: there is none that does good.",
+        "book": "Brenton Septuagint Translation Psalms 52",
+        "usfm_code": "PSA",
+        "chapter": 52,
+        "verse": "2",
+        "text": "The fool has said in his heart, There is no God. They have corrupted themselves , and become abominable in iniquities: there is none that does good.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 52",
-        "book_usfm_code": "PSA",
-        "chapter_number": 52,
-        "verse_number": 3,
-        "verse_text": "God looked down from heaven upon the sons of men, to see if there were any that understood, or sought after God.",
+        "book": "Brenton Septuagint Translation Psalms 52",
+        "usfm_code": "PSA",
+        "chapter": 52,
+        "verse": "3",
+        "text": "God looked down from heaven upon the sons of men, to see if there were any that understood, or sought after God.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 52",
-        "book_usfm_code": "PSA",
-        "chapter_number": 52,
-        "verse_number": 4,
-        "verse_text": "They have all gone out of the way, they are together become unprofitable; there is none that does good, there is not even one.",
+        "book": "Brenton Septuagint Translation Psalms 52",
+        "usfm_code": "PSA",
+        "chapter": 52,
+        "verse": "4",
+        "text": "They have all gone out of the way, they are together become unprofitable; there is none that does good, there is not even one.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 52",
-        "book_usfm_code": "PSA",
-        "chapter_number": 52,
-        "verse_number": 5,
-        "verse_text": "Will none of the workers of iniquity know, who devour my people as they would eat bread? they have not called upon God. There were they greatly afraid, where there was no fear:",
+        "book": "Brenton Septuagint Translation Psalms 52",
+        "usfm_code": "PSA",
+        "chapter": 52,
+        "verse": "5",
+        "text": "Will none of the workers of iniquity know, who devour my people as they would eat bread? they have not called upon God. There were they greatly afraid, where there was no fear:",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 52",
-        "book_usfm_code": "PSA",
-        "chapter_number": 52,
-        "verse_number": 6,
-        "verse_text": "for God has scattered the bones of the men-pleasers; they were ashamed, for God despised them.",
+        "book": "Brenton Septuagint Translation Psalms 52",
+        "usfm_code": "PSA",
+        "chapter": 52,
+        "verse": "6",
+        "text": "for God has scattered the bones of the men-pleasers; they were ashamed, for God despised them.",
         "iso-639-2_language_code": "eng"
     },
     {
-        "book_title": "Brenton Septuagint Translation Psalms 52",
-        "book_usfm_code": "PSA",
-        "chapter_number": 52,
-        "verse_number": 7,
-        "verse_text": "Who will bring the salvation of Israel out of Sion? When the Lord turns the captivity of his people, Jacob shall exult, and Israel shall be glad.",
+        "book": "Brenton Septuagint Translation Psalms 52",
+        "usfm_code": "PSA",
+        "chapter": 52,
+        "verse": "7",
+        "text": "Who will bring the salvation of Israel out of Sion? When the Lord turns the captivity of his people, Jacob shall exult, and Israel shall be glad.",
         "iso-639-2_language_code": "eng"
     }
 ]

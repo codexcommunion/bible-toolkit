@@ -1,206 +1,203 @@
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: A good name is better than good oil; and the day of death than the day
-    of birth.
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: A good name is better than good oil; and the day of death than the day of
+    birth.
+  usfm_code: ECC
+  verse: '1'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: 'It is better to go to the house of mourning, than to go to the banquet
-    house: since this is the end of every man; and the living man will apply good
-    warning to his heart.'
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: 'It is better to go to the house of mourning, than to go to the banquet house:
+    since this is the end of every man; and the living man will apply good warning
+    to his heart.'
+  usfm_code: ECC
+  verse: '2'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: 'Sorrow is better than laughter: for by the sadness of the countenance
-    the heart will be made better.'
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: 'Sorrow is better than laughter: for by the sadness of the countenance the
+    heart will be made better.'
+  usfm_code: ECC
+  verse: '3'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: The heart of the wise is in the house of mourning; but the heart of
-    fools is in the house of mirth.
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: The heart of the wise is in the house of mourning; but the heart of fools
+    is in the house of mirth.
+  usfm_code: ECC
+  verse: '4'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: It is better to hear a reproof of a wise man, than for a man to hear
-    the song of fools.
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: It is better to hear a reproof of a wise man, than for a man to hear the song
+    of fools.
+  usfm_code: ECC
+  verse: '5'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: 'As the sound of thorns under a caldron, so is the laughter of fools:
-    this is also vanity.'
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: 'As the sound of thorns under a caldron, so is the laughter of fools: this
+    is also vanity.'
+  usfm_code: ECC
+  verse: '6'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: For oppression makes a wise man mad, and destroys his noble heart.
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: For oppression makes a wise man mad, and destroys his noble heart.
+  usfm_code: ECC
+  verse: '7'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: 'The end of a matter is better than the beginning thereof: the patient
-    is better than the high-minded.'
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: 'The end of a matter is better than the beginning thereof: the patient is
+    better than the high-minded.'
+  usfm_code: ECC
+  verse: '8'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: 'Be not hasty in thy spirit to be angry: for anger will rest in the
-    bosom of fools.'
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: 'Be not hasty in thy spirit to be angry: for anger will rest in the bosom
+    of fools.'
+  usfm_code: ECC
+  verse: '9'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: Say not, What has happened, that the former days were better than these?
-    for thou dost not enquire in wisdom concerning this.
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: Say not, What has happened, that the former days were better than these? for
+    thou dost not enquire in wisdom concerning this.
+  usfm_code: ECC
+  verse: '10'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: 'Wisdom is good with an inheritance: and there is an advantage by it
-    to them that see the sun.'
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: 'Wisdom is good with an inheritance: and there is an advantage by it to them
+    that see the sun.'
+  usfm_code: ECC
+  verse: '11'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: 'For wisdom in its shadow is as the shadow of silver: and the excellence
-    of the knowledge of wisdom will give life to him that has it.'
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: 'For wisdom in its shadow is as the shadow of silver: and the excellence of
+    the knowledge of wisdom will give life to him that has it.'
+  usfm_code: ECC
+  verse: '12'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: 'Behold the works of God: for who shall be able to straighten him whom
-    God has made crooked?'
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: 'Behold the works of God: for who shall be able to straighten him whom God
+    has made crooked?'
+  usfm_code: ECC
+  verse: '13'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 14
-  verse_text: 'In the day of prosperity live joyfully, and consider in the day of
-    adversity: consider, I say , God also has caused the one to agree with the other
-    for this reason, that man should find nothing after him.'
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: 'In the day of prosperity live joyfully, and consider in the day of adversity:
+    consider, I say , God also has caused the one to agree with the other for this
+    reason, that man should find nothing after him.'
+  usfm_code: ECC
+  verse: '14'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: 'I have seen all things in the days of my vanity: there is a just man
-    perishing in his justice, and there is an ungodly man remaining in his wickedness.'
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: 'I have seen all things in the days of my vanity: there is a just man perishing
+    in his justice, and there is an ungodly man remaining in his wickedness.'
+  usfm_code: ECC
+  verse: '15'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 16
-  verse_text: 'Be not very just; neither be very wise: lest thou be confounded.'
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: 'Be not very just; neither be very wise: lest thou be confounded.'
+  usfm_code: ECC
+  verse: '16'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 17
-  verse_text: 'Be not very wicked; and be not stubborn: lest thou shouldest die before
-    thy time.'
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: 'Be not very wicked; and be not stubborn: lest thou shouldest die before thy
+    time.'
+  usfm_code: ECC
+  verse: '17'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 18
-  verse_text: 'It is well for thee to hold fast by this; also by this defile not thine
-    hand: for to them that fear God all things shall come forth well .'
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: 'It is well for thee to hold fast by this; also by this defile not thine hand:
+    for to them that fear God all things shall come forth well .'
+  usfm_code: ECC
+  verse: '18'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 19
-  verse_text: Wisdom will help the wise man more than ten mighty men which are in
-    the city.
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: Wisdom will help the wise man more than ten mighty men which are in the city.
+  usfm_code: ECC
+  verse: '19'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 20
-  verse_text: For there is not a righteous man in the earth, who will do good, and
-    not sin.
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: For there is not a righteous man in the earth, who will do good, and not sin.
+  usfm_code: ECC
+  verse: '20'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 21
-  verse_text: Also take no heed to all the words which ungodly men shall speak; lest
-    thou hear thy servant cursing thee.
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: Also take no heed to all the words which ungodly men shall speak; lest thou
+    hear thy servant cursing thee.
+  usfm_code: ECC
+  verse: '21'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 22
-  verse_text: For many times he shall trespass against thee, and repeatedly shall
-    he afflict thine heart; for thus also hast thou cursed others.
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: For many times he shall trespass against thee, and repeatedly shall he afflict
+    thine heart; for thus also hast thou cursed others.
+  usfm_code: ECC
+  verse: '22'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 23
-  verse_text: 'All these things have I proved in wisdom: I said, I will be wise; but
-    it was far from me.'
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: 'All these things have I proved in wisdom: I said, I will be wise; but it
+    was far from me.'
+  usfm_code: ECC
+  verse: '23'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 24
-  verse_text: That which is far beyond what was, and a great depth, who shall find
-    it out?
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: That which is far beyond what was, and a great depth, who shall find it out?
+  usfm_code: ECC
+  verse: '24'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 25
-  verse_text: I and my heart went round about to know, and to examine, and to seek
-    wisdom, and the account of things , and to know the folly and trouble and madness
-    of the ungodly man.
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: I and my heart went round about to know, and to examine, and to seek wisdom,
+    and the account of things , and to know the folly and trouble and madness of the
+    ungodly man.
+  usfm_code: ECC
+  verse: '25'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 26
-  verse_text: 'And I find her to be , and I will pronounce to be more bitter than
-    death the woman which is a snare, and her heart nets, who has a band in her hands:
-    he that is good in the sight of God shall be delivered from her; but the sinner
-    shall be caught by her.'
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: 'And I find her to be , and I will pronounce to be more bitter than death
+    the woman which is a snare, and her heart nets, who has a band in her hands: he
+    that is good in the sight of God shall be delivered from her; but the sinner shall
+    be caught by her.'
+  usfm_code: ECC
+  verse: '26'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 27
-  verse_text: Behold, this have I found, said the Preacher, seeking by one at a time
-    to find out the account,
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: Behold, this have I found, said the Preacher, seeking by one at a time to
+    find out the account,
+  usfm_code: ECC
+  verse: '27'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 28
-  verse_text: 'which my soul sought after, but I found not: for I have found one man
-    of a thousand; but a woman in all these I have not found.'
-- book_title: Brenton Septuagint Translation Ecclesiastes 7
-  book_usfm_code: ECC
-  chapter_number: 7
+  text: 'which my soul sought after, but I found not: for I have found one man of
+    a thousand; but a woman in all these I have not found.'
+  usfm_code: ECC
+  verse: '28'
+- book: Brenton Septuagint Translation Ecclesiastes 7
+  chapter: 7
   iso-639-2_language_code: eng
-  verse_number: 29
-  verse_text: But, behold, this have I found, that God made man upright; but they
-    have sought out many devices.
+  text: But, behold, this have I found, that God made man upright; but they have sought
+    out many devices.
+  usfm_code: ECC
+  verse: '29'

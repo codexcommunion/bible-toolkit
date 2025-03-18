@@ -1,91 +1,89 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
-  book_usfm_code: PSA
-  chapter_number: 107
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
+  chapter: 107
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ὠδὴ ψαλμοῦ τῷ Δαυίδ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
-  book_usfm_code: PSA
-  chapter_number: 107
+  text: Ὠδὴ ψαλμοῦ τῷ Δαυίδ.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
+  chapter: 107
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Ἑτοίμη ἡ καρδία μου ὁ Θεὸς, ἑτοίμη ἡ καρδία μου, ᾄσομαι καὶ ψαλῶ ἐν
-    τῇ δόξῃ μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
-  book_usfm_code: PSA
-  chapter_number: 107
-  iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Ἐξεγέρθητι ψαλτήριον καὶ κιθάρα, ἐξεγερθήσομαι ὄρθρου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
-  book_usfm_code: PSA
-  chapter_number: 107
-  iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Ἐξομολογήσομαί σοι ἐν λαοῖς Κύριε, ψαλῶ σοι ἐν ἔθνεσιν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
-  book_usfm_code: PSA
-  chapter_number: 107
-  iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Ὅτι μέγα ἐπάνω τῶν οὐρανῶν τὸ ἔλεός σου, καὶ ἕως τῶν νεφελῶν ἡ ἀλήθειά
-    σου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
-  book_usfm_code: PSA
-  chapter_number: 107
-  iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ὑψώθητι ἐπὶ τοὺς οὐρανοὺς, ὁ Θεὸς, καὶ ἐπὶ πᾶσαν τὴν γῆν ἡ δόξα σου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
-  book_usfm_code: PSA
-  chapter_number: 107
-  iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Ὅπως ἂν ῥυσθῶσιν οἱ ἀγαπητοί σου, σῶσον τῇ δεξιᾷ σου, καὶ ἐπάκουσόν
+  text: Ἑτοίμη ἡ καρδία μου ὁ Θεὸς, ἑτοίμη ἡ καρδία μου, ᾄσομαι καὶ ψαλῶ ἐν τῇ δόξῃ
     μου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
-  book_usfm_code: PSA
-  chapter_number: 107
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
+  chapter: 107
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Ὁ Θεὸς ἐλάλησεν ἐν τῷ ἁγίῳ αὐτοῦ, ὑψωθήσομαι καὶ διαμεριῶ Σίκιμα, καὶ
-    τὴν κοιλάδα τῶν σκηνῶν διαμετρήσω.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
-  book_usfm_code: PSA
-  chapter_number: 107
+  text: Ἐξεγέρθητι ψαλτήριον καὶ κιθάρα, ἐξεγερθήσομαι ὄρθρου.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
+  chapter: 107
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Ἐμός ἐστι Γαλαὰδ, καὶ ἐμός ἐστι Μανασσῆς, καὶ Ἐφραίμ ἀντίληψις τῆς κεφαλῆς
+  text: Ἐξομολογήσομαί σοι ἐν λαοῖς Κύριε, ψαλῶ σοι ἐν ἔθνεσιν.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
+  chapter: 107
+  iso-639-2_language_code: grc
+  text: Ὅτι μέγα ἐπάνω τῶν οὐρανῶν τὸ ἔλεός σου, καὶ ἕως τῶν νεφελῶν ἡ ἀλήθειά σου.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
+  chapter: 107
+  iso-639-2_language_code: grc
+  text: Ὑψώθητι ἐπὶ τοὺς οὐρανοὺς, ὁ Θεὸς, καὶ ἐπὶ πᾶσαν τὴν γῆν ἡ δόξα σου.
+  usfm_code: PSA
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
+  chapter: 107
+  iso-639-2_language_code: grc
+  text: Ὅπως ἂν ῥυσθῶσιν οἱ ἀγαπητοί σου, σῶσον τῇ δεξιᾷ σου, καὶ ἐπάκουσόν μου.
+  usfm_code: PSA
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
+  chapter: 107
+  iso-639-2_language_code: grc
+  text: Ὁ Θεὸς ἐλάλησεν ἐν τῷ ἁγίῳ αὐτοῦ, ὑψωθήσομαι καὶ διαμεριῶ Σίκιμα, καὶ τὴν
+    κοιλάδα τῶν σκηνῶν διαμετρήσω.
+  usfm_code: PSA
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
+  chapter: 107
+  iso-639-2_language_code: grc
+  text: Ἐμός ἐστι Γαλαὰδ, καὶ ἐμός ἐστι Μανασσῆς, καὶ Ἐφραίμ ἀντίληψις τῆς κεφαλῆς
     μου· Ἰούδας βασιλεύς μου,
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
-  book_usfm_code: PSA
-  chapter_number: 107
+  usfm_code: PSA
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
+  chapter: 107
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Μωὰβ λέβης τῆς ἐλπίδος μου· ἐπὶ τὴν Ἰδουμαίαν ἐπιβαλῶ τὸ ὑπόδημά μου,
-    ἐμοὶ ἀλλόφυλοι ὑπετάγησαν.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
-  book_usfm_code: PSA
-  chapter_number: 107
+  text: Μωὰβ λέβης τῆς ἐλπίδος μου· ἐπὶ τὴν Ἰδουμαίαν ἐπιβαλῶ τὸ ὑπόδημά μου, ἐμοὶ
+    ἀλλόφυλοι ὑπετάγησαν.
+  usfm_code: PSA
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
+  chapter: 107
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Τίς ἀπάξει με εἰς πόλιν περιοχῆς; ἢ τίς ὁδηγήσει με ἕως τῆς Ἰδουμαίας;
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
-  book_usfm_code: PSA
-  chapter_number: 107
+  text: Τίς ἀπάξει με εἰς πόλιν περιοχῆς; ἢ τίς ὁδηγήσει με ἕως τῆς Ἰδουμαίας;
+  usfm_code: PSA
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
+  chapter: 107
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Οὐχὶ σὺ ὁ Θεὸς ὁ ἀπωσάμενος ἡμᾶς; καὶ οὐκ ἐξελεύσῃ ὁ Θεὸς ἐν ταῖς δυνάμεσιν
+  text: Οὐχὶ σὺ ὁ Θεὸς ὁ ἀπωσάμενος ἡμᾶς; καὶ οὐκ ἐξελεύσῃ ὁ Θεὸς ἐν ταῖς δυνάμεσιν
     ἡμῶν;
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
-  book_usfm_code: PSA
-  chapter_number: 107
+  usfm_code: PSA
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
+  chapter: 107
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Δὸς ἡμῖν βοήθειαν ἐκ θλίψεως, καὶ ματαία σωτηρία ἀνθρώπου.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
-  book_usfm_code: PSA
-  chapter_number: 107
+  text: Δὸς ἡμῖν βοήθειαν ἐκ θλίψεως, καὶ ματαία σωτηρία ἀνθρώπου.
+  usfm_code: PSA
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 107
+  chapter: 107
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Ἐν τῷ Θεῷ ποιήσομεν δύναμιν, καὶ αὐτὸς ἐξουδενώσει τοὺς ἐχθροὺς ἡμῶν.
+  text: Ἐν τῷ Θεῷ ποιήσομεν δύναμιν, καὶ αὐτὸς ἐξουδενώσει τοὺς ἐχθροὺς ἡμῶν.
+  usfm_code: PSA
+  verse: '14'

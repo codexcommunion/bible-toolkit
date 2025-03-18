@@ -1,113 +1,112 @@
-- book_title: Brenton Septuagint Translation Joshua 14
-  book_usfm_code: JOS
-  chapter_number: 14
+- book: Brenton Septuagint Translation Joshua 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: And these are they of the children of Israel that received their inheritance
+  text: And these are they of the children of Israel that received their inheritance
     in the land of Chanaan, to whom Eleazar the priest, and Joshua the son of Naue,
     and the heads of the families of the tribes of the children of Israel, gave inheritance.
-- book_title: Brenton Septuagint Translation Joshua 14
-  book_usfm_code: JOS
-  chapter_number: 14
+  usfm_code: JOS
+  verse: '1'
+- book: Brenton Septuagint Translation Joshua 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: They inherited according to their lots, as the Lord commanded by the
-    hand of Joshua to the nine tribes and the half tribe, on the other side of Jordan.
-- book_title: Brenton Septuagint Translation Joshua 14
-  book_usfm_code: JOS
-  chapter_number: 14
+  text: They inherited according to their lots, as the Lord commanded by the hand
+    of Joshua to the nine tribes and the half tribe, on the other side of Jordan.
+  usfm_code: JOS
+  verse: '2'
+- book: Brenton Septuagint Translation Joshua 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: But to the Levites he gave no inheritance among them.
-- book_title: Brenton Septuagint Translation Joshua 14
-  book_usfm_code: JOS
-  chapter_number: 14
+  text: But to the Levites he gave no inheritance among them.
+  usfm_code: JOS
+  verse: '3'
+- book: Brenton Septuagint Translation Joshua 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: For the sons of Joseph were two tribes, Manasse and Ephraim; and there
-    was none inheritance in the land given to the Levites, only cities to dwell in,
-    and their suburbs separated for the cattle, and their cattle.
-- book_title: Brenton Septuagint Translation Joshua 14
-  book_usfm_code: JOS
-  chapter_number: 14
+  text: For the sons of Joseph were two tribes, Manasse and Ephraim; and there was
+    none inheritance in the land given to the Levites, only cities to dwell in, and
+    their suburbs separated for the cattle, and their cattle.
+  usfm_code: JOS
+  verse: '4'
+- book: Brenton Septuagint Translation Joshua 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: As the Lord commanded Moses, so did the children of Israel; and they
-    divided the land.
-- book_title: Brenton Septuagint Translation Joshua 14
-  book_usfm_code: JOS
-  chapter_number: 14
+  text: As the Lord commanded Moses, so did the children of Israel; and they divided
+    the land.
+  usfm_code: JOS
+  verse: '5'
+- book: Brenton Septuagint Translation Joshua 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: And the children of Juda came to Joshua in Galgal, and Chaleb the son
-    of Jephone the Kenezite said to him, Thou knowest the word that the Lord spoke
-    to Moses the man of God concerning me and thee in Cades Barne.
-- book_title: Brenton Septuagint Translation Joshua 14
-  book_usfm_code: JOS
-  chapter_number: 14
+  text: And the children of Juda came to Joshua in Galgal, and Chaleb the son of Jephone
+    the Kenezite said to him, Thou knowest the word that the Lord spoke to Moses the
+    man of God concerning me and thee in Cades Barne.
+  usfm_code: JOS
+  verse: '6'
+- book: Brenton Septuagint Translation Joshua 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: For I was forty years old when Moses the servant of God sent me out
-    of Cades Barne to spy out the land; and I returned him an answer according to
-    his mind.
-- book_title: Brenton Septuagint Translation Joshua 14
-  book_usfm_code: JOS
-  chapter_number: 14
+  text: For I was forty years old when Moses the servant of God sent me out of Cades
+    Barne to spy out the land; and I returned him an answer according to his mind.
+  usfm_code: JOS
+  verse: '7'
+- book: Brenton Septuagint Translation Joshua 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: My brethren that went up with me turned away the heart of the people,
-    but I applied myself to follow the Lord my God.
-- book_title: Brenton Septuagint Translation Joshua 14
-  book_usfm_code: JOS
-  chapter_number: 14
+  text: My brethren that went up with me turned away the heart of the people, but
+    I applied myself to follow the Lord my God.
+  usfm_code: JOS
+  verse: '8'
+- book: Brenton Septuagint Translation Joshua 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: And Moses sware on that day, saying, The land on which thou art gone
-    up, it shall be thy inheritance and thy children's for ever, because thou hast
-    applied thyself to follow the Lord our God.
-- book_title: Brenton Septuagint Translation Joshua 14
-  book_usfm_code: JOS
-  chapter_number: 14
+  text: And Moses sware on that day, saying, The land on which thou art gone up, it
+    shall be thy inheritance and thy children's for ever, because thou hast applied
+    thyself to follow the Lord our God.
+  usfm_code: JOS
+  verse: '9'
+- book: Brenton Septuagint Translation Joshua 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: 'And now the Lord has kept me alive as he said: this is the forty-fifth
-    year since the Lord spoke that word to Moses; and Israel journeyed in the wilderness;
+  text: 'And now the Lord has kept me alive as he said: this is the forty-fifth year
+    since the Lord spoke that word to Moses; and Israel journeyed in the wilderness;
     and now, behold, I am this day eighty-five years old.'
-- book_title: Brenton Septuagint Translation Joshua 14
-  book_usfm_code: JOS
-  chapter_number: 14
+  usfm_code: JOS
+  verse: '10'
+- book: Brenton Septuagint Translation Joshua 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: 'I am still strong this day, as when the Lord sent me: just so strong
-    am I now to go out and to come in for war.'
-- book_title: Brenton Septuagint Translation Joshua 14
-  book_usfm_code: JOS
-  chapter_number: 14
+  text: 'I am still strong this day, as when the Lord sent me: just so strong am I
+    now to go out and to come in for war.'
+  usfm_code: JOS
+  verse: '11'
+- book: Brenton Septuagint Translation Joshua 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: 'And now I ask of thee this mountain, as the Lord said in that day;
-    for thou heardest this word on that day; and now the Enakim are there, cities
-    great and strong: if then the Lord should be with me, I will utterly destroy them,
-    as the Lord said to me.'
-- book_title: Brenton Septuagint Translation Joshua 14
-  book_usfm_code: JOS
-  chapter_number: 14
+  text: 'And now I ask of thee this mountain, as the Lord said in that day; for thou
+    heardest this word on that day; and now the Enakim are there, cities great and
+    strong: if then the Lord should be with me, I will utterly destroy them, as the
+    Lord said to me.'
+  usfm_code: JOS
+  verse: '12'
+- book: Brenton Septuagint Translation Joshua 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: And Joshua blessed him, and gave Chebron to Chaleb the son of Jephone
-    the son of Kenez for an inheritance.
-- book_title: Brenton Septuagint Translation Joshua 14
-  book_usfm_code: JOS
-  chapter_number: 14
+  text: And Joshua blessed him, and gave Chebron to Chaleb the son of Jephone the
+    son of Kenez for an inheritance.
+  usfm_code: JOS
+  verse: '13'
+- book: Brenton Septuagint Translation Joshua 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 14
-  verse_text: Therefore Chebron became the inheritance of Chaleb the son of Jephone
-    the Kenezite until this day, because he followed the commandment of the Lord God
-    of Israel.
-- book_title: Brenton Septuagint Translation Joshua 14
-  book_usfm_code: JOS
-  chapter_number: 14
+  text: Therefore Chebron became the inheritance of Chaleb the son of Jephone the
+    Kenezite until this day, because he followed the commandment of the Lord God of
+    Israel.
+  usfm_code: JOS
+  verse: '14'
+- book: Brenton Septuagint Translation Joshua 14
+  chapter: 14
   iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: 'And the name of Chebron before was the city Argob, it is the metropolis
-    of the Enakim: and the land rested from war.'
+  text: 'And the name of Chebron before was the city Argob, it is the metropolis of
+    the Enakim: and the land rested from war.'
+  usfm_code: JOS
+  verse: '15'

@@ -1,427 +1,419 @@
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Καὶ ἐγένετο τὰ ὅρια φυλῆς Ἰούδα κατὰ δήμους αὐτῶν ἀπὸ τῶν ὁρίων τῆς
-    Ἰδουμαίας ἀπὸ τῆς ἐρήμου Σὶν ἕως Κάδης πρὸς Λίβα.
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: Καὶ ἐγένετο τὰ ὅρια φυλῆς Ἰούδα κατὰ δήμους αὐτῶν ἀπὸ τῶν ὁρίων τῆς Ἰδουμαίας
+    ἀπὸ τῆς ἐρήμου Σὶν ἕως Κάδης πρὸς Λίβα.
+  usfm_code: JOS
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Καὶ ἐγενήθη αὐτῶν τὰ ὅρια ἀπὸ Λιβὸς ἕως μέρους θαλάσσης τῆς ἁλυκῆς ἀπὸ
-    τῆς λοφιᾶς τῆς φερούσης ἐπὶ Λίβα.
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: Καὶ ἐγενήθη αὐτῶν τὰ ὅρια ἀπὸ Λιβὸς ἕως μέρους θαλάσσης τῆς ἁλυκῆς ἀπὸ τῆς
+    λοφιᾶς τῆς φερούσης ἐπὶ Λίβα.
+  usfm_code: JOS
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Καὶ διαπορεύεται ἀπέναντι τῆς προσαναβάσεως Ἀκραβίν· καὶ ἐκπεριπορεύεται
-    Σενὰ, καὶ ἀναβαίνει ἀπὸ Λιβὸς ἐπὶ Κάδης Βαρνῆ· καὶ ἐκπορεύεται Ἀσωρὼν, καὶ προσαναβαίνει
+  text: Καὶ διαπορεύεται ἀπέναντι τῆς προσαναβάσεως Ἀκραβίν· καὶ ἐκπεριπορεύεται Σενὰ,
+    καὶ ἀναβαίνει ἀπὸ Λιβὸς ἐπὶ Κάδης Βαρνῆ· καὶ ἐκπορεύεται Ἀσωρὼν, καὶ προσαναβαίνει
     εἰς Σάραδα· καὶ ἐκπορεύεται τὴν κατὰ δυσμὰς Κάδης,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  usfm_code: JOS
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: καὶ ἐκπορεύεται ἐπὶ Σελμωνὰν, καὶ διεκβάλλει ἕως φάραγγος Αἰγύπτου·
-    καὶ ἔσται αὐτοῦ ἡ διέξοδος τῶν ὁρίων ἐπὶ τὴν θάλασσαν· τοῦτό ἐστιν αὐτῶν ὅρια
-    ἀπὸ Λιβός.
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: καὶ ἐκπορεύεται ἐπὶ Σελμωνὰν, καὶ διεκβάλλει ἕως φάραγγος Αἰγύπτου· καὶ ἔσται
+    αὐτοῦ ἡ διέξοδος τῶν ὁρίων ἐπὶ τὴν θάλασσαν· τοῦτό ἐστιν αὐτῶν ὅρια ἀπὸ Λιβός.
+  usfm_code: JOS
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Καὶ τὰ ὅρια ἀπὸ ἀνατολῶν πᾶσα ἡ θάλασσα ἡ ἁλυκὴ ἕως τοῦ Ἰορδάνου. Καὶ
-    τὰ ὅρια αὐτῶν ἀπὸ Βοῤῥᾶ, καὶ ἀπὸ τῆς λοφιᾶς τῆς θαλάσσης καὶ ἀπὸ τοῦ μέρους τοῦ
-    Ἰορδάνου.
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: Καὶ τὰ ὅρια ἀπὸ ἀνατολῶν πᾶσα ἡ θάλασσα ἡ ἁλυκὴ ἕως τοῦ Ἰορδάνου. Καὶ τὰ ὅρια
+    αὐτῶν ἀπὸ Βοῤῥᾶ, καὶ ἀπὸ τῆς λοφιᾶς τῆς θαλάσσης καὶ ἀπὸ τοῦ μέρους τοῦ Ἰορδάνου.
+  usfm_code: JOS
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Ἐπιβαίνει τὰ ὅρια ἐπὶ Βαιθαγλαάμ· καὶ παραπορεύεται ἀπὸ Βοῤῥᾶ ἐπὶ Βαιθάραβα,
+  text: Ἐπιβαίνει τὰ ὅρια ἐπὶ Βαιθαγλαάμ· καὶ παραπορεύεται ἀπὸ Βοῤῥᾶ ἐπὶ Βαιθάραβα,
     καὶ προσαναβαίνει τὰ ὅρια ἐπὶ λίθον Βαιὼν υἱοῦ Ῥουβήν·
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  usfm_code: JOS
+  verse: '6'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 7
-  verse_text: Καὶ προσαναβαίνει τὰ ὅρια ἐπὶ τὸ τέταρτον τῆς φάραγγος Ἀχὼρ, καὶ καταβαίνει
+  text: Καὶ προσαναβαίνει τὰ ὅρια ἐπὶ τὸ τέταρτον τῆς φάραγγος Ἀχὼρ, καὶ καταβαίνει
     ἐπὶ Γαλγὰλ, ἥ ἐστιν ἀπέναντι τῆς προσβάσεως Ἀδαμμὶν, ἥ ἐστι κατὰ Λίβα τῇ φάραγγι,
     καὶ διεκβάλλεῖ ἐπὶ τὸ ὕδωρ τῆς πηγῆς τοῦ ἡλίου· καὶ ἔσται αὐτοῦ ἡ διέξοδος πηγὴ
     Ῥωγήλ·
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  usfm_code: JOS
+  verse: '7'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 8
-  verse_text: Καὶ ἀναβαίνει τὰ ὅρια εἰς φάραγγα Ἐννὸμ, ἐπὶ νώτου τοῦ Ἰεβοῦις ἀπὸ Λιβός·
+  text: Καὶ ἀναβαίνει τὰ ὅρια εἰς φάραγγα Ἐννὸμ, ἐπὶ νώτου τοῦ Ἰεβοῦις ἀπὸ Λιβός·
     αὕτη ἐστιν Ἱερουσαλήμ· καὶ διεκβάλλει τὰ ὅρια ἐπὶ κορυφὴν ὄρους, ἥ ἐστι κατὰ πρόσωπον
     φάραγγος Ἐννὸμ πρὸς θαλάσσης, ἥ ἐστιν ἐκ μέρους γῆς Ῥαφαῒν ἐπὶ βοῤῥᾶ·
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  usfm_code: JOS
+  verse: '8'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 9
-  verse_text: Καὶ διεκβάλλει τὸ ὅριον ἀπὸ κορυφῆς τοῦ ὄρους ἐπὶ πηγὴν ὕδατος Ναφθὼ,
-    καὶ διεκβάλλει εἰς τὸ ὄρος Ἐφρών· καὶ ἄξει τὸ ὅριον εἰς Βαάλ· αὕτη ἐστὶ πόλις
-    Ἰαρίμ.
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: Καὶ διεκβάλλει τὸ ὅριον ἀπὸ κορυφῆς τοῦ ὄρους ἐπὶ πηγὴν ὕδατος Ναφθὼ, καὶ
+    διεκβάλλει εἰς τὸ ὄρος Ἐφρών· καὶ ἄξει τὸ ὅριον εἰς Βαάλ· αὕτη ἐστὶ πόλις Ἰαρίμ.
+  usfm_code: JOS
+  verse: '9'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 10
-  verse_text: Καὶ περιελεύσεται ὅριον ἀπὸ Βαὰλ ἐπὶ θάλασσαν, καὶ παρελεύσεται εἰς
-    ὄρος Ἀσσὰρ ἐπὶ νώτου πόλιν Ἰαρὶν ἀπὸ Βοῤῥᾶ· αὕτη ἐστὶ Χασλών· καὶ καταβήσεται
-    ἐπὶ πόλιν ἡλίου, καὶ παρελεύσεται ἐπὶ Λίβα·
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: Καὶ περιελεύσεται ὅριον ἀπὸ Βαὰλ ἐπὶ θάλασσαν, καὶ παρελεύσεται εἰς ὄρος Ἀσσὰρ
+    ἐπὶ νώτου πόλιν Ἰαρὶν ἀπὸ Βοῤῥᾶ· αὕτη ἐστὶ Χασλών· καὶ καταβήσεται ἐπὶ πόλιν ἡλίου,
+    καὶ παρελεύσεται ἐπὶ Λίβα·
+  usfm_code: JOS
+  verse: '10'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 11
-  verse_text: Καὶ διεκβάλλει τὸ ὅριον κατὰ νώτου Ἀκκαρὼν ἐπὶ βοῤῥᾶν, καὶ διεκβαλεῖ
-    τὰ ὅρια εἰς Σοκχὼθ, καὶ παρελεύσεται ὅρια ἐπὶ Λίβα, καὶ διεκβαλεῖ ἐπὶ Λεβνὰ, καὶ
-    ἔσται ἡ διέξοδος τῶν ὁρίων ἐπὶ θάλασσαν·
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: Καὶ διεκβάλλει τὸ ὅριον κατὰ νώτου Ἀκκαρὼν ἐπὶ βοῤῥᾶν, καὶ διεκβαλεῖ τὰ ὅρια
+    εἰς Σοκχὼθ, καὶ παρελεύσεται ὅρια ἐπὶ Λίβα, καὶ διεκβαλεῖ ἐπὶ Λεβνὰ, καὶ ἔσται
+    ἡ διέξοδος τῶν ὁρίων ἐπὶ θάλασσαν·
+  usfm_code: JOS
+  verse: '11'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 12
-  verse_text: Καὶ τὰ ὅρια αὐτῶν ἀπὸ θαλάσσης, ἡ θάλασσα ἡ μεγάλη ὁριεῖ. Ταῦτα τὰ ὅρια
-    υἱῶν Ἰούδα κύκλῳ κατὰ δήμους αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: Καὶ τὰ ὅρια αὐτῶν ἀπὸ θαλάσσης, ἡ θάλασσα ἡ μεγάλη ὁριεῖ. Ταῦτα τὰ ὅρια υἱῶν
+    Ἰούδα κύκλῳ κατὰ δήμους αὐτῶν.
+  usfm_code: JOS
+  verse: '12'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 13
-  verse_text: Καὶ τῷ Χάλεβ υἱῷ Ἰεφονῆ ἔδωκε μερίδα ἐν μέσῳ υἱῶν Ἰούδα διὰ προστάγματος
-    τοῦ Θεοῦ· καὶ ἔδωκεν αὐτῷ Ἰησοῦς τὴν πόλιν Ἀρβὸκ μητρόπολιν Ἐνάκ· αὕτη ἐστὶ Χεβρών.
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: Καὶ τῷ Χάλεβ υἱῷ Ἰεφονῆ ἔδωκε μερίδα ἐν μέσῳ υἱῶν Ἰούδα διὰ προστάγματος τοῦ
+    Θεοῦ· καὶ ἔδωκεν αὐτῷ Ἰησοῦς τὴν πόλιν Ἀρβὸκ μητρόπολιν Ἐνάκ· αὕτη ἐστὶ Χεβρών.
+  usfm_code: JOS
+  verse: '13'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 14
-  verse_text: Καὶ ἐξωλόθρευσεν ἐκεῖθεν Χάλεβ υἱὸς Ἰεφονὴ τοὺς τρεῖς υἱοὺς Ἐνὰκ, τὸν
-    Σουσὶ καὶ Θολαμὶ καὶ τὸν Ἀχιμᾶ.
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: Καὶ ἐξωλόθρευσεν ἐκεῖθεν Χάλεβ υἱὸς Ἰεφονὴ τοὺς τρεῖς υἱοὺς Ἐνὰκ, τὸν Σουσὶ
+    καὶ Θολαμὶ καὶ τὸν Ἀχιμᾶ.
+  usfm_code: JOS
+  verse: '14'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 15
-  verse_text: Καὶ ἀνέβη ἐκεῖθεν Χάλεβ ἐπὶ τοὺς κατοικοῦντας Δαβίρ· τὸ δὲ ὄνομα Δαβὶρ
-    ἦν τὸ πρότερον πόλις Γραμμάτων.
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: Καὶ ἀνέβη ἐκεῖθεν Χάλεβ ἐπὶ τοὺς κατοικοῦντας Δαβίρ· τὸ δὲ ὄνομα Δαβὶρ ἦν
+    τὸ πρότερον πόλις Γραμμάτων.
+  usfm_code: JOS
+  verse: '15'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 16
-  verse_text: Καὶ εἶπε Χάλεβ, ὃς ἂν λάβῃ καὶ ἐκκόψῃ τὴν πόλιν τῶν Γραμμάτων καὶ κυριεύσῃ
+  text: Καὶ εἶπε Χάλεβ, ὃς ἂν λάβῃ καὶ ἐκκόψῃ τὴν πόλιν τῶν Γραμμάτων καὶ κυριεύσῃ
     αὐτῆς, δώσω αὐτῷ τὴν Ἀσχὰν θυγατέρα μου εἰς γυναῖκα.
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  usfm_code: JOS
+  verse: '16'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 17
-  verse_text: Καὶ ἔλαβεν αὐτὴν Γοθονιὴλ υἱὸς Χενὲζ ἀδελφοῦ Χάλεβ· καὶ ἔδωκεν αὐτῷ
-    τὴν Ἀσχὰν θυγατέρα αὐτοῦ γυναῖκα.
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: Καὶ ἔλαβεν αὐτὴν Γοθονιὴλ υἱὸς Χενὲζ ἀδελφοῦ Χάλεβ· καὶ ἔδωκεν αὐτῷ τὴν Ἀσχὰν
+    θυγατέρα αὐτοῦ γυναῖκα.
+  usfm_code: JOS
+  verse: '17'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 18
-  verse_text: Καὶ ἐγένετο ἐν τῷ ἐκπορεύέσθαι αὐτὴν καὶ συνέβουλεύσατο αὐτῷ, λέγουσα,
-    αἰτήσομαι τὸν πατέρα μου ἀγρόν· καὶ ἐβόησεν ἐκ τοῦ ὄνου· καὶ εἶπεν αὐτῇ Χάλεβ,
-    τί ἐστί σοι;
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: Καὶ ἐγένετο ἐν τῷ ἐκπορεύέσθαι αὐτὴν καὶ συνέβουλεύσατο αὐτῷ, λέγουσα, αἰτήσομαι
+    τὸν πατέρα μου ἀγρόν· καὶ ἐβόησεν ἐκ τοῦ ὄνου· καὶ εἶπεν αὐτῇ Χάλεβ, τί ἐστί σοι;
+  usfm_code: JOS
+  verse: '18'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 19
-  verse_text: Καὶ εἶπεν αὐτῷ, δός μοι εὐλογίαν, ὅτι εἰς γῆν Ναγὲβ δέδωκάς με· δός
-    μοι τὴν Βοτθανίς· καὶ ἔδωκεν αὐτῇ τὴν Γοναιθλὰν τὴν ἄνω καὶ τὴν Γοναιθλὰν τὴν
-    κάτω.
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: Καὶ εἶπεν αὐτῷ, δός μοι εὐλογίαν, ὅτι εἰς γῆν Ναγὲβ δέδωκάς με· δός μοι τὴν
+    Βοτθανίς· καὶ ἔδωκεν αὐτῇ τὴν Γοναιθλὰν τὴν ἄνω καὶ τὴν Γοναιθλὰν τὴν κάτω.
+  usfm_code: JOS
+  verse: '19'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 20
-  verse_text: Αὕτη ἡ κληρονομία φυλῆς υἱῶν Ἰούδα.
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: Αὕτη ἡ κληρονομία φυλῆς υἱῶν Ἰούδα.
+  usfm_code: JOS
+  verse: '20'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 21
-  verse_text: Ἐγενήθησαν δὲ πόλεις αὐτῶν πόλεις πρὸς τῇ φυλῇ υἱῶν Ἰούδα ἐφʼ ὁρίων
-    Ἐδὼμ ἐπὶ τῆς ἐρήμου, καὶ Βαισελεὴλ, καὶ Ἀρὰ, καὶ Ἀσὼρ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: Ἐγενήθησαν δὲ πόλεις αὐτῶν πόλεις πρὸς τῇ φυλῇ υἱῶν Ἰούδα ἐφʼ ὁρίων Ἐδὼμ ἐπὶ
+    τῆς ἐρήμου, καὶ Βαισελεὴλ, καὶ Ἀρὰ, καὶ Ἀσὼρ,
+  usfm_code: JOS
+  verse: '21'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 22
-  verse_text: καὶ Ἰκὰμ, καὶ Ῥεγμὰ, καὶ Ἀρουὴλ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: καὶ Ἰκὰμ, καὶ Ῥεγμὰ, καὶ Ἀρουὴλ,
+  usfm_code: JOS
+  verse: '22'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 23
-  verse_text: καὶ Κάδης, καὶ Ἀσοριωναὶν, καὶ Μαινὰμ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: καὶ Κάδης, καὶ Ἀσοριωναὶν, καὶ Μαινὰμ,
+  usfm_code: JOS
+  verse: '23'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 24
-  verse_text: καὶ Βαλμαινὰν, καὶ αἱ κῶμαι αὐτῶν,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: καὶ Βαλμαινὰν, καὶ αἱ κῶμαι αὐτῶν,
+  usfm_code: JOS
+  verse: '24'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 25
-  verse_text: καὶ αἱ πόλεις Ἀσερὼν, αὕτη Ἀσὼρ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: καὶ αἱ πόλεις Ἀσερὼν, αὕτη Ἀσὼρ,
+  usfm_code: JOS
+  verse: '25'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 26
-  verse_text: καὶ Σὴν, καὶ Σαλμαὰ, καὶ Μωλαδὰ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: καὶ Σὴν, καὶ Σαλμαὰ, καὶ Μωλαδὰ,
+  usfm_code: JOS
+  verse: '26'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 27
-  verse_text: καὶ Σερὶ, καὶ Βαιφαλὰθ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: καὶ Σερὶ, καὶ Βαιφαλὰθ,
+  usfm_code: JOS
+  verse: '27'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 28
-  verse_text: καὶ Χολασεωλὰ, καὶ Βηρσαβεέ· καὶ αἱ κῶμαι αὐτῶν, καὶ αἱ ἐπαύλεις αὐτῶν,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: καὶ Χολασεωλὰ, καὶ Βηρσαβεέ· καὶ αἱ κῶμαι αὐτῶν, καὶ αἱ ἐπαύλεις αὐτῶν,
+  usfm_code: JOS
+  verse: '28'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 29
-  verse_text: Βαλὰ, καὶ Βακὼκ, καὶ Ἀσὸμ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: Βαλὰ, καὶ Βακὼκ, καὶ Ἀσὸμ,
+  usfm_code: JOS
+  verse: '29'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 30
-  verse_text: καὶ Ἐλβωϋδὰδ, καὶ Βαιθὴλ, καὶ Ἑρμὰ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: καὶ Ἐλβωϋδὰδ, καὶ Βαιθὴλ, καὶ Ἑρμὰ,
+  usfm_code: JOS
+  verse: '30'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 31
-  verse_text: καὶ Σεκελὰκ, καὶ Μαχαρὶμ, καὶ Σεθεννὰκ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: καὶ Σεκελὰκ, καὶ Μαχαρὶμ, καὶ Σεθεννὰκ,
+  usfm_code: JOS
+  verse: '31'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 32
-  verse_text: καὶ Λαβὼς, καὶ Σαλὴ, καὶ Ἐρωμώθ· πόλεις εἰκοσιεννέα, καὶ αἱ κῶμαι αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: καὶ Λαβὼς, καὶ Σαλὴ, καὶ Ἐρωμώθ· πόλεις εἰκοσιεννέα, καὶ αἱ κῶμαι αὐτῶν.
+  usfm_code: JOS
+  verse: '32'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 33
-  verse_text: Ἐν τῇ πεδινῇ Ἀσταὼλ, καὶ Ῥάα, καὶ Ἄσσα.
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: Ἐν τῇ πεδινῇ Ἀσταὼλ, καὶ Ῥάα, καὶ Ἄσσα.
+  usfm_code: JOS
+  verse: '33'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 34
-  verse_text: Καὶ Ῥάμεν, καὶ Τανὼ, καὶ Ἰλουθὼθ, καὶ Μαιανὶ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: Καὶ Ῥάμεν, καὶ Τανὼ, καὶ Ἰλουθὼθ, καὶ Μαιανὶ,
+  usfm_code: JOS
+  verse: '34'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 35
-  verse_text: καὶ Ἰερμοὺθ, καὶ Ὀδολλὰμ, καὶ Μεμβρὰ, καὶ Σαωχὼ, καὶ Ἰαζηκὰ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  text: καὶ Ἰερμοὺθ, καὶ Ὀδολλὰμ, καὶ Μεμβρὰ, καὶ Σαωχὼ, καὶ Ἰαζηκὰ,
+  usfm_code: JOS
+  verse: '35'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 36
-  verse_text: καὶ Σακαρὶμ, καὶ Γάδηρα, καὶ αἱ ἐπαύλεις αὐτῆς· πόλεις δεκατέσσαρες,
+  text: καὶ Σακαρὶμ, καὶ Γάδηρα, καὶ αἱ ἐπαύλεις αὐτῆς· πόλεις δεκατέσσαρες, καὶ αἱ
+    κῶμαι αὐτῶν.
+  usfm_code: JOS
+  verse: '36'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: Σεννὰ, καὶ Ἀδασὰν, καὶ Μαγαδαλγὰδ,
+  usfm_code: JOS
+  verse: '37'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: καὶ Δαλὰδ, καὶ Μασφὰ, καὶ Ἰαχαρεὴλ,
+  usfm_code: JOS
+  verse: '38'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: καὶ Βασηδὼθ, καὶ Ἰδεαδαλέα, καὶ
+  usfm_code: JOS
+  verse: '39'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: Χαβρά, καὶ Μαχὲς, καὶ Μααχὼς,
+  usfm_code: JOS
+  verse: '40'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: καὶ Γεδδὼρ, καὶ Βαγαδιὴλ, καὶ Νωμὰν, καὶ Μαχηδάν· πόλεις ἑκκαίδεκα, καὶ αἱ
+    κῶμαι αὐτῶν·
+  usfm_code: JOS
+  verse: '41'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: Λεβνὰ, καὶ Ἰθὰκ, καὶ Ἀνὼχ,
+  usfm_code: JOS
+  verse: '42'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: καὶ Ἰανὰ, καὶ Νασὶβ,
+  usfm_code: JOS
+  verse: '43'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: καὶ Κεϊλὰμ, καὶ Ἀκιεζὶ, καὶ Κεζὶβ, καὶ Βαθησὰρ, καὶ Αἰλώμ· πόλεις δέκα, καὶ
+    αἱ κῶμαι αὐτῶν·
+  usfm_code: JOS
+  verse: '44'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: Ἀκκαρὼν, καὶ αἱ κῶμαι αὐτῆς, καὶ αἱ ἐπαύλεις αὐτῶν,
+  usfm_code: JOS
+  verse: '45'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: ἀπὸ Ἀκκαρὼν Γεμνά· καὶ πᾶσαι ὅσαι εἰσὶ πλησίον Ἀσηδώθ· καὶ αἱ κῶμαι αὐτῶν,
+  usfm_code: JOS
+  verse: '46'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: Ἀσιεδὼθ, καὶ αἱ κῶμαι αὐτῆς, καὶ αἱ ἐπαύλεις αὐτῆς· Γάζα, καὶ αἱ κῶμαι αὐτῆς,
+    καὶ ἐπαύλεις αὐτῆς ἕως τοῦ χειμάῤῥου Αἰγύπτου, καὶ ἡ θάλασσα ἡ μεγάλη διορίζει.
+  usfm_code: JOS
+  verse: '47'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: Καὶ ἐν τῇ ὀρεινῇ Σαμὶρ, καὶ Ἰεθὲρ, καὶ Σωχὰ,
+  usfm_code: JOS
+  verse: '48'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: καὶ Ῥεννὰ, καὶ πόλις Γραμμάτων, αὕτη Δαβὶρ,
+  usfm_code: JOS
+  verse: '49'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: καὶ Ἀνὼν, καὶ Ἒς, καὶ Μὰν, καὶ Αἰσὰμ,
+  usfm_code: JOS
+  verse: '50'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: καὶ Γοσὸμ, καὶ Χαλοὺ, καὶ Χαννὰ, καὶ Γηλώμ· πόλεις ἕνδεκα, καὶ αἱ κῶμαι αὐτῶν·
+  usfm_code: JOS
+  verse: '51'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: Αἰρὲμ, καὶ Ῥεμνὰ, καὶ Σομὰ,
+  usfm_code: JOS
+  verse: '52'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: καὶ Ἰεμαῒν, καὶ Βαιθαχοὺ, καὶ Φακουὰ,
+  usfm_code: JOS
+  verse: '53'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: καὶ Εὐμὰ, καὶ πόλις Ἀρβὸκ, αὕτη ἐστὶ Χεβρὼν, καὶ Σωραίθ· πόλεις ἐννέα, καὶ
+    αἱ ἐπαύλεις αὐτῶν·
+  usfm_code: JOS
+  verse: '54'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: Μαὼρ, καὶ Χερμὲλ, καὶ Ὀζὶβ, καὶ Ἰτὰν,
+  usfm_code: JOS
+  verse: '55'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: καὶ Ἰαριὴλ, καὶ Ἀρικὰμ, καὶ Ζακαναῒμ,
+  usfm_code: JOS
+  verse: '56'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: καὶ Γαβαὰ, καὶ Θαμναθά· πόλεις ἐννέα, καὶ αἱ κῶμαι αὐτῶν·
+  usfm_code: JOS
+  verse: '57'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: Αἰλουὰ, καὶ Βηθσοὺρ, καὶ Γεδδὼν,
+  usfm_code: JOS
+  verse: '58'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: καὶ Μαγαρὼθ, καὶ Βαιθανὰμ, καὶ Θεκούμ· πόλεις ἓξ, καὶ αἱ κῶμαι αὐτῶν·
+  usfm_code: JOS
+  verse: '59'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: Θεκὼ, καὶ Ἐφραθὰ, αὕτη ἐστὶ Βαιθλεὲμ, καὶ Φαγὼρ, καὶ Αἰτὰν, καὶ Κουλὸν, καὶ
+    Τατὰμ, καὶ Θωβὴς, καὶ Καρὲμ, καὶ Γαλὲμ καὶ Θεθὴρ, καὶ Μανοχώ· πόλεις ἕνδεκα, καὶ
+    αἱ κῶμαι αὐτῶν·
+  usfm_code: JOS
+  verse: 59a
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: Καριαθβαὰλ, αὕτη ἡ πόλις Ἰαρὶμ, καὶ Σωθηβᾶ· πόλεις δύο, καὶ αἱ ἐπαύλεις αὐτῶν·
+  usfm_code: JOS
+  verse: '60'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: καὶ Βαδδαργεὶς, καὶ Θαραβαὰμ, καὶ Αἰνὼν,
+  usfm_code: JOS
+  verse: '61'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
+  iso-639-2_language_code: grc
+  text: καὶ Αἰοχιοζὰ, καὶ Ναφλαζὼν, καὶ αἱ πόλεις Σαδῶν, καὶ Ἀρκάδης· πόλεις ἑπτὰ,
     καὶ αἱ κῶμαι αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
+  usfm_code: JOS
+  verse: '62'
+- book: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
+  chapter: 15
   iso-639-2_language_code: grc
-  verse_number: 37
-  verse_text: Σεννὰ, καὶ Ἀδασὰν, καὶ Μαγαδαλγὰδ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 38
-  verse_text: καὶ Δαλὰδ, καὶ Μασφὰ, καὶ Ἰαχαρεὴλ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 39
-  verse_text: καὶ Βασηδὼθ, καὶ Ἰδεαδαλέα, καὶ
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 40
-  verse_text: Χαβρά, καὶ Μαχὲς, καὶ Μααχὼς,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 41
-  verse_text: καὶ Γεδδὼρ, καὶ Βαγαδιὴλ, καὶ Νωμὰν, καὶ Μαχηδάν· πόλεις ἑκκαίδεκα,
-    καὶ αἱ κῶμαι αὐτῶν·
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 42
-  verse_text: Λεβνὰ, καὶ Ἰθὰκ, καὶ Ἀνὼχ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 43
-  verse_text: καὶ Ἰανὰ, καὶ Νασὶβ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 44
-  verse_text: καὶ Κεϊλὰμ, καὶ Ἀκιεζὶ, καὶ Κεζὶβ, καὶ Βαθησὰρ, καὶ Αἰλώμ· πόλεις δέκα,
-    καὶ αἱ κῶμαι αὐτῶν·
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 45
-  verse_text: Ἀκκαρὼν, καὶ αἱ κῶμαι αὐτῆς, καὶ αἱ ἐπαύλεις αὐτῶν,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 46
-  verse_text: ἀπὸ Ἀκκαρὼν Γεμνά· καὶ πᾶσαι ὅσαι εἰσὶ πλησίον Ἀσηδώθ· καὶ αἱ κῶμαι
-    αὐτῶν,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 47
-  verse_text: Ἀσιεδὼθ, καὶ αἱ κῶμαι αὐτῆς, καὶ αἱ ἐπαύλεις αὐτῆς· Γάζα, καὶ αἱ κῶμαι
-    αὐτῆς, καὶ ἐπαύλεις αὐτῆς ἕως τοῦ χειμάῤῥου Αἰγύπτου, καὶ ἡ θάλασσα ἡ μεγάλη διορίζει.
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 48
-  verse_text: Καὶ ἐν τῇ ὀρεινῇ Σαμὶρ, καὶ Ἰεθὲρ, καὶ Σωχὰ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 49
-  verse_text: καὶ Ῥεννὰ, καὶ πόλις Γραμμάτων, αὕτη Δαβὶρ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 50
-  verse_text: καὶ Ἀνὼν, καὶ Ἒς, καὶ Μὰν, καὶ Αἰσὰμ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 51
-  verse_text: καὶ Γοσὸμ, καὶ Χαλοὺ, καὶ Χαννὰ, καὶ Γηλώμ· πόλεις ἕνδεκα, καὶ αἱ κῶμαι
-    αὐτῶν·
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 52
-  verse_text: Αἰρὲμ, καὶ Ῥεμνὰ, καὶ Σομὰ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 53
-  verse_text: καὶ Ἰεμαῒν, καὶ Βαιθαχοὺ, καὶ Φακουὰ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 54
-  verse_text: καὶ Εὐμὰ, καὶ πόλις Ἀρβὸκ, αὕτη ἐστὶ Χεβρὼν, καὶ Σωραίθ· πόλεις ἐννέα,
-    καὶ αἱ ἐπαύλεις αὐτῶν·
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 55
-  verse_text: Μαὼρ, καὶ Χερμὲλ, καὶ Ὀζὶβ, καὶ Ἰτὰν,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 56
-  verse_text: καὶ Ἰαριὴλ, καὶ Ἀρικὰμ, καὶ Ζακαναῒμ,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 57
-  verse_text: καὶ Γαβαὰ, καὶ Θαμναθά· πόλεις ἐννέα, καὶ αἱ κῶμαι αὐτῶν·
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 58
-  verse_text: Αἰλουὰ, καὶ Βηθσοὺρ, καὶ Γεδδὼν,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 59
-  verse_text: καὶ Μαγαρὼθ, καὶ Βαιθανὰμ, καὶ Θεκούμ· πόλεις ἓξ, καὶ αἱ κῶμαι αὐτῶν·
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 60
-  verse_text: Θεκὼ, καὶ Ἐφραθὰ, αὕτη ἐστὶ Βαιθλεὲμ, καὶ Φαγὼρ, καὶ Αἰτὰν, καὶ Κουλὸν,
-    καὶ Τατὰμ, καὶ Θωβὴς, καὶ Καρὲμ, καὶ Γαλὲμ καὶ Θεθὴρ, καὶ Μανοχώ· πόλεις ἕνδεκα,
-    καὶ αἱ κῶμαι αὐτῶν·
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 60
-  verse_text: Καριαθβαὰλ, αὕτη ἡ πόλις Ἰαρὶμ, καὶ Σωθηβᾶ· πόλεις δύο, καὶ αἱ ἐπαύλεις
-    αὐτῶν·
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 61
-  verse_text: καὶ Βαδδαργεὶς, καὶ Θαραβαὰμ, καὶ Αἰνὼν,
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 62
-  verse_text: καὶ Αἰοχιοζὰ, καὶ Ναφλαζὼν, καὶ αἱ πόλεις Σαδῶν, καὶ Ἀρκάδης· πόλεις
-    ἑπτὰ, καὶ αἱ κῶμαι αὐτῶν.
-- book_title: μετάφραση των εβδομήκοντα ΙΗΣΟΥΣ 15
-  book_usfm_code: JOS
-  chapter_number: 15
-  iso-639-2_language_code: grc
-  verse_number: 63
-  verse_text: Καὶ ὁ Ἰεβουσαῖος κατῴκει ἐν Ἱερουσαλὴμ, καὶ οὐκ ἠδυνήθησαν οἱ υἱοὶ Ἰούδα
-    ἀπολέσαι αὐτούς· καὶ κατῴκησαν οἱ Ἰεβουσαῖοι ἐν Ἱερουσαλὴμ ἕως τῆς ἡμέρας ταύτης.
+  text: Καὶ ὁ Ἰεβουσαῖος κατῴκει ἐν Ἱερουσαλὴμ, καὶ οὐκ ἠδυνήθησαν οἱ υἱοὶ Ἰούδα ἀπολέσαι
+    αὐτούς· καὶ κατῴκησαν οἱ Ἰεβουσαῖοι ἐν Ἱερουσαλὴμ ἕως τῆς ἡμέρας ταύτης.
+  usfm_code: JOS
+  verse: '63'

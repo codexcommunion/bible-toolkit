@@ -1,378 +1,374 @@
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: And the Lord spoke to Moses and Aaron in the land of Egypt, saying,
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And the Lord spoke to Moses and Aaron in the land of Egypt, saying,
+  usfm_code: EXO
+  verse: '1'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: 'This month shall be to you the beginning of months: it is the first
-    to you among the months of the year.'
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: 'This month shall be to you the beginning of months: it is the first to you
+    among the months of the year.'
+  usfm_code: EXO
+  verse: '2'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: Speak to all the congregation of the children of Israel, saying, On
-    the tenth of this month let them take each man a lamb according to the houses
-    of their families, every man a lamb for his household.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: Speak to all the congregation of the children of Israel, saying, On the tenth
+    of this month let them take each man a lamb according to the houses of their families,
+    every man a lamb for his household.
+  usfm_code: EXO
+  verse: '3'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: And if they be few in a household, so that there are not enough for
-    the lamb, he shall take with himself his neighbour that lives near to him,—as
-    to the number of souls, every one according to that which suffices him shall make
-    a reckoning for the lamb.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And if they be few in a household, so that there are not enough for the lamb,
+    he shall take with himself his neighbour that lives near to him,—as to the number
+    of souls, every one according to that which suffices him shall make a reckoning
+    for the lamb.
+  usfm_code: EXO
+  verse: '4'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: 'It shall be to you a lamb unblemished, a male of a year old: ye shall
-    take it of the lambs and the kids.'
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: 'It shall be to you a lamb unblemished, a male of a year old: ye shall take
+    it of the lambs and the kids.'
+  usfm_code: EXO
+  verse: '5'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: And it shall be kept by you till the fourteenth of this month, and all
-    the multitude of the congregation of the children of Israel shall kill it toward
-    evening.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And it shall be kept by you till the fourteenth of this month, and all the
+    multitude of the congregation of the children of Israel shall kill it toward evening.
+  usfm_code: EXO
+  verse: '6'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: And they shall take of the blood, and shall put it on the two door-posts,
+  text: And they shall take of the blood, and shall put it on the two door-posts,
     and on the lintel, in the houses in which soever they shall eat them.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  usfm_code: EXO
+  verse: '7'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: And they shall eat the flesh in this night roast with fire, and they
-    shall eat unleavened bread with bitter herbs.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And they shall eat the flesh in this night roast with fire, and they shall
+    eat unleavened bread with bitter herbs.
+  usfm_code: EXO
+  verse: '8'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: Ye shall not eat of it raw nor sodden in water, but only roast with
-    fire, the head with the feet and the appurtenances.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: Ye shall not eat of it raw nor sodden in water, but only roast with fire,
+    the head with the feet and the appurtenances.
+  usfm_code: EXO
+  verse: '9'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: Nothing shall be left of it till the morning, and a bone of it ye shall
-    not break; but that which is left of it till the morning ye shall burn with fire.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: Nothing shall be left of it till the morning, and a bone of it ye shall not
+    break; but that which is left of it till the morning ye shall burn with fire.
+  usfm_code: EXO
+  verse: '10'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: 'And thus shall ye eat it: your loins girded, and your sandals on your
-    feet, and your staves in your hands, and ye shall eat it in haste. It is a passover
+  text: 'And thus shall ye eat it: your loins girded, and your sandals on your feet,
+    and your staves in your hands, and ye shall eat it in haste. It is a passover
     to the Lord.'
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  usfm_code: EXO
+  verse: '11'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: 'And I will go through the land of Egypt in that night, and will smite
-    every first-born in the land of Egypt both man and beast, and on all the gods
-    of Egypt will I execute vengeance: I am the Lord.'
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: 'And I will go through the land of Egypt in that night, and will smite every
+    first-born in the land of Egypt both man and beast, and on all the gods of Egypt
+    will I execute vengeance: I am the Lord.'
+  usfm_code: EXO
+  verse: '12'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: And the blood shall be for a sign to you on the houses in which ye are,
-    and I will see the blood, and will protect you, and there shall not be on you
-    the plague of destruction, when I smite in the land of Egypt.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And the blood shall be for a sign to you on the houses in which ye are, and
+    I will see the blood, and will protect you, and there shall not be on you the
+    plague of destruction, when I smite in the land of Egypt.
+  usfm_code: EXO
+  verse: '13'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 14
-  verse_text: And this day shall be to you a memorial, and ye shall keep it a feast
-    to the Lord through all your generations; ye shall keep it a feast for a perpetual
-    ordinance.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And this day shall be to you a memorial, and ye shall keep it a feast to the
+    Lord through all your generations; ye shall keep it a feast for a perpetual ordinance.
+  usfm_code: EXO
+  verse: '14'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: 'Seven days ye shall eat unleavened bread, and from the first day ye
-    shall utterly remove leaven from your houses: whoever shall eat leaven, that soul
-    shall be utterly destroyed from Israel, from the first day until the seventh day.'
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: 'Seven days ye shall eat unleavened bread, and from the first day ye shall
+    utterly remove leaven from your houses: whoever shall eat leaven, that soul shall
+    be utterly destroyed from Israel, from the first day until the seventh day.'
+  usfm_code: EXO
+  verse: '15'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 16
-  verse_text: 'And the first day shall be called holy, and the seventh day shall be
-    a holy convocation to you: ye shall do no servile work on them, only as many things
-    as will necessarily be done by every soul, this only shall be done by you.'
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: 'And the first day shall be called holy, and the seventh day shall be a holy
+    convocation to you: ye shall do no servile work on them, only as many things as
+    will necessarily be done by every soul, this only shall be done by you.'
+  usfm_code: EXO
+  verse: '16'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 17
-  verse_text: And ye shall keep this commandment, for on this day will I bring out
-    your force out of the land of Egypt; and ye shall make this day a perpetual ordinance
+  text: And ye shall keep this commandment, for on this day will I bring out your
+    force out of the land of Egypt; and ye shall make this day a perpetual ordinance
     for you throughout your generations.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  usfm_code: EXO
+  verse: '17'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 18
-  verse_text: Beginning the fourteenth day of the first month, ye shall eat unleavened
-    bread from evening, till the twenty-first day of the month, till evening.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: Beginning the fourteenth day of the first month, ye shall eat unleavened bread
+    from evening, till the twenty-first day of the month, till evening.
+  usfm_code: EXO
+  verse: '18'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 19
-  verse_text: Seven days leaven shall not be found in your houses; whosoever shall
-    eat anything leavened, that soul shall be cut off from the congregation of Israel,
-    both among the occupiers of the land and the original inhabitants.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: Seven days leaven shall not be found in your houses; whosoever shall eat anything
+    leavened, that soul shall be cut off from the congregation of Israel, both among
+    the occupiers of the land and the original inhabitants.
+  usfm_code: EXO
+  verse: '19'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 20
-  verse_text: Ye shall eat nothing leavened, but in every habitation of yours ye shall
-    eat unleavened bread.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: Ye shall eat nothing leavened, but in every habitation of yours ye shall eat
+    unleavened bread.
+  usfm_code: EXO
+  verse: '20'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 21
-  verse_text: And Moses called all the elders of the children of Israel, and said
-    to them, Go away and take to yourselves a lamb according to your kindreds, and
-    slay the passover.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And Moses called all the elders of the children of Israel, and said to them,
+    Go away and take to yourselves a lamb according to your kindreds, and slay the
+    passover.
+  usfm_code: EXO
+  verse: '21'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 22
-  verse_text: And ye shall take a bunch of hyssop, and having dipped it into some
-    of the blood that is by the door, ye shall touch the lintel, and shall put it
-    upon both door-posts, even of the blood which is by the door; but ye shall not
-    go out every one from the door of his house till the morning.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And ye shall take a bunch of hyssop, and having dipped it into some of the
+    blood that is by the door, ye shall touch the lintel, and shall put it upon both
+    door-posts, even of the blood which is by the door; but ye shall not go out every
+    one from the door of his house till the morning.
+  usfm_code: EXO
+  verse: '22'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 23
-  verse_text: And the Lord shall pass by to smite the Egyptians, and shall see the
-    blood upon the lintel, and upon both the door-posts; and the Lord shall pass by
-    the door, and shall not suffer the destroyer to enter into your houses to smite
-    you .
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And the Lord shall pass by to smite the Egyptians, and shall see the blood
+    upon the lintel, and upon both the door-posts; and the Lord shall pass by the
+    door, and shall not suffer the destroyer to enter into your houses to smite you
+    .
+  usfm_code: EXO
+  verse: '23'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 24
-  verse_text: And keep ye this thing as an ordinance for thyself and for thy children
-    for ever.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And keep ye this thing as an ordinance for thyself and for thy children for
+    ever.
+  usfm_code: EXO
+  verse: '24'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 25
-  verse_text: And if ye should enter into the land, which the Lord shall give you,
-    as he has spoken, keep this service.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And if ye should enter into the land, which the Lord shall give you, as he
+    has spoken, keep this service.
+  usfm_code: EXO
+  verse: '25'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 26
-  verse_text: And it shall come to pass, if your sons say to you, What is this service?
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And it shall come to pass, if your sons say to you, What is this service?
+  usfm_code: EXO
+  verse: '26'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 27
-  verse_text: that ye shall say to them, This passover is a sacrifice to the Lord,
-    as he defended the houses of the children of Israel in Egypt, when he smote the
-    Egyptians, but delivered our houses.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: that ye shall say to them, This passover is a sacrifice to the Lord, as he
+    defended the houses of the children of Israel in Egypt, when he smote the Egyptians,
+    but delivered our houses.
+  usfm_code: EXO
+  verse: '27'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 28
-  verse_text: And the people bowed and worshipped. And the children of Israel departed
-    and did as the Lord commanded Moses and Aaron, so did they.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And the people bowed and worshipped. And the children of Israel departed and
+    did as the Lord commanded Moses and Aaron, so did they.
+  usfm_code: EXO
+  verse: '28'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 29
-  verse_text: And it came to pass at midnight that the Lord smote all the first-born
-    in the land of Egypt, from the first-born of Pharao that sat on the throne, to
-    the first-born of the captive-maid in the dungeon, and the first-born of all cattle.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And it came to pass at midnight that the Lord smote all the first-born in
+    the land of Egypt, from the first-born of Pharao that sat on the throne, to the
+    first-born of the captive-maid in the dungeon, and the first-born of all cattle.
+  usfm_code: EXO
+  verse: '29'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 30
-  verse_text: And Pharao rose up by night, and his servants, and all the Egyptians;
-    and there was a great cry in all the land of Egypt, for there was not a house
-    in which there was not one dead.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And Pharao rose up by night, and his servants, and all the Egyptians; and
+    there was a great cry in all the land of Egypt, for there was not a house in which
+    there was not one dead.
+  usfm_code: EXO
+  verse: '30'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 31
-  verse_text: And Pharao called Moses and Aaron by night, and said to them, Rise and
-    depart from my people, both ye and the children of Israel. Go and serve the Lord
-    your God, even as ye say.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And Pharao called Moses and Aaron by night, and said to them, Rise and depart
+    from my people, both ye and the children of Israel. Go and serve the Lord your
+    God, even as ye say.
+  usfm_code: EXO
+  verse: '31'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 32
-  verse_text: 'And take with you your sheep, and your oxen: bless me also, I pray
-    you.'
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: 'And take with you your sheep, and your oxen: bless me also, I pray you.'
+  usfm_code: EXO
+  verse: '32'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 33
-  verse_text: And the Egyptians constrained the people, so that they cast them out
-    of the land with haste, for they said, We all shall die.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And the Egyptians constrained the people, so that they cast them out of the
+    land with haste, for they said, We all shall die.
+  usfm_code: EXO
+  verse: '33'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 34
-  verse_text: And the people took their dough before their meal was leavened, bound
-    up as it was in their garments, on their shoulders.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And the people took their dough before their meal was leavened, bound up as
+    it was in their garments, on their shoulders.
+  usfm_code: EXO
+  verse: '34'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 35
-  verse_text: And the children of Israel did as Moses commanded them, and they asked
-    of the Egyptians articles of silver and gold and apparel.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And the children of Israel did as Moses commanded them, and they asked of
+    the Egyptians articles of silver and gold and apparel.
+  usfm_code: EXO
+  verse: '35'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 36
-  verse_text: And the Lord gave his people favour in the sight of the Egyptians, and
-    they lent to them; and they spoiled the Egyptians.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And the Lord gave his people favour in the sight of the Egyptians, and they
+    lent to them; and they spoiled the Egyptians.
+  usfm_code: EXO
+  verse: '36'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 37
-  verse_text: And the children of Israel departed from Ramesses to Socchoth, to the
-    full number of six hundred thousand footmen, even men, besides the baggage.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And the children of Israel departed from Ramesses to Socchoth, to the full
+    number of six hundred thousand footmen, even men, besides the baggage.
+  usfm_code: EXO
+  verse: '37'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 38
-  verse_text: And a great mixed company went up with them, and sheep and oxen and
-    very much cattle.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And a great mixed company went up with them, and sheep and oxen and very much
+    cattle.
+  usfm_code: EXO
+  verse: '38'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 39
-  verse_text: And they baked the dough which they brought out of Egypt, unleavened
-    cakes, for it had not been leavened; for the Egyptians cast them out, and they
-    could not remain, neither did they prepare provision for themselves for the journey.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And they baked the dough which they brought out of Egypt, unleavened cakes,
+    for it had not been leavened; for the Egyptians cast them out, and they could
+    not remain, neither did they prepare provision for themselves for the journey.
+  usfm_code: EXO
+  verse: '39'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 40
-  verse_text: And the sojourning of the children of Israel, while they sojourned in
-    the land of Egypt and the land of Chanaan, was four hundred and thirty years.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And the sojourning of the children of Israel, while they sojourned in the
+    land of Egypt and the land of Chanaan, was four hundred and thirty years.
+  usfm_code: EXO
+  verse: '40'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 41
-  verse_text: And it came to pass after the four hundred and thirty years, all the
-    forces of the Lord came forth out of the land of Egypt by night.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And it came to pass after the four hundred and thirty years, all the forces
+    of the Lord came forth out of the land of Egypt by night.
+  usfm_code: EXO
+  verse: '41'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 42
-  verse_text: It is a watch kept to the Lord, so that he should bring them out of
-    the land of Egypt; that very night is a watch kept to the Lord, so that it should
-    be to all the children of Israel to their generations.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: It is a watch kept to the Lord, so that he should bring them out of the land
+    of Egypt; that very night is a watch kept to the Lord, so that it should be to
+    all the children of Israel to their generations.
+  usfm_code: EXO
+  verse: '42'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 43
-  verse_text: 'And the Lord said to Moses and Aaron, This is the law of the passover:
-    no stranger shall eat of it.'
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: 'And the Lord said to Moses and Aaron, This is the law of the passover: no
+    stranger shall eat of it.'
+  usfm_code: EXO
+  verse: '43'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 44
-  verse_text: And every slave or servant bought with money—him thou shalt circumcise,
-    and then shall he eat of it.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And every slave or servant bought with money—him thou shalt circumcise, and
+    then shall he eat of it.
+  usfm_code: EXO
+  verse: '44'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 45
-  verse_text: A sojourner or hireling shall not eat of it.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: A sojourner or hireling shall not eat of it.
+  usfm_code: EXO
+  verse: '45'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 46
-  verse_text: In one house shall it be eaten, and ye shall not carry of the flesh
-    out from the house; and a bone of it ye shall not break.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: In one house shall it be eaten, and ye shall not carry of the flesh out from
+    the house; and a bone of it ye shall not break.
+  usfm_code: EXO
+  verse: '46'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 47
-  verse_text: All the congregation of the children of Israel shall keep it.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: All the congregation of the children of Israel shall keep it.
+  usfm_code: EXO
+  verse: '47'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 48
-  verse_text: And if any proselyte shall come to you to keep the passover to the Lord,
-    thou shalt circumcise every male of him, and then shall he approach to sacrifice
-    it, and he shall be even as the original inhabitant of the land; no uncircumcised
+  text: And if any proselyte shall come to you to keep the passover to the Lord, thou
+    shalt circumcise every male of him, and then shall he approach to sacrifice it,
+    and he shall be even as the original inhabitant of the land; no uncircumcised
     person shall eat of it.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  usfm_code: EXO
+  verse: '48'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 49
-  verse_text: There shall be one law to the native, and to the proselyte coming among
-    you.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: There shall be one law to the native, and to the proselyte coming among you.
+  usfm_code: EXO
+  verse: '49'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 50
-  verse_text: And the children of Israel did as the Lord commanded Moses and Aaron
-    for them, so they did.
-- book_title: Brenton Septuagint Translation Exodus 12
-  book_usfm_code: EXO
-  chapter_number: 12
+  text: And the children of Israel did as the Lord commanded Moses and Aaron for them,
+    so they did.
+  usfm_code: EXO
+  verse: '50'
+- book: Brenton Septuagint Translation Exodus 12
+  chapter: 12
   iso-639-2_language_code: eng
-  verse_number: 51
-  verse_text: And it came to pass in that day that the Lord brought out the children
-    of Israel from the land of Egypt with their forces.
+  text: And it came to pass in that day that the Lord brought out the children of
+    Israel from the land of Egypt with their forces.
+  usfm_code: EXO
+  verse: '51'

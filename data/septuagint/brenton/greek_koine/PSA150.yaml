@@ -1,37 +1,37 @@
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 150
-  book_usfm_code: PSA
-  chapter_number: 150
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 150
+  chapter: 150
   iso-639-2_language_code: grc
-  verse_number: 1
-  verse_text: Ἁλληλούϊα.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 150
-  book_usfm_code: PSA
-  chapter_number: 150
+  text: Ἁλληλούϊα.
+  usfm_code: PSA
+  verse: '1'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 150
+  chapter: 150
   iso-639-2_language_code: grc
-  verse_number: 2
-  verse_text: Αἰνεῖτε αὐτὸν ἐπὶ ταῖς δυναστείαις αὐτοῦ, αἰνεῖτε αὐτὸν κατὰ τὸ πλῆθος
-    τῆς μεγαλωσύνης αὐτοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 150
-  book_usfm_code: PSA
-  chapter_number: 150
+  text: Αἰνεῖτε αὐτὸν ἐπὶ ταῖς δυναστείαις αὐτοῦ, αἰνεῖτε αὐτὸν κατὰ τὸ πλῆθος τῆς
+    μεγαλωσύνης αὐτοῦ.
+  usfm_code: PSA
+  verse: '2'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 150
+  chapter: 150
   iso-639-2_language_code: grc
-  verse_number: 3
-  verse_text: Αἰνεῖτε αὐτὸν ἐν ἤχῳ σάλπιγγος, αἰνεῖτε αὐτὸν ἐν ψαλτηρίῳ καὶ κιθάρᾳ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 150
-  book_usfm_code: PSA
-  chapter_number: 150
+  text: Αἰνεῖτε αὐτὸν ἐν ἤχῳ σάλπιγγος, αἰνεῖτε αὐτὸν ἐν ψαλτηρίῳ καὶ κιθάρᾳ.
+  usfm_code: PSA
+  verse: '3'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 150
+  chapter: 150
   iso-639-2_language_code: grc
-  verse_number: 4
-  verse_text: Αἰνεῖτε αὐτὸν ἐν τυμπάνῳ καὶ χορῷ, αἰνεῖτε αὐτὸν ἐν χορδαῖς καὶ ὀργάνῳ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 150
-  book_usfm_code: PSA
-  chapter_number: 150
+  text: Αἰνεῖτε αὐτὸν ἐν τυμπάνῳ καὶ χορῷ, αἰνεῖτε αὐτὸν ἐν χορδαῖς καὶ ὀργάνῳ.
+  usfm_code: PSA
+  verse: '4'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 150
+  chapter: 150
   iso-639-2_language_code: grc
-  verse_number: 5
-  verse_text: Αἰνεῖτε αὐτὸν ἐν κυμβάλοις εὐήχοις, αἰνεῖτε αὐτὸν ἐν κυμβάλοις ἀλαλαγμοῦ.
-- book_title: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 150
-  book_usfm_code: PSA
-  chapter_number: 150
+  text: Αἰνεῖτε αὐτὸν ἐν κυμβάλοις εὐήχοις, αἰνεῖτε αὐτὸν ἐν κυμβάλοις ἀλαλαγμοῦ.
+  usfm_code: PSA
+  verse: '5'
+- book: μετάφραση των εβδομήκοντα ΨΑΛΜΟΙ 150
+  chapter: 150
   iso-639-2_language_code: grc
-  verse_number: 6
-  verse_text: Πᾶσα πνοὴ αἰνεσάτω τὸν Κύριον.
+  text: Πᾶσα πνοὴ αἰνεσάτω τὸν Κύριον.
+  usfm_code: PSA
+  verse: '6'

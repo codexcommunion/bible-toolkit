@@ -1,65 +1,64 @@
-- book_title: Brenton Septuagint Translation Psalms 19
-  book_usfm_code: PSA
-  chapter_number: 19
+- book: Brenton Septuagint Translation Psalms 19
+  chapter: 19
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: For the end, a Psalm of David.
-- book_title: Brenton Septuagint Translation Psalms 19
-  book_usfm_code: PSA
-  chapter_number: 19
+  text: For the end, a Psalm of David.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 19
+  chapter: 19
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: The Lord hear thee in the day of trouble; the name of the God of Jacob
-    defend thee.
-- book_title: Brenton Septuagint Translation Psalms 19
-  book_usfm_code: PSA
-  chapter_number: 19
+  text: The Lord hear thee in the day of trouble; the name of the God of Jacob defend
+    thee.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 19
+  chapter: 19
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: Send thee help from the sanctuary, and aid thee out of Sion.
-- book_title: Brenton Septuagint Translation Psalms 19
-  book_usfm_code: PSA
-  chapter_number: 19
+  text: Send thee help from the sanctuary, and aid thee out of Sion.
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 19
+  chapter: 19
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: Remember all thy sacrifice, and enrich thy whole-burnt-offering. Pause.
-- book_title: Brenton Septuagint Translation Psalms 19
-  book_usfm_code: PSA
-  chapter_number: 19
+  text: Remember all thy sacrifice, and enrich thy whole-burnt-offering. Pause.
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 19
+  chapter: 19
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: Grant thee according to thy heart, and fulfil all thy desire.
-- book_title: Brenton Septuagint Translation Psalms 19
-  book_usfm_code: PSA
-  chapter_number: 19
+  text: Grant thee according to thy heart, and fulfil all thy desire.
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 19
+  chapter: 19
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: 'We will exult in thy salvation, and in the name of our God shall we
-    be magnified: the Lord fulfil all thy petitions.'
-- book_title: Brenton Septuagint Translation Psalms 19
-  book_usfm_code: PSA
-  chapter_number: 19
+  text: 'We will exult in thy salvation, and in the name of our God shall we be magnified:
+    the Lord fulfil all thy petitions.'
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 19
+  chapter: 19
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: 'Now I know that the Lord has saved his Christ: he shall hear him from
-    his holy heaven: the salvation of his right hand is mighty.'
-- book_title: Brenton Septuagint Translation Psalms 19
-  book_usfm_code: PSA
-  chapter_number: 19
+  text: 'Now I know that the Lord has saved his Christ: he shall hear him from his
+    holy heaven: the salvation of his right hand is mighty.'
+  usfm_code: PSA
+  verse: '7'
+- book: Brenton Septuagint Translation Psalms 19
+  chapter: 19
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: 'Some glory in chariots, and some in horses: but we will glory in the
-    name of the Lord our God.'
-- book_title: Brenton Septuagint Translation Psalms 19
-  book_usfm_code: PSA
-  chapter_number: 19
+  text: 'Some glory in chariots, and some in horses: but we will glory in the name
+    of the Lord our God.'
+  usfm_code: PSA
+  verse: '8'
+- book: Brenton Septuagint Translation Psalms 19
+  chapter: 19
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: 'They are overthrown and fallen: but we are risen, and have been set
-    upright.'
-- book_title: Brenton Septuagint Translation Psalms 19
-  book_usfm_code: PSA
-  chapter_number: 19
+  text: 'They are overthrown and fallen: but we are risen, and have been set upright.'
+  usfm_code: PSA
+  verse: '9'
+- book: Brenton Septuagint Translation Psalms 19
+  chapter: 19
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: 'O Lord, save the king: and hear us in whatever day we call upon thee.'
+  text: 'O Lord, save the king: and hear us in whatever day we call upon thee.'
+  usfm_code: PSA
+  verse: '10'

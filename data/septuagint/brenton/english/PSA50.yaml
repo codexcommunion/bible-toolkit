@@ -1,142 +1,136 @@
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: For the end, a Psalm of David,
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: For the end, a Psalm of David,
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: when Nathan the prophet came to him, when he had gone in to Bersabee.
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: when Nathan the prophet came to him, when he had gone in to Bersabee.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: Have mercy upon me, O God, according to thy great mercy; and according
-    to the multitude of thy compassions blot out my transgression.
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Have mercy upon me, O God, according to thy great mercy; and according to
+    the multitude of thy compassions blot out my transgression.
+  usfm_code: PSA
+  verse: '3'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 4
-  verse_text: Wash me thoroughly from mine iniquity, and cleanse me from my sin.
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Wash me thoroughly from mine iniquity, and cleanse me from my sin.
+  usfm_code: PSA
+  verse: '4'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 5
-  verse_text: For I am conscious of mine iniquity; and my sin is continually before
+  text: For I am conscious of mine iniquity; and my sin is continually before me.
+  usfm_code: PSA
+  verse: '5'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
+  iso-639-2_language_code: eng
+  text: 'Against thee only have I sinned, and done evil before thee: that thou mightest
+    be justified in thy sayings, and mightest overcome when thou art judged.'
+  usfm_code: PSA
+  verse: '6'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
+  iso-639-2_language_code: eng
+  text: For, behold, I was conceived in iniquities, and in sins did my mother conceive
     me.
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  usfm_code: PSA
+  verse: '7'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 6
-  verse_text: 'Against thee only have I sinned, and done evil before thee: that thou
-    mightest be justified in thy sayings, and mightest overcome when thou art judged.'
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: 'For, behold, thou lovest truth: thou hast manifested to me the secret and
+    hidden things of thy wisdom.'
+  usfm_code: PSA
+  verse: '8'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 7
-  verse_text: For, behold, I was conceived in iniquities, and in sins did my mother
-    conceive me.
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: 'Thou shalt sprinkle me with hyssop, and I shall be purified: thou shalt wash
+    me, and I shall be made whiter than snow.'
+  usfm_code: PSA
+  verse: '9'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 8
-  verse_text: 'For, behold, thou lovest truth: thou hast manifested to me the secret
-    and hidden things of thy wisdom.'
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: 'Thou shalt cause me to hear gladness and joy: the afflicted bones shall rejoice.'
+  usfm_code: PSA
+  verse: '10'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 9
-  verse_text: 'Thou shalt sprinkle me with hyssop, and I shall be purified: thou shalt
-    wash me, and I shall be made whiter than snow.'
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Turn away thy face from my sins, and blot out all mine iniquities.
+  usfm_code: PSA
+  verse: '11'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 10
-  verse_text: 'Thou shalt cause me to hear gladness and joy: the afflicted bones shall
-    rejoice.'
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Create in me a clean heart, O God; and renew a right spirit in my inward parts.
+  usfm_code: PSA
+  verse: '12'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 11
-  verse_text: Turn away thy face from my sins, and blot out all mine iniquities.
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Cast me not away from thy presence; and remove not thy Holy Spirit from me.
+  usfm_code: PSA
+  verse: '13'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 12
-  verse_text: Create in me a clean heart, O God; and renew a right spirit in my inward
-    parts.
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: 'Restore to me the joy of thy salvation: establish me with thy directing Spirit.'
+  usfm_code: PSA
+  verse: '14'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 13
-  verse_text: Cast me not away from thy presence; and remove not thy Holy Spirit from
-    me.
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Then will I teach transgressors thy ways; and ungodly men shall turn to thee.
+  usfm_code: PSA
+  verse: '15'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 14
-  verse_text: 'Restore to me the joy of thy salvation: establish me with thy directing
-    Spirit.'
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: 'Deliver me from blood-guiltiness, O God, the God of my salvation: and my
+    tongue shall joyfully declare thy righteousness.'
+  usfm_code: PSA
+  verse: '16'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 15
-  verse_text: Then will I teach transgressors thy ways; and ungodly men shall turn
-    to thee.
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: O Lord, thou shalt open my lips; and my mouth shall declare thy praise.
+  usfm_code: PSA
+  verse: '17'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 16
-  verse_text: 'Deliver me from blood-guiltiness, O God, the God of my salvation: and
-    my tongue shall joyfully declare thy righteousness.'
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: 'For if thou desiredst sacrifice, I would have given it : thou wilt not take
+    pleasure in whole-burnt-offerings.'
+  usfm_code: PSA
+  verse: '18'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 17
-  verse_text: O Lord, thou shalt open my lips; and my mouth shall declare thy praise.
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: 'Sacrifice to God is a broken spirit: a broken and humbled heart God will
+    not despise.'
+  usfm_code: PSA
+  verse: '19'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 18
-  verse_text: 'For if thou desiredst sacrifice, I would have given it : thou wilt
-    not take pleasure in whole-burnt-offerings.'
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
+  text: Do good, O Lord, to Sion in thy good pleasure; and let the walls of Jerusalem
+    be built.
+  usfm_code: PSA
+  verse: '20'
+- book: Brenton Septuagint Translation Psalms 50
+  chapter: 50
   iso-639-2_language_code: eng
-  verse_number: 19
-  verse_text: 'Sacrifice to God is a broken spirit: a broken and humbled heart God
-    will not despise.'
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
-  iso-639-2_language_code: eng
-  verse_number: 20
-  verse_text: Do good, O Lord, to Sion in thy good pleasure; and let the walls of
-    Jerusalem be built.
-- book_title: Brenton Septuagint Translation Psalms 50
-  book_usfm_code: PSA
-  chapter_number: 50
-  iso-639-2_language_code: eng
-  verse_number: 21
-  verse_text: 'Then shalt thou be pleased with a sacrifice of righteousness, offering,
-    and whole-burnt-sacrifices: then shall they offer calves upon thine altar.'
+  text: 'Then shalt thou be pleased with a sacrifice of righteousness, offering, and
+    whole-burnt-sacrifices: then shall they offer calves upon thine altar.'
+  usfm_code: PSA
+  verse: '21'

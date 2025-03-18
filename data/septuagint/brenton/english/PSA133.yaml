@@ -1,18 +1,18 @@
-- book_title: Brenton Septuagint Translation Psalms 133
-  book_usfm_code: PSA
-  chapter_number: 133
+- book: Brenton Septuagint Translation Psalms 133
+  chapter: 133
   iso-639-2_language_code: eng
-  verse_number: 1
-  verse_text: A Song of Degrees.
-- book_title: Brenton Septuagint Translation Psalms 133
-  book_usfm_code: PSA
-  chapter_number: 133
+  text: A Song of Degrees.
+  usfm_code: PSA
+  verse: '1'
+- book: Brenton Septuagint Translation Psalms 133
+  chapter: 133
   iso-639-2_language_code: eng
-  verse_number: 2
-  verse_text: Lift up your hands by night in the sanctuaries, and bless the Lord.
-- book_title: Brenton Septuagint Translation Psalms 133
-  book_usfm_code: PSA
-  chapter_number: 133
+  text: Lift up your hands by night in the sanctuaries, and bless the Lord.
+  usfm_code: PSA
+  verse: '2'
+- book: Brenton Septuagint Translation Psalms 133
+  chapter: 133
   iso-639-2_language_code: eng
-  verse_number: 3
-  verse_text: May the Lord, who made heaven and earth, bless thee out of Sion.
+  text: May the Lord, who made heaven and earth, bless thee out of Sion.
+  usfm_code: PSA
+  verse: '3'
