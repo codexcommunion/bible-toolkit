@@ -25,9 +25,21 @@ def normalize_book_name(book):
     }
     return book_replacements.get(book, book)
 
+def clean_text(text):
+    """ Fix character encoding issues """
+    try:
+        return text.encode("latin1").decode("utf-8")
+    except UnicodeEncodeError:
+        return text  # If no encoding issue, return as is
+
+def load_json_safely(json_file_path):
+    """ Read JSON while handling encoding issues """
+    with open(json_file_path, "r", encoding="latin1") as file:
+        raw_text = file.read()
+    return json.loads(raw_text.encode("utf-8").decode("utf-8"))
+
 def process_bible_file(json_file_path, output_directory, usfm_codes, language_code):
-    with open(json_file_path, "r", encoding="utf-8") as file:
-        bible_data = json.load(file)
+    bible_data = load_json_safely(json_file_path)
     
     index_json_data = []
     index_yaml_data = []
@@ -87,7 +99,7 @@ def process_bible_file(json_file_path, output_directory, usfm_codes, language_co
                     "book_usfm_code": usfm_code,
                     "chapter_number": chapter_num,
                     "verse_number": verse_number,
-                    "verse_text": verse_text,
+                    "verse_text": clean_text(verse_text),
                     "iso-639-2_language_code": language_code,
                 }
                 chapter_data.append(verse_data)
